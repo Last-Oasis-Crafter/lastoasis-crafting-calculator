@@ -1,27 +1,27 @@
 [
   {
     "name": "Aloe",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Animal Fat",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Apple",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Ash",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Beeswax",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Bone Glue",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": {
       "ingredients": {
         "bone_splinter": 3,
@@ -38,23 +38,23 @@
   },
   {
     "name": "Bone Splinter",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Blood Turnip",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Cactus Flesh",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Cattail",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Ceramic Shard",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": {
       "ingredients": {
         "clay": 1
@@ -71,63 +71,63 @@
   },
   {
     "name": "Charcoal",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Chitin Plate",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Clay",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Contaminated Water",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Corn",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Cotton",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Earth Wax",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Feather",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Fiber",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Fiber Weave",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Glass Vial",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Hide",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Huge Cactus Fruit",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Insects",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Iron Ingot",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": {
       "ingredients": {
         "iron_ore": 1
@@ -143,19 +143,19 @@
   },
   {
     "name": "Iron Ore",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Mushroom Flesh",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Nibiran Mineral",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Nomad Cloth",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": [
       {
         "ingredients": {
@@ -187,27 +187,27 @@
   },
   {
     "name": "Obsidian",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Palm Leaves",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Pearl",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Red Banana",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Redwood Wood",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Rope",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": [
       {
         "ingredients": {
@@ -238,35 +238,35 @@
   },
   {
     "name": "Rupu Pelt",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Rupu Gel",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Rupu Vine",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Salt Rock",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Sand",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Stone",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Sulfur",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Tar",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": {
       "ingredients": {
         "earth_wax": 1
@@ -282,11 +282,11 @@
   },
   {
     "name": "Thornberry",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Purified Water",
-    "category": "material/crafted",
+    "category": "materials/crafted",
     "crafting": [
       {
         "ingredients": {
@@ -377,15 +377,15 @@
   },
   {
     "name": "Wood",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Wood Shaft",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Worm Silk",
-    "category": "material/gathered"
+    "category": "materials/gathered"
   },
   {
     "name": "Vision Powder",
