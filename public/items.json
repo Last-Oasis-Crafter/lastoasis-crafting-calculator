@@ -553,5 +553,556 @@
         }
       }
     ]
+  },
+  {
+    "name": "Fiber Headwrap",
+    "category": "items/armors/fiber armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber": 12
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "fiber headwrap",
+          "uses": "fragments",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fiber Shirt and Trousers",
+    "category": "items/armors/fiber armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber_weave": 2
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "fiber shirt and trousers",
+          "uses": "fragments",
+          "cost": 6
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fiber Arm Wraps",
+    "category": "items/armors/fiber armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber": 3,
+          "cattail": 12
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "fiber arm wraps",
+          "uses": "fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fiber Sandals",
+    "category": "items/armors/fiber armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber": 6,
+          "hide": 2
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "fiber sandals",
+          "uses": "fragments",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Baskwood Armor",
+    "category": "items/armors/baskwood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber_weave": 10,
+          "bone_splinter": 28,
+          "earth_wax": 4
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "baskwood armor",
+          "uses": "fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Baskwood Bracers",
+    "category": "items/armors/baskwood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 10,
+          "fiber": 36,
+          "rupu_gel": 3,
+          "earth_wax": 3
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "baskwood bracers",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Baskwood Boots",
+    "category": "items/armors/baskwood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 14,
+          "rupu_gel": 4,
+          "fiber": 55,
+          "earth_wax": 4
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "baskwood boots",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carapace Armor",
+    "category": "items/armors/carapace armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 8,
+          "chitin_plate": 30,
+          "nomad_cloth": 12,
+          "cattail": 48
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "carapace armor",
+          "uses": "tablets",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carapace Gauntlets",
+    "category": "items/armors/carapace armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 4,
+          "chitin_plate": 20,
+          "nomad_cloth": 4,
+          "cattail": 28
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "carapace gauntlets",
+          "uses": "fragments",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carapace Boots",
+    "category": "items/armors/carapace armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 4,
+          "chitin_plate": 24,
+          "nomad_cloth": 5,
+          "cattail": 35
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "carapace boots",
+          "uses": "tablets",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Forester's Armor",
+    "category": "items/armors/forester's armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 1,
+          "cattail": 24,
+          "fiber": 35
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "forester's armor",
+          "uses": "fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Forester's Sleeves",
+    "category": "items/armors/forester's armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 1,
+          "cattail": 20,
+          "fiber": 15
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "forester's sleeves",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Forester's Sandals",
+    "category": "items/armors/forester's armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "bone_glue": 1,
+          "cattail": 18,
+          "fiber": 25
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "forester's sandals",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Brittle Bone Armor",
+    "category": "items/armors/forester's armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "chitin_plate": 8,
+          "forester's_armor": "1"
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "brittle bone armor",
+          "uses": "fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Iron Studded Armor",
+    "category": "items/armors/iron studded armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 35,
+          "insects": 15,
+          "iron_ingot": 5,
+          "nomad_cloth": 10
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "iron studded armor",
+          "uses": "tablets",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Iron Studded Gauntlets",
+    "category": "items/armors/iron studded armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 10,
+          "insects": 7,
+          "iron_ingot": 2,
+          "nomad_cloth": 5
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "iron studded gauntlets",
+          "uses": "tablets",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Iron Studded Boots",
+    "category": "items/armors/iron studded armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 14,
+          "insects": 10,
+          "iron_ingot": 2,
+          "nomad_cloth": 14
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "iron studded boots",
+          "uses": "tablets",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Redwood Wood Armor",
+    "category": "items/armors/redwood wood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "nomad_cloth": 15,
+          "redwood_wood": 4,
+          "fiber": 150,
+          "worm_silk": 38
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "redwood wood armor",
+          "uses": "tablets",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Redwood Wood Bracers",
+    "category": "items/armors/redwood wood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "nomad_cloth": 8,
+          "redwood_wood": 3,
+          "fiber": 112,
+          "worm_silk": 20
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "redwood wood bracers",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Redwood Wood Boots",
+    "category": "items/armors/redwood wood armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "nomad_cloth": 12,
+          "redwood_wood": 3,
+          "fiber": 120,
+          "worm_silk": 28
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "redwood wood armor",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rupu Fur Armor",
+    "category": "items/armors/rupu fur armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 8,
+          "rope": 2
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "rupu fur armor",
+          "uses": "fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rupu Fur Sleeves",
+    "category": "items/armors/rupu fur armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "fiber_weave": 2,
+          "rupu_vine": 6
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "rupu fur sleeves",
+          "uses": "fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rupu Fur Sandals",
+    "category": "items/armors/rupu fur armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rupu_pelt": 2,
+          "palm_leaves": 8
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "rupu fur sandals",
+          "uses": "fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cloaked Rupu Fur Armor",
+    "category": "items/armors/rupu fur armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "nomad_cloth": 1,
+          "rope": 1,
+          "rupu_fur_armor": 1
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "cloaked rupu fur armor",
+          "uses": "fragments",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Triple Stitch Armor",
+    "category": "items/armors/triple stitch armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "rope": 8,
+          "nomad_cloth": 8
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "triple stitch armor",
+          "uses": "fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Triple Stitch Bracers",
+    "category": "items/armors/triple stitch armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "pearl": 6,
+          "cotton": 14,
+          "rupu_vine": 12
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "triple stitch bracers",
+          "uses": "tablets",
+          "cost": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Triple Stitch Boots",
+    "category": "items/armors/triple stitch armor",
+    "crafting": [
+      {
+        "ingredients": {
+          "pearl": 4,
+          "hide": 14,
+          "cotton": 25
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "triple stitch armor",
+          "uses": "tablets",
+          "cost": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cloak",
+    "category": "items/armors/cloak",
+    "crafting": [
+      {
+        "ingredients": {
+          "nomad_cloth": 6,
+          "cattail": 30,
+          "fiber": 92,
+          "worm_silk": 18
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "cloak",
+          "uses": "tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Feather Boots",
+    "category": "items/armors/feather boots",
+    "crafting": [
+      {
+        "ingredients": {
+          "worm_silk": 2,
+          "rope": 2
+        },
+        "unlock": {
+          "tree": "equipment",
+          "node": "feather boots",
+          "uses": "tablets",
+          "cost": 25
+        }
+      }
+    ]
   }
 ]
