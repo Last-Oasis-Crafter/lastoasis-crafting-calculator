@@ -389,7 +389,7 @@
   },
   {
     "name": "Vision Powder",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "huge_cactus_fruit": 3,
@@ -406,7 +406,7 @@
   },
   {
     "name": "Sinus Destroyer",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "purified_water": 18,
@@ -425,7 +425,7 @@
   },
   {
     "name": "Rupu Repellent",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "purified_water": 20,
@@ -444,7 +444,7 @@
   },
   {
     "name": "Race Dust",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "purified_water": 22,
@@ -463,7 +463,7 @@
   },
   {
     "name": "Jojo Mojo",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "mushroom_flesh": 14,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Fury Fumes",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "purified_water": 12,
@@ -499,7 +499,7 @@
   },
   {
     "name": "Desert Mule",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "aloe": 15,
@@ -516,7 +516,7 @@
   },
   {
     "name": "Bonebreaker",
-    "category": "vitamin",
+    "category": "items/vitamins",
     "crafting": {
       "ingredients": {
         "sulfur": 30,
