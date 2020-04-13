@@ -1,0 +1,535 @@
+[
+  {
+    "name": "Aloe",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Animal Fat",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Apple",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Ash",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Beeswax",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Bone Glue",
+    "category": "material/crafted",
+    "crafting": {
+      "ingredients": {
+        "bone_splinter": 3,
+        "purified_water": 10
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "crafting",
+        "node": "bone glue",
+        "uses": "fragments",
+        "cost": 25
+      }
+    }
+  },
+  {
+    "name": "Bone Splinter",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Blood Turnip",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Cactus Flesh",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Cattail",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Ceramic Shard",
+    "category": "material/crafted",
+    "crafting": {
+      "ingredients": {
+        "clay": 1
+      },
+      "output": 0.77,
+      "station": "furnace",
+      "unlock": {
+        "tree": "crafting",
+        "node": "furnace",
+        "uses": "tablets",
+        "cost": 3
+      }
+    }
+  },
+  {
+    "name": "Charcoal",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Chitin Plate",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Clay",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Contaminated Water",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Corn",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Cotton",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Earth Wax",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Feather",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Fiber",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Fiber Weave",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Glass Vial",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Hide",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Huge Cactus Fruit",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Insects",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Iron Ingot",
+    "category": "material/crafted",
+    "crafting": {
+      "ingredients": {
+        "iron_ore": 1
+      },
+      "station": "advanced furnace",
+      "unlock": {
+        "tree": "crafting",
+        "node": "advanced furnace",
+        "uses": "tablets",
+        "cost": 25
+      }
+    }
+  },
+  {
+    "name": "Iron Ore",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Mushroom Flesh",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Nibiran Mineral",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Nomad Cloth",
+    "category": "material/crafted",
+    "crafting": [
+      {
+        "ingredients": {
+          "cattail": 50,
+          "bone_glue": 1
+        },
+        "station": "advanced fiberworking station",
+        "unlock": {
+          "tree": "crafting",
+          "node": "nomad cloth",
+          "uses": "fragments",
+          "cost": 8
+        }
+      },
+      {
+        "ingredients": {
+          "cotton": 18,
+          "earth_wax": 12
+        },
+        "station": "advanced fiberworking station",
+        "unlock": {
+          "tree": "crafting",
+          "node": "nomad cloth",
+          "uses": "fragments",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Palm Leaves",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Pearl",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Red Banana",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Redwood Wood",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Rope",
+    "category": "material/crafted",
+    "crafting": [
+      {
+        "ingredients": {
+          "cattail": 8
+        },
+        "station": "fiberworking station",
+        "unlock": {
+          "tree": "crafting",
+          "node": "rope",
+          "uses": "fragments",
+          "cost": 8
+        }
+      },
+      {
+        "ingredients": {
+          "fiber": 40,
+          "rupu_vine": 2
+        },
+        "station": "fiberworking station",
+        "unlock": {
+          "tree": "crafting",
+          "node": "rope",
+          "uses": "fragments",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rupu Pelt",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Rupu Gel",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Rupu Vine",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Salt Rock",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Sand",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Stone",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Sulfur",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Tar",
+    "category": "material/crafted",
+    "crafting": {
+      "ingredients": {
+        "earth_wax": 1
+      },
+      "station": "furnace",
+      "unlock": {
+        "tree": "crafting",
+        "node": "furnace",
+        "uses": "tablets",
+        "cost": 3
+      }
+    }
+  },
+  {
+    "name": "Thornberry",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Purified Water",
+    "category": "material/crafted",
+    "crafting": [
+      {
+        "ingredients": {
+          "cactus_flesh": 4
+        },
+        "station": "camp fire"
+      },
+      {
+        "ingredients": {
+          "aloe_vera": 1
+        },
+        "station": "camp fire",
+        "unlock": {
+          "tree": "crafting",
+          "node": "purified water",
+          "uses": "fragments",
+          "cost": 10
+        }
+      },
+      {
+        "ingredients": {
+          "contaminated_water": 20,
+          "sand": 15
+        },
+        "station": "camp fire",
+        "unlock": {
+          "tree": "crafting",
+          "node": "purified water",
+          "uses": "fragments",
+          "cost": 10
+        }
+      },
+      {
+        "ingredients": {
+          "contaminated_water": 5
+        },
+        "station": "camp fire",
+        "unlock": {
+          "tree": "crafting",
+          "node": "purified water",
+          "uses": "fragments",
+          "cost": 10
+        }
+      },
+      {
+        "ingredients": {
+          "apple": 1
+        },
+        "output": 15,
+        "station": "stomping station"
+      },
+      {
+        "ingredients": {
+          "corn": 1
+        },
+        "output": 2,
+        "station": "stomping station"
+      },
+      {
+        "ingredients": {
+          "blood_turnip": 1
+        },
+        "output": 10,
+        "station": "stomping station"
+      },
+      {
+        "ingredients": {
+          "cactus_flex": 3
+        },
+        "output": 1,
+        "station": "stomping station"
+      },
+      {
+        "ingredients": {
+          "huge_cactus_fruit": 1
+        },
+        "output": 12,
+        "station": "stomping station"
+      },
+      {
+        "ingredients": {
+          "aloe": 1
+        },
+        "output": 3,
+        "station": "stomping station"
+      }
+    ]
+  },
+  {
+    "name": "Wood",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Wood Shaft",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Worm Silk",
+    "category": "material/gathered"
+  },
+  {
+    "name": "Vision Powder",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "huge_cactus_fruit": 3,
+        "purified_water": 10
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "vision powder",
+        "uses": "fragments",
+        "cost": 6
+      }
+    }
+  },
+  {
+    "name": "Sinus Destroyer",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "purified_water": 18,
+        "blood_turnip": 18,
+        "insects": 20,
+        "glass": 1
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "sinus destroyer",
+        "uses": "tablets",
+        "cost": 3
+      }
+    }
+  },
+  {
+    "name": "Rupu Repellent",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "purified_water": 20,
+        "thornberry": 12,
+        "cattail": 14,
+        "glass": 1
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "rupu repellent",
+        "uses": "tablets",
+        "cost": 1
+      }
+    }
+  },
+  {
+    "name": "Race Dust",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "purified_water": 22,
+        "mushroom_flesh": 75,
+        "beeswax": 2,
+        "glass": 1
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "race dust",
+        "uses": "tablets",
+        "cost": 1
+      }
+    }
+  },
+  {
+    "name": "Jojo Mojo",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "mushroom_flesh": 14,
+        "earth_wax": 4,
+        "glass": 1
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "jojo mojo",
+        "uses": "fragments",
+        "cost": 10
+      }
+    }
+  },
+  {
+    "name": "Fury Fumes",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "purified_water": 12,
+        "rupu_gel": 2,
+        "glass": 1
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "fury fumes",
+        "uses": "fragments",
+        "cost": 35
+      }
+    }
+  },
+  {
+    "name": "Desert Mule",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "aloe": 15,
+        "purified_water": 10
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "desert mule",
+        "uses": "fragments",
+        "cost": 10
+      }
+    }
+  },
+  {
+    "name": "Bonebreaker",
+    "category": "vitamin",
+    "crafting": {
+      "ingredients": {
+        "sulfur": 30,
+        "glass": 1,
+        "ceramic_shard": 15
+      },
+      "station": "camp fire",
+      "unlock": {
+        "tree": "vitamins",
+        "node": "bonebreaker",
+        "uses": "tablets",
+        "cost": 10
+      }
+    }
+  }
+]
