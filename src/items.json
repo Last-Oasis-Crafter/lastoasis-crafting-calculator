@@ -22,7 +22,7 @@
   {
     "name": "Bone Glue",
     "category": "materials/crafted",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "bone_splinter": 3,
         "purified_water": 10
@@ -34,7 +34,7 @@
         "uses": "fragments",
         "cost": 25
       }
-    }
+    }]
   },
   {
     "name": "Bone Splinter",
@@ -55,7 +55,7 @@
   {
     "name": "Ceramic Shard",
     "category": "materials/crafted",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "clay": 1
       },
@@ -67,7 +67,7 @@
         "uses": "tablets",
         "cost": 3
       }
-    }
+    }]
   },
   {
     "name": "Charcoal",
@@ -128,7 +128,7 @@
   {
     "name": "Iron Ingot",
     "category": "materials/crafted",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "iron_ore": 1
       },
@@ -139,7 +139,7 @@
         "uses": "tablets",
         "cost": 25
       }
-    }
+    }]
   },
   {
     "name": "Iron Ore",
@@ -267,7 +267,7 @@
   {
     "name": "Tar",
     "category": "materials/crafted",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "earth_wax": 1
       },
@@ -278,7 +278,7 @@
         "uses": "tablets",
         "cost": 3
       }
-    }
+    }]
   },
   {
     "name": "Thornberry",
@@ -390,7 +390,7 @@
   {
     "name": "Vision Powder",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "huge_cactus_fruit": 3,
         "purified_water": 10
@@ -402,12 +402,12 @@
         "uses": "fragments",
         "cost": 6
       }
-    }
+    }]
   },
   {
     "name": "Sinus Destroyer",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "purified_water": 18,
         "blood_turnip": 18,
@@ -421,12 +421,12 @@
         "uses": "tablets",
         "cost": 3
       }
-    }
+    }]
   },
   {
     "name": "Rupu Repellent",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "purified_water": 20,
         "thornberry": 12,
@@ -440,12 +440,12 @@
         "uses": "tablets",
         "cost": 1
       }
-    }
+    }]
   },
   {
     "name": "Race Dust",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "purified_water": 22,
         "mushroom_flesh": 75,
@@ -459,12 +459,12 @@
         "uses": "tablets",
         "cost": 1
       }
-    }
+    }]
   },
   {
     "name": "Jojo Mojo",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "mushroom_flesh": 14,
         "earth_wax": 4,
@@ -477,12 +477,12 @@
         "uses": "fragments",
         "cost": 10
       }
-    }
+    }]
   },
   {
     "name": "Fury Fumes",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "purified_water": 12,
         "rupu_gel": 2,
@@ -495,12 +495,12 @@
         "uses": "fragments",
         "cost": 35
       }
-    }
+    }]
   },
   {
     "name": "Desert Mule",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "aloe": 15,
         "purified_water": 10
@@ -512,12 +512,12 @@
         "uses": "fragments",
         "cost": 10
       }
-    }
+    }]
   },
   {
     "name": "Bonebreaker",
     "category": "items/vitamins",
-    "crafting": {
+    "crafting": [{
       "ingredients": {
         "sulfur": 30,
         "glass": 1,
@@ -530,6 +530,6 @@
         "uses": "tablets",
         "cost": 10
       }
-    }
+    }]
   }
 ]
