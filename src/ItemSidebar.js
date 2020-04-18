@@ -1,17 +1,43 @@
-import React, { useState, useEffect, useMemo } from 'react'
-import { Sidebar, Segment, List, Icon, Accordion, Dropdown } from 'semantic-ui-react'
-import { items as itemJson, getCategories } from './Items'
+import React, { useState, useEffect } from 'react'
+import { Sidebar, Segment, List, Input } from 'semantic-ui-react'
+import escapeRegExp from 'lodash.escaperegexp'
+import useDebounce from './useDebounce'
+import { items as itemJson } from './Items'
 import Craftable from './Craftable'
 import './ItemSidebar.css'
 
-export default function ItemSidebar({children}) {
-  const [items, setItems] = useState(itemJson)
-  const categoryTree = useMemo(() => getCategories(), [])
+export default function ItemSidebar({children, dispatch}) {
+  //const [items, setItems] = useState(itemJson)
+
+  // Search states
+  const [searchResult, setSearchResult] = useState(itemJson)
+  const [searchValue, setSearchValue] = useState('')
+  const [isSearchLoading, setSearchLoading] = useState(false)
+
+  const debouncedSearchValue = useDebounce(searchValue, 100)
+
+  useEffect(() => {
+    if(searchValue) {
+      setSearchLoading(true)
+
+      const data = itemJson
+      const regExTerms = escapeRegExp(searchValue).split(' ').map(term => new RegExp(term, 'i'))
+      const isMatch = (result) => regExTerms.reduce((prev, term) => prev && term.test(result.name + result.category), true)
+      const results = data.filter(isMatch)
+
+      setSearchLoading(false)
+      setSearchResult(results)
+    } else {
+      setSearchResult(itemJson)
+    }
+  }, [debouncedSearchValue])
 
   return (
   <Sidebar.Pushable
-    as={Segment}
-    style={{height: '100vh'}}
+    style={{
+      height: '100vh',
+      overflowY: 'auto'
+    }}
   >
     <Sidebar
       vertical
@@ -23,40 +49,33 @@ export default function ItemSidebar({children}) {
       icon='labeled'
     >
       <Segment inverted>
-        {categoryDropdown(categoryTree)}
+        <Input
+          fluid
+          icon='search'
+          placeholder='Search...'
+          onChange={e => setSearchValue(e.target.value)}
+          loading={isSearchLoading}
+          />
         <List inverted divided verticalAlign='middle'>
-        {items.map(item => (
-          <Craftable item={item} />
+        {searchResult.map(item => (
+          <Craftable
+            key={item.name}
+            item={item}
+            handle={() => {
+              dispatch({type: 'ADD_ITEM', item: item})
+            }}/>
         ))}
         </List>
       </Segment>
     </Sidebar>
-    <Sidebar.Pusher>
+    <Sidebar.Pusher
+      style={{
+        height: '100%',
+        overflowY: 'auto'
+      }}
+    >
       {children}
     </Sidebar.Pusher>
   </Sidebar.Pushable>
   )
-}
-
-function categoryDropdown(tree) {
-  let children = []
-  const topLevel = tree.model.id === 'categories'
-  const idText = tree.model.id.split(' ')
-    .map(word => word.replace(/^\w/, c => c.toUpperCase()))
-    .join(' ')
-
-  if(tree.hasChildren()) {
-    children = tree.children.map(child => categoryDropdown(child))
-    return (
-      <Dropdown text={idText} pointing='top left' clearable compact className='link item'>
-        <Dropdown.Menu id={topLevel ? 'categoryMenuTop' : 'categoryMenu'}>
-          <Dropdown.Header className='link item'>{topLevel ? 'Clear Filter' : `Show ${idText}`}</Dropdown.Header>
-          <Dropdown.Divider />
-          {children}
-        </Dropdown.Menu>
-      </Dropdown>
-    )
-  } else {
-    return <Dropdown.Item>{idText}</Dropdown.Item>
-  }
 }

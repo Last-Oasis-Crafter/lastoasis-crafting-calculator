@@ -1,0 +1,13 @@
+.countInput {
+  display: inline-block !important;
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+.countInput .input {
+  max-width: 50px !important;
+}
+
+.countInput button {
+  display: none !important;
+}

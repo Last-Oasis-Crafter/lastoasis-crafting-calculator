@@ -24,15 +24,21 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "bone_splinter": 3,
-          "purified_water": 10
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 3
+          },
+          {
+            "name": "Purified Water",
+            "count": 10
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "crafting",
-          "node": "bone glue",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Bone Glue",
+          "uses": "Fragments",
           "cost": 25
         }
       }
@@ -59,15 +65,18 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "clay": 1
-        },
+        "ingredients": [
+          {
+            "name": "Clay",
+            "count": 1
+          }
+        ],
         "output": 0.77,
-        "station": "furnace",
+        "station": "Furnace",
         "unlock": {
-          "tree": "crafting",
-          "node": "furnace",
-          "uses": "tablets",
+          "tree": "Crafting",
+          "node": "Furnace",
+          "uses": "Tablets",
           "cost": 3
         }
       }
@@ -134,14 +143,17 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "iron_ore": 1
-        },
-        "station": "advanced furnace",
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 1
+          }
+        ],
+        "station": "Advanced Furnace",
         "unlock": {
-          "tree": "crafting",
-          "node": "advanced furnace",
-          "uses": "tablets",
+          "tree": "Crafting",
+          "node": "Advanced Furnace",
+          "uses": "Tablets",
           "cost": 25
         }
       }
@@ -164,28 +176,40 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "cattail": 50,
-          "bone_glue": 1
-        },
-        "station": "advanced fiberworking station",
+        "ingredients": [
+          {
+            "name": "Cattail",
+            "count": 50
+          },
+          {
+            "name": "Bone Glue",
+            "count": 1
+          }
+        ],
+        "station": "Advanced Fiberworking Station",
         "unlock": {
-          "tree": "crafting",
-          "node": "nomad cloth",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Nomad Cloth",
+          "uses": "Fragments",
           "cost": 8
         }
       },
       {
-        "ingredients": {
-          "cotton": 18,
-          "earth_wax": 12
-        },
-        "station": "advanced fiberworking station",
+        "ingredients": [
+          {
+            "name": "Cotton",
+            "count": 18
+          },
+          {
+            "name": "Earth Wax",
+            "count": 12
+          }
+        ],
+        "station": "Advanced Fiberworking Station",
         "unlock": {
-          "tree": "crafting",
-          "node": "nomad cloth",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Nomad Cloth",
+          "uses": "Fragments",
           "cost": 8
         }
       }
@@ -216,27 +240,36 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "cattail": 8
-        },
-        "station": "fiberworking station",
+        "ingredients": [
+          {
+            "name": "Cattail",
+            "count": 8
+          }
+        ],
+        "station": "Fiberworking Station",
         "unlock": {
-          "tree": "crafting",
-          "node": "rope",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Rope",
+          "uses": "Fragments",
           "cost": 8
         }
       },
       {
-        "ingredients": {
-          "fiber": 40,
-          "rupu_vine": 2
-        },
-        "station": "fiberworking station",
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 40
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 2
+          }
+        ],
+        "station": "Fiberworking Station",
         "unlock": {
-          "tree": "crafting",
-          "node": "rope",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Rope",
+          "uses": "Fragments",
           "cost": 8
         }
       }
@@ -274,14 +307,17 @@
     "name": "Tar",
     "category": "materials",
     "crafting": {
-      "ingredients": {
-        "earth_wax": 1
-      },
-      "station": "furnace",
+      "ingredients": [
+        {
+          "name": "Earth Wax",
+          "count": 1
+        }
+      ],
+      "station": "Furnace",
       "unlock": {
-        "tree": "crafting",
-        "node": "furnace",
-        "uses": "tablets",
+        "tree": "Crafting",
+        "node": "Furnace",
+        "uses": "Tablets",
         "cost": 3
       }
     }
@@ -295,89 +331,122 @@
     "category": "materials",
     "crafting": [
       {
-        "ingredients": {
-          "cactus_flesh": 4
-        },
-        "station": "camp fire"
+        "ingredients": [
+          {
+            "name": "Cactus Flesh",
+            "count": 4
+          }
+        ],
+        "station": "Camp Fire"
       },
       {
-        "ingredients": {
-          "aloe": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Aloe",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "crafting",
-          "node": "purified water",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Purified Water",
+          "uses": "Fragments",
           "cost": 10
         }
       },
       {
-        "ingredients": {
-          "contaminated_water": 20,
-          "sand": 15
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Contaminated Water",
+            "count": 20
+          },
+          {
+            "name": "Sand",
+            "count": 15
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "crafting",
-          "node": "purified water",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Purified Water",
+          "uses": "Fragments",
           "cost": 10
         }
       },
       {
-        "ingredients": {
-          "contaminated_water": 5
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Contaminated Water",
+            "count": 5
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "crafting",
-          "node": "purified water",
-          "uses": "fragments",
+          "tree": "Crafting",
+          "node": "Purified Water",
+          "uses": "Fragments",
           "cost": 10
         }
       },
       {
-        "ingredients": {
-          "apple": 1
-        },
+        "ingredients": [
+          {
+            "name": "Apple",
+            "count": 1
+          }
+        ],
         "output": 15,
-        "station": "stomping station"
+        "station": "Stomping Station"
       },
       {
-        "ingredients": {
-          "corn": 1
-        },
+        "ingredients": [
+          {
+            "name": "Corn",
+            "count": 1
+          }
+        ],
         "output": 2,
-        "station": "stomping station"
+        "station": "Stomping Station"
       },
       {
-        "ingredients": {
-          "blood_turnip": 1
-        },
+        "ingredients": [
+          {
+            "name": "Blood Turnip",
+            "count": 1
+          }
+        ],
         "output": 10,
-        "station": "stomping station"
+        "station": "Stomping Station"
       },
       {
-        "ingredients": {
-          "cactus_flex": 3
-        },
+        "ingredients": [
+          {
+            "name": "Cactus Flesh",
+            "count": 3
+          }
+        ],
         "output": 1,
-        "station": "stomping station"
+        "station": "Stomping Station"
       },
       {
-        "ingredients": {
-          "huge_cactus_fruit": 1
-        },
+        "ingredients": [
+          {
+            "name": "Huge cactus Fruit",
+            "count": 1
+          }
+        ],
         "output": 12,
-        "station": "stomping station"
+        "station": "Stomping Station"
       },
       {
-        "ingredients": {
-          "aloe": 1
-        },
+        "ingredients": [
+          {
+            "name": "Aloe",
+            "count": 1
+          }
+        ],
         "output": 3,
-        "station": "stomping station"
+        "station": "Stomping Station"
       }
     ]
   },
@@ -398,15 +467,21 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "huge_cactus_fruit": 3,
-          "purified_water": 10
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Huge cactus Fruit",
+            "count": 3
+          },
+          {
+            "name": "Purified Water",
+            "count": 10
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "vision powder",
-          "uses": "fragments",
+          "tree": "Vitamins",
+          "node": "Vision Powder",
+          "uses": "Fragments",
           "cost": 6
         }
       }
@@ -417,17 +492,29 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "purified_water": 18,
-          "blood_turnip": 18,
-          "insects": 20,
-          "glass": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Purified Water",
+            "count": 18
+          },
+          {
+            "name": "Blood Turnip",
+            "count": 18
+          },
+          {
+            "name": "Insects",
+            "count": 20
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "sinus destroyer",
-          "uses": "tablets",
+          "tree": "Vitamins",
+          "node": "Sinus Destroyer",
+          "uses": "Tablets",
           "cost": 3
         }
       }
@@ -438,17 +525,29 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "purified_water": 20,
-          "thornberry": 12,
-          "cattail": 14,
-          "glass": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Purified Water",
+            "count": 20
+          },
+          {
+            "name": "Thornberry",
+            "count": 12
+          },
+          {
+            "name": "Cattail",
+            "count": 14
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "rupu repellent",
-          "uses": "tablets",
+          "tree": "Vitamins",
+          "node": "Rupu Repellent",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -459,17 +558,29 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "purified_water": 22,
-          "mushroom_flesh": 75,
-          "beeswax": 2,
-          "glass": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Purified Water",
+            "count": 22
+          },
+          {
+            "name": "Mushroom Flesh",
+            "count": 75
+          },
+          {
+            "name": "Beeswax",
+            "count": 2
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "race dust",
-          "uses": "tablets",
+          "tree": "Vitamins",
+          "node": "Race Dust",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -480,16 +591,25 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "mushroom_flesh": 14,
-          "earth_wax": 4,
-          "glass": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Mushroom Flesh",
+            "count": 14
+          },
+          {
+            "name": "Earth Wax",
+            "count": 4
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "jojo mojo",
-          "uses": "fragments",
+          "tree": "Vitamins",
+          "node": "Jojo Mojo",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -500,16 +620,25 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "purified_water": 12,
-          "rupu_gel": 2,
-          "glass": 1
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Purified Water",
+            "count": 12
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 2
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "fury fumes",
-          "uses": "fragments",
+          "tree": "Vitamins",
+          "node": "Fury Fumes",
+          "uses": "Fragments",
           "cost": 35
         }
       }
@@ -520,15 +649,21 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "aloe": 15,
-          "purified_water": 10
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Aloe",
+            "count": 15
+          },
+          {
+            "name": "Purified Water",
+            "count": 10
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "desert mule",
-          "uses": "fragments",
+          "tree": "Vitamins",
+          "node": "Desert Mule",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -539,16 +674,25 @@
     "category": "items/vitamins",
     "crafting": [
       {
-        "ingredients": {
-          "sulfur": 30,
-          "glass": 1,
-          "ceramic_shard": 15
-        },
-        "station": "camp fire",
+        "ingredients": [
+          {
+            "name": "Sulfur",
+            "count": 30
+          },
+          {
+            "name": "Glass",
+            "count": 1
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 15
+          }
+        ],
+        "station": "Camp Fire",
         "unlock": {
-          "tree": "vitamins",
-          "node": "bonebreaker",
-          "uses": "tablets",
+          "tree": "Vitamins",
+          "node": "Bonebreaker",
+          "uses": "Tablets",
           "cost": 10
         }
       }
@@ -559,30 +703,36 @@
     "category": "items/armors/fiber armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber": 12
-        },
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 12
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "fiber headwrap",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Fiber Headwrap",
+          "uses": "Fragments",
           "cost": 3
         }
       }
     ]
   },
   {
-    "name": "Fiber Shirt and Trousers",
+    "name": "Fiber Shirt And Trousers",
     "category": "items/armors/fiber armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber_weave": 2
-        },
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 2
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "fiber shirt and trousers",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Fiber Shirt And Trousers",
+          "uses": "Fragments",
           "cost": 6
         }
       }
@@ -593,14 +743,20 @@
     "category": "items/armors/fiber armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber": 3,
-          "cattail": 12
-        },
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 3
+          },
+          {
+            "name": "Cattail",
+            "count": 12
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "fiber arm wraps",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Fiber Arm Wraps",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -611,14 +767,20 @@
     "category": "items/armors/fiber armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber": 6,
-          "hide": 2
-        },
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 6
+          },
+          {
+            "name": "Hide",
+            "count": 2
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "fiber sandals",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Fiber Sandals",
+          "uses": "Fragments",
           "cost": 3
         }
       }
@@ -629,15 +791,24 @@
     "category": "items/armors/baskwood armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber_weave": 10,
-          "bone_splinter": 28,
-          "earth_wax": 4
-        },
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 10
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 28
+          },
+          {
+            "name": "Earth Wax",
+            "count": 4
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "baskwood armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Baskwood Armor",
+          "uses": "Fragments",
           "cost": 35
         }
       }
@@ -648,16 +819,28 @@
     "category": "items/armors/baskwood armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 10,
-          "fiber": 36,
-          "rupu_gel": 3,
-          "earth_wax": 3
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 36
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 3
+          },
+          {
+            "name": "Earth Wax",
+            "count": 3
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "baskwood bracers",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Baskwood Bracers",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -668,16 +851,28 @@
     "category": "items/armors/baskwood armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 14,
-          "rupu_gel": 4,
-          "fiber": 55,
-          "earth_wax": 4
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 14
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 4
+          },
+          {
+            "name": "Fiber",
+            "count": 55
+          },
+          {
+            "name": "Earth Wax",
+            "count": 4
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "baskwood boots",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Baskwood Boots",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -688,16 +883,28 @@
     "category": "items/armors/carapace armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 8,
-          "chitin_plate": 30,
-          "nomad_cloth": 12,
-          "cattail": 48
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 8
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Cattail",
+            "count": 48
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "carapace armor",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Carapace Armor",
+          "uses": "Tablets",
           "cost": 5
         }
       }
@@ -708,16 +915,28 @@
     "category": "items/armors/carapace armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 4,
-          "chitin_plate": 20,
-          "nomad_cloth": 4,
-          "cattail": 28
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 20
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          },
+          {
+            "name": "Cattail",
+            "count": 28
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "carapace gauntlets",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Carapace Gauntlets",
+          "uses": "Fragments",
           "cost": 3
         }
       }
@@ -728,16 +947,28 @@
     "category": "items/armors/carapace armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 4,
-          "chitin_plate": 24,
-          "nomad_cloth": 5,
-          "cattail": 35
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 24
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          },
+          {
+            "name": "Cattail",
+            "count": 35
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "carapace boots",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Carapace Boots",
+          "uses": "Tablets",
           "cost": 5
         }
       }
@@ -748,15 +979,24 @@
     "category": "items/armors/forester's armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 1,
-          "cattail": 24,
-          "fiber": 35
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 1
+          },
+          {
+            "name": "Cattail",
+            "count": 24
+          },
+          {
+            "name": "Fiber",
+            "count": 35
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "forester's armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Forester's Armor",
+          "uses": "Fragments",
           "cost": 35
         }
       }
@@ -767,15 +1007,24 @@
     "category": "items/armors/forester's armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 1,
-          "cattail": 20,
-          "fiber": 15
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 1
+          },
+          {
+            "name": "Cattail",
+            "count": 20
+          },
+          {
+            "name": "Fiber",
+            "count": 15
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "forester's sleeves",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Forester's Sleeves",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -786,15 +1035,24 @@
     "category": "items/armors/forester's armor",
     "crafting": [
       {
-        "ingredients": {
-          "bone_glue": 1,
-          "cattail": 18,
-          "fiber": 25
-        },
+        "ingredients": [
+          {
+            "name": "Bone Glue",
+            "count": 1
+          },
+          {
+            "name": "Cattail",
+            "count": 18
+          },
+          {
+            "name": "Fiber",
+            "count": 25
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "forester's sandals",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Forester's Sandals",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -805,14 +1063,17 @@
     "category": "items/armors/forester's armor",
     "crafting": [
       {
-        "ingredients": {
-          "chitin_plate": 8,
-          "forester's_armor": "1"
-        },
+        "ingredients": [
+          {
+            "name": "Chitin Plate",
+            "count": 8,
+            "forester's": "1"
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "brittle bone armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Brittle Bone Armor",
+          "uses": "Fragments",
           "cost": 35
         }
       }
@@ -823,16 +1084,28 @@
     "category": "items/armors/iron studded armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 35,
-          "insects": 15,
-          "iron_ingot": 5,
-          "nomad_cloth": 10
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 35
+          },
+          {
+            "name": "Insects",
+            "count": 15
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 5
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "iron studded armor",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Iron Studded Armor",
+          "uses": "Tablets",
           "cost": 25
         }
       }
@@ -843,16 +1116,28 @@
     "category": "items/armors/iron studded armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 10,
-          "insects": 7,
-          "iron_ingot": 2,
-          "nomad_cloth": 5
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 10
+          },
+          {
+            "name": "Insects",
+            "count": 7
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 2
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "iron studded gauntlets",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Iron Studded Gauntlets",
+          "uses": "Tablets",
           "cost": 8
         }
       }
@@ -863,16 +1148,28 @@
     "category": "items/armors/iron studded armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 14,
-          "insects": 10,
-          "iron_ingot": 2,
-          "nomad_cloth": 14
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 14
+          },
+          {
+            "name": "Insects",
+            "count": 10
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 2
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "iron studded boots",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Iron Studded Boots",
+          "uses": "Tablets",
           "cost": 8
         }
       }
@@ -883,16 +1180,28 @@
     "category": "items/armors/redwood wood armor",
     "crafting": [
       {
-        "ingredients": {
-          "nomad_cloth": 15,
-          "redwood_wood": 4,
-          "fiber": 150,
-          "worm_silk": 38
-        },
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 15
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 4
+          },
+          {
+            "name": "Fiber",
+            "count": 150
+          },
+          {
+            "name": "Worm Silk",
+            "count": 38
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "redwood wood armor",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Redwood Wood Armor",
+          "uses": "Tablets",
           "cost": 3
         }
       }
@@ -903,16 +1212,28 @@
     "category": "items/armors/redwood wood armor",
     "crafting": [
       {
-        "ingredients": {
-          "nomad_cloth": 8,
-          "redwood_wood": 3,
-          "fiber": 112,
-          "worm_silk": 20
-        },
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 3
+          },
+          {
+            "name": "Fiber",
+            "count": 112
+          },
+          {
+            "name": "Worm Silk",
+            "count": 20
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "redwood wood bracers",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Redwood Wood Bracers",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -923,16 +1244,28 @@
     "category": "items/armors/redwood wood armor",
     "crafting": [
       {
-        "ingredients": {
-          "nomad_cloth": 12,
-          "redwood_wood": 3,
-          "fiber": 120,
-          "worm_silk": 28
-        },
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 3
+          },
+          {
+            "name": "Fiber",
+            "count": 120
+          },
+          {
+            "name": "Worm Silk",
+            "count": 28
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "redwood wood armor",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "name": "redwood wood Armor",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -943,14 +1276,20 @@
     "category": "items/armors/rupu fur armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 8,
-          "rope": 2
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 8
+          },
+          {
+            "name": "Rope",
+            "count": 2
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "rupu fur armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Rupu Fur Armor",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -961,14 +1300,20 @@
     "category": "items/armors/rupu fur armor",
     "crafting": [
       {
-        "ingredients": {
-          "fiber_weave": 2,
-          "rupu_vine": 6
-        },
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 2
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 6
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "rupu fur sleeves",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Rupu Fur Sleeves",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -979,14 +1324,20 @@
     "category": "items/armors/rupu fur armor",
     "crafting": [
       {
-        "ingredients": {
-          "rupu_pelt": 2,
-          "palm_leaves": 8
-        },
+        "ingredients": [
+          {
+            "name": "Rupu Pelt",
+            "count": 2
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 8
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "rupu fur sandals",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Rupu Fur Sandals",
+          "uses": "Fragments",
           "cost": 10
         }
       }
@@ -997,15 +1348,24 @@
     "category": "items/armors/rupu fur armor",
     "crafting": [
       {
-        "ingredients": {
-          "nomad_cloth": 1,
-          "rope": 1,
-          "rupu_fur_armor": 1
-        },
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          },
+          {
+            "name": "Rope",
+            "count": 1
+          },
+          {
+            "name": "Rupu fur Armor",
+            "count": 1
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "cloaked rupu fur armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Cloaked Rupu Fur Armor",
+          "uses": "Fragments",
           "cost": 25
         }
       }
@@ -1016,14 +1376,20 @@
     "category": "items/armors/triple stitch armor",
     "crafting": [
       {
-        "ingredients": {
-          "rope": 8,
-          "nomad_cloth": 8
-        },
+        "ingredients": [
+          {
+            "name": "Rope",
+            "count": 8
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "triple stitch armor",
-          "uses": "fragments",
+          "tree": "Equipment",
+          "node": "Triple Stitch Armor",
+          "uses": "Fragments",
           "cost": 35
         }
       }
@@ -1034,15 +1400,24 @@
     "category": "items/armors/triple stitch armor",
     "crafting": [
       {
-        "ingredients": {
-          "pearl": 6,
-          "cotton": 14,
-          "rupu_vine": 12
-        },
+        "ingredients": [
+          {
+            "name": "Pearl",
+            "count": 6
+          },
+          {
+            "name": "Cotton",
+            "count": 14
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 12
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "triple stitch bracers",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Triple Stitch Bracers",
+          "uses": "Tablets",
           "cost": 12
         }
       }
@@ -1053,15 +1428,24 @@
     "category": "items/armors/triple stitch armor",
     "crafting": [
       {
-        "ingredients": {
-          "pearl": 4,
-          "hide": 14,
-          "cotton": 25
-        },
+        "ingredients": [
+          {
+            "name": "Pearl",
+            "count": 4
+          },
+          {
+            "name": "Hide",
+            "count": 14
+          },
+          {
+            "name": "Cotton",
+            "count": 25
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "triple stitch armor",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Triple Stitch Armor",
+          "uses": "Tablets",
           "cost": 12
         }
       }
@@ -1072,16 +1456,28 @@
     "category": "items/armors/cloak",
     "crafting": [
       {
-        "ingredients": {
-          "nomad_cloth": 6,
-          "cattail": 30,
-          "fiber": 92,
-          "worm_silk": 18
-        },
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 6
+          },
+          {
+            "name": "Cattail",
+            "count": 30
+          },
+          {
+            "name": "Fiber",
+            "count": 92
+          },
+          {
+            "name": "Worm Silk",
+            "count": 18
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "cloak",
-          "uses": "tablets",
+          "tree": "Equipment",
+          "node": "Cloak",
+          "uses": "Tablets",
           "cost": 1
         }
       }
@@ -1092,15 +1488,22 @@
     "category": "items/armors/feather boots",
     "crafting": [
       {
-        "ingredients": {
-          "worm_silk": 2,
-          "rope": 2
-        },
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 2
+          },
+          {
+            "name": "Rope",
+            "count": 2
+          }
+        ],
         "unlock": {
-          "tree": "equipment",
-          "node": "feather boots",
-          "uses": "tablets",
-          "cost": 25
+          "tree": "Equipment",
+          "node": "Feather Boots",
+          "uses": "Tablets",
+          "cost": 25,
+          "": {}
         }
       }
     ]

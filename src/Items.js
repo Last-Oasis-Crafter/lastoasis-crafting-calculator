@@ -5,8 +5,6 @@ var tree = new TreeModel()
 export const items = itemsJson
 
 export function getCategories() {
-  const categories = []
-
   const categoryLists = [...new Set(
     items.map( item => item.category)
   )].map( category => category.split('/'))

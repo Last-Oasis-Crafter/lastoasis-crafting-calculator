@@ -1,29 +1,21 @@
-import React from 'react';
-import * as Semantic from 'semantic-ui-react'
+import React, { useReducer, useEffect } from 'react';
 
 import './App.css';
 import ItemSidebar from './ItemSidebar'
+import CraftingReducer from './CraftingReducer';
+import CraftingDisplay from './CraftingDisplay';
 
 function App() {
+  const [crafting, craftingDispatch] = useReducer(CraftingReducer, [])
+
+  // useEffect(() => {
+  //   console.log(JSON.stringify(crafting, null, 2))
+  // }, [crafting])
+
   return (
     <React.Fragment>
-      <ItemSidebar>
-        <Semantic.Container>
-          <Semantic.Placeholder>
-            <Semantic.PlaceholderParagraph>
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-            </Semantic.PlaceholderParagraph>
-            <Semantic.PlaceholderParagraph>
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-              <Semantic.Placeholder.Line />
-            </Semantic.PlaceholderParagraph>
-          </Semantic.Placeholder>
-        </Semantic.Container>
+      <ItemSidebar dispatch={craftingDispatch}>
+        <CraftingDisplay crafting={crafting} dispatch={craftingDispatch}/>
       </ItemSidebar>
     </React.Fragment>
   );
