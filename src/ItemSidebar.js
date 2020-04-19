@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Sidebar, Segment, List, Input } from 'semantic-ui-react'
+import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
 import useDebounce from './useDebounce'
 import { items as itemJson } from './Items'
@@ -13,6 +13,7 @@ export default function ItemSidebar({children, dispatch}) {
   const [searchResult, setSearchResult] = useState(itemJson)
   const [searchValue, setSearchValue] = useState('')
   const [isSearchLoading, setSearchLoading] = useState(false)
+  const [sidebarOpen, setSidebarOpen] = useState(true)
 
   const debouncedSearchValue = useDebounce(searchValue, 100)
 
@@ -42,9 +43,9 @@ export default function ItemSidebar({children, dispatch}) {
     <Sidebar
       vertical
       inverted
-      visible
+      visible={sidebarOpen}
       as={Segment}
-      animation='uncover'
+      animation='push'
       direction='left'
       icon='labeled'
     >
@@ -74,6 +75,21 @@ export default function ItemSidebar({children, dispatch}) {
         overflowY: 'auto'
       }}
     >
+      <Button
+        color='black'
+        floated='left'
+        attached='right'
+        onClick={() => setSidebarOpen(!sidebarOpen)}
+        icon={sidebarOpen ? 'caret left' : 'caret right'}
+        style={{
+          width: '23px',
+          height: '40px',
+          textAlign: 'left',
+          paddingTop: '10px',
+          paddingLeft: '0',
+          fontSize: '20px'
+        }}
+        />
       {children}
     </Sidebar.Pusher>
   </Sidebar.Pushable>
