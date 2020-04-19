@@ -1,21 +1,17 @@
-import React, { useReducer, useEffect } from 'react';
+import React, { useReducer } from 'react';
 
 import './App.css';
 import ItemSidebar from './ItemSidebar'
 import CraftingReducer from './CraftingReducer';
-import CraftingDisplay from './CraftingDisplay';
+import CraftingSection from './CraftingSection';
 
 function App() {
   const [crafting, craftingDispatch] = useReducer(CraftingReducer, [])
 
-  // useEffect(() => {
-  //   console.log(JSON.stringify(crafting, null, 2))
-  // }, [crafting])
-
   return (
     <React.Fragment>
       <ItemSidebar dispatch={craftingDispatch}>
-        <CraftingDisplay crafting={crafting} dispatch={craftingDispatch}/>
+        <CraftingSection crafting={crafting} dispatch={craftingDispatch}/>
       </ItemSidebar>
     </React.Fragment>
   );
