@@ -26,7 +26,6 @@ export default function CraftingRequirements({items}) {
         '').replace('\r\n', '')
       )
       const timeout = setTimeout(() => {
-        console.log('timed out')
         setCopyOpen(false)
       }, 500);
       return () => {
