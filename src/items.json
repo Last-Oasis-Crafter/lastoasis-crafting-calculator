@@ -1711,7 +1711,7 @@
   },
   {
     "name": "Woodcutter's Hatchet",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -1735,7 +1735,7 @@
   },
   {
     "name": "Rawbone Hand Axe",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -1763,7 +1763,7 @@
   },
   {
     "name": "Heavy Rawbone Hand Axe",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -1791,7 +1791,7 @@
   },
   {
     "name": "Advanced Hatchet",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -1823,7 +1823,7 @@
   },
   {
     "name": "Bouldercut Hand Axe",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -1855,7 +1855,7 @@
   },
   {
     "name": "Nibiran Hand Axe",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -2007,7 +2007,7 @@
   },
   {
     "name": "Scythe",
-    "category": "items/weapons/tools/sickle",
+    "category": "items/weapons/tools/sickles",
     "crafting": [
       {
         "ingredients": [
@@ -2421,7 +2421,7 @@
   },
   {
     "name": "Rawbone Battle Axe",
-    "category": "items/weapons/tools/axe",
+    "category": "items/weapons/tools/axes",
     "crafting": [
       {
         "ingredients": [
@@ -2629,6 +2629,142 @@
         "unlock": {
           "tree": "Equipment",
           "node": "Javelin",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Simple Sickle",
+    "category": "items/weapons/tools/sickles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 22
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Simple Pickaxe",
+    "category": "items/weapons/tools/pickaxes",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 2
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 5
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 12
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Simple Pickaxe",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Advanced Pickaxe",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 12
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Bone Glue",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Advanced Pickaxe",
+          "uses": "Tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Master Pickaxe",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 3
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 28
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Master Pickaxe",
+          "uses": "Tablets",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Simple Repair Hammer",
+    "category": "items/weapons/tools/repair hammer",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          },
+          {
+            "name": "Stone",
+            "count": 55
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Simple Repair Hammer",
           "uses": "Fragments",
           "cost": 10
         }
