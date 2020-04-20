@@ -14,10 +14,6 @@ export default function CraftingCard({item, dispatch, index}) {
       setRecipes(item.crafting)
     }
   }, [item])
-
-  useEffect(() => {
-    console.log(recipes)
-  }, [recipes])
   
   // TODO add dropdown to select the recipe to use
 

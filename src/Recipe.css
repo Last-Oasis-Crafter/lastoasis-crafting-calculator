@@ -32,6 +32,24 @@
 .recipe .singleIcon {
   font-size: 14px !important;
   vertical-align: baseline !important;
-  margin-right: 5px !important;
+  margin-left: 5px !important;
   display: inline !important;
+  text-decoration: underline black;
+  cursor: pointer;
+}
+
+.recipe .singleIcon::before {
+  content: '(';
+  display: inline-block;
+  text-decoration: none;
+}
+
+.recipe .singleIcon::after {
+  content: ')';
+  display: inline-block;
+  text-decoration: none;
+}
+
+.recipe .icon {
+  font-size: 16px !important;
 }

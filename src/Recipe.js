@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { List, Header, Icon } from 'semantic-ui-react'
+import { List, Header } from 'semantic-ui-react'
 import './Recipe.css'
 
 export default function Recipe({recipe, qty=1}) {
@@ -9,33 +9,31 @@ export default function Recipe({recipe, qty=1}) {
   useEffect(() => {
     if(!showSingle) {
       setSingleIcon(
-        <Icon
+        <span
           className='singleIcon'
-          name='sort numeric ascending'
           onClick={e => setShowSingle(!showSingle)}
           link
-          size='mini'
-          />
+          >all</span>
       )
     } else {
       setSingleIcon(
-        <Icon
+        <span
           className='singleIcon'
           onClick={e => setShowSingle(!showSingle)}
           link
-          size='mini'
-          name='sort numeric descending'
-          />
+          >1x</span>
       )
     }
   }, [showSingle])
+  
+  // TODO add dropdown to select the recipe to use
 
   if(recipe === undefined) return <React.Fragment />
   else return (
     <div className='recipe'>
       <Header size='tiny'>
+        Selected Recipe
         {qty > 1 && singleIcon}
-        Selected Recipe:
       </Header>
       <List >
         {recipe.ingredients.map(ingredient => (
