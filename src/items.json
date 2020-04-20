@@ -1502,8 +1502,1135 @@
           "tree": "Equipment",
           "node": "Feather Boots",
           "uses": "Tablets",
-          "cost": 25,
-          "": {}
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Beat Stick",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 7
+          },
+          {
+            "name": "Fiber",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jaggertooth Club",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 8
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 2
+          },
+          {
+            "name": "Hide",
+            "count": 3
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Jaggertooth Club",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rawbone Club",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 5
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 4
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Rawbone Club",
+          "uses": "Fragments",
+          "cost": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "Spikebone Club",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 2
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Bone Glue",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Spikebone Club",
+          "uses": "Fragments",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Short Ceramic Hoofmace",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 7
+          },
+          {
+            "name": "Stone",
+            "count": 55
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Short Ceramic Hoofmace",
+          "uses": "Tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wyndan Hammer",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          },
+          {
+            "name": "Iron Ore",
+            "count": 12
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 10
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Wyndan Hammer",
+          "uses": "Tablets",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Hammer",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 42
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Bone Glue",
+            "count": 35
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Hammer",
+          "uses": "Tablets",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Woodcutter's Hatchet",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 8
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Woodcutter's Hatchet",
+          "uses": "Fragments",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rawbone Hand Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 2
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 3
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Rawbone Hand Axe",
+          "uses": "Fragments",
+          "cost": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "Heavy Rawbone Hand Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 12
+          },
+          {
+            "name": "Bone Glue",
+            "count": 1
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Heavy Rawbone Hand Axe",
+          "uses": "Fragments",
+          "cost": 32
+        }
+      }
+    ]
+  },
+  {
+    "name": "Advanced Hatchet",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 34
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 7
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 6
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Advanced Hatchet",
+          "uses": "Tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bouldercut Hand Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 12
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          },
+          {
+            "name": "Worm Silk",
+            "count": 5
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 11
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Bouldercut Hand Axe",
+          "uses": "Tablets",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Hand Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 30
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 15
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Hand Axe",
+          "uses": "Tablets",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bonespike Sword",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 3
+          },
+          {
+            "name": "Rope",
+            "count": 6
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 5
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Bonespike Sword",
+          "uses": "Fragments",
+          "cost": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "Short Malletblade",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 7
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 10
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Short Malletblade",
+          "uses": "Tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wyndan Sabre",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 14
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Worm Silk",
+            "count": 5
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 12
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Wyndan Sabre",
+          "uses": "Tablets",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Curved Dagger",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 38
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 10
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Curved Dagger",
+          "uses": "Tablets",
+          "cost": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Scythe",
+    "category": "items/weapons/tools/sickle",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 10
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Stone",
+            "count": 8
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 14
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Scythe",
+          "uses": "Fragments",
+          "cost": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "Jaggertooth Maul",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Stone",
+            "count": 12
+          },
+          {
+            "name": "Rope",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spikebone Maul",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 12
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 10
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Spikebone Maul",
+          "uses": "Fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rawbone Maul",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 75
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Stone",
+            "count": 68
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 8
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Rawbone Maul",
+          "uses": "Fragments",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Long Ceramic Hoofmace",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 12
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          },
+          {
+            "name": "Stone",
+            "count": 70
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Long Ceramic Hoofmace",
+          "uses": "Tablets",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sawtooth Sword",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 14
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Sawtooth Sword",
+          "uses": "Fragments",
+          "cost": 40
+        }
+      }
+    ]
+  },
+  {
+    "name": "Singblade",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 18
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 18
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 6
+          },
+          {
+            "name": "Stone",
+            "count": 80
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Singblade",
+          "uses": "Tablets",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Blunt Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 4
+          },
+          {
+            "name": "Stone",
+            "count": 15
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Blunt Quarterstaff",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Traveller's Staff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rope",
+            "count": 2
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Traveller's Staff",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rawbone Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 5
+          },
+          {
+            "name": "Rope",
+            "count": 4
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Rawbone Quarterstaff",
+          "uses": "Fragments",
+          "cost": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "Paddleblade Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 17
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 58
+          },
+          {
+            "name": "Beeswax",
+            "count": 3
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Paddleblade Quarterstaff",
+          "uses": "Tablets",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wyndanblade Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 17
+          },
+          {
+            "name": "Iron Ore",
+            "count": 12
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 6
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Wyndanblade Quarterstaff",
+          "uses": "Tablets",
+          "cost": 8
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ironblade Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 25
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 35
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 15
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 15
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Ironblade Quarterstaff",
+          "uses": "Tablets",
+          "cost": 22
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Quarterstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 20
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 35
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          },
+          {
+            "name": "Worm Scale",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Quarterstaff",
+          "uses": "Tablets",
+          "cost": 22
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rawbone Battle Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 14
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Wood",
+            "count": 58
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Rawbone Battle Axe",
+          "uses": "Fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bouldercut Battle Axe",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 12
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 6
+          },
+          {
+            "name": "Worm Silk",
+            "count": 10
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 18
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Bouldercut Battle Axe",
+          "uses": "Tablets",
+          "cost": 7
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Battle Axe",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 28
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 12
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 14
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Battle Axe",
+          "uses": "Tablets",
+          "cost": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Long Bonespike Swordstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 11
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 15
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Long Bonespike Swordstaff",
+          "uses": "Fragments",
+          "cost": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wyndan Flame Sword",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 16
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 14
+          },
+          {
+            "name": "Worm Silk",
+            "count": 8
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 14
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Wyndan Flame Sword",
+          "uses": "Tablets",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Decapitator",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 34
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 50
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 18
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 16
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Nibiran Decapitator",
+          "uses": "Tablets",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Javelin",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          },
+          {
+            "name": "Stone",
+            "count": 2
+          },
+          {
+            "name": "Fiber",
+            "count": 5
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Javelin",
+          "uses": "Fragments",
+          "cost": 10
         }
       }
     ]
