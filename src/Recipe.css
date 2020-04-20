@@ -21,7 +21,7 @@
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  display: block;
+  float: left;
   padding-left: 10px;
 }
 
