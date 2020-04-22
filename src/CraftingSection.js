@@ -6,7 +6,7 @@ import CraftingRequirements from './CraftingRequirements'
 export default function CraftingSection({crafting, dispatch}) {
   return (
     <Container textAlign='left' style={{paddingTop: '30px'}}>
-    {crafting.length == 0 ? 
+    {crafting.length === 0 ? 
       <Header size='huge'>Add recipes to craft...</Header>
       :
       <React.Fragment>

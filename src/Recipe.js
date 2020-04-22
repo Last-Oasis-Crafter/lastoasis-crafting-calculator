@@ -12,7 +12,6 @@ export default function Recipe({recipe, qty=1}) {
         <span
           className='singleIcon'
           onClick={e => setShowSingle(!showSingle)}
-          link
           >all</span>
       )
     } else {
@@ -20,7 +19,6 @@ export default function Recipe({recipe, qty=1}) {
         <span
           className='singleIcon'
           onClick={e => setShowSingle(!showSingle)}
-          link
           >1x</span>
       )
     }
@@ -37,7 +35,7 @@ export default function Recipe({recipe, qty=1}) {
       </Header>
       <List >
         {recipe.ingredients.map(ingredient => (
-          <List.Item>
+          <List.Item key={ingredient.name}>
             <span className='ingredientQty'>{ingredient.count * (showSingle ? 1 : qty)}x</span>
             <span className='ingredientName'>{ingredient.name}</span>
           </List.Item>

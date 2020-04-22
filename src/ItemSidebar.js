@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Sidebar, Segment, List, Input, Button, Checkbox, Container, Label } from 'semantic-ui-react'
+import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
 import useDebounce from './useDebounce'
 import { items as itemJson } from './Items'
@@ -7,8 +7,9 @@ import Craftable from './Craftable'
 import './ItemSidebar.css'
 
 export default function ItemSidebar({children, dispatch}) {
+  const craftables = itemJson.filter(item => item.crafting && item.crafting.length > 0)
   // Search states
-  const [searchResult, setSearchResult] = useState(itemJson.filter(item => item.crafting && item.crafting.length > 0))
+  const [searchResult, setSearchResult] = useState(craftables)
   const [searchValue, setSearchValue] = useState('')
   const [isSearchLoading, setSearchLoading] = useState(false)
   const [sidebarOpen, setSidebarOpen] = useState(true)
@@ -18,16 +19,12 @@ export default function ItemSidebar({children, dispatch}) {
 
   useEffect(() => {
     setSearchLoading(true)
-    let results = itemJson
+    let results = onlyShowCraftables ? craftables :  itemJson
     if(searchValue) {
 
       const regExTerms = escapeRegExp(searchValue).split(' ').map(term => new RegExp(term, 'i'))
       const isMatch = (result) => regExTerms.reduce((prev, term) => prev && term.test(result.name + result.category), true)
       results = results.filter(isMatch)
-    }
-
-    if(onlyShowCraftables) {
-      results = results.filter(item => item.crafting && item.crafting.length > 0)
     }
 
     setSearchLoading(false)

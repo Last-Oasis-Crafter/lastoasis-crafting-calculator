@@ -39,7 +39,7 @@ export default function CraftingCard({item, dispatch, index}) {
           })}
           suffix='x'
         /> {item.name}
-        <Image icon floated='right'>
+        <Image floated='right'>
           <Icon
             name='trash'
             onClick={e => dispatch({type: 'REMOVE_ITEM', name: item.name})}

@@ -53,7 +53,7 @@ export default function CraftingRequirements({items}) {
         <Header>Crafting will require:</Header>
         <div ref={listDiv}>
         {Object.keys(materials).map(key => (
-          <List.Item className='recipe'>
+          <List.Item className='recipe' key={key}>
             <div style={{display: 'inline-block'}}>
               <span className='ingredientQty'>{materials[key]}x&nbsp;</span>
               <span className='ingredientName'>{key}</span>
