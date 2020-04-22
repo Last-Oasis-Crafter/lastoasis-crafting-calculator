@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
+import { Sidebar, Segment, List, Input, Button, Checkbox, Container, Label } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
 import useDebounce from './useDebounce'
 import { items as itemJson } from './Items'
@@ -7,31 +7,32 @@ import Craftable from './Craftable'
 import './ItemSidebar.css'
 
 export default function ItemSidebar({children, dispatch}) {
-  //const [items, setItems] = useState(itemJson)
-
   // Search states
-  const [searchResult, setSearchResult] = useState(itemJson)
+  const [searchResult, setSearchResult] = useState(itemJson.filter(item => item.crafting && item.crafting.length > 0))
   const [searchValue, setSearchValue] = useState('')
   const [isSearchLoading, setSearchLoading] = useState(false)
   const [sidebarOpen, setSidebarOpen] = useState(true)
+  const [onlyShowCraftables, setOnlyShowCraftables] = useState(true)
 
   const debouncedSearchValue = useDebounce(searchValue, 100)
 
   useEffect(() => {
+    setSearchLoading(true)
+    let results = itemJson
     if(searchValue) {
-      setSearchLoading(true)
 
-      const data = itemJson
       const regExTerms = escapeRegExp(searchValue).split(' ').map(term => new RegExp(term, 'i'))
       const isMatch = (result) => regExTerms.reduce((prev, term) => prev && term.test(result.name + result.category), true)
-      const results = data.filter(isMatch)
-
-      setSearchLoading(false)
-      setSearchResult(results)
-    } else {
-      setSearchResult(itemJson)
+      results = results.filter(isMatch)
     }
-  }, [debouncedSearchValue])
+
+    if(onlyShowCraftables) {
+      results = results.filter(item => item.crafting && item.crafting.length > 0)
+    }
+
+    setSearchLoading(false)
+    setSearchResult(results)
+  }, [debouncedSearchValue, onlyShowCraftables])
 
   return (
   <Sidebar.Pushable
@@ -45,11 +46,27 @@ export default function ItemSidebar({children, dispatch}) {
       inverted
       visible={sidebarOpen}
       as={Segment}
+      width='wide'
       animation='push'
       direction='left'
       icon='labeled'
     >
       <Segment inverted>
+        <div style={{textAlign: 'right'}}>
+          <span style={{
+              padding: '5px',
+              marginBottom: '30px',
+              //backgroundColor: onlyShowCraftables ? '#1b1c1d' : 'white',
+              color: onlyShowCraftables ? 'white' : 'rgba(150,150,150,.87)',
+              lineHeight: '0',
+              borderRadius: '10px',
+              textDecoration: 'underline',
+              cursor: 'pointer'
+            }}
+            onClick={() => {setOnlyShowCraftables(!onlyShowCraftables)}}>
+            {onlyShowCraftables ? 'Show all items' : 'Only show craftables'}
+          </span>
+        </div>
         <Input
           fluid
           icon='search'
