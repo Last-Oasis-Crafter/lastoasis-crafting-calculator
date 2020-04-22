@@ -2636,6 +2636,34 @@
     ]
   },
   {
+    "name": "Torch",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 12
+          },
+          {
+            "name": "Fiber",
+            "count": 9
+          },
+          {
+            "name": "Stone",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Torch",
+          "uses": "Fragments",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
     "name": "Simple Sickle",
     "category": "items/weapons/tools/sickles",
     "crafting": [
@@ -2768,6 +2796,894 @@
           "uses": "Fragments",
           "cost": 10
         }
+      }
+    ]
+  },
+  {
+    "name": "Primitive Bandage",
+    "category": "items/interactables/bandages",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 6
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Primitive Bandage",
+          "uses": "Fragments",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sterile Bandage",
+    "category": "items/interactables/bandages",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 2
+          },
+          {
+            "name": "Aloe",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Sterile Bandage",
+          "uses": "Fragments",
+          "cost": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "Durable Water Sack",
+    "category": "items/gear/backpacks/belt",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 8
+          },
+          {
+            "name": "Earth Wax",
+            "count": 3
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Durable Water Sack",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Light Backpack",
+    "category": "items/gear/backpacks/belt",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 4
+          },
+          {
+            "name": "Hide",
+            "count": 12
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Light Backpack",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Split Durable Water Sack",
+    "category": "items/gear/backpacks/belt",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 12
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 35
+          },
+          {
+            "name": "Fiber",
+            "count": 112
+          },
+          {
+            "name": "Beeswax",
+            "count": 15
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Split Durable Water Sack",
+          "uses": "Tablets",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Heavy Backpack",
+    "category": "items/gear/backpacks/belt",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 5
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Heavy Backpack",
+          "uses": "Tablets",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Medium Backpack",
+    "category": "items/gear/backpacks/belts",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rope",
+            "count": 4
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 8
+          },
+          {
+            "name": "Bone Glue",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Medium Backpack",
+          "uses": "Fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Water Circulator",
+    "category": "items/gear/backpacks/belts",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 38
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 5
+          },
+          {
+            "name": "Rope",
+            "count": 25
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Water Circulator",
+          "uses": "Tablets",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wingsuit",
+    "category": "items/gear/belts",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 6
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Wingsuit",
+          "uses": "Tablets",
+          "cost": 50
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bone Bottle",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 5
+          },
+          {
+            "name": "Fiber",
+            "count": 32
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Bone Bottle",
+          "uses": "Fragments",
+          "cost": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ceramic Flask",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 8
+          },
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Fiber",
+            "count": 32
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Ceramic Flask",
+          "uses": "Tablets",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Improvised Bottle",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Huge Cactus Fruit",
+            "count": 1
+          },
+          {
+            "name": "Fiber",
+            "count": 20
+          },
+          {
+            "name": "Hide",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Improvised Bottle",
+          "uses": "Fragments",
+          "cost": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Makeshift Bottle",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 5
+          },
+          {
+            "name": "Wood",
+            "count": 5
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Makeshift Bottle",
+          "uses": "Fragments",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Split Bone Bottle",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 7
+          },
+          {
+            "name": "Fiber",
+            "count": 35
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Split Bone Bottle",
+          "uses": "Fragments",
+          "cost": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "Split Ceramic Flask",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 5
+          },
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Fiber",
+            "count": 40
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Split Ceramic Flask",
+          "uses": "Tablets",
+          "cost": 3
+        }
+      }
+    ]
+  },
+  {
+    "name": "Foraging Pouch",
+    "category": "items/gear/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 28
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Foraging Pouch",
+          "uses": "Fragments",
+          "cost": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "Large Gathering Pouch",
+    "category": "items/gear/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber Weave",
+            "count": 8
+          },
+          {
+            "name": "Beeswax",
+            "count": 3
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Large Gathering Pouch",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Beltless Grappling Hook",
+    "category": "items/gear/grappling/hook",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 18
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 3
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 40
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Beltless Grappling Hook",
+          "uses": "Tablets",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fast Grappling Hook",
+    "category": "items/gear/grappling/hook",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rope",
+            "count": 10
+          },
+          {
+            "name": "Beeswax",
+            "count": 12
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Fast Grappling Hook",
+          "uses": "Fragments",
+          "cost": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "Long Grappling Hook",
+    "category": "items/gear/grappling/hook",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Earth Wax",
+            "count": 3
+          },
+          {
+            "name": "Rope",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Long Grappling Hook",
+          "uses": "Fragments",
+          "cost": 50
+        }
+      }
+    ]
+  },
+  {
+    "name": "Torque Backpack",
+    "category": "items/gear/backpacks/belts",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 22
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          },
+          {
+            "name": "Earth Wax",
+            "count": 30
+          },
+          {
+            "name": "Wood",
+            "count": 85
+          }
+        ],
+        "unlock": {
+          "tree": "Equipment",
+          "node": "Torque Backpack",
+          "uses": "Tablets",
+          "cost": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 110
+          },
+          {
+            "name": "Fiber",
+            "count": 100
+          },
+          {
+            "name": "Stone",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Legs (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 7
+          },
+          {
+            "name": "Fiber",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 3
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 380
+          },
+          {
+            "name": "Fiber",
+            "count": 245
+          },
+          {
+            "name": "Stone",
+            "count": 100
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 38
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 25
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 18
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 45
+          },
+          {
+            "name": "Rope",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nomad Spider Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 110
+          },
+          {
+            "name": "Fiber",
+            "count": 100
+          },
+          {
+            "name": "Stone",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker Legs (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Spider Walker Legs (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 15
+          },
+          {
+            "name": "Fiber",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker With Ballista",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 117
+          },
+          {
+            "name": "Fiber",
+            "count": 114
+          },
+          {
+            "name": "Stone",
+            "count": 18
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stilleto Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 895
+          },
+          {
+            "name": "Rope",
+            "count": 25
+          },
+          {
+            "name": "Fiber",
+            "count": 276
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 2
+          },
+          {
+            "name": "Stone",
+            "count": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stilleto Walker Legs (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 140
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stilleto Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 47
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Small Stilleto Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Rope",
+            "count": 12
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medium Stilleto Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 50
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          },
+          {
+            "name": "Hide",
+            "count": 30
+          }
+        ]
       }
     ]
   }
