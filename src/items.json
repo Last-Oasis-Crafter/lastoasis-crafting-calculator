@@ -4276,5 +4276,685 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Schmetterling Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 5177
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 225
+          },
+          {
+            "name": "Rope",
+            "count": 1425
+          },
+          {
+            "name": "Fiber",
+            "count": 1425
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Stone",
+            "count": 450
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 900
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 112
+          },
+          {
+            "name": "Earth Wax",
+            "count": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Schmetterling Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 370
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 392
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 130
+          },
+          {
+            "name": "Tar",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Schmetterling Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 50
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 24
+          },
+          {
+            "name": "Worm Scale",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 300
+          },
+          {
+            "name": "Rope",
+            "count": 26
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 180
+          },
+          {
+            "name": "Worm Silk",
+            "count": 105
+          },
+          {
+            "name": "Worm Scale",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 280
+          },
+          {
+            "name": "Worm Silk",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Large Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 140
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 16
+          },
+          {
+            "name": "Hide",
+            "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 2462
+          },
+          {
+            "name": "Rope",
+            "count": 270
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 52
+          },
+          {
+            "name": "Fiber",
+            "count": 659
+          },
+          {
+            "name": "Stone",
+            "count": 500
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          },
+          {
+            "name": "Bone Glue",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 760
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 96
+          },
+          {
+            "name": "Earth Wax",
+            "count": 114
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Tusker Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 468
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 498
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 150
+          },
+          {
+            "name": "Tar",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Tusker Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 100
+          },
+          {
+            "name": "Worm Scale",
+            "count": 1
+          },
+          {
+            "name": "Tar",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 253
+          },
+          {
+            "name": "Rope",
+            "count": 22
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1680
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 19
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 220
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 24
+          },
+          {
+            "name": "Worm Silk",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Large Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 110
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Hide",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Proxy Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rope",
+            "count": 54
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 127
+          },
+          {
+            "name": "Wood",
+            "count": 835
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Fiber",
+            "count": 418
+          },
+          {
+            "name": "Earth Wax",
+            "count": 20
+          },
+          {
+            "name": "Stone",
+            "count": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Proxy Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 750
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 93
+          },
+          {
+            "name": "Earth Wax",
+            "count": 114
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Proxy Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 408
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 93
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 168
+          },
+          {
+            "name": "Tar",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Proxy Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 214
+          },
+          {
+            "name": "Worm Scale",
+            "count": 2
+          },
+          {
+            "name": "Tar",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 3030
+          },
+          {
+            "name": "Stone",
+            "count": 600
+          },
+          {
+            "name": "Rope",
+            "count": 159
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 385
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 900
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 112
+          },
+          {
+            "name": "Earth Wax",
+            "count": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Titan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 370
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 392
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 130
+          },
+          {
+            "name": "Tar",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Titan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 135
+          },
+          {
+            "name": "Worm Scale",
+            "count": 2
+          },
+          {
+            "name": "Tar",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 300
+          },
+          {
+            "name": "Rope",
+            "count": 26
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 220
+          },
+          {
+            "name": "Worm Silk",
+            "count": 135
+          },
+          {
+            "name": "Worm Scale",
+            "count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 280
+          },
+          {
+            "name": "Worm Silk",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Large Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 140
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 16
+          },
+          {
+            "name": "Hide",
+            "count": 30
+          }
+        ]
+      }
+    ]
   }
 ]
