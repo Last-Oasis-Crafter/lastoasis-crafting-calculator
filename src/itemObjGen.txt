@@ -1,0 +1,3139 @@
+[]
+  name = Aloe
+  category = materials
+[]
+  name = Animal Fat
+  category = materials
+[]
+  name = Apple
+  category = materials
+[]
+  name = Ash
+  category = materials
+[]
+  name = Beeswax
+  category = materials
+[]
+  name = Bone Glue
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 3
+    ingredients[]
+      name = Purified Water
+      count n = 10
+    station = Camp Fire
+    unlock
+      tree = Crafting
+      node = Bone Glue
+      uses = Fragments
+      cost n = 25
+[]
+  name = Bone Splinter
+  category = materials
+[]
+  name = Blood Turnip
+  category = materials
+[]
+  name = Cactus Flesh
+  category = materials
+[]
+  name = Cattail
+  category = materials
+[]
+  name = Ceramic Shard
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 1
+    output n = 0.77
+    station = Furnace
+    unlock
+      tree = Crafting
+      node = Furnace
+      uses = Tablets
+      cost n = 3
+[]
+  name = Charcoal
+  category = materials
+[]
+  name = Chitin Plate
+  category = materials
+[]
+  name = Clay
+  category = materials
+[]
+  name = Contaminated Water
+  category = materials
+[]
+  name = Corn
+  category = materials
+[]
+  name = Cotton
+  category = materials
+[]
+  name = Earth Wax
+  category = materials
+[]
+  name = Feather
+  category = materials
+[]
+  name = Fiber
+  category = materials
+[]
+  name = Fiber Weave
+  category = materials
+[]
+  name = Glass Vial
+  category = materials
+[]
+  name = Hide
+  category = materials
+[]
+  name = Huge Cactus Fruit
+  category = materials
+[]
+  name = Insects
+  category = materials
+[]
+  name = Iron Ingot
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 1
+    station = Advanced Furnace
+    unlock
+      tree = Crafting
+      node = Advanced Furnace
+      uses = Tablets
+      cost n = 25
+[]
+  name = Iron Ore
+  category = materials
+[]
+  name = Mushroom Flesh
+  category = materials
+[]
+  name = Nibiran Mineral
+  category = materials
+[]
+  name = Nomad Cloth
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    station = Advanced Fiberworking Station
+    unlock
+      tree = Crafting
+      node = Nomad Cloth
+      uses = Fragments
+      cost n = 8
+  crafting[]
+    ingredients[]
+      name = Cotton
+      count n = 18
+    ingredients[]
+      name = Earth Wax
+      count n = 12
+    station = Advanced Fiberworking Station
+    unlock
+      tree = Crafting
+      node = Nomad Cloth
+      uses = Fragments
+      cost n = 8
+[]
+  name = Obsidian
+  category = materials
+[]
+  name = Palm Leaves
+  category = materials
+[]
+  name = Pearl
+  category = materials
+[]
+  name = Red Banana
+  category = materials
+[]
+  name = Redwood Wood
+  category = materials
+[]
+  name = Rope
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 8
+    station = Fiberworking Station
+    unlock
+      tree = Crafting
+      node = Rope
+      uses = Fragments
+      cost n = 8
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Rupu Vine
+      count n = 2
+    station = Fiberworking Station
+    unlock
+      tree = Crafting
+      node = Rope
+      uses = Fragments
+      cost n = 8
+[]
+  name = Rupu Pelt
+  category = materials
+[]
+  name = Rupu Gel
+  category = materials
+[]
+  name = Rupu Vine
+  category = materials
+[]
+  name = Salt Rock
+  category = materials
+[]
+  name = Sand
+  category = materials
+[]
+  name = Stone
+  category = materials
+[]
+  name = Sulfur
+  category = materials
+[]
+  name = Tar
+  category = materials
+  crafting
+    ingredients[]
+      name = Earth Wax
+      count n = 1
+    station = Furnace
+    unlock
+      tree = Crafting
+      node = Furnace
+      uses = Tablets
+      cost n = 3
+[]
+  name = Thornberry
+  category = materials
+[]
+  name = Purified Water
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Cactus Flesh
+      count n = 4
+    station = Camp Fire
+  crafting[]
+    ingredients[]
+      name = Aloe
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Crafting
+      node = Purified Water
+      uses = Fragments
+      cost n = 10
+  crafting[]
+    ingredients[]
+      name = Contaminated Water
+      count n = 20
+    ingredients[]
+      name = Sand
+      count n = 15
+    station = Camp Fire
+    unlock
+      tree = Crafting
+      node = Purified Water
+      uses = Fragments
+      cost n = 10
+  crafting[]
+    ingredients[]
+      name = Contaminated Water
+      count n = 5
+    station = Camp Fire
+    unlock
+      tree = Crafting
+      node = Purified Water
+      uses = Fragments
+      cost n = 10
+  crafting[]
+    ingredients[]
+      name = Apple
+      count n = 1
+    output n = 15
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Corn
+      count n = 1
+    output n = 2
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Blood Turnip
+      count n = 1
+    output n = 10
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Cactus Flesh
+      count n = 3
+    output n = 1
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Huge cactus Fruit
+      count n = 1
+    output n = 12
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Aloe
+      count n = 1
+    output n = 3
+    station = Stomping Station
+[]
+  name = Wood
+  category = materials
+[]
+  name = Wood Shaft
+  category = materials
+[]
+  name = Worm Silk
+  category = materials
+[]
+  name = Vision Powder
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Huge cactus Fruit
+      count n = 3
+    ingredients[]
+      name = Purified Water
+      count n = 10
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Vision Powder
+      uses = Fragments
+      cost n = 6
+[]
+  name = Sinus Destroyer
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 18
+    ingredients[]
+      name = Blood Turnip
+      count n = 18
+    ingredients[]
+      name = Insects
+      count n = 20
+    ingredients[]
+      name = Glass
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Sinus Destroyer
+      uses = Tablets
+      cost n = 3
+[]
+  name = Rupu Repellent
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 20
+    ingredients[]
+      name = Thornberry
+      count n = 12
+    ingredients[]
+      name = Cattail
+      count n = 14
+    ingredients[]
+      name = Glass
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Rupu Repellent
+      uses = Tablets
+      cost n = 1
+[]
+  name = Race Dust
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 22
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 75
+    ingredients[]
+      name = Beeswax
+      count n = 2
+    ingredients[]
+      name = Glass
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Race Dust
+      uses = Tablets
+      cost n = 1
+[]
+  name = Jojo Mojo
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 14
+    ingredients[]
+      name = Earth Wax
+      count n = 4
+    ingredients[]
+      name = Glass
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Jojo Mojo
+      uses = Fragments
+      cost n = 10
+[]
+  name = Fury Fumes
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 12
+    ingredients[]
+      name = Rupu Gel
+      count n = 2
+    ingredients[]
+      name = Glass
+      count n = 1
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Fury Fumes
+      uses = Fragments
+      cost n = 35
+[]
+  name = Desert Mule
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Aloe
+      count n = 15
+    ingredients[]
+      name = Purified Water
+      count n = 10
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Desert Mule
+      uses = Fragments
+      cost n = 10
+[]
+  name = Bonebreaker
+  category = items/vitamins
+  crafting[]
+    ingredients[]
+      name = Sulfur
+      count n = 30
+    ingredients[]
+      name = Glass
+      count n = 1
+    ingredients[]
+      name = Ceramic Shard
+      count n = 15
+    station = Camp Fire
+    unlock
+      tree = Vitamins
+      node = Bonebreaker
+      uses = Tablets
+      cost n = 10
+[]
+  name = Fiber Headwrap
+  category = items/armors/fiber armor
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Fiber Headwrap
+      uses = Fragments
+      cost n = 3
+[]
+  name = Fiber Shirt And Trousers
+  category = items/armors/fiber armor
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Fiber Shirt And Trousers
+      uses = Fragments
+      cost n = 6
+[]
+  name = Fiber Arm Wraps
+  category = items/armors/fiber armor
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 3
+    ingredients[]
+      name = Cattail
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Fiber Arm Wraps
+      uses = Fragments
+      cost n = 10
+[]
+  name = Fiber Sandals
+  category = items/armors/fiber armor
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 6
+    ingredients[]
+      name = Hide
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Fiber Sandals
+      uses = Fragments
+      cost n = 3
+[]
+  name = Baskwood Armor
+  category = items/armors/baskwood armor
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 10
+    ingredients[]
+      name = Bone Splinter
+      count n = 28
+    ingredients[]
+      name = Earth Wax
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Baskwood Armor
+      uses = Fragments
+      cost n = 35
+[]
+  name = Baskwood Bracers
+  category = items/armors/baskwood armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 36
+    ingredients[]
+      name = Rupu Gel
+      count n = 3
+    ingredients[]
+      name = Earth Wax
+      count n = 3
+    unlock
+      tree = Equipment
+      node = Baskwood Bracers
+      uses = Tablets
+      cost n = 1
+[]
+  name = Baskwood Boots
+  category = items/armors/baskwood armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 14
+    ingredients[]
+      name = Rupu Gel
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 55
+    ingredients[]
+      name = Earth Wax
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Baskwood Boots
+      uses = Tablets
+      cost n = 1
+[]
+  name = Carapace Armor
+  category = items/armors/carapace armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+    ingredients[]
+      name = Chitin Plate
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Cattail
+      count n = 48
+    unlock
+      tree = Equipment
+      node = Carapace Armor
+      uses = Tablets
+      cost n = 5
+[]
+  name = Carapace Gauntlets
+  category = items/armors/carapace armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Cattail
+      count n = 28
+    unlock
+      tree = Equipment
+      node = Carapace Gauntlets
+      uses = Fragments
+      cost n = 3
+[]
+  name = Carapace Boots
+  category = items/armors/carapace armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 24
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+    ingredients[]
+      name = Cattail
+      count n = 35
+    unlock
+      tree = Equipment
+      node = Carapace Boots
+      uses = Tablets
+      cost n = 5
+[]
+  name = Forester's Armor
+  category = items/armors/forester's armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    ingredients[]
+      name = Cattail
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 35
+    unlock
+      tree = Equipment
+      node = Forester's Armor
+      uses = Fragments
+      cost n = 35
+[]
+  name = Forester's Sleeves
+  category = items/armors/forester's armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 15
+    unlock
+      tree = Equipment
+      node = Forester's Sleeves
+      uses = Tablets
+      cost n = 1
+[]
+  name = Forester's Sandals
+  category = items/armors/forester's armor
+  crafting[]
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    ingredients[]
+      name = Cattail
+      count n = 18
+    ingredients[]
+      name = Fiber
+      count n = 25
+    unlock
+      tree = Equipment
+      node = Forester's Sandals
+      uses = Tablets
+      cost n = 1
+[]
+  name = Brittle Bone Armor
+  category = items/armors/forester's armor
+  crafting[]
+    ingredients[]
+      name = Chitin Plate
+      count n = 8
+      forester's armor n = 1
+    unlock
+      tree = Equipment
+      node = Brittle Bone Armor
+      uses = Fragments
+      cost n = 35
+[]
+  name = Iron Studded Armor
+  category = items/armors/iron studded armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 35
+    ingredients[]
+      name = Insects
+      count n = 15
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Iron Studded Armor
+      uses = Tablets
+      cost n = 25
+[]
+  name = Iron Studded Gauntlets
+  category = items/armors/iron studded armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 10
+    ingredients[]
+      name = Insects
+      count n = 7
+    ingredients[]
+      name = Iron Ingot
+      count n = 2
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+    unlock
+      tree = Equipment
+      node = Iron Studded Gauntlets
+      uses = Tablets
+      cost n = 8
+[]
+  name = Iron Studded Boots
+  category = items/armors/iron studded armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 14
+    ingredients[]
+      name = Insects
+      count n = 10
+    ingredients[]
+      name = Iron Ingot
+      count n = 2
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+    unlock
+      tree = Equipment
+      node = Iron Studded Boots
+      uses = Tablets
+      cost n = 8
+[]
+  name = Redwood Wood Armor
+  category = items/armors/redwood wood armor
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 15
+    ingredients[]
+      name = Redwood Wood
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 38
+    unlock
+      tree = Equipment
+      node = Redwood Wood Armor
+      uses = Tablets
+      cost n = 3
+[]
+  name = Redwood Wood Bracers
+  category = items/armors/redwood wood armor
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Redwood Wood
+      count n = 3
+    ingredients[]
+      name = Fiber
+      count n = 112
+    ingredients[]
+      name = Worm Silk
+      count n = 20
+    unlock
+      tree = Equipment
+      node = Redwood Wood Bracers
+      uses = Tablets
+      cost n = 1
+[]
+  name = Redwood Wood Boots
+  category = items/armors/redwood wood armor
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 3
+    ingredients[]
+      name = Fiber
+      count n = 120
+    ingredients[]
+      name = Worm Silk
+      count n = 28
+    unlock
+      tree = Equipment
+      name = redwood wood Armor
+      uses = Tablets
+      cost n = 1
+[]
+  name = Rupu Fur Armor
+  category = items/armors/rupu fur armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Rupu Fur Armor
+      uses = Fragments
+      cost n = 10
+[]
+  name = Rupu Fur Sleeves
+  category = items/armors/rupu fur armor
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Rupu Vine
+      count n = 6
+    unlock
+      tree = Equipment
+      node = Rupu Fur Sleeves
+      uses = Fragments
+      cost n = 10
+[]
+  name = Rupu Fur Sandals
+  category = items/armors/rupu fur armor
+  crafting[]
+    ingredients[]
+      name = Rupu Pelt
+      count n = 2
+    ingredients[]
+      name = Palm Leaves
+      count n = 8
+    unlock
+      tree = Equipment
+      node = Rupu Fur Sandals
+      uses = Fragments
+      cost n = 10
+[]
+  name = Cloaked Rupu Fur Armor
+  category = items/armors/rupu fur armor
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    ingredients[]
+      name = Rope
+      count n = 1
+    ingredients[]
+      name = Rupu fur Armor
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Cloaked Rupu Fur Armor
+      uses = Fragments
+      cost n = 25
+[]
+  name = Triple Stitch Armor
+  category = items/armors/triple stitch armor
+  crafting[]
+    ingredients[]
+      name = Rope
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    unlock
+      tree = Equipment
+      node = Triple Stitch Armor
+      uses = Fragments
+      cost n = 35
+[]
+  name = Triple Stitch Bracers
+  category = items/armors/triple stitch armor
+  crafting[]
+    ingredients[]
+      name = Pearl
+      count n = 6
+    ingredients[]
+      name = Cotton
+      count n = 14
+    ingredients[]
+      name = Rupu Vine
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Triple Stitch Bracers
+      uses = Tablets
+      cost n = 12
+[]
+  name = Triple Stitch Boots
+  category = items/armors/triple stitch armor
+  crafting[]
+    ingredients[]
+      name = Pearl
+      count n = 4
+    ingredients[]
+      name = Hide
+      count n = 14
+    ingredients[]
+      name = Cotton
+      count n = 25
+    unlock
+      tree = Equipment
+      node = Triple Stitch Armor
+      uses = Tablets
+      cost n = 12
+[]
+  name = Cloak
+  category = items/armors/cloak
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Cattail
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 92
+    ingredients[]
+      name = Worm Silk
+      count n = 18
+    unlock
+      tree = Equipment
+      node = Cloak
+      uses = Tablets
+      cost n = 1
+[]
+  name = Feather Boots
+  category = items/armors/feather boots
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 2
+    ingredients[]
+      name = Rope
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Feather Boots
+      uses = Tablets
+      cost n = 25
+[]
+  name = Beat Stick
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 7
+    ingredients[]
+      name = Fiber
+      count n = 5
+[]
+  name = Jaggertooth Club
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Hide
+      count n = 3
+    unlock
+      tree = Equipment
+      node = Jaggertooth Club
+      uses = Fragments
+      cost n = 10
+[]
+  name = Rawbone Club
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 5
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Rawbone Club
+      uses = Fragments
+      cost n = 20
+[]
+  name = Spikebone Club
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 2
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Bone Glue
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Spikebone Club
+      uses = Fragments
+      cost n = 25
+[]
+  name = Short Ceramic Hoofmace
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Ceramic Shard
+      count n = 7
+    ingredients[]
+      name = Stone
+      count n = 55
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+    unlock
+      tree = Equipment
+      node = Short Ceramic Hoofmace
+      uses = Tablets
+      cost n = 1
+[]
+  name = Wyndan Hammer
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Iron Ore
+      count n = 12
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Wyndan Hammer
+      uses = Tablets
+      cost n = 5
+[]
+  name = Nibiran Hammer
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 42
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Bone Glue
+      count n = 35
+    unlock
+      tree = Equipment
+      node = Nibiran Hammer
+      uses = Tablets
+      cost n = 10
+[]
+  name = Woodcutter's Hatchet
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Woodcutter's Hatchet
+      uses = Fragments
+      cost n = 3
+[]
+  name = Rawbone Hand Axe
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 2
+    ingredients[]
+      name = Fiber Weave
+      count n = 3
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Rawbone Hand Axe
+      uses = Fragments
+      cost n = 20
+[]
+  name = Heavy Rawbone Hand Axe
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 12
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Heavy Rawbone Hand Axe
+      uses = Fragments
+      cost n = 32
+[]
+  name = Advanced Hatchet
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 34
+    ingredients[]
+      name = Wood Shaft
+      count n = 7
+    ingredients[]
+      name = Ceramic Shard
+      count n = 6
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Advanced Hatchet
+      uses = Tablets
+      cost n = 1
+[]
+  name = Bouldercut Hand Axe
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Worm Silk
+      count n = 5
+    ingredients[]
+      name = Rupu Vine
+      count n = 11
+    unlock
+      tree = Equipment
+      node = Bouldercut Hand Axe
+      uses = Tablets
+      cost n = 5
+[]
+  name = Nibiran Hand Axe
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Nibiran Hand Axe
+      uses = Tablets
+      cost n = 10
+[]
+  name = Bonespike Sword
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 3
+    ingredients[]
+      name = Rope
+      count n = 6
+    ingredients[]
+      name = Bone Splinter
+      count n = 5
+    unlock
+      tree = Equipment
+      node = Bonespike Sword
+      uses = Fragments
+      cost n = 20
+[]
+  name = Short Malletblade
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 7
+    ingredients[]
+      name = Ceramic Shard
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Short Malletblade
+      uses = Tablets
+      cost n = 1
+[]
+  name = Wyndan Sabre
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 14
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Worm Silk
+      count n = 5
+    ingredients[]
+      name = Rupu Vine
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Wyndan Sabre
+      uses = Tablets
+      cost n = 5
+[]
+  name = Nibiran Curved Dagger
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 38
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Ceramic Shard
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Nibiran Curved Dagger
+      uses = Tablets
+      cost n = 12
+[]
+  name = Scythe
+  category = items/weapons/tools/sickles
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 14
+    unlock
+      tree = Equipment
+      node = Scythe
+      uses = Fragments
+      cost n = 30
+[]
+  name = Jaggertooth Maul
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Stone
+      count n = 12
+    ingredients[]
+      name = Rope
+      count n = 2
+[]
+  name = Spikebone Maul
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 12
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Spikebone Maul
+      uses = Fragments
+      cost n = 35
+[]
+  name = Rawbone Maul
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 68
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    unlock
+      tree = Equipment
+      node = Rawbone Maul
+      uses = Fragments
+      cost n = 25
+[]
+  name = Long Ceramic Hoofmace
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Ceramic Shard
+      count n = 12
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+    ingredients[]
+      name = Stone
+      count n = 70
+    unlock
+      tree = Equipment
+      node = Long Ceramic Hoofmace
+      uses = Tablets
+      cost n = 2
+[]
+  name = Sawtooth Sword
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 14
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    unlock
+      tree = Equipment
+      node = Sawtooth Sword
+      uses = Fragments
+      cost n = 40
+[]
+  name = Singblade
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 18
+    ingredients[]
+      name = Wood Shaft
+      count n = 18
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Stone
+      count n = 80
+    unlock
+      tree = Equipment
+      node = Singblade
+      uses = Tablets
+      cost n = 2
+[]
+  name = Blunt Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    ingredients[]
+      name = Stone
+      count n = 15
+    unlock
+      tree = Equipment
+      node = Blunt Quarterstaff
+      uses = Fragments
+      cost n = 10
+[]
+  name = Traveller's Staff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Rope
+      count n = 2
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Traveller's Staff
+      uses = Fragments
+      cost n = 10
+[]
+  name = Rawbone Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 5
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    unlock
+      tree = Equipment
+      node = Rawbone Quarterstaff
+      uses = Fragments
+      cost n = 30
+[]
+  name = Paddleblade Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 17
+    ingredients[]
+      name = Ceramic Shard
+      count n = 15
+    ingredients[]
+      name = Stone
+      count n = 58
+    ingredients[]
+      name = Beeswax
+      count n = 3
+    unlock
+      tree = Equipment
+      node = Paddleblade Quarterstaff
+      uses = Tablets
+      cost n = 1
+[]
+  name = Wyndanblade Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 17
+    ingredients[]
+      name = Iron Ore
+      count n = 12
+    ingredients[]
+      name = Rupu Pelt
+      count n = 6
+    unlock
+      tree = Equipment
+      node = Wyndanblade Quarterstaff
+      uses = Tablets
+      cost n = 8
+[]
+  name = Ironblade Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Rupu Vine
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 15
+    ingredients[]
+      name = Ceramic Shard
+      count n = 15
+    unlock
+      tree = Equipment
+      node = Ironblade Quarterstaff
+      uses = Tablets
+      cost n = 22
+[]
+  name = Nibiran Quarterstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Rupu Vine
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+    ingredients[]
+      name = Worm Scale
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Nibiran Quarterstaff
+      uses = Tablets
+      cost n = 22
+[]
+  name = Rawbone Battle Axe
+  category = items/weapons/tools/axes
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 14
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Wood
+      count n = 58
+    unlock
+      tree = Equipment
+      node = Rawbone Battle Axe
+      uses = Fragments
+      cost n = 35
+[]
+  name = Bouldercut Battle Axe
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Worm Silk
+      count n = 10
+    ingredients[]
+      name = Rupu Vine
+      count n = 18
+    unlock
+      tree = Equipment
+      node = Bouldercut Battle Axe
+      uses = Tablets
+      cost n = 7
+[]
+  name = Nibiran Battle Axe
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 28
+    ingredients[]
+      name = Wood Shaft
+      count n = 12
+    ingredients[]
+      name = Iron Ingot
+      count n = 14
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    unlock
+      tree = Equipment
+      node = Nibiran Battle Axe
+      uses = Tablets
+      cost n = 12
+[]
+  name = Long Bonespike Swordstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 11
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    ingredients[]
+      name = Palm Leaves
+      count n = 15
+    unlock
+      tree = Equipment
+      node = Long Bonespike Swordstaff
+      uses = Fragments
+      cost n = 30
+[]
+  name = Wyndan Flame Sword
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 16
+    ingredients[]
+      name = Wood Shaft
+      count n = 14
+    ingredients[]
+      name = Worm Silk
+      count n = 8
+    ingredients[]
+      name = Rupu Vine
+      count n = 14
+    unlock
+      tree = Equipment
+      node = Wyndan Flame Sword
+      uses = Tablets
+      cost n = 10
+[]
+  name = Nibiran Decapitator
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 34
+    ingredients[]
+      name = Wood Shaft
+      count n = 50
+    ingredients[]
+      name = Nomad Cloth
+      count n = 18
+    ingredients[]
+      name = Ceramic Shard
+      count n = 16
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+    unlock
+      tree = Equipment
+      node = Nibiran Decapitator
+      uses = Tablets
+      cost n = 25
+[]
+  name = Javelin
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+    ingredients[]
+      name = Stone
+      count n = 2
+    ingredients[]
+      name = Fiber
+      count n = 5
+    unlock
+      tree = Equipment
+      node = Javelin
+      uses = Fragments
+      cost n = 10
+[]
+  name = Torch
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 12
+    ingredients[]
+      name = Fiber
+      count n = 9
+    ingredients[]
+      name = Stone
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Torch
+      uses = Fragments
+      cost n = 3
+[]
+  name = Simple Sickle
+  category = items/weapons/tools/sickles
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 22
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    unlock
+      tree = Equipment
+      node = 
+      uses = Fragments
+      cost n = 10
+[]
+  name = Simple Pickaxe
+  category = items/weapons/tools/pickaxes
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
+    ingredients[]
+      name = Bone Splinter
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Simple Pickaxe
+      uses = Fragments
+      cost n = 10
+[]
+  name = Advanced Pickaxe
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Bone Glue
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Advanced Pickaxe
+      uses = Tablets
+      cost n = 1
+[]
+  name = Master Pickaxe
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 3
+    ingredients[]
+      name = Wood Shaft
+      count n = 28
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Master Pickaxe
+      uses = Tablets
+      cost n = 8
+[]
+  name = Simple Repair Hammer
+  category = items/weapons/tools/repair hammer
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 55
+    unlock
+      tree = Equipment
+      node = Simple Repair Hammer
+      uses = Fragments
+      cost n = 10
+[]
+  name = Primitive Bandage
+  category = items/interactables/bandages
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 6
+    unlock
+      tree = Equipment
+      node = Primitive Bandage
+      uses = Fragments
+      cost n = 2
+[]
+  name = Sterile Bandage
+  category = items/interactables/bandages
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Aloe
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Sterile Bandage
+      uses = Fragments
+      cost n = 15
+[]
+  name = Durable Water Sack
+  category = items/gear/backpacks/belt
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 8
+    ingredients[]
+      name = Earth Wax
+      count n = 3
+    unlock
+      tree = Equipment
+      node = Durable Water Sack
+      uses = Fragments
+      cost n = 10
+[]
+  name = Light Backpack
+  category = items/gear/backpacks/belt
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 4
+    ingredients[]
+      name = Hide
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Light Backpack
+      uses = Fragments
+      cost n = 10
+[]
+  name = Split Durable Water Sack
+  category = items/gear/backpacks/belt
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 12
+    ingredients[]
+      name = Palm Leaves
+      count n = 35
+    ingredients[]
+      name = Fiber
+      count n = 112
+    ingredients[]
+      name = Beeswax
+      count n = 15
+    unlock
+      tree = Equipment
+      node = Split Durable Water Sack
+      uses = Tablets
+      cost n = 25
+[]
+  name = Heavy Backpack
+  category = items/gear/backpacks/belt
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 5
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+    unlock
+      tree = Equipment
+      node = Heavy Backpack
+      uses = Tablets
+      cost n = 10
+[]
+  name = Medium Backpack
+  category = items/gear/backpacks/belts
+  crafting[]
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Fiber Weave
+      count n = 8
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Medium Backpack
+      uses = Fragments
+      cost n = 35
+[]
+  name = Water Circulator
+  category = items/gear/backpacks/belts
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 38
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Rope
+      count n = 25
+    unlock
+      tree = Equipment
+      node = Water Circulator
+      uses = Tablets
+      cost n = 10
+[]
+  name = Wingsuit
+  category = items/gear/belts
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    unlock
+      tree = Equipment
+      node = Wingsuit
+      uses = Tablets
+      cost n = 50
+[]
+  name = Bone Bottle
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    ingredients[]
+      name = Bone Splinter
+      count n = 5
+    ingredients[]
+      name = Fiber
+      count n = 32
+    unlock
+      tree = Equipment
+      node = Bone Bottle
+      uses = Fragments
+      cost n = 25
+[]
+  name = Ceramic Flask
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 8
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 32
+    unlock
+      tree = Equipment
+      node = Ceramic Flask
+      uses = Tablets
+      cost n = 2
+[]
+  name = Improvised Bottle
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Huge Cactus Fruit
+      count n = 1
+    ingredients[]
+      name = Fiber
+      count n = 20
+    ingredients[]
+      name = Hide
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Improvised Bottle
+      uses = Fragments
+      cost n = 1
+[]
+  name = Makeshift Bottle
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 5
+    ingredients[]
+      name = Wood
+      count n = 5
+    unlock
+      tree = Equipment
+      node = Makeshift Bottle
+      uses = Fragments
+      cost n = 2
+[]
+  name = Split Bone Bottle
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 7
+    ingredients[]
+      name = Fiber
+      count n = 35
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    unlock
+      tree = Equipment
+      node = Split Bone Bottle
+      uses = Fragments
+      cost n = 35
+[]
+  name = Split Ceramic Flask
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 40
+    unlock
+      tree = Equipment
+      node = Split Ceramic Flask
+      uses = Tablets
+      cost n = 3
+[]
+  name = Foraging Pouch
+  category = items/gear/container
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 28
+    unlock
+      tree = Equipment
+      node = Foraging Pouch
+      uses = Fragments
+      cost n = 5
+[]
+  name = Large Gathering Pouch
+  category = items/gear/container
+  crafting[]
+    ingredients[]
+      name = Fiber Weave
+      count n = 8
+    ingredients[]
+      name = Beeswax
+      count n = 3
+    unlock
+      tree = Equipment
+      node = Large Gathering Pouch
+      uses = Fragments
+      cost n = 10
+[]
+  name = Beltless Grappling Hook
+  category = items/gear/grappling/hook
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 18
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 3
+    ingredients[]
+      name = Palm Leaves
+      count n = 40
+    unlock
+      tree = Equipment
+      node = Beltless Grappling Hook
+      uses = Tablets
+      cost n = 2
+[]
+  name = Fast Grappling Hook
+  category = items/gear/grappling/hook
+  crafting[]
+    ingredients[]
+      name = Rope
+      count n = 10
+    ingredients[]
+      name = Beeswax
+      count n = 12
+    unlock
+      tree = Equipment
+      node = Fast Grappling Hook
+      uses = Fragments
+      cost n = 10
+[]
+  name = Long Grappling Hook
+  category = items/gear/grappling/hook
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 3
+    ingredients[]
+      name = Rope
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+    unlock
+      tree = Equipment
+      node = Long Grappling Hook
+      uses = Fragments
+      cost n = 50
+[]
+  name = Torque Backpack
+  category = items/gear/backpacks/belts
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 22
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 30
+    ingredients[]
+      name = Wood
+      count n = 85
+    unlock
+      tree = Equipment
+      node = Torque Backpack
+      uses = Tablets
+      cost n = 2
+[]
+  name = Firefly Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 110
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 15
+[]
+  name = Firefly Walker Legs (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 7
+    ingredients[]
+      name = Fiber
+      count n = 1
+[]
+  name = Firefly Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 3
+    ingredients[]
+      name = Fiber Weave
+      count n = 7
+[]
+  name = Dinghy Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 380
+    ingredients[]
+      name = Fiber
+      count n = 245
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+[]
+  name = Dinghy Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 38
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
+[]
+  name = Dinghy Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 25
+    ingredients[]
+      name = Fiber Weave
+      count n = 18
+[]
+  name = Dinghy Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 18
+    ingredients[]
+      name = Fiber Weave
+      count n = 45
+    ingredients[]
+      name = Rope
+      count n = 10
+[]
+  name = Nomad Spider Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 110
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 15
+[]
+  name = Spider Walker Legs (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 12
+[]
+  name = Armored Spider Walker Legs (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 18
+[]
+  name = Spider Walker With Ballista
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 117
+    ingredients[]
+      name = Fiber
+      count n = 114
+    ingredients[]
+      name = Stone
+      count n = 18
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+[]
+  name = Stilleto Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 895
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 276
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 90
+[]
+  name = Stilleto Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 140
+    ingredients[]
+      name = Wood Shaft
+      count n = 18
+[]
+  name = Stilleto Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 47
+    ingredients[]
+      name = Fiber Weave
+      count n = 28
+[]
+  name = Stilleto Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Rope
+      count n = 12
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+[]
+  name = Stilleto Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 50
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Hide
+      count n = 30
+[]
+  name = Buffalo Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1620
+    ingredients[]
+      name = Wood Shaft
+      count n = 37
+    ingredients[]
+      name = Rope
+      count n = 9
+    ingredients[]
+      name = Fiber
+      count n = 1115
+    ingredients[]
+      name = Earth Wax
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 280
+[]
+  name = Buffalo Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 280
+    ingredients[]
+      name = Wood Shaft
+      count n = 36
+    ingredients[]
+      name = Earth Wax
+      count n = 42
+[]
+  name = Buffalo Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 93
+    ingredients[]
+      name = Fiber Weave
+      count n = 52
+[]
+  name = Buffalo Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 65
+    ingredients[]
+      name = Worm Silk
+      count n = 56
+    ingredients[]
+      name = Hide
+      count n = 100
+[]
+  name = Buffalo Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 92
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Hide
+      count n = 50
+[]
+  name = Toboggan Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1155
+    ingredients[]
+      name = Rope
+      count n = 68
+    ingredients[]
+      name = Fiber
+      count n = 165
+    ingredients[]
+      name = Fiber Weave
+      count n = 4
+    ingredients[]
+      name = Stone
+      count n = 180
+[]
+  name = Toboggan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 240
+    ingredients[]
+      name = Wood Shaft
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 36
+[]
+  name = Armored Toboggan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 840
+    ingredients[]
+      name = Wood Shaft
+      count n = 104
+    ingredients[]
+      name = Ceramic Shard
+      count n = 52
+    ingredients[]
+      name = Bone Glue
+      count n = 16
+[]
+  name = Heavy Toboggan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 45
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+    ingredients[]
+      name = Tar
+      count n = 3
+[]
+  name = Toboggan Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Fiber Weave
+      count n = 45
+[]
+  name = Toboggan Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 42
+    ingredients[]
+      name = Rope
+      count n = 18
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+[]
+  name = Toboggan Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 84
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Hide
+      count n = 36
+[]
+  name = Toboggan Walker Large Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Worm Silk
+      count n = 42
+    ingredients[]
+      name = Hide
+      count n = 85
+[]
+  name = Hornet Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1415
+    ingredients[]
+      name = Stone
+      count n = 400
+    ingredients[]
+      name = Fiber
+      count n = 550
+    ingredients[]
+      name = Rope
+      count n = 42
+    ingredients[]
+      name = Rupu Vine
+      count n = 82
+    ingredients[]
+      name = Fiber Weave
+      count n = 20
+    ingredients[]
+      name = Bone Splinter
+      count n = 55
+[]
+  name = Hornet Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 260
+    ingredients[]
+      name = Wood Shaft
+      count n = 32
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+[]
+  name = Hornet Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Worm Silk
+      count n = 42
+    ingredients[]
+      name = Hide
+      count n = 85
+[]
+  name = Hornet Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 80
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Hide
+      count n = 42
+[]
+  name = Falco Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1130
+    ingredients[]
+      name = Wood Shaft
+      count n = 58
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Fiber
+      count n = 555
+    ingredients[]
+      name = Stone
+      count n = 400
+[]
+  name = Falco Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 320
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Earth Wax
+      count n = 48
+[]
+  name = Armored Falco Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1176
+    ingredients[]
+      name = Wood Shaft
+      count n = 148
+    ingredients[]
+      name = Bone Splinter
+      count n = 82
+    ingredients[]
+      name = Bone Glue
+      count n = 28
+[]
+  name = Heavy Falco Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 72
+    ingredients[]
+      name = Chitin Plate
+      count n = 12
+    ingredients[]
+      name = Tar
+      count n = 5
+[]
+  name = Falco Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 107
+    ingredients[]
+      name = Fiber Weave
+      count n = 58
+[]
+  name = Small Falco Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 78
+    ingredients[]
+      name = Worm Silk
+      count n = 68
+    ingredients[]
+      name = Hide
+      count n = 120
+[]
+  name = Medium Falco Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 111
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Hide
+      count n = 60
+[]
+  name = Large Falco Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 156
+    ingredients[]
+      name = Rope
+      count n = 22
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+[]
+  name = Schmetterling Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 5177
+    ingredients[]
+      name = Wood Shaft
+      count n = 225
+    ingredients[]
+      name = Rope
+      count n = 1425
+    ingredients[]
+      name = Fiber
+      count n = 1425
+    ingredients[]
+      name = Bone Glue
+      count n = 7
+    ingredients[]
+      name = Stone
+      count n = 450
+[]
+  name = Schmetterling Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 900
+    ingredients[]
+      name = Wood Shaft
+      count n = 112
+    ingredients[]
+      name = Earth Wax
+      count n = 136
+[]
+  name = Armored Schmetterling Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 370
+    ingredients[]
+      name = Wood Shaft
+      count n = 392
+    ingredients[]
+      name = Ceramic Shard
+      count n = 130
+    ingredients[]
+      name = Tar
+      count n = 16
+[]
+  name = Heavy Schmetterling Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Reinforced Plank
+      count n = 24
+    ingredients[]
+      name = Worm Scale
+      count n = 5
+[]
+  name = Schmetterling Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 300
+    ingredients[]
+      name = Rope
+      count n = 26
+    ingredients[]
+      name = Nomad Cloth
+      count n = 13
+[]
+  name = Schmetterling Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 180
+    ingredients[]
+      name = Worm Silk
+      count n = 105
+    ingredients[]
+      name = Worm Scale
+      count n = 5
+[]
+  name = Schmetterling Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 280
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 32
+[]
+  name = Schmetterling Walker Large Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 140
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Hide
+      count n = 30
+[]
+  name = Tusker Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 2462
+    ingredients[]
+      name = Rope
+      count n = 270
+    ingredients[]
+      name = Wood Shaft
+      count n = 52
+    ingredients[]
+      name = Fiber
+      count n = 659
+    ingredients[]
+      name = Stone
+      count n = 500
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Bone Glue
+      count n = 5
+[]
+  name = Tusker Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 760
+    ingredients[]
+      name = Wood Shaft
+      count n = 96
+    ingredients[]
+      name = Earth Wax
+      count n = 114
+[]
+  name = Armored Tusker Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 468
+    ingredients[]
+      name = Wood Shaft
+      count n = 498
+    ingredients[]
+      name = Ceramic Shard
+      count n = 150
+    ingredients[]
+      name = Tar
+      count n = 15
+[]
+  name = Heavy Tusker Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 100
+    ingredients[]
+      name = Worm Scale
+      count n = 1
+    ingredients[]
+      name = Tar
+      count n = 7
+[]
+  name = Tusker Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 253
+    ingredients[]
+      name = Rope
+      count n = 22
+    ingredients[]
+      name = Nomad Cloth
+      count n = 11
+[]
+  name = Tusker Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1680
+    ingredients[]
+      name = Nomad Cloth
+      count n = 19
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+[]
+  name = Tusker Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 220
+    ingredients[]
+      name = Nomad Cloth
+      count n = 24
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Tusker Walker Large Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 110
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Hide
+      count n = 22
+[]
+  name = Proxy Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Rope
+      count n = 54
+    ingredients[]
+      name = Wood Shaft
+      count n = 127
+    ingredients[]
+      name = Wood
+      count n = 835
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Fiber
+      count n = 418
+    ingredients[]
+      name = Earth Wax
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 150
+[]
+  name = Proxy Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 750
+    ingredients[]
+      name = Wood Shaft
+      count n = 93
+    ingredients[]
+      name = Earth Wax
+      count n = 114
+[]
+  name = Armored Proxy Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 408
+    ingredients[]
+      name = Wood Shaft
+      count n = 93
+    ingredients[]
+      name = Ceramic Shard
+      count n = 168
+    ingredients[]
+      name = Tar
+      count n = 12
+[]
+  name = Heavy Proxy Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 214
+    ingredients[]
+      name = Worm Scale
+      count n = 2
+    ingredients[]
+      name = Tar
+      count n = 14
+[]
+  name = Titan Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 3030
+    ingredients[]
+      name = Stone
+      count n = 600
+    ingredients[]
+      name = Rope
+      count n = 159
+    ingredients[]
+      name = Wood Shaft
+      count n = 385
+[]
+  name = Titan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 900
+    ingredients[]
+      name = Wood Shaft
+      count n = 112
+    ingredients[]
+      name = Earth Wax
+      count n = 136
+[]
+  name = Armored Titan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 370
+    ingredients[]
+      name = Wood Shaft
+      count n = 392
+    ingredients[]
+      name = Ceramic Shard
+      count n = 130
+    ingredients[]
+      name = Tar
+      count n = 16
+[]
+  name = Heavy Titan Walker Legs (1 of 4)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 135
+    ingredients[]
+      name = Worm Scale
+      count n = 2
+    ingredients[]
+      name = Tar
+      count n = 10
+[]
+  name = Titan Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 300
+    ingredients[]
+      name = Rope
+      count n = 26
+    ingredients[]
+      name = Nomad Cloth
+      count n = 13
+[]
+  name = Titan Walker Small Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 220
+    ingredients[]
+      name = Worm Silk
+      count n = 135
+    ingredients[]
+      name = Worm Scale
+      count n = 6
+[]
+  name = Titan Walker Medium Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 280
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 32
+[]
+  name = Titan Walker Large Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 140
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Hide
+      count n = 30
