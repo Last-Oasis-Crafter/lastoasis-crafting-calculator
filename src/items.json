@@ -3608,7 +3608,7 @@
     ]
   },
   {
-    "name": "Stilleto Walker Legs (1 of 2)",
+    "name": "Stilleto Walker Legs (1 of 4)",
     "category": "walkers",
     "crafting": [
       {
@@ -3644,7 +3644,7 @@
     ]
   },
   {
-    "name": "Small Stilleto Walker Wings (1 of 2)",
+    "name": "Stilleto Walker Small Wings (1 of 2)",
     "category": "walkers",
     "crafting": [
       {
@@ -3666,7 +3666,7 @@
     ]
   },
   {
-    "name": "Medium Stilleto Walker Wings (1 of 2)",
+    "name": "Stilleto Walker Medium Wings (1 of 2)",
     "category": "walkers",
     "crafting": [
       {
@@ -3682,6 +3682,596 @@
           {
             "name": "Hide",
             "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1620
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 37
+          },
+          {
+            "name": "Rope",
+            "count": 9
+          },
+          {
+            "name": "Fiber",
+            "count": 1115
+          },
+          {
+            "name": "Earth Wax",
+            "count": 2
+          },
+          {
+            "name": "Stone",
+            "count": 280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 280
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 36
+          },
+          {
+            "name": "Earth Wax",
+            "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 93
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 65
+          },
+          {
+            "name": "Worm Silk",
+            "count": 56
+          },
+          {
+            "name": "Hide",
+            "count": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 92
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          },
+          {
+            "name": "Hide",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1155
+          },
+          {
+            "name": "Rope",
+            "count": 68
+          },
+          {
+            "name": "Fiber",
+            "count": 165
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 4
+          },
+          {
+            "name": "Stone",
+            "count": 180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 240
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 30
+          },
+          {
+            "name": "Earth Wax",
+            "count": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Toboggan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 840
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 104
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 52
+          },
+          {
+            "name": "Bone Glue",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Toboggan Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 45
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 5
+          },
+          {
+            "name": "Tar",
+            "count": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 80
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 42
+          },
+          {
+            "name": "Rope",
+            "count": 18
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 84
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          },
+          {
+            "name": "Hide",
+            "count": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Large Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 50
+          },
+          {
+            "name": "Worm Silk",
+            "count": 42
+          },
+          {
+            "name": "Hide",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1415
+          },
+          {
+            "name": "Stone",
+            "count": 400
+          },
+          {
+            "name": "Fiber",
+            "count": 550
+          },
+          {
+            "name": "Rope",
+            "count": 42
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 82
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 20
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 260
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 32
+          },
+          {
+            "name": "Earth Wax",
+            "count": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Small Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 50
+          },
+          {
+            "name": "Worm Silk",
+            "count": 42
+          },
+          {
+            "name": "Hide",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Medium Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 80
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          },
+          {
+            "name": "Hide",
+            "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Body",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1130
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 58
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Fiber",
+            "count": 555
+          },
+          {
+            "name": "Stone",
+            "count": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 320
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Earth Wax",
+            "count": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Falco Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1176
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 148
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 82
+          },
+          {
+            "name": "Bone Glue",
+            "count": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Falco Walker Legs (1 of 4)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 72
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 12
+          },
+          {
+            "name": "Tar",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 107
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Small Falco Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 78
+          },
+          {
+            "name": "Worm Silk",
+            "count": 68
+          },
+          {
+            "name": "Hide",
+            "count": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medium Falco Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 111
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Hide",
+            "count": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Large Falco Walker Wings (1 of 2)",
+    "category": "walkers",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 156
+          },
+          {
+            "name": "Rope",
+            "count": 22
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
           }
         ]
       }
