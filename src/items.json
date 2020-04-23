@@ -252,7 +252,24 @@
 	{
 		"name": "Hullbreaker Rock",
 		"category": "items/ammo/ammunition/projectiles/catapult",
-		"incomplete": "true"
+    "crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 8
+					},
+					{
+						"name": "Stone",
+						"count": 100
+					},
+					{
+						"name": "Sulfur",
+						"count": 10
+					}
+				]
+			}
+		]
 	},
 	{
 		"name": "Net",
