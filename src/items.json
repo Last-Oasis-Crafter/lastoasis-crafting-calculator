@@ -1,5 +1,450 @@
 [
 	{
+		"name": "Bone Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 3
+					},
+					{
+						"name": "Fiber",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Bone Harpoon",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Bolt",
+						"count": 1
+					},
+					{
+						"name": "Hide",
+						"count": 2
+					},
+					{
+						"name": "Rope",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Ceramic-Tipped Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 1
+					},
+					{
+						"name": "Fiber",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Ceramic-Tipped Harpoon",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic-Tipped Bolt",
+						"count": 1
+					},
+					{
+						"name": "Hide",
+						"count": 2
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Fire Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 5
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 12
+					},
+					{
+						"name": "Earth Wax",
+						"count": 2
+					},
+					{
+						"name": "Rupu Gel",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Flint Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Stone",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Flint Harpoon",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Flint Bolt",
+						"count": 1
+					},
+					{
+						"name": "Hide",
+						"count": 2
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Hellfire Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fire Bolt",
+						"count": 1
+					},
+					{
+						"name": "Bone Glue",
+						"count": 3
+					},
+					{
+						"name": "Tar",
+						"count": 35
+					},
+					{
+						"name": "Sulfur",
+						"count": 30
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Iron-Tipped Bolt",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ore",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 1
+					},
+					{
+						"name": "Feathers",
+						"count": 3
+					},
+					{
+						"name": "Fiber",
+						"count": 25
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Iron-Tipped Harpoon",
+		"category": "items/ammo/ammunition/projectiles/ballista",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron-Tipped Bolt",
+						"count": 1
+					},
+					{
+						"name": "Hide",
+						"count": 2
+					},
+					{
+						"name": "Rope",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Catapult Boulder",
+		"category": "items/ammo/ammunition/projectiles/catapult",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 20
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					},
+					{
+						"name": "Fiber",
+						"count": 18
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Hullbreaker Rock",
+		"category": "items/ammo/ammunition/projectiles/catapult",
+		"incomplete": "true"
+	},
+	{
+		"name": "Net",
+		"category": "items/ammo/ammunition/projectiles/netthrower",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 25
+					},
+					{
+						"name": "Stone",
+						"count": 4
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dart",
+		"category": "items/ammo/ammunition/projectiles/repeater",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 1
+					},
+					{
+						"name": "Fiber",
+						"count": 5
+					},
+					{
+						"name": "Stone",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Hullbreaker Scattershot",
+		"category": "items/ammo/ammunition/projectiles/scattershot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Obsidian",
+						"count": 50
+					},
+					{
+						"name": "Earth Wax",
+						"count": 8
+					},
+					{
+						"name": "Sulfur",
+						"count": 12
+					},
+					{
+						"name": "Rupu Gel",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Scattershot",
+		"category": "items/ammo/ammunition/projectiles/scattershot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 20
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Choking Cloud",
+		"category": "items/ammo/ammunition/projectiles/slingshot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 2
+					},
+					{
+						"name": "Ash",
+						"count": 30
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Green Death Bomb",
+		"category": "items/ammo/ammunition/projectiles/slingshot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 5
+					},
+					{
+						"name": "Earth Wax",
+						"count": 5
+					},
+					{
+						"name": "Mushroom Flesh",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rupu Rock",
+		"category": "items/ammo/ammunition/projectiles/slingshot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 10
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Small Boulder",
+		"category": "items/ammo/ammunition/projectiles/slingshot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 15
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sulfur Bomb",
+		"category": "items/ammo/ammunition/projectiles/slingshot",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 30
+					},
+					{
+						"name": "Earth Wax",
+						"count": 5
+					},
+					{
+						"name": "Sulfur",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Baskwood Armor",
 		"category": "items/armors/baskwood armor",
 		"crafting": [
@@ -2489,7 +2934,22 @@
 	},
 	{
 		"name": "Fiber Weave",
-		"category": "materials"
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 15
+					},
+					{
+						"name": "Wood",
+						"count": 2
+					}
+				],
+				"station": "Fiberworking Station"
+			}
+		]
 	},
 	{
 		"name": "Fragment",
@@ -2503,7 +2963,7 @@
 					},
 					{
 						"name": "Shattered Fragment",
-						"count": "1"
+						"count": 1
 					}
 				],
 				"station": "Woodworking Station"
@@ -2568,6 +3028,25 @@
 						"count": 80
 					}
 				]
+			}
+		]
+	},
+	{
+		"name": "Liquid Fuel",
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Animal Fat",
+						"count": 5
+					},
+					{
+						"name": "Sulfur",
+						"count": 1
+					}
+				],
+				"station": "Purification Station"
 			}
 		]
 	},
@@ -2861,7 +3340,22 @@
 	},
 	{
 		"name": "Wood Shaft",
-		"category": "materials"
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 5
+					},
+					{
+						"name": "Fiber",
+						"count": 2
+					}
+				],
+				"station": "Woodworking Station"
+			}
+		]
 	},
 	{
 		"name": "Worm Scale",

@@ -75,6 +75,14 @@
 []
   name = Fiber Weave
   category = materials
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 2
+    station = Fiberworking Station
 []
   name = Glass
   category = materials
@@ -254,6 +262,14 @@
 []
   name = Wood Shaft
   category = materials
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 5
+    ingredients[]
+      name = Fiber
+      count n = 2
+    station = Woodworking Station
 []
   name = Worm Silk
   category = materials
@@ -2615,7 +2631,7 @@
       count n = 1
     ingredients[]
       name = Shattered Fragment
-      count = 1
+      count n = 1
     station = Woodworking Station
 []
   name = Shattered Fragment
@@ -2694,3 +2710,278 @@
 []
   name = Worm Scale
   category = materials
+[]
+  name = Bone Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Bone Splinter
+      count n = 3
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Bone Harpoon
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Bone Bolt
+      count n = 1
+    ingredients[]
+      name = Hide
+      count n = 2
+    ingredients[]
+      name = Rope
+      count n = 4
+[]
+  name = Fire Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
+    ingredients[]
+      name = Fiber Weave
+      count n = 12
+    ingredients[]
+      name = Earth Wax
+      count n = 2
+    ingredients[]
+      name = Rupu Gel
+      count n = 3
+[]
+  name = Flint Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 5
+[]
+  name = Flint Harpoon
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Flint Bolt
+      count n = 1
+    ingredients[]
+      name = Hide
+      count n = 2
+    ingredients[]
+      name = Rupu Vine
+      count n = 5
+[]
+  name = Hellfire Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Fire Bolt
+      count n = 1
+    ingredients[]
+      name = Bone Glue
+      count n = 3
+    ingredients[]
+      name = Tar
+      count n = 35
+    ingredients[]
+      name = Sulfur
+      count n = 30
+[]
+  name = Iron-Tipped Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+    ingredients[]
+      name = Feathers
+      count n = 3
+    ingredients[]
+      name = Fiber
+      count n = 25
+[]
+  name = Iron-Tipped Harpoon
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Iron-Tipped Bolt
+      count n = 1
+    ingredients[]
+      name = Hide
+      count n = 2
+    ingredients[]
+      name = Rope
+      count n = 10
+[]
+  name = Ceramic-Tipped Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Ceramic Shard
+      count n = 1
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Ceramic-Tipped Harpoon
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Ceramic-Tipped Bolt
+      count n = 1
+    ingredients[]
+      name = Hide
+      count n = 2
+    ingredients[]
+      name = Rupu Vine
+      count n = 5
+[]
+  name = Catapult Boulder
+  category = items/ammo/ammunition/projectiles/catapult
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Fiber
+      count n = 18
+[]
+  name = Choking Cloud
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 2
+    ingredients[]
+      name = Ash
+      count n = 30
+    ingredients[]
+      name = Bone Splinter
+      count n = 1
+[]
+  name = Green Death Bomb
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 5
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 15
+[]
+  name = Rupu Rock
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Rupu Pelt
+      count n = 2
+[]
+  name = Small Boulder
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 15
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+[]
+  name = Sulfur Bomb
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+    ingredients[]
+      name = Sulfur
+      count n = 5
+[]
+  name = Dart
+  category = items/ammo/ammunition/projectiles/repeater
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+    ingredients[]
+      name = Fiber
+      count n = 5
+    ingredients[]
+      name = Stone
+      count n = 1
+[]
+  name = Hullbreaker Scattershot
+  category = items/ammo/ammunition/projectiles/scattershot
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 50
+    ingredients[]
+      name = Earth Wax
+      count n = 8
+    ingredients[]
+      name = Sulfur
+      count n = 12
+    ingredients[]
+      name = Rupu Gel
+      count n = 1
+[]
+  name = Scattershot
+  category = items/ammo/ammunition/projectiles/scattershot
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+[]
+  name = Net
+  category = items/ammo/ammunition/projectiles/netthrower
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 4
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+[]
+  name = Liquid Fuel
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Animal Fat
+      count n = 5
+    ingredients[]
+      name = Sulfur
+      count n = 1
+    station = Purification Station
+[]
+  name = Hullbreaker Rock
+  category = items/ammo/ammunition/projectiles/catapult
+  incomplete = true
