@@ -24,11 +24,6 @@
       name = Purified Water
       count n = 10
     station = Camp Fire
-    unlock
-      tree = Crafting
-      node = Bone Glue
-      uses = Fragments
-      cost n = 25
 []
   name = Bone Splinter
   category = materials
@@ -50,11 +45,6 @@
       count n = 1
     output n = 0.77
     station = Furnace
-    unlock
-      tree = Crafting
-      node = Furnace
-      uses = Tablets
-      cost n = 3
 []
   name = Charcoal
   category = materials
@@ -86,7 +76,7 @@
   name = Fiber Weave
   category = materials
 []
-  name = Glass Vial
+  name = Glass
   category = materials
 []
   name = Hide
@@ -105,11 +95,6 @@
       name = Iron Ore
       count n = 1
     station = Advanced Furnace
-    unlock
-      tree = Crafting
-      node = Advanced Furnace
-      uses = Tablets
-      cost n = 25
 []
   name = Iron Ore
   category = materials
@@ -130,11 +115,6 @@
       name = Bone Glue
       count n = 1
     station = Advanced Fiberworking Station
-    unlock
-      tree = Crafting
-      node = Nomad Cloth
-      uses = Fragments
-      cost n = 8
   crafting[]
     ingredients[]
       name = Cotton
@@ -143,11 +123,6 @@
       name = Earth Wax
       count n = 12
     station = Advanced Fiberworking Station
-    unlock
-      tree = Crafting
-      node = Nomad Cloth
-      uses = Fragments
-      cost n = 8
 []
   name = Obsidian
   category = materials
@@ -171,11 +146,6 @@
       name = Cattail
       count n = 8
     station = Fiberworking Station
-    unlock
-      tree = Crafting
-      node = Rope
-      uses = Fragments
-      cost n = 8
   crafting[]
     ingredients[]
       name = Fiber
@@ -184,11 +154,6 @@
       name = Rupu Vine
       count n = 2
     station = Fiberworking Station
-    unlock
-      tree = Crafting
-      node = Rope
-      uses = Fragments
-      cost n = 8
 []
   name = Rupu Pelt
   category = materials
@@ -218,11 +183,6 @@
       name = Earth Wax
       count n = 1
     station = Furnace
-    unlock
-      tree = Crafting
-      node = Furnace
-      uses = Tablets
-      cost n = 3
 []
   name = Thornberry
   category = materials
@@ -239,11 +199,6 @@
       name = Aloe
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Crafting
-      node = Purified Water
-      uses = Fragments
-      cost n = 10
   crafting[]
     ingredients[]
       name = Contaminated Water
@@ -252,21 +207,11 @@
       name = Sand
       count n = 15
     station = Camp Fire
-    unlock
-      tree = Crafting
-      node = Purified Water
-      uses = Fragments
-      cost n = 10
   crafting[]
     ingredients[]
       name = Contaminated Water
       count n = 5
     station = Camp Fire
-    unlock
-      tree = Crafting
-      node = Purified Water
-      uses = Fragments
-      cost n = 10
   crafting[]
     ingredients[]
       name = Apple
@@ -323,11 +268,6 @@
       name = Purified Water
       count n = 10
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Vision Powder
-      uses = Fragments
-      cost n = 6
 []
   name = Sinus Destroyer
   category = items/vitamins
@@ -345,11 +285,6 @@
       name = Glass
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Sinus Destroyer
-      uses = Tablets
-      cost n = 3
 []
   name = Rupu Repellent
   category = items/vitamins
@@ -367,11 +302,6 @@
       name = Glass
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Rupu Repellent
-      uses = Tablets
-      cost n = 1
 []
   name = Race Dust
   category = items/vitamins
@@ -389,11 +319,6 @@
       name = Glass
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Race Dust
-      uses = Tablets
-      cost n = 1
 []
   name = Jojo Mojo
   category = items/vitamins
@@ -408,11 +333,6 @@
       name = Glass
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Jojo Mojo
-      uses = Fragments
-      cost n = 10
 []
   name = Fury Fumes
   category = items/vitamins
@@ -427,11 +347,6 @@
       name = Glass
       count n = 1
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Fury Fumes
-      uses = Fragments
-      cost n = 35
 []
   name = Desert Mule
   category = items/vitamins
@@ -443,11 +358,6 @@
       name = Purified Water
       count n = 10
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Desert Mule
-      uses = Fragments
-      cost n = 10
 []
   name = Bonebreaker
   category = items/vitamins
@@ -462,11 +372,6 @@
       name = Ceramic Shard
       count n = 15
     station = Camp Fire
-    unlock
-      tree = Vitamins
-      node = Bonebreaker
-      uses = Tablets
-      cost n = 10
 []
   name = Fiber Headwrap
   category = items/armors/fiber armor
@@ -474,11 +379,6 @@
     ingredients[]
       name = Fiber
       count n = 12
-    unlock
-      tree = Equipment
-      node = Fiber Headwrap
-      uses = Fragments
-      cost n = 3
 []
   name = Fiber Shirt And Trousers
   category = items/armors/fiber armor
@@ -486,11 +386,6 @@
     ingredients[]
       name = Fiber Weave
       count n = 2
-    unlock
-      tree = Equipment
-      node = Fiber Shirt And Trousers
-      uses = Fragments
-      cost n = 6
 []
   name = Fiber Arm Wraps
   category = items/armors/fiber armor
@@ -501,11 +396,6 @@
     ingredients[]
       name = Cattail
       count n = 12
-    unlock
-      tree = Equipment
-      node = Fiber Arm Wraps
-      uses = Fragments
-      cost n = 10
 []
   name = Fiber Sandals
   category = items/armors/fiber armor
@@ -516,11 +406,6 @@
     ingredients[]
       name = Hide
       count n = 2
-    unlock
-      tree = Equipment
-      node = Fiber Sandals
-      uses = Fragments
-      cost n = 3
 []
   name = Baskwood Armor
   category = items/armors/baskwood armor
@@ -534,11 +419,6 @@
     ingredients[]
       name = Earth Wax
       count n = 4
-    unlock
-      tree = Equipment
-      node = Baskwood Armor
-      uses = Fragments
-      cost n = 35
 []
   name = Baskwood Bracers
   category = items/armors/baskwood armor
@@ -555,11 +435,6 @@
     ingredients[]
       name = Earth Wax
       count n = 3
-    unlock
-      tree = Equipment
-      node = Baskwood Bracers
-      uses = Tablets
-      cost n = 1
 []
   name = Baskwood Boots
   category = items/armors/baskwood armor
@@ -576,11 +451,6 @@
     ingredients[]
       name = Earth Wax
       count n = 4
-    unlock
-      tree = Equipment
-      node = Baskwood Boots
-      uses = Tablets
-      cost n = 1
 []
   name = Carapace Armor
   category = items/armors/carapace armor
@@ -597,11 +467,6 @@
     ingredients[]
       name = Cattail
       count n = 48
-    unlock
-      tree = Equipment
-      node = Carapace Armor
-      uses = Tablets
-      cost n = 5
 []
   name = Carapace Gauntlets
   category = items/armors/carapace armor
@@ -618,11 +483,6 @@
     ingredients[]
       name = Cattail
       count n = 28
-    unlock
-      tree = Equipment
-      node = Carapace Gauntlets
-      uses = Fragments
-      cost n = 3
 []
   name = Carapace Boots
   category = items/armors/carapace armor
@@ -639,11 +499,6 @@
     ingredients[]
       name = Cattail
       count n = 35
-    unlock
-      tree = Equipment
-      node = Carapace Boots
-      uses = Tablets
-      cost n = 5
 []
   name = Forester's Armor
   category = items/armors/forester's armor
@@ -657,11 +512,6 @@
     ingredients[]
       name = Fiber
       count n = 35
-    unlock
-      tree = Equipment
-      node = Forester's Armor
-      uses = Fragments
-      cost n = 35
 []
   name = Forester's Sleeves
   category = items/armors/forester's armor
@@ -675,11 +525,6 @@
     ingredients[]
       name = Fiber
       count n = 15
-    unlock
-      tree = Equipment
-      node = Forester's Sleeves
-      uses = Tablets
-      cost n = 1
 []
   name = Forester's Sandals
   category = items/armors/forester's armor
@@ -693,11 +538,6 @@
     ingredients[]
       name = Fiber
       count n = 25
-    unlock
-      tree = Equipment
-      node = Forester's Sandals
-      uses = Tablets
-      cost n = 1
 []
   name = Brittle Bone Armor
   category = items/armors/forester's armor
@@ -706,11 +546,6 @@
       name = Chitin Plate
       count n = 8
       forester's armor n = 1
-    unlock
-      tree = Equipment
-      node = Brittle Bone Armor
-      uses = Fragments
-      cost n = 35
 []
   name = Iron Studded Armor
   category = items/armors/iron studded armor
@@ -727,11 +562,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 10
-    unlock
-      tree = Equipment
-      node = Iron Studded Armor
-      uses = Tablets
-      cost n = 25
 []
   name = Iron Studded Gauntlets
   category = items/armors/iron studded armor
@@ -748,11 +578,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 5
-    unlock
-      tree = Equipment
-      node = Iron Studded Gauntlets
-      uses = Tablets
-      cost n = 8
 []
   name = Iron Studded Boots
   category = items/armors/iron studded armor
@@ -769,11 +594,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 14
-    unlock
-      tree = Equipment
-      node = Iron Studded Boots
-      uses = Tablets
-      cost n = 8
 []
   name = Redwood Wood Armor
   category = items/armors/redwood wood armor
@@ -790,11 +610,6 @@
     ingredients[]
       name = Worm Silk
       count n = 38
-    unlock
-      tree = Equipment
-      node = Redwood Wood Armor
-      uses = Tablets
-      cost n = 3
 []
   name = Redwood Wood Bracers
   category = items/armors/redwood wood armor
@@ -811,11 +626,6 @@
     ingredients[]
       name = Worm Silk
       count n = 20
-    unlock
-      tree = Equipment
-      node = Redwood Wood Bracers
-      uses = Tablets
-      cost n = 1
 []
   name = Redwood Wood Boots
   category = items/armors/redwood wood armor
@@ -832,11 +642,6 @@
     ingredients[]
       name = Worm Silk
       count n = 28
-    unlock
-      tree = Equipment
-      name = redwood wood Armor
-      uses = Tablets
-      cost n = 1
 []
   name = Rupu Fur Armor
   category = items/armors/rupu fur armor
@@ -847,11 +652,6 @@
     ingredients[]
       name = Rope
       count n = 2
-    unlock
-      tree = Equipment
-      node = Rupu Fur Armor
-      uses = Fragments
-      cost n = 10
 []
   name = Rupu Fur Sleeves
   category = items/armors/rupu fur armor
@@ -862,11 +662,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 6
-    unlock
-      tree = Equipment
-      node = Rupu Fur Sleeves
-      uses = Fragments
-      cost n = 10
 []
   name = Rupu Fur Sandals
   category = items/armors/rupu fur armor
@@ -877,11 +672,6 @@
     ingredients[]
       name = Palm Leaves
       count n = 8
-    unlock
-      tree = Equipment
-      node = Rupu Fur Sandals
-      uses = Fragments
-      cost n = 10
 []
   name = Cloaked Rupu Fur Armor
   category = items/armors/rupu fur armor
@@ -895,11 +685,6 @@
     ingredients[]
       name = Rupu fur Armor
       count n = 1
-    unlock
-      tree = Equipment
-      node = Cloaked Rupu Fur Armor
-      uses = Fragments
-      cost n = 25
 []
   name = Triple Stitch Armor
   category = items/armors/triple stitch armor
@@ -910,11 +695,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 8
-    unlock
-      tree = Equipment
-      node = Triple Stitch Armor
-      uses = Fragments
-      cost n = 35
 []
   name = Triple Stitch Bracers
   category = items/armors/triple stitch armor
@@ -928,11 +708,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 12
-    unlock
-      tree = Equipment
-      node = Triple Stitch Bracers
-      uses = Tablets
-      cost n = 12
 []
   name = Triple Stitch Boots
   category = items/armors/triple stitch armor
@@ -946,11 +721,6 @@
     ingredients[]
       name = Cotton
       count n = 25
-    unlock
-      tree = Equipment
-      node = Triple Stitch Armor
-      uses = Tablets
-      cost n = 12
 []
   name = Cloak
   category = items/armors/cloak
@@ -967,11 +737,6 @@
     ingredients[]
       name = Worm Silk
       count n = 18
-    unlock
-      tree = Equipment
-      node = Cloak
-      uses = Tablets
-      cost n = 1
 []
   name = Feather Boots
   category = items/armors/feather boots
@@ -982,11 +747,6 @@
     ingredients[]
       name = Rope
       count n = 2
-    unlock
-      tree = Equipment
-      node = Feather Boots
-      uses = Tablets
-      cost n = 25
 []
   name = Beat Stick
   category = items/weapons
@@ -1010,11 +770,6 @@
     ingredients[]
       name = Hide
       count n = 3
-    unlock
-      tree = Equipment
-      node = Jaggertooth Club
-      uses = Fragments
-      cost n = 10
 []
   name = Rawbone Club
   category = items/weapons
@@ -1028,11 +783,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 1
-    unlock
-      tree = Equipment
-      node = Rawbone Club
-      uses = Fragments
-      cost n = 20
 []
   name = Spikebone Club
   category = items/weapons
@@ -1049,11 +799,6 @@
     ingredients[]
       name = Bone Glue
       count n = 2
-    unlock
-      tree = Equipment
-      node = Spikebone Club
-      uses = Fragments
-      cost n = 25
 []
   name = Short Ceramic Hoofmace
   category = items/weapons
@@ -1070,11 +815,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 5
-    unlock
-      tree = Equipment
-      node = Short Ceramic Hoofmace
-      uses = Tablets
-      cost n = 1
 []
   name = Wyndan Hammer
   category = items/weapons
@@ -1091,11 +831,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
-    unlock
-      tree = Equipment
-      node = Wyndan Hammer
-      uses = Tablets
-      cost n = 5
 []
   name = Nibiran Hammer
   category = items/weapons
@@ -1112,11 +847,6 @@
     ingredients[]
       name = Bone Glue
       count n = 35
-    unlock
-      tree = Equipment
-      node = Nibiran Hammer
-      uses = Tablets
-      cost n = 10
 []
   name = Woodcutter's Hatchet
   category = items/weapons/tools/axes
@@ -1127,11 +857,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 1
-    unlock
-      tree = Equipment
-      node = Woodcutter's Hatchet
-      uses = Fragments
-      cost n = 3
 []
   name = Rawbone Hand Axe
   category = items/weapons/tools/axes
@@ -1145,11 +870,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 4
-    unlock
-      tree = Equipment
-      node = Rawbone Hand Axe
-      uses = Fragments
-      cost n = 20
 []
   name = Heavy Rawbone Hand Axe
   category = items/weapons/tools/axes
@@ -1163,11 +883,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 10
-    unlock
-      tree = Equipment
-      node = Heavy Rawbone Hand Axe
-      uses = Fragments
-      cost n = 32
 []
   name = Advanced Hatchet
   category = items/weapons/tools/axes
@@ -1184,11 +899,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 4
-    unlock
-      tree = Equipment
-      node = Advanced Hatchet
-      uses = Tablets
-      cost n = 1
 []
   name = Bouldercut Hand Axe
   category = items/weapons/tools/axes
@@ -1205,11 +915,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 11
-    unlock
-      tree = Equipment
-      node = Bouldercut Hand Axe
-      uses = Tablets
-      cost n = 5
 []
   name = Nibiran Hand Axe
   category = items/weapons/tools/axes
@@ -1226,11 +931,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 4
-    unlock
-      tree = Equipment
-      node = Nibiran Hand Axe
-      uses = Tablets
-      cost n = 10
 []
   name = Bonespike Sword
   category = items/weapons
@@ -1244,11 +944,6 @@
     ingredients[]
       name = Bone Splinter
       count n = 5
-    unlock
-      tree = Equipment
-      node = Bonespike Sword
-      uses = Fragments
-      cost n = 20
 []
   name = Short Malletblade
   category = items/weapons
@@ -1262,11 +957,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 4
-    unlock
-      tree = Equipment
-      node = Short Malletblade
-      uses = Tablets
-      cost n = 1
 []
   name = Wyndan Sabre
   category = items/weapons
@@ -1283,11 +973,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 12
-    unlock
-      tree = Equipment
-      node = Wyndan Sabre
-      uses = Tablets
-      cost n = 5
 []
   name = Nibiran Curved Dagger
   category = items/weapons
@@ -1304,11 +989,6 @@
     ingredients[]
       name = Ceramic Shard
       count n = 10
-    unlock
-      tree = Equipment
-      node = Nibiran Curved Dagger
-      uses = Tablets
-      cost n = 12
 []
   name = Scythe
   category = items/weapons/tools/sickles
@@ -1325,11 +1005,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 14
-    unlock
-      tree = Equipment
-      node = Scythe
-      uses = Fragments
-      cost n = 30
 []
   name = Jaggertooth Maul
   category = items/weapons
@@ -1356,11 +1031,6 @@
     ingredients[]
       name = Bone Splinter
       count n = 10
-    unlock
-      tree = Equipment
-      node = Spikebone Maul
-      uses = Fragments
-      cost n = 35
 []
   name = Rawbone Maul
   category = items/weapons
@@ -1377,11 +1047,6 @@
     ingredients[]
       name = Bone Splinter
       count n = 8
-    unlock
-      tree = Equipment
-      node = Rawbone Maul
-      uses = Fragments
-      cost n = 25
 []
   name = Long Ceramic Hoofmace
   category = items/weapons
@@ -1398,11 +1063,6 @@
     ingredients[]
       name = Stone
       count n = 70
-    unlock
-      tree = Equipment
-      node = Long Ceramic Hoofmace
-      uses = Tablets
-      cost n = 2
 []
   name = Sawtooth Sword
   category = items/weapons
@@ -1416,11 +1076,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 6
-    unlock
-      tree = Equipment
-      node = Sawtooth Sword
-      uses = Fragments
-      cost n = 40
 []
   name = Singblade
   category = items/weapons
@@ -1437,11 +1092,6 @@
     ingredients[]
       name = Stone
       count n = 80
-    unlock
-      tree = Equipment
-      node = Singblade
-      uses = Tablets
-      cost n = 2
 []
   name = Blunt Quarterstaff
   category = items/weapons
@@ -1452,11 +1102,6 @@
     ingredients[]
       name = Stone
       count n = 15
-    unlock
-      tree = Equipment
-      node = Blunt Quarterstaff
-      uses = Fragments
-      cost n = 10
 []
   name = Traveller's Staff
   category = items/weapons
@@ -1467,11 +1112,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 4
-    unlock
-      tree = Equipment
-      node = Traveller's Staff
-      uses = Fragments
-      cost n = 10
 []
   name = Rawbone Quarterstaff
   category = items/weapons
@@ -1485,11 +1125,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 10
-    unlock
-      tree = Equipment
-      node = Rawbone Quarterstaff
-      uses = Fragments
-      cost n = 30
 []
   name = Paddleblade Quarterstaff
   category = items/weapons
@@ -1506,11 +1141,6 @@
     ingredients[]
       name = Beeswax
       count n = 3
-    unlock
-      tree = Equipment
-      node = Paddleblade Quarterstaff
-      uses = Tablets
-      cost n = 1
 []
   name = Wyndanblade Quarterstaff
   category = items/weapons
@@ -1524,11 +1154,6 @@
     ingredients[]
       name = Rupu Pelt
       count n = 6
-    unlock
-      tree = Equipment
-      node = Wyndanblade Quarterstaff
-      uses = Tablets
-      cost n = 8
 []
   name = Ironblade Quarterstaff
   category = items/weapons
@@ -1548,11 +1173,6 @@
     ingredients[]
       name = Ceramic Shard
       count n = 15
-    unlock
-      tree = Equipment
-      node = Ironblade Quarterstaff
-      uses = Tablets
-      cost n = 22
 []
   name = Nibiran Quarterstaff
   category = items/weapons
@@ -1572,11 +1192,6 @@
     ingredients[]
       name = Worm Scale
       count n = 2
-    unlock
-      tree = Equipment
-      node = Nibiran Quarterstaff
-      uses = Tablets
-      cost n = 22
 []
   name = Rawbone Battle Axe
   category = items/weapons/tools/axes
@@ -1590,11 +1205,6 @@
     ingredients[]
       name = Wood
       count n = 58
-    unlock
-      tree = Equipment
-      node = Rawbone Battle Axe
-      uses = Fragments
-      cost n = 35
 []
   name = Bouldercut Battle Axe
   category = items/weapons
@@ -1611,11 +1221,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 18
-    unlock
-      tree = Equipment
-      node = Bouldercut Battle Axe
-      uses = Tablets
-      cost n = 7
 []
   name = Nibiran Battle Axe
   category = items/weapons
@@ -1632,11 +1237,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 4
-    unlock
-      tree = Equipment
-      node = Nibiran Battle Axe
-      uses = Tablets
-      cost n = 12
 []
   name = Long Bonespike Swordstaff
   category = items/weapons
@@ -1650,11 +1250,6 @@
     ingredients[]
       name = Palm Leaves
       count n = 15
-    unlock
-      tree = Equipment
-      node = Long Bonespike Swordstaff
-      uses = Fragments
-      cost n = 30
 []
   name = Wyndan Flame Sword
   category = items/weapons
@@ -1671,11 +1266,6 @@
     ingredients[]
       name = Rupu Vine
       count n = 14
-    unlock
-      tree = Equipment
-      node = Wyndan Flame Sword
-      uses = Tablets
-      cost n = 10
 []
   name = Nibiran Decapitator
   category = items/weapons
@@ -1695,11 +1285,6 @@
     ingredients[]
       name = Redwood Wood
       count n = 20
-    unlock
-      tree = Equipment
-      node = Nibiran Decapitator
-      uses = Tablets
-      cost n = 25
 []
   name = Javelin
   category = items/weapons
@@ -1713,11 +1298,6 @@
     ingredients[]
       name = Fiber
       count n = 5
-    unlock
-      tree = Equipment
-      node = Javelin
-      uses = Fragments
-      cost n = 10
 []
   name = Torch
   category = items/weapons
@@ -1731,11 +1311,6 @@
     ingredients[]
       name = Stone
       count n = 2
-    unlock
-      tree = Equipment
-      node = Torch
-      uses = Fragments
-      cost n = 3
 []
   name = Simple Sickle
   category = items/weapons/tools/sickles
@@ -1749,11 +1324,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 2
-    unlock
-      tree = Equipment
-      node = 
-      uses = Fragments
-      cost n = 10
 []
   name = Simple Pickaxe
   category = items/weapons/tools/pickaxes
@@ -1767,11 +1337,6 @@
     ingredients[]
       name = Bone Splinter
       count n = 12
-    unlock
-      tree = Equipment
-      node = Simple Pickaxe
-      uses = Fragments
-      cost n = 10
 []
   name = Advanced Pickaxe
   category = items/weapons
@@ -1785,11 +1350,6 @@
     ingredients[]
       name = Bone Glue
       count n = 2
-    unlock
-      tree = Equipment
-      node = Advanced Pickaxe
-      uses = Tablets
-      cost n = 1
 []
   name = Master Pickaxe
   category = items/weapons
@@ -1803,11 +1363,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 1
-    unlock
-      tree = Equipment
-      node = Master Pickaxe
-      uses = Tablets
-      cost n = 8
 []
   name = Simple Repair Hammer
   category = items/weapons/tools/repair hammer
@@ -1818,11 +1373,6 @@
     ingredients[]
       name = Stone
       count n = 55
-    unlock
-      tree = Equipment
-      node = Simple Repair Hammer
-      uses = Fragments
-      cost n = 10
 []
   name = Primitive Bandage
   category = items/interactables/bandages
@@ -1830,11 +1380,6 @@
     ingredients[]
       name = Fiber
       count n = 6
-    unlock
-      tree = Equipment
-      node = Primitive Bandage
-      uses = Fragments
-      cost n = 2
 []
   name = Sterile Bandage
   category = items/interactables/bandages
@@ -1845,11 +1390,6 @@
     ingredients[]
       name = Aloe
       count n = 1
-    unlock
-      tree = Equipment
-      node = Sterile Bandage
-      uses = Fragments
-      cost n = 15
 []
   name = Durable Water Sack
   category = items/gear/backpacks/belt
@@ -1860,11 +1400,6 @@
     ingredients[]
       name = Earth Wax
       count n = 3
-    unlock
-      tree = Equipment
-      node = Durable Water Sack
-      uses = Fragments
-      cost n = 10
 []
   name = Light Backpack
   category = items/gear/backpacks/belt
@@ -1875,11 +1410,6 @@
     ingredients[]
       name = Hide
       count n = 12
-    unlock
-      tree = Equipment
-      node = Light Backpack
-      uses = Fragments
-      cost n = 10
 []
   name = Split Durable Water Sack
   category = items/gear/backpacks/belt
@@ -1896,11 +1426,6 @@
     ingredients[]
       name = Beeswax
       count n = 15
-    unlock
-      tree = Equipment
-      node = Split Durable Water Sack
-      uses = Tablets
-      cost n = 25
 []
   name = Heavy Backpack
   category = items/gear/backpacks/belt
@@ -1911,11 +1436,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 14
-    unlock
-      tree = Equipment
-      node = Heavy Backpack
-      uses = Tablets
-      cost n = 10
 []
   name = Medium Backpack
   category = items/gear/backpacks/belts
@@ -1929,11 +1449,6 @@
     ingredients[]
       name = Bone Glue
       count n = 1
-    unlock
-      tree = Equipment
-      node = Medium Backpack
-      uses = Fragments
-      cost n = 35
 []
   name = Water Circulator
   category = items/gear/backpacks/belts
@@ -1947,11 +1462,6 @@
     ingredients[]
       name = Rope
       count n = 25
-    unlock
-      tree = Equipment
-      node = Water Circulator
-      uses = Tablets
-      cost n = 10
 []
   name = Wingsuit
   category = items/gear/belts
@@ -1962,11 +1472,6 @@
     ingredients[]
       name = Wood Shaft
       count n = 20
-    unlock
-      tree = Equipment
-      node = Wingsuit
-      uses = Tablets
-      cost n = 50
 []
   name = Bone Bottle
   category = items/gear/bottles
@@ -1980,11 +1485,6 @@
     ingredients[]
       name = Fiber
       count n = 32
-    unlock
-      tree = Equipment
-      node = Bone Bottle
-      uses = Fragments
-      cost n = 25
 []
   name = Ceramic Flask
   category = items/gear/bottles
@@ -1998,11 +1498,6 @@
     ingredients[]
       name = Fiber
       count n = 32
-    unlock
-      tree = Equipment
-      node = Ceramic Flask
-      uses = Tablets
-      cost n = 2
 []
   name = Improvised Bottle
   category = items/gear/bottles
@@ -2016,11 +1511,6 @@
     ingredients[]
       name = Hide
       count n = 2
-    unlock
-      tree = Equipment
-      node = Improvised Bottle
-      uses = Fragments
-      cost n = 1
 []
   name = Makeshift Bottle
   category = items/gear/bottles
@@ -2031,11 +1521,6 @@
     ingredients[]
       name = Wood
       count n = 5
-    unlock
-      tree = Equipment
-      node = Makeshift Bottle
-      uses = Fragments
-      cost n = 2
 []
   name = Split Bone Bottle
   category = items/gear/bottles
@@ -2049,11 +1534,6 @@
     ingredients[]
       name = Nomad Cloth
       count n = 1
-    unlock
-      tree = Equipment
-      node = Split Bone Bottle
-      uses = Fragments
-      cost n = 35
 []
   name = Split Ceramic Flask
   category = items/gear/bottles
@@ -2067,11 +1547,6 @@
     ingredients[]
       name = Fiber
       count n = 40
-    unlock
-      tree = Equipment
-      node = Split Ceramic Flask
-      uses = Tablets
-      cost n = 3
 []
   name = Foraging Pouch
   category = items/gear/container
@@ -2079,11 +1554,6 @@
     ingredients[]
       name = Fiber
       count n = 28
-    unlock
-      tree = Equipment
-      node = Foraging Pouch
-      uses = Fragments
-      cost n = 5
 []
   name = Large Gathering Pouch
   category = items/gear/container
@@ -2094,11 +1564,6 @@
     ingredients[]
       name = Beeswax
       count n = 3
-    unlock
-      tree = Equipment
-      node = Large Gathering Pouch
-      uses = Fragments
-      cost n = 10
 []
   name = Beltless Grappling Hook
   category = items/gear/grappling/hook
@@ -2115,11 +1580,6 @@
     ingredients[]
       name = Palm Leaves
       count n = 40
-    unlock
-      tree = Equipment
-      node = Beltless Grappling Hook
-      uses = Tablets
-      cost n = 2
 []
   name = Fast Grappling Hook
   category = items/gear/grappling/hook
@@ -2130,11 +1590,6 @@
     ingredients[]
       name = Beeswax
       count n = 12
-    unlock
-      tree = Equipment
-      node = Fast Grappling Hook
-      uses = Fragments
-      cost n = 10
 []
   name = Long Grappling Hook
   category = items/gear/grappling/hook
@@ -2148,11 +1603,19 @@
     ingredients[]
       name = Nomad Cloth
       count n = 2
-    unlock
-      tree = Equipment
-      node = Long Grappling Hook
-      uses = Fragments
-      cost n = 50
+[]
+  name = Repaired Grappling Hook
+  category = items/gear/grappling/hook
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 35
+    ingredients[]
+      name = Wood
+      count n = 22
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
 []
   name = Torque Backpack
   category = items/gear/backpacks/belts
@@ -2169,11 +1632,6 @@
     ingredients[]
       name = Wood
       count n = 85
-    unlock
-      tree = Equipment
-      node = Torque Backpack
-      uses = Tablets
-      cost n = 2
 []
   name = Firefly Walker Body
   category = walkers
@@ -3137,3 +2595,102 @@
     ingredients[]
       name = Hide
       count n = 30
+[]
+  name = Reinforced Plank
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 50
+    ingredients[]
+      name = Iron Ingot
+      count n = 1
+    station = Ancient Fabricator
+[]
+  name = Fragment
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Glass
+      count n = 1
+    ingredients[]
+      name = Shattered Fragment
+      count = 1
+    station = Woodworking Station
+[]
+  name = Shattered Fragment
+  category = materials
+[]
+  name = Torque
+  category = materials
+[]
+  name = Tablet
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Torque
+      count n = 1000
+    ingredients[]
+      name = Fragment
+      count n = 100
+[]
+  name = Large Water Container
+  category = materials
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+    ingredients[]
+      name = Nomad Cloth
+      count n = 22
+    ingredients[]
+      name = Clay
+      count n = 8
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Wyndan Warhammer
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Iron Ore
+      count n = 16
+    ingredients[]
+      name = Wood Shaft
+      count n = 12
+    ingredients[]
+      name = Worm Scale
+      count n = 10
+    ingredients[]
+      name = Rupu Vine
+      count n = 12
+[]
+  name = Nibiran Warhammer
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 32
+    ingredients[]
+      name = Wood Shaft
+      count n = 14
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+[]
+  name = Kite
+  category = items/equipment
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+[]
+  name = Worm Scale
+  category = materials

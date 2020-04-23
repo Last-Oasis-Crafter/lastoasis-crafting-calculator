@@ -34,13 +34,7 @@
             "count": 10
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Bone Glue",
-          "uses": "Fragments",
-          "cost": 25
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -72,13 +66,7 @@
           }
         ],
         "output": 0.77,
-        "station": "Furnace",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Furnace",
-          "uses": "Tablets",
-          "cost": 3
-        }
+        "station": "Furnace"
       }
     ]
   },
@@ -123,7 +111,7 @@
     "category": "materials"
   },
   {
-    "name": "Glass Vial",
+    "name": "Glass",
     "category": "materials"
   },
   {
@@ -149,13 +137,7 @@
             "count": 1
           }
         ],
-        "station": "Advanced Furnace",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Advanced Furnace",
-          "uses": "Tablets",
-          "cost": 25
-        }
+        "station": "Advanced Furnace"
       }
     ]
   },
@@ -186,13 +168,7 @@
             "count": 1
           }
         ],
-        "station": "Advanced Fiberworking Station",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Nomad Cloth",
-          "uses": "Fragments",
-          "cost": 8
-        }
+        "station": "Advanced Fiberworking Station"
       },
       {
         "ingredients": [
@@ -205,13 +181,7 @@
             "count": 12
           }
         ],
-        "station": "Advanced Fiberworking Station",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Nomad Cloth",
-          "uses": "Fragments",
-          "cost": 8
-        }
+        "station": "Advanced Fiberworking Station"
       }
     ]
   },
@@ -246,13 +216,7 @@
             "count": 8
           }
         ],
-        "station": "Fiberworking Station",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Rope",
-          "uses": "Fragments",
-          "cost": 8
-        }
+        "station": "Fiberworking Station"
       },
       {
         "ingredients": [
@@ -265,13 +229,7 @@
             "count": 2
           }
         ],
-        "station": "Fiberworking Station",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Rope",
-          "uses": "Fragments",
-          "cost": 8
-        }
+        "station": "Fiberworking Station"
       }
     ]
   },
@@ -313,13 +271,7 @@
           "count": 1
         }
       ],
-      "station": "Furnace",
-      "unlock": {
-        "tree": "Crafting",
-        "node": "Furnace",
-        "uses": "Tablets",
-        "cost": 3
-      }
+      "station": "Furnace"
     }
   },
   {
@@ -346,13 +298,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Purified Water",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       },
       {
         "ingredients": [
@@ -365,13 +311,7 @@
             "count": 15
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Purified Water",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       },
       {
         "ingredients": [
@@ -380,13 +320,7 @@
             "count": 5
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Crafting",
-          "node": "Purified Water",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       },
       {
         "ingredients": [
@@ -477,13 +411,7 @@
             "count": 10
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Vision Powder",
-          "uses": "Fragments",
-          "cost": 6
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -510,13 +438,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Sinus Destroyer",
-          "uses": "Tablets",
-          "cost": 3
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -543,13 +465,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Rupu Repellent",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -576,13 +492,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Race Dust",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -605,13 +515,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Jojo Mojo",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -634,13 +538,7 @@
             "count": 1
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Fury Fumes",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -659,13 +557,7 @@
             "count": 10
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Desert Mule",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -688,13 +580,7 @@
             "count": 15
           }
         ],
-        "station": "Camp Fire",
-        "unlock": {
-          "tree": "Vitamins",
-          "node": "Bonebreaker",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        "station": "Camp Fire"
       }
     ]
   },
@@ -708,13 +594,7 @@
             "name": "Fiber",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Fiber Headwrap",
-          "uses": "Fragments",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -728,13 +608,7 @@
             "name": "Fiber Weave",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Fiber Shirt And Trousers",
-          "uses": "Fragments",
-          "cost": 6
-        }
+        ]
       }
     ]
   },
@@ -752,13 +626,7 @@
             "name": "Cattail",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Fiber Arm Wraps",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -776,13 +644,7 @@
             "name": "Hide",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Fiber Sandals",
-          "uses": "Fragments",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -804,13 +666,7 @@
             "name": "Earth Wax",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Baskwood Armor",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -836,13 +692,7 @@
             "name": "Earth Wax",
             "count": 3
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Baskwood Bracers",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -868,13 +718,7 @@
             "name": "Earth Wax",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Baskwood Boots",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -900,13 +744,7 @@
             "name": "Cattail",
             "count": 48
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Carapace Armor",
-          "uses": "Tablets",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -932,13 +770,7 @@
             "name": "Cattail",
             "count": 28
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Carapace Gauntlets",
-          "uses": "Fragments",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -964,13 +796,7 @@
             "name": "Cattail",
             "count": 35
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Carapace Boots",
-          "uses": "Tablets",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -992,13 +818,7 @@
             "name": "Fiber",
             "count": 35
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Forester's Armor",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -1020,13 +840,7 @@
             "name": "Fiber",
             "count": 15
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Forester's Sleeves",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1048,13 +862,7 @@
             "name": "Fiber",
             "count": 25
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Forester's Sandals",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1069,13 +877,7 @@
             "count": 8,
             "forester's": "1"
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Brittle Bone Armor",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -1101,13 +903,7 @@
             "name": "Nomad Cloth",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Iron Studded Armor",
-          "uses": "Tablets",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -1133,13 +929,7 @@
             "name": "Nomad Cloth",
             "count": 5
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Iron Studded Gauntlets",
-          "uses": "Tablets",
-          "cost": 8
-        }
+        ]
       }
     ]
   },
@@ -1165,13 +955,7 @@
             "name": "Nomad Cloth",
             "count": 14
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Iron Studded Boots",
-          "uses": "Tablets",
-          "cost": 8
-        }
+        ]
       }
     ]
   },
@@ -1197,13 +981,7 @@
             "name": "Worm Silk",
             "count": 38
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Redwood Wood Armor",
-          "uses": "Tablets",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -1229,13 +1007,7 @@
             "name": "Worm Silk",
             "count": 20
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Redwood Wood Bracers",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1261,13 +1033,7 @@
             "name": "Worm Silk",
             "count": 28
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "name": "redwood wood Armor",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1285,13 +1051,7 @@
             "name": "Rope",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rupu Fur Armor",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1309,13 +1069,7 @@
             "name": "Rupu Vine",
             "count": 6
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rupu Fur Sleeves",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1333,13 +1087,7 @@
             "name": "Palm Leaves",
             "count": 8
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rupu Fur Sandals",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1361,13 +1109,7 @@
             "name": "Rupu fur Armor",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Cloaked Rupu Fur Armor",
-          "uses": "Fragments",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -1385,13 +1127,7 @@
             "name": "Nomad Cloth",
             "count": 8
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Triple Stitch Armor",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -1413,13 +1149,7 @@
             "name": "Rupu Vine",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Triple Stitch Bracers",
-          "uses": "Tablets",
-          "cost": 12
-        }
+        ]
       }
     ]
   },
@@ -1441,13 +1171,7 @@
             "name": "Cotton",
             "count": 25
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Triple Stitch Armor",
-          "uses": "Tablets",
-          "cost": 12
-        }
+        ]
       }
     ]
   },
@@ -1473,13 +1197,7 @@
             "name": "Worm Silk",
             "count": 18
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Cloak",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1497,13 +1215,7 @@
             "name": "Rope",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Feather Boots",
-          "uses": "Tablets",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -1543,13 +1255,7 @@
             "name": "Hide",
             "count": 3
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Jaggertooth Club",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1571,13 +1277,7 @@
             "name": "Nomad Cloth",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rawbone Club",
-          "uses": "Fragments",
-          "cost": 20
-        }
+        ]
       }
     ]
   },
@@ -1603,13 +1303,7 @@
             "name": "Bone Glue",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Spikebone Club",
-          "uses": "Fragments",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -1635,13 +1329,7 @@
             "name": "Nomad Cloth",
             "count": 5
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Short Ceramic Hoofmace",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1667,13 +1355,7 @@
             "name": "Rupu Vine",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Wyndan Hammer",
-          "uses": "Tablets",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -1699,13 +1381,7 @@
             "name": "Bone Glue",
             "count": 35
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Hammer",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1723,13 +1399,7 @@
             "name": "Wood Shaft",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Woodcutter's Hatchet",
-          "uses": "Fragments",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -1751,13 +1421,7 @@
             "name": "Wood Shaft",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rawbone Hand Axe",
-          "uses": "Fragments",
-          "cost": 20
-        }
+        ]
       }
     ]
   },
@@ -1779,13 +1443,7 @@
             "name": "Wood Shaft",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Heavy Rawbone Hand Axe",
-          "uses": "Fragments",
-          "cost": 32
-        }
+        ]
       }
     ]
   },
@@ -1811,13 +1469,7 @@
             "name": "Nomad Cloth",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Advanced Hatchet",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1843,13 +1495,7 @@
             "name": "Rupu Vine",
             "count": 11
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Bouldercut Hand Axe",
-          "uses": "Tablets",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -1875,13 +1521,7 @@
             "name": "Nomad Cloth",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Hand Axe",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -1903,13 +1543,7 @@
             "name": "Bone Splinter",
             "count": 5
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Bonespike Sword",
-          "uses": "Fragments",
-          "cost": 20
-        }
+        ]
       }
     ]
   },
@@ -1931,13 +1565,7 @@
             "name": "Nomad Cloth",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Short Malletblade",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -1963,13 +1591,7 @@
             "name": "Rupu Vine",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Wyndan Sabre",
-          "uses": "Tablets",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -1995,13 +1617,7 @@
             "name": "Ceramic Shard",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Curved Dagger",
-          "uses": "Tablets",
-          "cost": 12
-        }
+        ]
       }
     ]
   },
@@ -2027,13 +1643,7 @@
             "name": "Wood Shaft",
             "count": 14
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Scythe",
-          "uses": "Fragments",
-          "cost": 30
-        }
+        ]
       }
     ]
   },
@@ -2077,13 +1687,7 @@
             "name": "Bone Splinter",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Spikebone Maul",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -2109,13 +1713,7 @@
             "name": "Bone Splinter",
             "count": 8
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rawbone Maul",
-          "uses": "Fragments",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -2141,13 +1739,7 @@
             "name": "Stone",
             "count": 70
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Long Ceramic Hoofmace",
-          "uses": "Tablets",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -2169,13 +1761,7 @@
             "name": "Wood Shaft",
             "count": 6
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Sawtooth Sword",
-          "uses": "Fragments",
-          "cost": 40
-        }
+        ]
       }
     ]
   },
@@ -2201,13 +1787,7 @@
             "name": "Stone",
             "count": 80
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Singblade",
-          "uses": "Tablets",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -2225,13 +1805,7 @@
             "name": "Stone",
             "count": 15
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Blunt Quarterstaff",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2249,13 +1823,7 @@
             "name": "Wood Shaft",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Traveller's Staff",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2277,13 +1845,7 @@
             "name": "Wood Shaft",
             "count": 10
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rawbone Quarterstaff",
-          "uses": "Fragments",
-          "cost": 30
-        }
+        ]
       }
     ]
   },
@@ -2309,13 +1871,7 @@
             "name": "Beeswax",
             "count": 3
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Paddleblade Quarterstaff",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -2337,13 +1893,7 @@
             "name": "Rupu Pelt",
             "count": 6
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Wyndanblade Quarterstaff",
-          "uses": "Tablets",
-          "cost": 8
-        }
+        ]
       }
     ]
   },
@@ -2373,13 +1923,7 @@
             "name": "Ceramic Shard",
             "count": 15
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Ironblade Quarterstaff",
-          "uses": "Tablets",
-          "cost": 22
-        }
+        ]
       }
     ]
   },
@@ -2409,13 +1953,7 @@
             "name": "Worm Scale",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Quarterstaff",
-          "uses": "Tablets",
-          "cost": 22
-        }
+        ]
       }
     ]
   },
@@ -2437,13 +1975,7 @@
             "name": "Wood",
             "count": 58
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Rawbone Battle Axe",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -2469,13 +2001,7 @@
             "name": "Rupu Vine",
             "count": 18
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Bouldercut Battle Axe",
-          "uses": "Tablets",
-          "cost": 7
-        }
+        ]
       }
     ]
   },
@@ -2501,13 +2027,7 @@
             "name": "Nomad Cloth",
             "count": 4
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Battle Axe",
-          "uses": "Tablets",
-          "cost": 12
-        }
+        ]
       }
     ]
   },
@@ -2529,13 +2049,7 @@
             "name": "Palm Leaves",
             "count": 15
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Long Bonespike Swordstaff",
-          "uses": "Fragments",
-          "cost": 30
-        }
+        ]
       }
     ]
   },
@@ -2561,13 +2075,7 @@
             "name": "Rupu Vine",
             "count": 14
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Wyndan Flame Sword",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2597,13 +2105,7 @@
             "name": "Redwood Wood",
             "count": 20
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Nibiran Decapitator",
-          "uses": "Tablets",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -2625,13 +2127,7 @@
             "name": "Fiber",
             "count": 5
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Javelin",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2653,13 +2149,7 @@
             "name": "Stone",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Torch",
-          "uses": "Fragments",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -2681,13 +2171,7 @@
             "name": "Wood Shaft",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2709,13 +2193,7 @@
             "name": "Bone Splinter",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Simple Pickaxe",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2737,13 +2215,7 @@
             "name": "Bone Glue",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Advanced Pickaxe",
-          "uses": "Tablets",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -2765,13 +2237,7 @@
             "name": "Nomad Cloth",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Master Pickaxe",
-          "uses": "Tablets",
-          "cost": 8
-        }
+        ]
       }
     ]
   },
@@ -2789,13 +2255,7 @@
             "name": "Stone",
             "count": 55
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Simple Repair Hammer",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2809,13 +2269,7 @@
             "name": "Fiber",
             "count": 6
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Primitive Bandage",
-          "uses": "Fragments",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -2833,13 +2287,7 @@
             "name": "Aloe",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Sterile Bandage",
-          "uses": "Fragments",
-          "cost": 15
-        }
+        ]
       }
     ]
   },
@@ -2857,13 +2305,7 @@
             "name": "Earth Wax",
             "count": 3
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Durable Water Sack",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2881,13 +2323,7 @@
             "name": "Hide",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Light Backpack",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2913,13 +2349,7 @@
             "name": "Beeswax",
             "count": 15
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Split Durable Water Sack",
-          "uses": "Tablets",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -2937,13 +2367,7 @@
             "name": "Nomad Cloth",
             "count": 14
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Heavy Backpack",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -2965,13 +2389,7 @@
             "name": "Bone Glue",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Medium Backpack",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -2993,13 +2411,7 @@
             "name": "Rope",
             "count": 25
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Water Circulator",
-          "uses": "Tablets",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -3017,13 +2429,7 @@
             "name": "Wood Shaft",
             "count": 20
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Wingsuit",
-          "uses": "Tablets",
-          "cost": 50
-        }
+        ]
       }
     ]
   },
@@ -3045,13 +2451,7 @@
             "name": "Fiber",
             "count": 32
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Bone Bottle",
-          "uses": "Fragments",
-          "cost": 25
-        }
+        ]
       }
     ]
   },
@@ -3073,13 +2473,7 @@
             "name": "Fiber",
             "count": 32
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Ceramic Flask",
-          "uses": "Tablets",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -3101,13 +2495,7 @@
             "name": "Hide",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Improvised Bottle",
-          "uses": "Fragments",
-          "cost": 1
-        }
+        ]
       }
     ]
   },
@@ -3125,13 +2513,7 @@
             "name": "Wood",
             "count": 5
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Makeshift Bottle",
-          "uses": "Fragments",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -3153,13 +2535,7 @@
             "name": "Nomad Cloth",
             "count": 1
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Split Bone Bottle",
-          "uses": "Fragments",
-          "cost": 35
-        }
+        ]
       }
     ]
   },
@@ -3181,13 +2557,7 @@
             "name": "Fiber",
             "count": 40
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Split Ceramic Flask",
-          "uses": "Tablets",
-          "cost": 3
-        }
+        ]
       }
     ]
   },
@@ -3201,13 +2571,7 @@
             "name": "Fiber",
             "count": 28
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Foraging Pouch",
-          "uses": "Fragments",
-          "cost": 5
-        }
+        ]
       }
     ]
   },
@@ -3225,13 +2589,7 @@
             "name": "Beeswax",
             "count": 3
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Large Gathering Pouch",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -3257,13 +2615,7 @@
             "name": "Palm Leaves",
             "count": 40
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Beltless Grappling Hook",
-          "uses": "Tablets",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -3281,13 +2633,7 @@
             "name": "Beeswax",
             "count": 12
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Fast Grappling Hook",
-          "uses": "Fragments",
-          "cost": 10
-        }
+        ]
       }
     ]
   },
@@ -3309,13 +2655,29 @@
             "name": "Nomad Cloth",
             "count": 2
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Long Grappling Hook",
-          "uses": "Fragments",
-          "cost": 50
-        }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Repaired Grappling Hook",
+    "category": "items/gear/grappling/hook",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 35
+          },
+          {
+            "name": "Wood",
+            "count": 22
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 2
+          }
+        ]
       }
     ]
   },
@@ -3341,13 +2703,7 @@
             "name": "Wood",
             "count": 85
           }
-        ],
-        "unlock": {
-          "tree": "Equipment",
-          "node": "Torque Backpack",
-          "uses": "Tablets",
-          "cost": 2
-        }
+        ]
       }
     ]
   },
@@ -4956,5 +4312,169 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Reinforced Plank",
+    "category": "materials",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 50
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 1
+          }
+        ],
+        "station": "Ancient Fabricator"
+      }
+    ]
+  },
+  {
+    "name": "Fragment",
+    "category": "materials",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Glass",
+            "count": 1
+          },
+          {
+            "name": "Shattered Fragment",
+            "count": "1"
+          }
+        ],
+        "station": "Woodworking Station"
+      }
+    ]
+  },
+  {
+    "name": "Shattered Fragment",
+    "category": "materials"
+  },
+  {
+    "name": "Torque",
+    "category": "materials"
+  },
+  {
+    "name": "Tablet",
+    "category": "materials",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Torque",
+            "count": 1000
+          },
+          {
+            "name": "Fragment",
+            "count": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Large Water Container",
+    "category": "materials",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Earth Wax",
+            "count": 5
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 22
+          },
+          {
+            "name": "Clay",
+            "count": 8
+          },
+          {
+            "name": "Stone",
+            "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wyndan Warhammer",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ore",
+            "count": 16
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 12
+          },
+          {
+            "name": "Worm Scale",
+            "count": 10
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Warhammer",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 32
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 14
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 15
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kite",
+    "category": "items/equipment",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 200
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Worm Scale",
+    "category": "materials"
   }
 ]
