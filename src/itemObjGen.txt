@@ -3146,11 +3146,29 @@
 []
   name = Gun Pod Shell
   category = buildings/construction/weapons/ranged/armor
-  incomplete = true
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 7
+    ingredients[]
+      name = Bone Splinter
+      count n = 26
+    ingredients[]
+      name = Wood
+      count n = 89
 []
   name = Gun Pod Plating
   category = buildings/construction/weapons/ranged/armor
-  incomplete = true
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 164
+    ingredients[]
+      name = Obsidian
+      count n = 12
+    ingredients[]
+      name = Bone Splinter
+      count n = 37
 []
   name = Catapult
   category = buildings/construction/weapons/ranged
@@ -3329,7 +3347,16 @@
 []
   name = Gigantic Chest
   category = buildings/construction/container
-  incomplete = true
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 85
+    ingredients[]
+      name = Fiber
+      count n = 110
 []
   name = Large Water Container
   category = buildings/construction/container

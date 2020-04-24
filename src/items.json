@@ -566,7 +566,24 @@
 	{
 		"name": "Gigantic Chest",
 		"category": "buildings/construction/container",
-		"incomplete": "true"
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 25
+					},
+					{
+						"name": "Stone",
+						"count": 85
+					},
+					{
+						"name": "Fiber",
+						"count": 110
+					}
+				]
+			}
+		]
 	},
 	{
 		"name": "Large Chest",
@@ -1661,12 +1678,46 @@
 	{
 		"name": "Gun Pod Plating",
 		"category": "buildings/construction/weapons/ranged/armor",
-		"incomplete": "true"
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 164
+					},
+					{
+						"name": "Obsidian",
+						"count": 12
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 37
+					}
+				]
+			}
+		]
 	},
 	{
 		"name": "Gun Pod Shell",
 		"category": "buildings/construction/weapons/ranged/armor",
-		"incomplete": "true"
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Nomad Cloth",
+						"count": 7
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 26
+					},
+					{
+						"name": "Wood",
+						"count": 89
+					}
+				]
+			}
+		]
 	},
 	{
 		"name": "",
