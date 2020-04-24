@@ -4043,19 +4043,3 @@
     ingredients[]
       name = Bone Glue
       count n = 1
-[]
-  name = 
-  category = items
-  crafting[]
-    ingredients[]
-      name = 
-      count n = 
-    ingredients[]
-      name = 
-      count n = 
-    ingredients[]
-      name = 
-      count n = 
-    ingredients[]
-      name = 
-      count n = 

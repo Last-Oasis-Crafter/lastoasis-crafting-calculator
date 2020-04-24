@@ -1720,32 +1720,6 @@
 		]
 	},
 	{
-		"name": "",
-		"category": "items",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "",
-						"count": 0
-					},
-					{
-						"name": "",
-						"count": 0
-					},
-					{
-						"name": "",
-						"count": 0
-					},
-					{
-						"name": "",
-						"count": 0
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Defensive Tower",
 		"category": "items",
 		"crafting": [
