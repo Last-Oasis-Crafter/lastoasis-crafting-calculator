@@ -2650,22 +2650,6 @@
       name = Fragment
       count n = 100
 []
-  name = Large Water Container
-  category = materials
-  crafting[]
-    ingredients[]
-      name = Earth Wax
-      count n = 5
-    ingredients[]
-      name = Nomad Cloth
-      count n = 22
-    ingredients[]
-      name = Clay
-      count n = 8
-    ingredients[]
-      name = Stone
-      count n = 80
-[]
   name = Wyndan Warhammer
   category = items/weapons
   crafting[]

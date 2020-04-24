@@ -4795,32 +4795,6 @@
 		"category": "materials"
 	},
 	{
-		"name": "Large Water Container",
-		"category": "materials",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Earth Wax",
-						"count": 5
-					},
-					{
-						"name": "Nomad Cloth",
-						"count": 22
-					},
-					{
-						"name": "Clay",
-						"count": 8
-					},
-					{
-						"name": "Stone",
-						"count": 80
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Liquid Fuel",
 		"category": "materials",
 		"crafting": [
