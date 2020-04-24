@@ -2984,4 +2984,1051 @@
 []
   name = Hullbreaker Rock
   category = items/ammo/ammunition/projectiles/catapult
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Sulfur
+      count n = 10
+[]
+  name = Crane
+  category = buildings/construction/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+    ingredients[]
+      name = Tar
+      count n = 30
+[]
+  name = Hose Station
+  category = buildings/construction/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 134
+    ingredients[]
+      name = Stone
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 80
+    ingredients[]
+      name = Purified Water
+      count n = 40
+[]
+  name = Water Pitcher
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Beeswax
+      count n = 6
+[]
+  name = Net Thrower
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Stone
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 65
+[]
+  name = Rangefinder
+  category = buildings/construction/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Remote Ballista
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Fiber
+      count n = 28
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
+[]
+  name = Ballista
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Fiber
+      count n = 28
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
+[]
+  name = Repeater
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 65
+    ingredients[]
+      name = Stone
+      count n = 28
+    ingredients[]
+      name = Rupu Vine
+      count n = 8
+[]
+  name = Scattershot Gun
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Stone
+      count n = 70
+    ingredients[]
+      name = Fiber
+      count n = 45
+    ingredients[]
+      name = Earth Wax
+      count n = 12
+[]
+  name = Small Ballista
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Fiber
+      count n = 95
+[]
+  name = Gun Pod
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 280
+    ingredients[]
+      name = Rope
+      count n = 20
+    ingredients[]
+      name = Iron Ore
+      count n = 3
+[]
+  name = Gun Pod Shell
+  category = buildings/construction/weapons/ranged/armor
   incomplete = true
+[]
+  name = Gun Pod Plating
+  category = buildings/construction/weapons/ranged/armor
+  incomplete = true
+[]
+  name = Catapult
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 140
+    ingredients[]
+      name = Stone
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 35
+    ingredients[]
+      name = Earth Wax
+      count n = 35
+    ingredients[]
+      name = Fiber Weave
+      count n = 20
+[]
+  name = Slingshot
+  category = buildings/construction/weapons/ranged
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 125
+    ingredients[]
+      name = Stone
+      count n = 55
+    ingredients[]
+      name = Fiber
+      count n = 78
+    ingredients[]
+      name = Rupu Vine
+      count n = 20
+[]
+  name = Clan Flag
+  category = buildings/construction/decorations
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Fiber Weave
+      count n = 1
+[]
+  name = Clan Flag Hanging
+  category = buildings/construction/decorations
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 15
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+[]
+  name = Sand Bed
+  category = buildings/construction/bed
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Sand
+      count n = 200
+[]
+  name = Hammock
+  category = buildings/construction/bed
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Fiber Weave
+      count n = 4
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    ingredients[]
+      name = Purified Water
+      count n = 15
+[]
+  name = Small Chest
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 5
+    ingredients[]
+      name = Fiber
+      count n = 10
+[]
+  name = Ammo Chest
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 23
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 40
+[]
+  name = Bed
+  category = buildings/construction/bed
+  crafting[]
+    ingredients[]
+      name = Palm Leaves
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 3
+    ingredients[]
+      name = Purified Water
+      count n = 10
+[]
+  name = Medium Chest
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 35
+[]
+  name = Small Water Bag
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Rupu Pelt
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Medium Liquid Container
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Fiber
+      count n = 90
+    ingredients[]
+      name = Earth Wax
+      count n = 4
+    ingredients[]
+      name = Stone
+      count n = 15
+[]
+  name = Large Chest
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 65
+[]
+  name = Gigantic Chest
+  category = buildings/construction/container
+  incomplete = true
+[]
+  name = Large Water Container
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+    ingredients[]
+      name = Nomad Cloth
+      count n = 22
+    ingredients[]
+      name = Clay
+      count n = 8
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Cloth Door
+  category = buildings/construction/sand bag
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 55
+    ingredients[]
+      name = Sand
+      count n = 20
+[]
+  name = Sandbag Roof
+  category = buildings/construction/sand bag
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 55
+    ingredients[]
+      name = Wood
+      count n = 6
+[]
+  name = Sandbag Wall
+  category = buildings/construction/sand bag
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 55
+    ingredients[]
+      name = Sand
+      count n = 20
+[]
+  name = Sandbag Wall Window
+  category = buildings/construction/sand bag
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 55
+    ingredients[]
+      name = Sand
+      count n = 20
+[]
+  name = Clay Corner
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Clay Door
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Clay Foundation
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 8
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 50
+[]
+  name = Clay Wall
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Clay Battlement
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 8
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Clay
+      count n = 20
+[]
+  name = Clay Roof
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Clay Wall with Window
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Clay Wall with Windows
+  category = buildings/construction/clay
+  crafting[]
+    ingredients[]
+      name = Cattail
+      count n = 20
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Clay
+      count n = 40
+[]
+  name = Concrete Corner
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Door
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Foundation
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Wall 1
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Wall 2
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Battlements
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Roof
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Wall with Windows 1
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Concrete Wall with Windows 2
+  category = buildings/construction/concrete
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Rupu Sling
+  category = items
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 3
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Rope
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 45
+[]
+  name = Defensive Tower
+  category = items
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 155
+    ingredients[]
+      name = Fiber
+      count n = 210
+    ingredients[]
+      name = Wood Shaft
+      count n = 43
+    ingredients[]
+      name = Fiber Weave
+      count n = 5
+[]
+  name = Barrier Base
+  category = buildings/construction/barrier
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 50
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Rupu Vine
+      count n = 3
+[]
+  name = Barrier Gate
+  category = buildings/construction/barrier
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 250
+    ingredients[]
+      name = Stone
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 20
+[]
+  name = Barrier Plank
+  category = buildings/construction/barrier
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Stone
+      count n = 25
+    ingredients[]
+      name = Rupu Vine
+      count n = 3
+[]
+  name = Light Wood Guard Rail
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Wooden Corner
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Door
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Foundation
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Wooden Wall
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Wooden Battlements
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Roof
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Wooden Slit Wall
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Light Wood Wooden Double Slit Wall
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
+[]
+  name = Medium Wood Door
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Foundation
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Wall
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Battlements
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Roof
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Slit Wall
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Medium Wood Double Slit Wall
+  category = buildings/construction/medium wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Heavy Wood Corner
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Door
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Foundation
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Wall 1
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Wall 2
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Battlements
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Roof
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Stairs
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Slit Wall
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = Heavy Wood Double Slit Wall
+  category = buildings/construction/heavy wood
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+    ingredients[]
+      name = Iron Ingot
+      count n = 5
+    ingredients[]
+      name = Bone Glue
+      count n = 1
+[]
+  name = 
+  category = items
+  crafting[]
+    ingredients[]
+      name = 
+      count n = 
+    ingredients[]
+      name = 
+      count n = 
+    ingredients[]
+      name = 
+      count n = 
+    ingredients[]
+      name = 
+      count n = 

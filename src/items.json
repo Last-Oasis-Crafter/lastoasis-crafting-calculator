@@ -1,5 +1,1752 @@
 [
 	{
+		"name": "Barrier Base",
+		"category": "buildings/construction/barrier",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 50
+					},
+					{
+						"name": "Stone",
+						"count": 20
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Barrier Gate",
+		"category": "buildings/construction/barrier",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 250
+					},
+					{
+						"name": "Stone",
+						"count": 50
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Barrier Plank",
+		"category": "buildings/construction/barrier",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 80
+					},
+					{
+						"name": "Stone",
+						"count": 25
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Bed",
+		"category": "buildings/construction/bed",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Palm Leaves",
+						"count": 25
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 3
+					},
+					{
+						"name": "Purified Water",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Hammock",
+		"category": "buildings/construction/bed",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 40
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 4
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					},
+					{
+						"name": "Purified Water",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sand Bed",
+		"category": "buildings/construction/bed",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 25
+					},
+					{
+						"name": "Sand",
+						"count": 200
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Battlement",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 8
+					},
+					{
+						"name": "Wood",
+						"count": 20
+					},
+					{
+						"name": "Clay",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Corner",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Door",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Foundation",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 8
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Roof",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Wall",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Wall with Window",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clay Wall with Windows",
+		"category": "buildings/construction/clay",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Cattail",
+						"count": 20
+					},
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Clay",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Battlements",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Corner",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Door",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Foundation",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Roof",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Wall 1",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Wall 2",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Wall with Windows 1",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Concrete Wall with Windows 2",
+		"category": "buildings/construction/concrete",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Clay",
+						"count": 100
+					},
+					{
+						"name": "Tar",
+						"count": 12
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 20
+					},
+					{
+						"name": "Ash",
+						"count": 100
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Ammo Chest",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 23
+					},
+					{
+						"name": "Stone",
+						"count": 20
+					},
+					{
+						"name": "Fiber",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Gigantic Chest",
+		"category": "buildings/construction/container",
+		"incomplete": "true"
+	},
+	{
+		"name": "Large Chest",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 25
+					},
+					{
+						"name": "Stone",
+						"count": 25
+					},
+					{
+						"name": "Fiber",
+						"count": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Large Water Container",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Earth Wax",
+						"count": 5
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 22
+					},
+					{
+						"name": "Clay",
+						"count": 8
+					},
+					{
+						"name": "Stone",
+						"count": 80
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Chest",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 25
+					},
+					{
+						"name": "Stone",
+						"count": 15
+					},
+					{
+						"name": "Fiber",
+						"count": 35
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Liquid Container",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Nomad Cloth",
+						"count": 8
+					},
+					{
+						"name": "Fiber",
+						"count": 90
+					},
+					{
+						"name": "Earth Wax",
+						"count": 4
+					},
+					{
+						"name": "Stone",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Small Chest",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 25
+					},
+					{
+						"name": "Stone",
+						"count": 5
+					},
+					{
+						"name": "Fiber",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Small Water Bag",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 4
+					},
+					{
+						"name": "Fiber",
+						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Water Pitcher",
+		"category": "buildings/construction/container",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Beeswax",
+						"count": 6
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clan Flag",
+		"category": "buildings/construction/decorations",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 10
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clan Flag Hanging",
+		"category": "buildings/construction/decorations",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 15
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Battlements",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Corner",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Door",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Double Slit Wall",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Foundation",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Roof",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Slit Wall",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Stairs",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Wall 1",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Heavy Wood Wall 2",
+		"category": "buildings/construction/heavy wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Redwood Wood",
+						"count": 35
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 5
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Door",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Foundation",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Guard Rail",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Roof",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Wooden Battlements",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Wooden Corner",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Wooden Double Slit Wall",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Wooden Slit Wall",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Light Wood Wooden Wall",
+		"category": "buildings/construction/light wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 28
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Battlements",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Door",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Double Slit Wall",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Foundation",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Roof",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Slit Wall",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Medium Wood Wall",
+		"category": "buildings/construction/medium wood",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 35
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 8
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Cloth Door",
+		"category": "buildings/construction/sand bag",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 55
+					},
+					{
+						"name": "Sand",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sandbag Roof",
+		"category": "buildings/construction/sand bag",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 55
+					},
+					{
+						"name": "Wood",
+						"count": 6
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sandbag Wall",
+		"category": "buildings/construction/sand bag",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 55
+					},
+					{
+						"name": "Sand",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sandbag Wall Window",
+		"category": "buildings/construction/sand bag",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Fiber",
+						"count": 55
+					},
+					{
+						"name": "Sand",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Crane",
+		"category": "buildings/construction/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 150
+					},
+					{
+						"name": "Iron Ingot",
+						"count": 15
+					},
+					{
+						"name": "Bone Glue",
+						"count": 15
+					},
+					{
+						"name": "Tar",
+						"count": 30
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Hose Station",
+		"category": "buildings/construction/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 134
+					},
+					{
+						"name": "Stone",
+						"count": 38
+					},
+					{
+						"name": "Fiber",
+						"count": 80
+					},
+					{
+						"name": "Purified Water",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rangefinder",
+		"category": "buildings/construction/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 30
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 4
+					},
+					{
+						"name": "Bone Glue",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Ballista",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 20
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					},
+					{
+						"name": "Fiber",
+						"count": 28
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Catapult",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 140
+					},
+					{
+						"name": "Stone",
+						"count": 60
+					},
+					{
+						"name": "Rope",
+						"count": 35
+					},
+					{
+						"name": "Earth Wax",
+						"count": 35
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Gun Pod",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 280
+					},
+					{
+						"name": "Rope",
+						"count": 20
+					},
+					{
+						"name": "Iron Ore",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Net Thrower",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 60
+					},
+					{
+						"name": "Stone",
+						"count": 30
+					},
+					{
+						"name": "Fiber",
+						"count": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Remote Ballista",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 20
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					},
+					{
+						"name": "Fiber",
+						"count": 28
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Repeater",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 65
+					},
+					{
+						"name": "Stone",
+						"count": 28
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 8
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Scattershot Gun",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 52
+					},
+					{
+						"name": "Stone",
+						"count": 70
+					},
+					{
+						"name": "Fiber",
+						"count": 45
+					},
+					{
+						"name": "Earth Wax",
+						"count": 12
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Slingshot",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 125
+					},
+					{
+						"name": "Stone",
+						"count": 55
+					},
+					{
+						"name": "Fiber",
+						"count": 78
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Small Ballista",
+		"category": "buildings/construction/weapons/ranged",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 80
+					},
+					{
+						"name": "Fiber",
+						"count": 95
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Gun Pod Plating",
+		"category": "buildings/construction/weapons/ranged/armor",
+		"incomplete": "true"
+	},
+	{
+		"name": "Gun Pod Shell",
+		"category": "buildings/construction/weapons/ranged/armor",
+		"incomplete": "true"
+	},
+	{
+		"name": "",
+		"category": "items",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "",
+						"count": 0
+					},
+					{
+						"name": "",
+						"count": 0
+					},
+					{
+						"name": "",
+						"count": 0
+					},
+					{
+						"name": "",
+						"count": 0
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Defensive Tower",
+		"category": "items",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 155
+					},
+					{
+						"name": "Fiber",
+						"count": 210
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 43
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rupu Sling",
+		"category": "items",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Earth Wax",
+						"count": 3
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 15
+					},
+					{
+						"name": "Rope",
+						"count": 15
+					},
+					{
+						"name": "Wood",
+						"count": 45
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Bone Bolt",
 		"category": "items/ammo/ammunition/projectiles/ballista",
 		"crafting": [
@@ -252,7 +1999,7 @@
 	{
 		"name": "Hullbreaker Rock",
 		"category": "items/ammo/ammunition/projectiles/catapult",
-    "crafting": [
+		"crafting": [
 			{
 				"ingredients": [
 					{
