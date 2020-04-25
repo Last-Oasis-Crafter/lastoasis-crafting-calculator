@@ -2161,20 +2161,20 @@
       name = Fiber Weave
       count n = 58
 []
-  name = Small Falco Walker Wings (1 of 2)
+  name = Falco Walker Wings Small (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
-      name = Reinforced Plank
-      count n = 78
+      name = Wood Shaft
+      count n = 56
     ingredients[]
-      name = Worm Silk
-      count n = 68
+      name = Rope
+      count n = 22
     ingredients[]
-      name = Hide
-      count n = 120
+      name = Nomad Cloth
+      count n = 5
 []
-  name = Medium Falco Walker Wings (1 of 2)
+  name = Falco Walker Wings Medium (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -2187,18 +2187,18 @@
       name = Hide
       count n = 60
 []
-  name = Large Falco Walker Wings (1 of 2)
+  name = Falco Walker Wings Large (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
-      name = Wood Shaft
-      count n = 156
+      name = Reinforced Plank
+      count n = 78
     ingredients[]
-      name = Rope
-      count n = 22
+      name = Worm Silk
+      count n = 68
     ingredients[]
-      name = Nomad Cloth
-      count n = 5
+      name = Hide
+      count n = 120
 []
   name = Schmetterling Walker Body
   category = walkers
