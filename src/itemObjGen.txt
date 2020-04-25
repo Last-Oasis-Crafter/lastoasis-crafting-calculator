@@ -2786,7 +2786,7 @@
       name = Wood Shaft
       count n = 1
     ingredients[]
-      name = Feathers
+      name = Feather
       count n = 3
     ingredients[]
       name = Fiber
