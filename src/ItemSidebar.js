@@ -38,6 +38,15 @@ export default function ItemSidebar({children, dispatch}) {
       overflowY: 'auto'
     }}
   >
+    {sidebarOpen && (
+    <Button
+        color='black'
+        floated='left'
+        attached='right'
+        onClick={() => setSidebarOpen(!sidebarOpen)}
+        icon={sidebarOpen ? 'caret left' : 'caret right'}
+        className="bartoggle"
+        />)}
     <Sidebar
       vertical
       inverted
@@ -89,21 +98,16 @@ export default function ItemSidebar({children, dispatch}) {
         overflowY: 'auto'
       }}
     >
+      {!sidebarOpen && (
       <Button
         color='black'
         floated='left'
         attached='right'
         onClick={() => setSidebarOpen(!sidebarOpen)}
         icon={sidebarOpen ? 'caret left' : 'caret right'}
-        style={{
-          width: '23px',
-          height: '40px',
-          textAlign: 'left',
-          paddingTop: '10px',
-          paddingLeft: '0',
-          fontSize: '20px'
-        }}
+        className="bartoggle"
         />
+      )}
       {children}
     </Sidebar.Pusher>
   </Sidebar.Pushable>
