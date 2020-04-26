@@ -5575,6 +5575,72 @@
 		]
 	},
 	{
+		"name": "Falco Walker Wings Large (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Reinforced Plank",
+						"count": 78
+					},
+					{
+						"name": "Worm Silk",
+						"count": 68
+					},
+					{
+						"name": "Hide",
+						"count": 120
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Falco Walker Wings Medium (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 111
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 10
+					},
+					{
+						"name": "Hide",
+						"count": 60
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Falco Walker Wings Small (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 56
+					},
+					{
+						"name": "Rope",
+						"count": 22
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Firefly Walker Body",
 		"category": "walkers",
 		"crafting": [
@@ -5869,50 +5935,6 @@
 		]
 	},
 	{
-		"name": "Large Falco Walker Wings (1 of 2)",
-		"category": "walkers",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood Shaft",
-						"count": 156
-					},
-					{
-						"name": "Rope",
-						"count": 22
-					},
-					{
-						"name": "Nomad Cloth",
-						"count": 5
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Medium Falco Walker Wings (1 of 2)",
-		"category": "walkers",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood Shaft",
-						"count": 111
-					},
-					{
-						"name": "Nomad Cloth",
-						"count": 10
-					},
-					{
-						"name": "Hide",
-						"count": 60
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Nomad Spider Walker Body",
 		"category": "walkers",
 		"crafting": [
@@ -6133,28 +6155,6 @@
 					{
 						"name": "Nomad Cloth",
 						"count": 13
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Small Falco Walker Wings (1 of 2)",
-		"category": "walkers",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Reinforced Plank",
-						"count": 78
-					},
-					{
-						"name": "Worm Silk",
-						"count": 68
-					},
-					{
-						"name": "Hide",
-						"count": 120
 					}
 				]
 			}
