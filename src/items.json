@@ -2796,180 +2796,6 @@
 		]
 	},
 	{
-		"name": "Firefly Walker Cargo Upgrade 2",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 15
-					},
-					{
-						"name": "Fiber",
-						"count": 100
-					},
-					{
-						"name": "Wood",
-						"count": 75
-					},
-					{
-						"name": "Stone",
-						"count": 10
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Water Upgrade 2",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 10
-					},
-					{
-						"name": "Fiber",
-						"count": 100
-					},
-					{
-						"name": "Rupu Pelt",
-						"count": 15
-					},
-					{
-						"name": "Wood",
-						"count": 15
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Hatch Upgrade 2",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 8
-					},
-					{
-						"name": "Fiber",
-						"count": 100
-					},
-					{
-						"name": "Wood",
-						"count": 80
-					},
-					{
-						"name": "Stone",
-						"count": 10
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Armor Upgrade 1",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood",
-						"count": 40
-					},
-					{
-						"name": "Stone",
-						"count": 40
-					},
-					{
-						"name": "Hide",
-						"count": 8
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Armor Upgrade 2",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 30
-					},
-					{
-						"name": "Fiber Weave",
-						"count": 15
-					},
-					{
-						"name": "Hide",
-						"count": 20
-					},
-					{
-						"name": "Chitin Plate",
-						"count": 2
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Mobility Upgrade 1",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood",
-						"count": 35
-					},
-					{
-						"name": "Wood Shaft",
-						"count": 15
-					},
-					{
-						"name": "Palm Leaves",
-						"count": 20
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Firefly Walker Mobility Upgrade 2",
-		"category": "walker-upgrade",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 15
-					},
-					{
-						"name": "Rupu Vine",
-						"count": 30
-					},
-					{
-						"name": "Earth Wax",
-						"count": 10
-					},
-					{
-						"name": "Wood",
-						"count": 30
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Dinghy Walker Body",
 		"category": "walkers",
 		"crafting": [
@@ -6903,6 +6729,273 @@
 					{
 						"name": "Bone Glue",
 						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Fiberworking Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 14
+					},
+					{
+						"name": "Fiber",
+						"count": 10
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Advanced Fiberworking Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 120
+					},
+					{
+						"name": "Earth Wax",
+						"count": 2
+					},
+					{
+						"name": "Bone Glue",
+						"count": 3
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Torque Windmill",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 75
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 8
+					},
+					{
+						"name": "Rope",
+						"count": 4
+					},
+					{
+						"name": "Earth Wax",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Furnace",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Stone",
+						"count": 85
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 25
+					},
+					{
+						"name": "Clay",
+						"count": 20
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 14
+					},
+					{
+						"name": "Earth Wax",
+						"count": 25
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Soil Excavator",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 20
+					},
+					{
+						"name": "Torque Battery",
+						"count": 1
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					},
+					{
+						"name": "Terrain: Excavatable",
+						"count": null
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Stomping Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 45
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 10
+					},
+					{
+						"name": "Stone",
+						"count": 20
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Water Condenser",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 30
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 6
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 35
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Camp Fire",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 16
+					},
+					{
+						"name": "Fiber",
+						"count": 11
+					},
+					{
+						"name": "Stone",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Purification Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Nomad Cloth",
+						"count": 6
+					},
+					{
+						"name": "Wood",
+						"count": 150
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Woodworking Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 20
+					},
+					{
+						"name": "Fiber",
+						"count": 28
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Advanced Woodworking Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 200
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 4
+					},
+					{
+						"name": "Cattail",
+						"count": 15
+					},
+					{
+						"name": "Earth Wax",
+						"count": 8
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 10,
+						"": {}
 					}
 				]
 			}
