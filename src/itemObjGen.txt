@@ -4027,3 +4027,165 @@
     ingredients[]
       name = Bone Glue
       count n = 1
+[]
+  name = Fiberworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 14
+    ingredients[]
+      name = Fiber
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+[]
+  name = Advanced Fiberworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Earth Wax
+      count n = 2
+    ingredients[]
+      name = Bone Glue
+      count n = 3
+[]
+  name = Torque Windmill
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+[]
+  name = Furnace
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 85
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Clay
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 14
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+[]
+  name = Soil Excavator
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Torque Battery
+      count n = 1
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Terrain: Excavatable
+      count n = ∞
+[]
+  name = Stomping Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 45
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Water Condenser
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Rupu Pelt
+      count n = 35
+[]
+  name = Camp Fire
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 11
+    ingredients[]
+      name = Stone
+      count n = 5
+[]
+  name = Purification Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Wood
+      count n = 150
+[]
+  name = Woodworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 28
+    ingredients[]
+      name = Rupu Vine
+      count n = 2
+[]
+  name = Advanced Woodworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Cattail
+      count n = 15
+    ingredients[]
+      name = Earth Wax
+      count n = 8
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+      
