@@ -1683,7 +1683,7 @@
       count n = 7
 []
   name = Firefly Walker Cargo Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1699,7 +1699,7 @@
       count n = 10
 []
   name = Firefly Walker Water Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1715,7 +1715,7 @@
       count n = 15
 []
   name = Firefly Walker Hatch Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1731,7 +1731,7 @@
       count n = 10
 []
   name = Firefly Walker Armor Upgrade 1
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Wood
@@ -1744,7 +1744,7 @@
       count n = 8
 []
   name = Firefly Walker Armor Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1760,7 +1760,7 @@
       count n = 2
 []
   name = Firefly Walker Mobility Upgrade 1
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Wood
@@ -1773,7 +1773,7 @@
       count n = 20
 []
   name = Firefly Walker Mobility Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1871,7 +1871,7 @@
       count n = 18
 []
   name = Nomad Spider Walker Armor Upgrade 2
-  category = walker-upgrade
+  category = walkers/upgrades
   crafting[]
     ingredients[]
       name = Bone Splinter
