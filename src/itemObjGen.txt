@@ -1764,6 +1764,22 @@
       name = Fiber
       count n = 18
 []
+  name = Nomad Spider Walker Armor Upgrade 2
+  category = walker-upgrade
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 15
+    ingredients[]
+      name = Hide
+      count n = 20
+    ingredients[]
+      name = Chitin Plate
+      count n = 2
+[]
   name = Spider Walker With Ballista
   category = walkers
   crafting[]
