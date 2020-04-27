@@ -4225,7 +4225,7 @@
       count n = 2
     ingredients[]
       name = Terrain: Excavatable
-      count n = ∞
+      count n = 1
 []
   name = Stomping Station
   category = crafting/station
