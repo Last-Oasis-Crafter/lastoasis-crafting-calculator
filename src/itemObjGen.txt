@@ -1633,6 +1633,19 @@
       name = Wood Shaft
       count n = 2
 []
+  name = Torque Battery
+  category = items/gear/torque/battery
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Bone Splinter
+      count n = 6
+[]
   name = Torque Backpack
   category = items/gear/backpacks/belts
   crafting[]
@@ -1681,6 +1694,112 @@
     ingredients[]
       name = Fiber Weave
       count n = 7
+[]
+  name = Firefly Walker Cargo Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Firefly Walker Water Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 15
+[]
+  name = Firefly Walker Hatch Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Firefly Walker Armor Upgrade 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Stone
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Firefly Walker Armor Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 15
+    ingredients[]
+      name = Hide
+      count n = 20
+    ingredients[]
+      name = Chitin Plate
+      count n = 2
+[]
+  name = Firefly Walker Mobility Upgrade 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Wood Shaft
+      count n = 15
+    ingredients[]
+      name = Palm Leaves
+      count n = 20
+[]
+  name = Firefly Walker Mobility Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Rupu Vine
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+    ingredients[]
+      name = Wood
+      count n = 30
 []
   name = Dinghy Walker Body
   category = walkers
@@ -1763,6 +1882,22 @@
     ingredients[]
       name = Fiber
       count n = 18
+[]
+  name = Nomad Spider Walker Armor Upgrade 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 15
+    ingredients[]
+      name = Hide
+      count n = 20
+    ingredients[]
+      name = Chitin Plate
+      count n = 2
 []
   name = Spider Walker With Ballista
   category = walkers
@@ -2786,7 +2921,7 @@
       name = Wood Shaft
       count n = 1
     ingredients[]
-      name = Feathers
+      name = Feather
       count n = 3
     ingredients[]
       name = Fiber
@@ -4027,3 +4162,165 @@
     ingredients[]
       name = Bone Glue
       count n = 1
+[]
+  name = Fiberworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 14
+    ingredients[]
+      name = Fiber
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+[]
+  name = Advanced Fiberworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Earth Wax
+      count n = 2
+    ingredients[]
+      name = Bone Glue
+      count n = 3
+[]
+  name = Torque Windmill
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 5
+[]
+  name = Furnace
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 85
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Clay
+      count n = 20
+    ingredients[]
+      name = Fiber Weave
+      count n = 14
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+[]
+  name = Soil Excavator
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Torque Battery
+      count n = 1
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Terrain: Excavatable
+      count n = 1
+[]
+  name = Stomping Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 45
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+[]
+  name = Water Condenser
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 6
+    ingredients[]
+      name = Rupu Pelt
+      count n = 35
+[]
+  name = Camp Fire
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 11
+    ingredients[]
+      name = Stone
+      count n = 5
+[]
+  name = Purification Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Wood
+      count n = 150
+[]
+  name = Woodworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 28
+    ingredients[]
+      name = Rupu Vine
+      count n = 2
+[]
+  name = Advanced Woodworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+    ingredients[]
+      name = Cattail
+      count n = 15
+    ingredients[]
+      name = Earth Wax
+      count n = 8
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+      
