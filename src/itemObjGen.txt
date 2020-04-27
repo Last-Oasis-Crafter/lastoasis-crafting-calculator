@@ -1633,6 +1633,19 @@
       name = Wood Shaft
       count n = 2
 []
+  name = Torque Battery
+  category = items/gear/torque/battery
+  crafting[]
+    ingredients[]
+      name = Earth Wax
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 4
+    ingredients[]
+      name = Bone Splinter
+      count n = 6
+[]
   name = Torque Backpack
   category = items/gear/backpacks/belts
   crafting[]

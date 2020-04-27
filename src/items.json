@@ -3256,6 +3256,28 @@
 		]
 	},
 	{
+		"name": "Torque Battery",
+		"category": "items/gear/torque/battery",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Earth Wax",
+						"count": 4
+					},
+					{
+						"name": "Rope",
+						"count": 4
+					},
+					{
+						"name": "Bone Splinter",
+						"count": 6
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Torque Backpack",
 		"category": "items/gear/backpacks/belts",
 		"crafting": [
