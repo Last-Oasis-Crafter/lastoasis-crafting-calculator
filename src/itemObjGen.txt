@@ -2028,22 +2028,6 @@
       name = Fiber
       count n = 18
 []
-  name = Nomad Spider Walker Armor Upgrade 2
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Bone Splinter
-      count n = 30
-    ingredients[]
-      name = Fiber Weave
-      count n = 15
-    ingredients[]
-      name = Hide
-      count n = 20
-    ingredients[]
-      name = Chitin Plate
-      count n = 2
-[]
   name = Spider Walker With Ballista
   category = walkers
   crafting[]
@@ -2060,7 +2044,7 @@
       name = Rupu Vine
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Cargo - Tier 1
+  name = Spider Walker Upgrade - Cargo - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2073,7 +2057,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Water - Tier 1
+  name = Spider Walker Upgrade - Water - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2086,7 +2070,7 @@
       name = Rupu Pelt
       count n = 5
 []
-  name = Nomad Spider Walker Upgrade - Hatch - Tier 1
+  name = Spider Walker Upgrade - Hatch - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2099,7 +2083,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Armor - Tier 1
+  name = Spider Walker Upgrade - Armor - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2112,7 +2096,7 @@
       name = Hide
       count n = 8
 []
-  name = Nomad Spider Walker Upgrade - Mobility - Tier 1
+  name = Spider Walker Upgrade - Mobility - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2125,7 +2109,7 @@
       name = Palm Leaves
       count n = 20
 []
-  name = Nomad Spider Walker Upgrade - Cargo - Tier 2
+  name = Spider Walker Upgrade - Cargo - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2141,7 +2125,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Water - Tier 2
+  name = Spider Walker Upgrade - Water - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2157,7 +2141,7 @@
       name = Wood
       count n = 15
 []
-  name = Nomad Spider Walker Upgrade - Hatch - Tier 2
+  name = Spider Walker Upgrade - Hatch - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2173,7 +2157,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Armor - Tier 2
+  name = Spider Walker Upgrade - Armor - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2189,7 +2173,7 @@
       name = Chitin Plate
       count n = 2
 []
-  name = Nomad Spider Walker Upgrade - Mobility - Tier 2
+  name = Spider Walker Upgrade - Mobility - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2205,7 +2189,7 @@
       name = Wood
       count n = 30
 []
-  name = Nomad Spider Walker Upgrade - Torque - Tier 2
+  name = Spider Walker Upgrade - Torque - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
