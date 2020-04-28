@@ -1,6 +1,6 @@
 import React, { useReducer } from 'react';
 import ReactGA from 'react-ga';
-
+import { useMedia } from 'react-use-media'
 
 import './App.css';
 import ItemSidebar from './ItemSidebar'
@@ -17,14 +17,20 @@ ReactGA.pageview('/');
 
 function App() {
   const [crafting, craftingDispatch] = useReducer(CraftingReducer, [])
+  const isWide = useMedia({ minWidth: 1100 })
 
-  return (
+  if(isWide) return (
     <React.Fragment>
       <ItemSidebar dispatch={craftingDispatch}>
         <CraftingSection crafting={crafting} dispatch={craftingDispatch}/>
       </ItemSidebar>
     </React.Fragment>
-  );
+  )
+  else return (
+    <React.Fragment>
+      <CraftingSection crafting={crafting} dispatch={craftingDispatch}/>
+    </React.Fragment>
+  )
 }
 
 export default App;
