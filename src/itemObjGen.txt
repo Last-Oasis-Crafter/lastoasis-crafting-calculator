@@ -1662,6 +1662,19 @@
       name = Wood
       count n = 85
 []
+  name = Walker Climber
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 4
+    ingredients[]
+      name = Fiber
+      count n = 35
+[]
   name = Firefly Walker Body
   category = walkers
   crafting[]
