@@ -1695,7 +1695,66 @@
       name = Fiber Weave
       count n = 7
 []
-  name = Firefly Walker Cargo Upgrade 2
+  name = Firefly Walker Upgrade - Cargo - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 20
+[]
+  name = Firefly Walker Upgrade - Water - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Rupu Pelt
+      count n = 5
+[]
+  name = Firefly Walker Upgrade - Hatch - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 22
+    ingredients[]
+      name = Fiber
+      count n = 18
+[]
+  name = Firefly Walker Upgrade - Armor - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Stone
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Firefly Walker Upgrade - Mobility - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Wood Shaft
+      count n = 15
+    ingredients[]
+      name = Palm Leaves
+      count n = 20
+[]
+  name = Firefly Walker Upgrade - Cargo - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -1711,7 +1770,7 @@
       name = Stone
       count n = 10
 []
-  name = Firefly Walker Water Upgrade 2
+  name = Firefly Walker Upgrade - Water - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -1727,7 +1786,7 @@
       name = Wood
       count n = 15
 []
-  name = Firefly Walker Hatch Upgrade 2
+  name = Firefly Walker Upgrade - Hatch - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -1743,20 +1802,7 @@
       name = Stone
       count n = 10
 []
-  name = Firefly Walker Armor Upgrade 1
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Wood
-      count n = 40
-    ingredients[]
-      name = Stone
-      count n = 40
-    ingredients[]
-      name = Hide
-      count n = 8
-[]
-  name = Firefly Walker Armor Upgrade 2
+  name = Firefly Walker Upgrade - Armor - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -1772,20 +1818,7 @@
       name = Chitin Plate
       count n = 2
 []
-  name = Firefly Walker Mobility Upgrade 1
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Wood
-      count n = 35
-    ingredients[]
-      name = Wood Shaft
-      count n = 15
-    ingredients[]
-      name = Palm Leaves
-      count n = 20
-[]
-  name = Firefly Walker Mobility Upgrade 2
+  name = Firefly Walker Upgrade - Mobility - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -1800,6 +1833,22 @@
     ingredients[]
       name = Wood
       count n = 30
+[]
+  name = Firefly Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 65
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 12
 []
   name = Dinghy Walker Body
   category = walkers
@@ -1849,6 +1898,102 @@
     ingredients[]
       name = Rope
       count n = 10
+[]
+  name = Dinghy Walker Upgrade - Cargo - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 15
+[]
+  name = Dinghy Walker Upgrade - Hatch - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Armor - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 15
+    ingredients[]
+      name = Hide
+      count n = 20
+    ingredients[]
+      name = Chitin Plate
+      count n = 2
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Rupu Vine
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+    ingredients[]
+      name = Wood
+      count n = 30
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 65
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 12
 []
   name = Nomad Spider Walker Body
   category = walkers
@@ -1915,6 +2060,167 @@
       name = Rupu Vine
       count n = 10
 []
+  name = Nomad Spider Walker Upgrade - Cargo - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Nomad Spider Walker Upgrade - Water - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Rupu Pelt
+      count n = 5
+[]
+  name = Nomad Spider Walker Upgrade - Hatch - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 22
+    ingredients[]
+      name = Fiber
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Nomad Spider Walker Upgrade - Armor - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Stone
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Nomad Spider Walker Upgrade - Mobility - Tier 1
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Wood Shaft
+      count n = 15
+    ingredients[]
+      name = Palm Leaves
+      count n = 20
+[]
+  name = Nomad Spider Walker Upgrade - Cargo - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Nomad Spider Walker Upgrade - Water - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 15
+[]
+  name = Nomad Spider Walker Upgrade - Hatch - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 8
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Nomad Spider Walker Upgrade - Armor - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 15
+    ingredients[]
+      name = Hide
+      count n = 20
+    ingredients[]
+      name = Chitin Plate
+      count n = 2
+[]
+  name = Nomad Spider Walker Upgrade - Mobility - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Rupu Vine
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+    ingredients[]
+      name = Wood
+      count n = 30
+[]
+  name = Nomad Spider Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 65
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 12
+[]
   name = Stilleto Walker Body
   category = walkers
   crafting[]
@@ -1979,6 +2285,102 @@
     ingredients[]
       name = Hide
       count n = 30
+[]
+  name = Stiletto Walker Upgrade - Cargo - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Stiletto Walker Upgrade - Water - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Stiletto Walker Upgrade - Hatch - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 13
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 128
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Stiletto Walker Upgrade - Armor - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 48
+    ingredients[]
+      name = Fiber Weave
+      count n = 24
+    ingredients[]
+      name = Rupu Pelt
+      count n = 42
+    ingredients[]
+      name = Chitin Plate
+      count n = 4
+[]
+  name = Stiletto Walker Upgrade - Mobility - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 32
+    ingredients[]
+      name = Rupu Vine
+      count n = 48
+    ingredients[]
+      name = Earth Wax
+      count n = 16
+    ingredients[]
+      name = Wood
+      count n = 48
+[]
+  name = Stiletto Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
 []
   name = Buffalo Walker Body
   category = walkers
@@ -2160,6 +2562,102 @@
     ingredients[]
       name = Hide
       count n = 85
+[]
+  name = Toboggan Walker Upgrade - Cargo - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Toboggan Walker Upgrade - Water - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Toboggan Walker Upgrade - Hatch - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 13
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 128
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Toboggan Walker Upgrade - Armor - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 48
+    ingredients[]
+      name = Fiber Weave
+      count n = 24
+    ingredients[]
+      name = Rupu Pelt
+      count n = 42
+    ingredients[]
+      name = Chitin Plate
+      count n = 4
+[]
+  name = Toboggan Walker Upgrade - Mobility - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 32
+    ingredients[]
+      name = Rupu Vine
+      count n = 48
+    ingredients[]
+      name = Earth Wax
+      count n = 16
+    ingredients[]
+      name = Wood
+      count n = 48
+[]
+  name = Toboggan Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
 []
   name = Hornet Walker Body
   category = walkers
