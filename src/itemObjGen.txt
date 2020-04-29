@@ -561,7 +561,6 @@
     ingredients[]
       name = Chitin Plate
       count n = 8
-      forester's armor n = 1
 []
   name = Iron Studded Armor
   category = items/armors/iron studded armor

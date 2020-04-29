@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react'
-import { Segment, Input, List } from 'semantic-ui-react'
-import Craftable from './Craftable'
+import { Segment, Input } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
 import useDebounce from './useDebounce'
 import { items as itemJson } from './Items'
 import { useMedia } from 'react-use-media'
+import SearchResults from './SearchResults'
 
 export default function ItemSearch({dispatch, maxHeight}) {
   const craftables = itemJson.filter(item => item.crafting && item.crafting.length > 0)
@@ -57,16 +57,7 @@ export default function ItemSearch({dispatch, maxHeight}) {
           onChange={e => setSearchValue(e.target.value)}
           loading={isSearchLoading}
           />
-        <List inverted divided verticalAlign='middle'>
-        {searchResult.map(item => (
-          <Craftable
-            key={item.name}
-            item={item}
-            handle={() => {
-              dispatch({type: 'ADD_ITEM', item: item})
-            }}/>
-        ))}
-        </List>
+          <SearchResults results={searchResult} dispatch={dispatch} mobile={!isWide}/>
         {debouncedSearchValue &&
         <span>Can't find what you're looking for? Let me know on Discord: <a href='https://discord.gg/ufDWKCS' target='_blank' rel='noopener noreferrer'>https://discord.gg/ufDWKCS</a></span>
         }

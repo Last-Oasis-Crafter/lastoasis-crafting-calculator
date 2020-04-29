@@ -11,3 +11,7 @@
 .countInput button {
   display: none !important;
 }
+.viewport {
+  width: 150px;
+  overflow-y: auto;
+}

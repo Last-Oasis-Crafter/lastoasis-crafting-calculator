@@ -5,7 +5,7 @@ import Recipe from './Recipe';
 
 export default function CraftingCard({item, dispatch, index}) {
   const [recipes, setRecipes] = useState([])
-  const [selectedRecipe, setSelectedRecipe] = useState(0)
+  const [selectedRecipe] = useState(0)
   const [active, setActive] = useState(true)
 
   // set recipes
