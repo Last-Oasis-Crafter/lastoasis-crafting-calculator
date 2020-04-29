@@ -1765,8 +1765,7 @@
 					},
 					{
 						"name": "Rupu Vine",
-						"count": 10,
-						"": {}
+						"count": 10
 					}
 				]
 			}
@@ -5930,28 +5929,6 @@
 		]
 	},
 	{
-		"name": "Walker Climber",
-		"category": "walkers/tools",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood",
-						"count": 30
-					},
-					{
-						"name": "Wood Shaft",
-						"count": 4
-					},
-					{
-						"name": "Fiber",
-						"count": 35
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Firefly Walker Body",
 		"category": "walkers",
 		"crafting": [
@@ -6516,7 +6493,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Body",
+		"name": "Stiletto Walker Body",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6546,7 +6523,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Legs (1 of 4)",
+		"name": "Stiletto Walker Legs (1 of 4)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6564,7 +6541,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Medium Wings (1 of 2)",
+		"name": "Stiletto Walker Medium Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6586,7 +6563,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Small Wings (1 of 2)",
+		"name": "Stiletto Walker Small Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6608,7 +6585,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Wings (1 of 2)",
+		"name": "Stiletto Walker Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -7040,6 +7017,46 @@
 					{
 						"name": "Nomad Cloth",
 						"count": 11
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Steering Levers",
+		"category": "walkers/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Rope",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Walker Climber",
+		"category": "walkers/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 30
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					},
+					{
+						"name": "Fiber",
+						"count": 35
 					}
 				]
 			}

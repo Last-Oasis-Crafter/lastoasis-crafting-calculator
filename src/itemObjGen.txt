@@ -1675,6 +1675,16 @@
       name = Fiber
       count n = 35
 []
+  name = Steering Levers
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Rope
+      count n = 2
+[]
   name = Firefly Walker Body
   category = walkers
   crafting[]
@@ -2218,7 +2228,7 @@
       name = Rope
       count n = 12
 []
-  name = Stilleto Walker Body
+  name = Stiletto Walker Body
   category = walkers
   crafting[]
     ingredients[]
@@ -2237,7 +2247,7 @@
       name = Stone
       count n = 90
 []
-  name = Stilleto Walker Legs (1 of 4)
+  name = Stiletto Walker Legs (1 of 4)
   category = walkers
   crafting[]
     ingredients[]
@@ -2247,7 +2257,7 @@
       name = Wood Shaft
       count n = 18
 []
-  name = Stilleto Walker Wings (1 of 2)
+  name = Stiletto Walker Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -2257,7 +2267,7 @@
       name = Fiber Weave
       count n = 28
 []
-  name = Stilleto Walker Small Wings (1 of 2)
+  name = Stiletto Walker Small Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -2270,7 +2280,7 @@
       name = Nomad Cloth
       count n = 2
 []
-  name = Stilleto Walker Medium Wings (1 of 2)
+  name = Stiletto Walker Medium Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -4818,4 +4828,3 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
-      
