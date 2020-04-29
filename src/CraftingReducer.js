@@ -13,12 +13,12 @@ export default function(state, action) {
         return newState.map(item => 
           item.name === action.item.name ? {
             ...item,
-            count: item.count + 1 > 999 ? 999 : item.count + 1
+            count: item.count + 1 > 999999 ? 999999 : item.count + 1
           } : item)
       }
     case 'SET_COUNT':
       let count = action.count
-      count = count > 999 ? 999 : count
+      count = count > 999999 ? 999999 : count
       count = count < 1 ? 1 : count
       if(count > 0 ) {
         const newState = state.slice()
