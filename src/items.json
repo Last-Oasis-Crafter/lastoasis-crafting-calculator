@@ -2767,8 +2767,11 @@
 				"ingredients": [
 					{
 						"name": "Chitin Plate",
-						"count": 8,
-						"forester's": "1"
+						"count": 8
+					},
+					{
+						"name": "Forester's Armor",
+						"count": 1
 					}
 				]
 			}
