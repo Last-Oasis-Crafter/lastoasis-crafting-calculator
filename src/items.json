@@ -5002,7 +5002,58 @@
 	},
 	{
 		"name": "Earth Wax",
-		"category": "materials"
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Purified Water",
+						"count": 2
+					},
+					{
+						"name": "Terrain: Black Soil",
+						"count": 1
+					}
+				],
+				"station": "Soil Excavator"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Palm Leaves",
+						"count": 15
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Mushroom Flesh",
+						"count": 10
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Rupu Vine",
+						"count": 10
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Beeswax",
+						"count": 5
+					}
+				],
+				"station": "Stomping Station"
+			}
+		]
 	},
 	{
 		"name": "Feather",
