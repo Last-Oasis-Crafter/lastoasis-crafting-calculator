@@ -66,6 +66,34 @@
 []
   name = Earth Wax
   category = materials
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 2
+    ingredients[]
+      name = Terrain: Black Soil
+      count n = 1
+    station = Soil Excavator
+  crafting[]
+    ingredients[]
+      name = Palm Leaves
+      count n = 15
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 10
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Beeswax
+      count n = 5
+    station = Stomping Station  
 []
   name = Feather
   category = materials
