@@ -2287,6 +2287,22 @@
       name = Wood Shaft
       count n = 18
 []
+  name = Mollusk Walker Legs Armored (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 490
+    ingredients[]
+      name = Wood Shaft
+      count n = 60
+    ingredients[]
+      name = Ceramic Shard
+      count n = 24
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+[]
   name = Mollusk Walker Wings (1 of 2)
   category = walkers
   crafting[]
@@ -2309,6 +2325,19 @@
     ingredients[]
       name = Nomad Cloth
       count n = 2
+[]
+  name = Mollusk Walker Wings Medium (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
 []
   name = Mollusk Walker Wings Heavy (1 of 2)
   category = walkers
@@ -2418,6 +2447,102 @@
     ingredients[]
       name = Rope
       count n = 20
+[]
+  name = Mollusk Walker Upgrade - Water - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Mollusk Walker Upgrade - Gear - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Earth Wax
+      count n = 64
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Mollusk Walker Upgrade - Cargo - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 56
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Mollusk Walker Upgrade - Mobility - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 64
+    ingredients[]
+      name = Reinforced Plank
+      count n = 7
+    ingredients[]
+      name = Earth Wax
+      count n = 128
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+  []
+  name = Mollusk Walker Upgrade - Armor - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 72
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 7
+    ingredients[]
+      name = Chitin Plate
+      count n = 16
+[]
+  name = Mollusk Walker Upgrade - Torque - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
 []
   name = Stiletto Walker Body
   category = walkers
