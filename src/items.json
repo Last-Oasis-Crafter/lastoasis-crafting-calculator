@@ -5985,28 +5985,6 @@
 		]
 	},
 	{
-		"name": "Walker Climber",
-		"category": "walkers/tools",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Wood",
-						"count": 30
-					},
-					{
-						"name": "Wood Shaft",
-						"count": 4
-					},
-					{
-						"name": "Fiber",
-						"count": 35
-					}
-				]
-			}
-		]
-	},
-	{
 		"name": "Firefly Walker Body",
 		"category": "walkers",
 		"crafting": [
