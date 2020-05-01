@@ -2258,6 +2258,144 @@
       name = Rope
       count n = 12
 []
+  name = Mollusk Walker Body
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 570
+    ingredients[]
+      name = Rope
+      count n = 12
+    ingredients[]
+      name = Fiber
+      count n = 80
+    ingredients[]
+      name = Fiber Weave
+      count n = 2
+    ingredients[]
+      name = Stone
+      count n = 90
+[]
+  name = Mollusk Walker Legs (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 140
+    ingredients[]
+      name = Wood Shaft
+      count n = 18
+[]
+  name = Mollusk Walker Wings (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 47
+      name = Fiber Weave
+      count n = 28
+[]
+  name = Mollusk Walker Wings Small (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+      name = Rope
+      count n = 12
+      name = Nomad Cloth
+      count n = 2
+[]
+  name = Mollusk Walker Wings Heavy (1 of 2)
+  category = walkers
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+      name = Rope
+      count n = 9
+      name = Nomad Cloth
+      count n = 6
+[]
+  name = Mollusk Walker Upgrade - Water - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+      name = Fiber
+      count n = 160
+      name = Hide
+      count n = 24
+      name = Wood
+      count n = 24
+[]
+  name = Mollusk Walker Upgrade - Gear - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 13
+      name = Fiber
+      count n = 160
+      name = Wood
+      count n = 128
+      name = Stone
+      count n = 16
+[]
+  name = Mollusk Walker Upgrade - Cargo - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+      name = Fiber
+      count n = 160
+      name = Wood
+      count n = 120
+      name = Stone
+      count n = 16
+[]
+  name = Mollusk Walker Upgrade - Mobility - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 32
+      name = Rupu Vine
+      count n = 48
+      name = Earth Wax
+      count n = 16
+      name = Wood
+      count n = 48
+[]
+  name = Mollusk Walker Upgrade - Armor - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 48
+      name = Fiber Weave
+      count n = 24
+      name = Rupu Pelt
+      count n = 42
+      name = Chitin Plate
+      count n = 4
+[]
+  name = Mollusk Walker Upgrade - Torque - Tier 2
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+      name = Fiber
+      count n = 104
+      name = Wood
+      count n = 96
+      name = Rope
+      count n = 20
+[]
   name = Stiletto Walker Body
   category = walkers
   crafting[]
