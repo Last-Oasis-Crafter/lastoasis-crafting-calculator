@@ -31,7 +31,7 @@ export default function CraftingCard({item, dispatch, index}) {
           key={item.name+item.count}
           initialValue={item.count}
           min={1}
-          max={999}
+          max={999999}
           save={count => dispatch({
             type: 'SET_COUNT',
             count: parseInt(count) || item.count,

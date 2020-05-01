@@ -1765,8 +1765,7 @@
 					},
 					{
 						"name": "Rupu Vine",
-						"count": 10,
-						"": {}
+						"count": 10
 					}
 				]
 			}
@@ -2768,8 +2767,11 @@
 				"ingredients": [
 					{
 						"name": "Chitin Plate",
-						"count": 8,
-						"forester's": "1"
+						"count": 8
+					},
+					{
+						"name": "Forester's Armor",
+						"count": 1
 					}
 				]
 			}
@@ -5000,7 +5002,58 @@
 	},
 	{
 		"name": "Earth Wax",
-		"category": "materials"
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Purified Water",
+						"count": 2
+					},
+					{
+						"name": "Terrain: Black Soil",
+						"count": 1
+					}
+				],
+				"station": "Soil Excavator"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Palm Leaves",
+						"count": 15
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Mushroom Flesh",
+						"count": 10
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Rupu Vine",
+						"count": 10
+					}
+				],
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Beeswax",
+						"count": 5
+					}
+				],
+				"station": "Stomping Station"
+			}
+		]
 	},
 	{
 		"name": "Feather",
@@ -6516,7 +6569,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Body",
+		"name": "Stiletto Walker Body",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6546,7 +6599,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Legs (1 of 4)",
+		"name": "Stiletto Walker Legs (1 of 4)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6564,7 +6617,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Medium Wings (1 of 2)",
+		"name": "Stiletto Walker Medium Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6586,7 +6639,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Small Wings (1 of 2)",
+		"name": "Stiletto Walker Small Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -6608,7 +6661,7 @@
 		]
 	},
 	{
-		"name": "Stilleto Walker Wings (1 of 2)",
+		"name": "Stiletto Walker Wings (1 of 2)",
 		"category": "walkers",
 		"crafting": [
 			{
@@ -7046,6 +7099,46 @@
 		]
 	},
 	{
+		"name": "Steering Levers",
+		"category": "walkers/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 2
+					},
+					{
+						"name": "Rope",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Walker Climber",
+		"category": "walkers/tools",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 30
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 4
+					},
+					{
+						"name": "Fiber",
+						"count": 35
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Dinghy Walker Upgrade - Armor - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -7460,33 +7553,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Armor Upgrade 2",
-		"category": "walkers/upgrades",
-		"crafting": [
-			{
-				"ingredients": [
-					{
-						"name": "Bone Splinter",
-						"count": 30
-					},
-					{
-						"name": "Fiber Weave",
-						"count": 15
-					},
-					{
-						"name": "Hide",
-						"count": 20
-					},
-					{
-						"name": "Chitin Plate",
-						"count": 2
-					}
-				]
-			}
-		]
-	},
-	{
-		"name": "Nomad Spider Walker Upgrade - Armor - Tier 1",
+		"name": "Spider Walker Upgrade - Armor - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7508,7 +7575,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Armor - Tier 2",
+		"name": "Spider Walker Upgrade - Armor - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7534,7 +7601,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Cargo - Tier 1",
+		"name": "Spider Walker Upgrade - Cargo - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7556,7 +7623,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Cargo - Tier 2",
+		"name": "Spider Walker Upgrade - Cargo - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7582,7 +7649,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Hatch - Tier 1",
+		"name": "Spider Walker Upgrade - Hatch - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7604,7 +7671,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Hatch - Tier 2",
+		"name": "Spider Walker Upgrade - Hatch - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7630,7 +7697,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Mobility - Tier 1",
+		"name": "Spider Walker Upgrade - Mobility - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7652,7 +7719,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Mobility - Tier 2",
+		"name": "Spider Walker Upgrade - Mobility - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7678,7 +7745,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Torque - Tier 2",
+		"name": "Spider Walker Upgrade - Torque - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7704,7 +7771,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Water - Tier 1",
+		"name": "Spider Walker Upgrade - Water - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7726,7 +7793,7 @@
 		]
 	},
 	{
-		"name": "Nomad Spider Walker Upgrade - Water - Tier 2",
+		"name": "Spider Walker Upgrade - Water - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
