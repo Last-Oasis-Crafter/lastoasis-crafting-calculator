@@ -7145,6 +7145,32 @@
 		]
 	},
 	{
+		"name": "Dinghy Walker Upgrade - Armor - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 45
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 50
+					},
+					{
+						"name": "Bone Glue",
+						"count": 4
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Dinghy Walker Upgrade - Cargo - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -7165,6 +7191,32 @@
 					{
 						"name": "Stone",
 						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dinghy Walker Upgrade - Cargo - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 25
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 12
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 35
+					},
+					{
+						"name": "Stone",
+						"count": 80
 					}
 				]
 			}
@@ -7197,6 +7249,32 @@
 		]
 	},
 	{
+		"name": "Dinghy Walker Upgrade - Hatch - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 25
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 10
+					},
+					{
+						"name": "Earth Wax",
+						"count": 40
+					},
+					{
+						"name": "Wood",
+						"count": 75
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Dinghy Walker Upgrade - Mobility - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -7217,6 +7295,32 @@
 					{
 						"name": "Wood",
 						"count": 30
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dinghy Walker Upgrade - Mobility - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 40
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 4
+					},
+					{
+						"name": "Earth Wax",
+						"count": 80
+					},
+					{
+						"name": "Bone Glue",
+						"count": 5
 					}
 				]
 			}
@@ -7249,6 +7353,32 @@
 		]
 	},
 	{
+		"name": "Dinghy Walker Upgrade - Torque - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 30
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 35
+					},
+					{
+						"name": "Rope",
+						"count": 25
+					},
+					{
+						"name": "Wood",
+						"count": 80
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Dinghy Walker Upgrade - Water - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -7269,6 +7399,32 @@
 					{
 						"name": "Wood",
 						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dinghy Walker Upgrade - Water - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 20
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 45
+					},
+					{
+						"name": "Wood",
+						"count": 85
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 35
 					}
 				]
 			}
