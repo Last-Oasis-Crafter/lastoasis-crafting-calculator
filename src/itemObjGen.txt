@@ -66,6 +66,34 @@
 []
   name = Earth Wax
   category = materials
+  crafting[]
+    ingredients[]
+      name = Purified Water
+      count n = 2
+    ingredients[]
+      name = Terrain: Black Soil
+      count n = 1
+    station = Soil Excavator
+  crafting[]
+    ingredients[]
+      name = Palm Leaves
+      count n = 15
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 10
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+    station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Beeswax
+      count n = 5
+    station = Stomping Station  
 []
   name = Feather
   category = materials
@@ -186,7 +214,7 @@
 []
   name = Tar
   category = materials
-  crafting
+  crafting[]
     ingredients[]
       name = Earth Wax
       count n = 1
@@ -561,7 +589,9 @@
     ingredients[]
       name = Chitin Plate
       count n = 8
-      forester's armor n = 1
+    ingredients[]
+      name = Forester's Armor
+      count n = 1
 []
   name = Iron Studded Armor
   category = items/armors/iron studded armor
@@ -1675,6 +1705,16 @@
       name = Fiber
       count n = 35
 []
+  name = Steering Levers
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
+      name = Rope
+      count n = 2
+[]
   name = Firefly Walker Body
   category = walkers
   crafting[]
@@ -2041,22 +2081,6 @@
       name = Fiber
       count n = 18
 []
-  name = Nomad Spider Walker Armor Upgrade 2
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Bone Splinter
-      count n = 30
-    ingredients[]
-      name = Fiber Weave
-      count n = 15
-    ingredients[]
-      name = Hide
-      count n = 20
-    ingredients[]
-      name = Chitin Plate
-      count n = 2
-[]
   name = Spider Walker With Ballista
   category = walkers
   crafting[]
@@ -2073,7 +2097,7 @@
       name = Rupu Vine
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Cargo - Tier 1
+  name = Spider Walker Upgrade - Cargo - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2086,7 +2110,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Water - Tier 1
+  name = Spider Walker Upgrade - Water - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2099,7 +2123,7 @@
       name = Rupu Pelt
       count n = 5
 []
-  name = Nomad Spider Walker Upgrade - Hatch - Tier 1
+  name = Spider Walker Upgrade - Hatch - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2112,7 +2136,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Armor - Tier 1
+  name = Spider Walker Upgrade - Armor - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2125,7 +2149,7 @@
       name = Hide
       count n = 8
 []
-  name = Nomad Spider Walker Upgrade - Mobility - Tier 1
+  name = Spider Walker Upgrade - Mobility - Tier 1
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2138,7 +2162,7 @@
       name = Palm Leaves
       count n = 20
 []
-  name = Nomad Spider Walker Upgrade - Cargo - Tier 2
+  name = Spider Walker Upgrade - Cargo - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2154,7 +2178,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Water - Tier 2
+  name = Spider Walker Upgrade - Water - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2170,7 +2194,7 @@
       name = Wood
       count n = 15
 []
-  name = Nomad Spider Walker Upgrade - Hatch - Tier 2
+  name = Spider Walker Upgrade - Hatch - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2186,7 +2210,7 @@
       name = Stone
       count n = 10
 []
-  name = Nomad Spider Walker Upgrade - Armor - Tier 2
+  name = Spider Walker Upgrade - Armor - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2202,7 +2226,7 @@
       name = Chitin Plate
       count n = 2
 []
-  name = Nomad Spider Walker Upgrade - Mobility - Tier 2
+  name = Spider Walker Upgrade - Mobility - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2218,7 +2242,7 @@
       name = Wood
       count n = 30
 []
-  name = Nomad Spider Walker Upgrade - Torque - Tier 2
+  name = Spider Walker Upgrade - Torque - Tier 2
   category = walkers/upgrades
   crafting[]
     ingredients[]
@@ -2234,7 +2258,7 @@
       name = Rope
       count n = 12
 []
-  name = Stilleto Walker Body
+  name = Stiletto Walker Body
   category = walkers
   crafting[]
     ingredients[]
@@ -2253,7 +2277,7 @@
       name = Stone
       count n = 90
 []
-  name = Stilleto Walker Legs (1 of 4)
+  name = Stiletto Walker Legs (1 of 4)
   category = walkers
   crafting[]
     ingredients[]
@@ -2263,7 +2287,7 @@
       name = Wood Shaft
       count n = 18
 []
-  name = Stilleto Walker Wings (1 of 2)
+  name = Stiletto Walker Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -2273,7 +2297,7 @@
       name = Fiber Weave
       count n = 28
 []
-  name = Stilleto Walker Small Wings (1 of 2)
+  name = Stiletto Walker Small Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -2286,7 +2310,7 @@
       name = Nomad Cloth
       count n = 2
 []
-  name = Stilleto Walker Medium Wings (1 of 2)
+  name = Stiletto Walker Medium Wings (1 of 2)
   category = walkers
   crafting[]
     ingredients[]
@@ -4834,4 +4858,99 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
-      
+[]
+  name = Dinghy Walker Upgrade - Cargo - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Dinghy Walker Upgrade - Hatch - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 75  
+[]
+  name = Dinghy Walker Upgrade - Armor - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 45
+    ingredients[]
+      name = Redwood Wood
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 10  
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Reinforced Plank
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 5    
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 3
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80   
