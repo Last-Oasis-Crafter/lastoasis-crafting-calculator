@@ -214,7 +214,7 @@
 []
   name = Tar
   category = materials
-  crafting
+  crafting[]
     ingredients[]
       name = Earth Wax
       count n = 1

@@ -5421,15 +5421,17 @@
 	{
 		"name": "Tar",
 		"category": "materials",
-		"crafting": {
-			"ingredients": [
-				{
-					"name": "Earth Wax",
-					"count": 1
-				}
-			],
-			"station": "Furnace"
-		}
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Earth Wax",
+						"count": 1
+					}
+				],
+				"station": "Furnace"
+			}
+		]
 	},
 	{
 		"name": "Thornberry",
