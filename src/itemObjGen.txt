@@ -2048,6 +2048,102 @@
       name = Rope
       count n = 12
 []
+  name = Dinghy Walker Upgrade - Cargo - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Dinghy Walker Upgrade - Gear - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 75  
+[]
+  name = Dinghy Walker Upgrade - Armor - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 45
+    ingredients[]
+      name = Redwood Wood
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 10  
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Reinforced Plank
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 5    
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80   
+[]
   name = Nomad Spider Walker Body
   category = walkers/spider
   crafting[]
@@ -2545,7 +2641,7 @@
       count n = 128
 []
   name = Mollusk Walker Upgrade - Water - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2564,7 +2660,7 @@
       count n = 24
 []
   name = Mollusk Walker Upgrade - Gear - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2583,7 +2679,7 @@
       count n = 40
 []
   name = Mollusk Walker Upgrade - Cargo - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2602,7 +2698,7 @@
       count n = 25
 []
   name = Mollusk Walker Upgrade - Mobility - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2621,7 +2717,7 @@
       count n = 64
 []
   name = Mollusk Walker Upgrade - Armor - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2640,7 +2736,7 @@
       count n = 8
 []
   name = Mollusk Walker Upgrade - Torque - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -5642,99 +5738,3 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
-[]
-  name = Dinghy Walker Upgrade - Cargo - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 25
-    ingredients[]
-      name = Nomad Cloth
-      count n = 12
-    ingredients[]
-      name = Wood Shaft
-      count n = 35
-    ingredients[]
-      name = Stone
-      count n = 80
-[]
-  name = Dinghy Walker Upgrade - Water - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 20
-    ingredients[]
-      name = Rupu Pelt
-      count n = 45
-    ingredients[]
-      name = Wood
-      count n = 85
-    ingredients[]
-      name = Fiber Weave
-      count n = 35
-[]
-  name = Dinghy Walker Upgrade - Gear - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 25
-    ingredients[]
-      name = Nomad Cloth
-      count n = 10
-    ingredients[]
-      name = Earth Wax
-      count n = 40
-    ingredients[]
-      name = Wood
-      count n = 75  
-[]
-  name = Dinghy Walker Upgrade - Armor - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 45
-    ingredients[]
-      name = Redwood Wood
-      count n = 50
-    ingredients[]
-      name = Bone Glue
-      count n = 4
-    ingredients[]
-      name = Chitin Plate
-      count n = 10  
-[]
-  name = Dinghy Walker Upgrade - Mobility - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 40
-    ingredients[]
-      name = Reinforced Plank
-      count n = 4
-    ingredients[]
-      name = Earth Wax
-      count n = 80
-    ingredients[]
-      name = Bone Glue
-      count n = 5    
-[]
-  name = Dinghy Walker Upgrade - Torque - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 30
-    ingredients[]
-      name = Rupu Vine
-      count n = 35
-    ingredients[]
-      name = Rope
-      count n = 25
-    ingredients[]
-      name = Wood
-      count n = 80   
