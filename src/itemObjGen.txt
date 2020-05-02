@@ -2511,7 +2511,7 @@
     ingredients[]
       name = Bone Glue
       count n = 8
-  []
+[]
   name = Mollusk Walker Upgrade - Armor - Tier 3
   category = walkers/upgrades
   crafting[]
@@ -2619,7 +2619,7 @@
     ingredients[]
       name = Tar
       count n = 64
-  []
+[]
   name = Mollusk Walker Upgrade - Armor - Tier 4
   category = walkers/upgrades
   crafting[]
