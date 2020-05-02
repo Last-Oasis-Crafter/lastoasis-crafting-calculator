@@ -7381,7 +7381,7 @@
 		]
 	},
 	{
-		"name": "Dinghy Walker Upgrade - Hatch - Tier 2",
+		"name": "Dinghy Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7407,7 +7407,7 @@
 		]
 	},
 	{
-		"name": "Dinghy Walker Upgrade - Hatch - Tier 3",
+		"name": "Dinghy Walker Upgrade - Gear - Tier 3",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7681,7 +7681,7 @@
 		]
 	},
 	{
-		"name": "Firefly Walker Upgrade - Hatch - Tier 1",
+		"name": "Firefly Walker Upgrade - Gear - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7699,7 +7699,7 @@
 		]
 	},
 	{
-		"name": "Firefly Walker Upgrade - Hatch - Tier 2",
+		"name": "Firefly Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -7925,6 +7925,36 @@
 		]
 	},
 	{
+		"name": "Mollusk Walker Upgrade - Cargo - Tier 4",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 16
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 45
+					},
+					{
+						"name": "Bone Glue",
+						"count": 20
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 96
+					},
+					{
+						"name": "Worm Silk",
+						"count": 25
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Mollusk Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -7971,6 +8001,36 @@
 					{
 						"name": "Wood",
 						"count": 75
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Gear - Tier 4",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 16
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 56
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 32
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 176
+					},
+					{
+						"name": "Worm Silk",
+						"count": 40
 					}
 				]
 			}
@@ -8050,6 +8110,61 @@
 		"": []
 	},
 	{
+		"name": "Mollusk Walker Upgrade - Mobility - Tier 4",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 24
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 23
+					},
+					{
+						"name": "Worm Silk",
+						"count": 32
+					},
+					{
+						"name": "Bone Glue",
+						"count": 42
+					},
+					{
+						"name": "Tar",
+						"count": 64
+					}
+				]
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 45
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 192
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 56
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 80
+					},
+					{
+						"name": "Obsidian",
+						"count": 8
+					}
+				]
+			}
+		],
+		"": []
+	},
+	{
 		"name": "Mollusk Walker Upgrade - Torque - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -8102,6 +8217,36 @@
 		]
 	},
 	{
+		"name": "Mollusk Walker Upgrade - Torque - Tier 4",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 24
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 61
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 16
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 80
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 192
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Mollusk Walker Upgrade - Water - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
@@ -8148,6 +8293,36 @@
 					{
 						"name": "Fiber Weave",
 						"count": 56
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Water - Tier 4",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 13
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 40
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 128
+					},
+					{
+						"name": "Rupu Gel",
+						"count": 48
+					},
+					{
+						"name": "Bone Glue",
+						"count": 24
 					}
 				]
 			}
@@ -8250,7 +8425,7 @@
 		]
 	},
 	{
-		"name": "Spider Walker Upgrade - Hatch - Tier 1",
+		"name": "Spider Walker Upgrade - Gear - Tier 1",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -8272,7 +8447,7 @@
 		]
 	},
 	{
-		"name": "Spider Walker Upgrade - Hatch - Tier 2",
+		"name": "Spider Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -8472,7 +8647,7 @@
 		]
 	},
 	{
-		"name": "Stiletto Walker Upgrade - Hatch - Tier 2",
+		"name": "Stiletto Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{
@@ -8628,7 +8803,7 @@
 		]
 	},
 	{
-		"name": "Toboggan Walker Upgrade - Hatch - Tier 2",
+		"name": "Toboggan Walker Upgrade - Gear - Tier 2",
 		"category": "walkers/upgrades",
 		"crafting": [
 			{

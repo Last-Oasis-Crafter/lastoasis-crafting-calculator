@@ -2544,6 +2544,120 @@
       name = Wood
       count n = 128
 []
+  name = Mollusk Walker Upgrade - Water - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Mollusk Walker Upgrade - Gear - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Mollusk Walker Upgrade - Cargo - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Mollusk Walker Upgrade - Mobility - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+  []
+  name = Mollusk Walker Upgrade - Armor - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Mollusk Walker Upgrade - Torque - Tier 4
+  category = walkers/upgrades
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Reinforced Plank
+      count n = 192
+[]
   name = Stiletto Walker Body
   category = walkers
   crafting[]
