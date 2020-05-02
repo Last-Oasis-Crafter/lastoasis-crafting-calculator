@@ -6279,6 +6279,164 @@
 		]
 	},
 	{
+		"name": "Mollusk Walker Body",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 570
+					},
+					{
+						"name": "Rope",
+						"count": 12
+					},
+					{
+						"name": "Fiber",
+						"count": 80
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 2
+					},
+					{
+						"name": "Stone",
+						"count": 90
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Legs (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 140
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 18
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Legs Armored (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 490
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 60
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 24
+					},
+					{
+						"name": "Bone Glue",
+						"count": 8
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Wings (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 47
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 28
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Wings Heavy (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 20
+					},
+					{
+						"name": "Rope",
+						"count": 9
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 6
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Wings Medium (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 50
+					},
+					{
+						"name": "Hide",
+						"count": 30
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Wings Small (1 of 2)",
+		"category": "walkers",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood Shaft",
+						"count": 25
+					},
+					{
+						"name": "Rope",
+						"count": 12
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 2
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Nomad Spider Walker Body",
 		"category": "walkers",
 		"crafting": [
@@ -7683,6 +7841,313 @@
 					{
 						"name": "Wood",
 						"count": 15
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Armor - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 48
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 24
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 42
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Cargo - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 24
+					},
+					{
+						"name": "Fiber",
+						"count": 160
+					},
+					{
+						"name": "Wood",
+						"count": 120
+					},
+					{
+						"name": "Stone",
+						"count": 16
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Cargo - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 40
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 20
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 56
+					},
+					{
+						"name": "Stone",
+						"count": 80
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Gear - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 13
+					},
+					{
+						"name": "Fiber",
+						"count": 160
+					},
+					{
+						"name": "Wood",
+						"count": 128
+					},
+					{
+						"name": "Stone",
+						"count": 16
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Gear - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 40
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 16
+					},
+					{
+						"name": "Earth Wax",
+						"count": 64
+					},
+					{
+						"name": "Wood",
+						"count": 75
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Mobility - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 32
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 48
+					},
+					{
+						"name": "Earth Wax",
+						"count": 16
+					},
+					{
+						"name": "Wood",
+						"count": 48
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Mobility - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 64
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 7
+					},
+					{
+						"name": "Earth Wax",
+						"count": 128
+					},
+					{
+						"name": "Bone Glue",
+						"count": 8
+					}
+				]
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 72
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 80
+					},
+					{
+						"name": "Bone Glue",
+						"count": 7
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 16
+					}
+				]
+			}
+		],
+		"": []
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Torque - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 24
+					},
+					{
+						"name": "Fiber",
+						"count": 104
+					},
+					{
+						"name": "Wood",
+						"count": 96
+					},
+					{
+						"name": "Rope",
+						"count": 20
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Torque - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 48
+					},
+					{
+						"name": "Rupu Vine",
+						"count": 56
+					},
+					{
+						"name": "Rope",
+						"count": 40
+					},
+					{
+						"name": "Wood",
+						"count": 128
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Water - Tier 2",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Bone Splinter",
+						"count": 16
+					},
+					{
+						"name": "Fiber",
+						"count": 160
+					},
+					{
+						"name": "Hide",
+						"count": 24
+					},
+					{
+						"name": "Wood",
+						"count": 24
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Water - Tier 3",
+		"category": "walkers/upgrades",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 32
+					},
+					{
+						"name": "Hide",
+						"count": 72
+					},
+					{
+						"name": "Wood",
+						"count": 136
+					},
+					{
+						"name": "Fiber Weave",
+						"count": 56
 					}
 				]
 			}
