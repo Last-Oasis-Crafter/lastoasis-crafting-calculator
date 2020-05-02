@@ -1716,7 +1716,7 @@
       count n = 2
 []
   name = Firefly Walker Body
-  category = walkers
+  category = walkers/firefly
   crafting[]
     ingredients[]
       name = Wood
@@ -1729,7 +1729,7 @@
       count n = 15
 []
   name = Firefly Walker Legs (1 of 2)
-  category = walkers
+  category = walkers/firefly/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -1739,7 +1739,7 @@
       count n = 1
 []
   name = Firefly Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/firefly/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -1749,7 +1749,7 @@
       count n = 7
 []
   name = Firefly Walker Upgrade - Cargo - Tier 1
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -1759,7 +1759,7 @@
       count n = 20
 []
   name = Firefly Walker Upgrade - Water - Tier 1
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -1772,7 +1772,7 @@
       count n = 5
 []
   name = Firefly Walker Upgrade - Gear - Tier 1
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -1782,7 +1782,7 @@
       count n = 18
 []
   name = Firefly Walker Upgrade - Armor - Tier 1
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -1795,7 +1795,7 @@
       count n = 8
 []
   name = Firefly Walker Upgrade - Mobility - Tier 1
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -1808,7 +1808,7 @@
       count n = 20
 []
   name = Firefly Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1824,7 +1824,7 @@
       count n = 10
 []
   name = Firefly Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1840,7 +1840,7 @@
       count n = 15
 []
   name = Firefly Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1856,7 +1856,7 @@
       count n = 10
 []
   name = Firefly Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1872,7 +1872,7 @@
       count n = 2
 []
   name = Firefly Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1888,7 +1888,7 @@
       count n = 30
 []
   name = Firefly Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1904,7 +1904,7 @@
       count n = 12
 []
   name = Dinghy Walker Body
-  category = walkers
+  category = walkers/dinghy
   crafting[]
     ingredients[]
       name = Wood
@@ -1920,7 +1920,7 @@
       count n = 10
 []
   name = Dinghy Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/dinghy/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -1930,7 +1930,7 @@
       count n = 5
 []
   name = Dinghy Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/dinghy/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -1940,7 +1940,7 @@
       count n = 18
 []
   name = Dinghy Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/dinghy/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -1953,7 +1953,7 @@
       count n = 10
 []
   name = Dinghy Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1969,7 +1969,7 @@
       count n = 10
 []
   name = Dinghy Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -1985,7 +1985,7 @@
       count n = 15
 []
   name = Dinghy Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2001,7 +2001,7 @@
       count n = 10
 []
   name = Dinghy Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2017,7 +2017,7 @@
       count n = 2
 []
   name = Dinghy Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2033,7 +2033,7 @@
       count n = 30
 []
   name = Dinghy Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2048,8 +2048,104 @@
       name = Rope
       count n = 12
 []
+  name = Dinghy Walker Upgrade - Cargo - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Dinghy Walker Upgrade - Gear - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 75  
+[]
+  name = Dinghy Walker Upgrade - Armor - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 45
+    ingredients[]
+      name = Redwood Wood
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 10  
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Reinforced Plank
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 5    
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 3
+  category = walkers/dinghy/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80   
+[]
   name = Nomad Spider Walker Body
-  category = walkers
+  category = walkers/spider
   crafting[]
     ingredients[]
       name = Wood
@@ -2062,7 +2158,7 @@
       count n = 15
 []
   name = Spider Walker Legs (1 of 2)
-  category = walkers
+  category = walkers/spider/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2072,7 +2168,7 @@
       count n = 12
 []
   name = Armored Spider Walker Legs (1 of 2)
-  category = walkers
+  category = walkers/spider/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2082,7 +2178,7 @@
       count n = 18
 []
   name = Spider Walker With Ballista
-  category = walkers
+  category = walkers/spider
   crafting[]
     ingredients[]
       name = Wood
@@ -2098,7 +2194,7 @@
       count n = 10
 []
   name = Spider Walker Upgrade - Cargo - Tier 1
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -2111,7 +2207,7 @@
       count n = 10
 []
   name = Spider Walker Upgrade - Water - Tier 1
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -2124,7 +2220,7 @@
       count n = 5
 []
   name = Spider Walker Upgrade - Gear - Tier 1
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -2137,7 +2233,7 @@
       count n = 10
 []
   name = Spider Walker Upgrade - Armor - Tier 1
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -2150,7 +2246,7 @@
       count n = 8
 []
   name = Spider Walker Upgrade - Mobility - Tier 1
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
@@ -2163,7 +2259,7 @@
       count n = 20
 []
   name = Spider Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2179,7 +2275,7 @@
       count n = 10
 []
   name = Spider Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2195,7 +2291,7 @@
       count n = 15
 []
   name = Spider Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2211,7 +2307,7 @@
       count n = 10
 []
   name = Spider Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2227,7 +2323,7 @@
       count n = 2
 []
   name = Spider Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2243,7 +2339,7 @@
       count n = 30
 []
   name = Spider Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2259,7 +2355,7 @@
       count n = 12
 []
   name = Mollusk Walker Body
-  category = walkers
+  category = walkers/mollusk
   crafting[]
     ingredients[]
       name = Wood
@@ -2278,7 +2374,7 @@
       count n = 90
 []
   name = Mollusk Walker Legs (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2288,7 +2384,7 @@
       count n = 18
 []
   name = Mollusk Walker Legs Armored (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2304,7 +2400,7 @@
       count n = 8
 []
   name = Mollusk Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -2314,7 +2410,7 @@
       count n = 28
 []
   name = Mollusk Walker Wings Small (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -2327,7 +2423,7 @@
       count n = 2
 []
   name = Mollusk Walker Wings Medium (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -2340,7 +2436,7 @@
       count n = 4
 []
   name = Mollusk Walker Wings Heavy (1 of 2)
-  category = walkers
+  category = walkers/mollusk/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -2353,7 +2449,7 @@
       count n = 6
 []
   name = Mollusk Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2369,7 +2465,7 @@
       count n = 24
 []
   name = Mollusk Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2385,7 +2481,7 @@
       count n = 16
 []
   name = Mollusk Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2401,7 +2497,7 @@
       count n = 16
 []
   name = Mollusk Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2417,7 +2513,7 @@
       count n = 48
 []
   name = Mollusk Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2433,7 +2529,7 @@
       count n = 4
 []
   name = Mollusk Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2449,7 +2545,7 @@
       count n = 20
 []
   name = Mollusk Walker Upgrade - Water - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2465,7 +2561,7 @@
       count n = 56
 []
   name = Mollusk Walker Upgrade - Gear - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2481,7 +2577,7 @@
       count n = 75
 []
   name = Mollusk Walker Upgrade - Cargo - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2497,7 +2593,7 @@
       count n = 80
 []
   name = Mollusk Walker Upgrade - Mobility - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2513,7 +2609,7 @@
       count n = 8
 []
   name = Mollusk Walker Upgrade - Armor - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2529,7 +2625,7 @@
       count n = 16
 []
   name = Mollusk Walker Upgrade - Torque - Tier 3
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -2545,7 +2641,7 @@
       count n = 128
 []
   name = Mollusk Walker Upgrade - Water - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2564,7 +2660,7 @@
       count n = 24
 []
   name = Mollusk Walker Upgrade - Gear - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2583,7 +2679,7 @@
       count n = 40
 []
   name = Mollusk Walker Upgrade - Cargo - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2602,7 +2698,7 @@
       count n = 25
 []
   name = Mollusk Walker Upgrade - Mobility - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2621,7 +2717,7 @@
       count n = 64
 []
   name = Mollusk Walker Upgrade - Armor - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2640,7 +2736,7 @@
       count n = 8
 []
   name = Mollusk Walker Upgrade - Torque - Tier 4
-  category = walkers/upgrades
+  category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -2659,7 +2755,7 @@
       count n = 192
 []
   name = Stiletto Walker Body
-  category = walkers
+  category = walkers/stiletto
   crafting[]
     ingredients[]
       name = Wood
@@ -2678,7 +2774,7 @@
       count n = 90
 []
   name = Stiletto Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/stiletto/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2688,7 +2784,7 @@
       count n = 18
 []
   name = Stiletto Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/stiletto/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -2698,7 +2794,7 @@
       count n = 28
 []
   name = Stiletto Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/stiletto/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -2711,7 +2807,7 @@
       count n = 2
 []
   name = Stiletto Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/stiletto/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -2724,7 +2820,7 @@
       count n = 30
 []
   name = Stiletto Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2740,7 +2836,7 @@
       count n = 16
 []
   name = Stiletto Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2756,7 +2852,7 @@
       count n = 24
 []
   name = Stiletto Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2772,7 +2868,7 @@
       count n = 16
 []
   name = Stiletto Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2788,7 +2884,7 @@
       count n = 4
 []
   name = Stiletto Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2804,7 +2900,7 @@
       count n = 48
 []
   name = Stiletto Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -2820,7 +2916,7 @@
       count n = 20
 []
   name = Buffalo Walker Body
-  category = walkers
+  category = walkers/buffalo
   crafting[]
     ingredients[]
       name = Wood
@@ -2842,7 +2938,7 @@
       count n = 280
 []
   name = Buffalo Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/buffalo/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -2855,7 +2951,7 @@
       count n = 42
 []
   name = Buffalo Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/buffalo/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -2865,7 +2961,7 @@
       count n = 52
 []
   name = Buffalo Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/buffalo/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -2878,7 +2974,7 @@
       count n = 100
 []
   name = Buffalo Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/buffalo/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3083,7 +3179,7 @@
       count n = 128
 []
   name = Toboggan Walker Body
-  category = walkers
+  category = walkers/toboggan
   crafting[]
     ingredients[]
       name = Wood
@@ -3102,7 +3198,7 @@
       count n = 180
 []
   name = Toboggan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3115,7 +3211,7 @@
       count n = 36
 []
   name = Armored Toboggan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3131,7 +3227,7 @@
       count n = 16
 []
   name = Heavy Toboggan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3144,7 +3240,7 @@
       count n = 3
 []
   name = Toboggan Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/toboggan/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -3154,7 +3250,7 @@
       count n = 45
 []
   name = Toboggan Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/toboggan/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3167,7 +3263,7 @@
       count n = 2
 []
   name = Toboggan Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/toboggan/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3180,7 +3276,7 @@
       count n = 36
 []
   name = Toboggan Walker Large Wings (1 of 2)
-  category = walkers
+  category = walkers/toboggan/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3193,7 +3289,7 @@
       count n = 85
 []
   name = Toboggan Walker Upgrade - Cargo - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3209,7 +3305,7 @@
       count n = 16
 []
   name = Toboggan Walker Upgrade - Water - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3225,7 +3321,7 @@
       count n = 24
 []
   name = Toboggan Walker Upgrade - Gear - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3241,7 +3337,7 @@
       count n = 16
 []
   name = Toboggan Walker Upgrade - Armor - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3257,7 +3353,7 @@
       count n = 4
 []
   name = Toboggan Walker Upgrade - Mobility - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3273,7 +3369,7 @@
       count n = 48
 []
   name = Toboggan Walker Upgrade - Torque - Tier 2
-  category = walkers/upgrades
+  category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
       name = Bone Splinter
@@ -3289,7 +3385,7 @@
       count n = 20
 []
   name = Hornet Walker Body
-  category = walkers
+  category = walkers/hornet
   crafting[]
     ingredients[]
       name = Wood
@@ -3314,7 +3410,7 @@
       count n = 55
 []
   name = Hornet Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/hornet/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3327,7 +3423,7 @@
       count n = 40
 []
   name = Hornet Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/hornet/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3340,7 +3436,7 @@
       count n = 85
 []
   name = Hornet Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/hornet/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3353,7 +3449,7 @@
       count n = 42
 []
   name = Falco Walker Body
-  category = walkers
+  category = walkers/falco
   crafting[]
     ingredients[]
       name = Wood
@@ -3372,7 +3468,7 @@
       count n = 400
 []
   name = Falco Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3385,7 +3481,7 @@
       count n = 48
 []
   name = Armored Falco Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3401,7 +3497,7 @@
       count n = 28
 []
   name = Heavy Falco Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3414,7 +3510,7 @@
       count n = 5
 []
   name = Falco Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/falco/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -3424,7 +3520,7 @@
       count n = 58
 []
   name = Falco Walker Wings Small (1 of 2)
-  category = walkers
+  category = walkers/falco/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3437,7 +3533,7 @@
       count n = 5
 []
   name = Falco Walker Wings Medium (1 of 2)
-  category = walkers
+  category = walkers/falco/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3450,7 +3546,7 @@
       count n = 60
 []
   name = Falco Walker Wings Large (1 of 2)
-  category = walkers
+  category = walkers/falco/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3655,7 +3751,7 @@
       count n = 128
 []
   name = Schmetterling Walker Body
-  category = walkers
+  category = walkers/schmetterling
   crafting[]
     ingredients[]
       name = Wood
@@ -3677,7 +3773,7 @@
       count n = 450
 []
   name = Schmetterling Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3690,7 +3786,7 @@
       count n = 136
 []
   name = Armored Schmetterling Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3706,7 +3802,7 @@
       count n = 16
 []
   name = Heavy Schmetterling Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
       name = Worm Silk
@@ -3719,7 +3815,7 @@
       count n = 5
 []
   name = Schmetterling Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -3732,7 +3828,7 @@
       count n = 13
 []
   name = Schmetterling Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3745,7 +3841,7 @@
       count n = 5
 []
   name = Schmetterling Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3758,7 +3854,7 @@
       count n = 32
 []
   name = Schmetterling Walker Large Wings (1 of 2)
-  category = walkers
+  category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3771,7 +3867,7 @@
       count n = 30
 []
   name = Tusker Walker Body
-  category = walkers
+  category = walkers/tusker
   crafting[]
     ingredients[]
       name = Wood
@@ -3796,7 +3892,7 @@
       count n = 5
 []
   name = Tusker Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3809,7 +3905,7 @@
       count n = 114
 []
   name = Armored Tusker Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
       name = Redwood Wood
@@ -3825,7 +3921,7 @@
       count n = 15
 []
   name = Heavy Tusker Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3838,7 +3934,7 @@
       count n = 7
 []
   name = Tusker Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -3851,7 +3947,7 @@
       count n = 11
 []
   name = Tusker Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -3864,7 +3960,7 @@
       count n = 60
 []
   name = Tusker Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3877,7 +3973,7 @@
       count n = 25
 []
   name = Tusker Walker Large Wings (1 of 2)
-  category = walkers
+  category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -3890,7 +3986,7 @@
       count n = 22
 []
   name = Proxy Walker Body
-  category = walkers
+  category = walkers/proxy
   crafting[]
     ingredients[]
       name = Rope
@@ -3915,7 +4011,7 @@
       count n = 150
 []
   name = Proxy Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3928,7 +4024,7 @@
       count n = 114
 []
   name = Armored Proxy Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
       name = Redwood Wood
@@ -3944,7 +4040,7 @@
       count n = 12
 []
   name = Heavy Proxy Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -3957,7 +4053,7 @@
       count n = 14
 []
   name = Titan Walker Body
-  category = walkers
+  category = walkers/titan
   crafting[]
     ingredients[]
       name = Wood
@@ -3973,7 +4069,7 @@
       count n = 385
 []
   name = Titan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
       name = Wood
@@ -3986,7 +4082,7 @@
       count n = 136
 []
   name = Armored Titan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
       name = Redwood Wood
@@ -4002,7 +4098,7 @@
       count n = 16
 []
   name = Heavy Titan Walker Legs (1 of 4)
-  category = walkers
+  category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -4015,7 +4111,7 @@
       count n = 10
 []
   name = Titan Walker Wings (1 of 2)
-  category = walkers
+  category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
       name = Wood
@@ -4028,7 +4124,7 @@
       count n = 13
 []
   name = Titan Walker Small Wings (1 of 2)
-  category = walkers
+  category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
       name = Reinforced Plank
@@ -4041,7 +4137,7 @@
       count n = 6
 []
   name = Titan Walker Medium Wings (1 of 2)
-  category = walkers
+  category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -4054,7 +4150,7 @@
       count n = 32
 []
   name = Titan Walker Large Wings (1 of 2)
-  category = walkers
+  category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -5642,99 +5738,3 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
-[]
-  name = Dinghy Walker Upgrade - Cargo - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 25
-    ingredients[]
-      name = Nomad Cloth
-      count n = 12
-    ingredients[]
-      name = Wood Shaft
-      count n = 35
-    ingredients[]
-      name = Stone
-      count n = 80
-[]
-  name = Dinghy Walker Upgrade - Water - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 20
-    ingredients[]
-      name = Rupu Pelt
-      count n = 45
-    ingredients[]
-      name = Wood
-      count n = 85
-    ingredients[]
-      name = Fiber Weave
-      count n = 35
-[]
-  name = Dinghy Walker Upgrade - Gear - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 25
-    ingredients[]
-      name = Nomad Cloth
-      count n = 10
-    ingredients[]
-      name = Earth Wax
-      count n = 40
-    ingredients[]
-      name = Wood
-      count n = 75  
-[]
-  name = Dinghy Walker Upgrade - Armor - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 45
-    ingredients[]
-      name = Redwood Wood
-      count n = 50
-    ingredients[]
-      name = Bone Glue
-      count n = 4
-    ingredients[]
-      name = Chitin Plate
-      count n = 10  
-[]
-  name = Dinghy Walker Upgrade - Mobility - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 40
-    ingredients[]
-      name = Reinforced Plank
-      count n = 4
-    ingredients[]
-      name = Earth Wax
-      count n = 80
-    ingredients[]
-      name = Bone Glue
-      count n = 5    
-[]
-  name = Dinghy Walker Upgrade - Torque - Tier 3
-  category = walkers/upgrades
-  crafting[]
-    ingredients[]
-      name = Ceramic Shard
-      count n = 30
-    ingredients[]
-      name = Rupu Vine
-      count n = 35
-    ingredients[]
-      name = Rope
-      count n = 25
-    ingredients[]
-      name = Wood
-      count n = 80   
