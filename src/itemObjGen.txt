@@ -2143,7 +2143,6 @@
     ingredients[]
       name = Wood
       count n = 80   
-
 []
   name = Nomad Spider Walker Body
   category = walkers/spider
