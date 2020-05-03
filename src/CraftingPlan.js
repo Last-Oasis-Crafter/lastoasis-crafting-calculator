@@ -9,7 +9,7 @@ export default function CraftingPlan ({ items, dispatch }) {
     <Segment basic>
       <Header
         style={{
-          width: '600px'
+          'max-width': '600px'
         }}>
         Crafting:
         <Button content='Clear All' floated='right' size='mini' compact onClick={e => dispatch({ type: 'REMOVE_ALL' })} />
@@ -23,6 +23,6 @@ export default function CraftingPlan ({ items, dispatch }) {
             index={index} />
         )}
       </Accordion>
-    </Segment>
+    </Segment >
   )
 }
