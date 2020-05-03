@@ -2448,6 +2448,84 @@
       name = Nomad Cloth
       count n = 6
 []
+  name = Mollusk Walker Upgrade - Water - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Mollusk Walker Upgrade - Gear - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Mollusk Walker Upgrade - Cargo - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Mollusk Walker Upgrade - Mobility - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Palm Leaves
+      count n = 32
+[]
+  name = Mollusk Walker Upgrade - Armor - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Mollusk Walker Upgrade - Torque - Tier 1
+  category = walkers/mollusk/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 5
+[]
   name = Mollusk Walker Upgrade - Water - Tier 2
   category = walkers/mollusk/upgrades/tier2
   crafting[]
