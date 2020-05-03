@@ -7373,6 +7373,138 @@
 		]
 	},
 	{
+		"name": "Mollusk Walker Upgrade - Armor - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 64
+					},
+					{
+						"name": "Stone",
+						"count": 64
+					},
+					{
+						"name": "Rupu Pelt",
+						"count": 24
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Cargo - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 48
+					},
+					{
+						"name": "Fiber",
+						"count": 32
+					},
+					{
+						"name": "Stone",
+						"count": 16
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Gear - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 36
+					},
+					{
+						"name": "Fiber",
+						"count": 32
+					},
+					{
+						"name": "Stone",
+						"count": 16
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Mobility - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 56
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 24
+					},
+					{
+						"name": "Palm Leaves",
+						"count": 32
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Torque - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 52
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 13
+					},
+					{
+						"name": "Rope",
+						"count": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mollusk Walker Upgrade - Water - Tier 1",
+		"category": "walkers/mollusk/upgrades/tier1",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 48
+					},
+					{
+						"name": "Fiber",
+						"count": 40
+					},
+					{
+						"name": "Hide",
+						"count": 8
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Mollusk Walker Upgrade - Armor - Tier 2",
 		"category": "walkers/mollusk/upgrades/tier2",
 		"crafting": [
