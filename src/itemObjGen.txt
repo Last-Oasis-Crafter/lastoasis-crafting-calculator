@@ -3467,6 +3467,120 @@
       name = Rope
       count n = 20
 []
+  name = Toboggan Walker Upgrade - Water - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Toboggan Walker Upgrade - Gear - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Toboggan Walker Upgrade - Cargo - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Toboggan Walker Upgrade - Mobility - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+[]
+  name = Toboggan Walker Upgrade - Durability - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Toboggan Walker Upgrade - Torque - Tier 4
+  category = walkers/toboggan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
+[]
   name = Hornet Walker Body
   category = walkers/hornet
   crafting[]
