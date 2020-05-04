@@ -114,6 +114,11 @@
 []
   name = Glass
   category = materials
+  crafting[]
+    ingredients[]
+      name = Sand
+      count n = 2
+    station = Advanced Furnace
 []
   name = Hide
   category = materials
@@ -5716,6 +5721,22 @@
     ingredients[]
       name = Earth Wax
       count n = 25
+[]
+  name = Advanced Furnace
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Bone Glue
+      count n = 12
 []
   name = Soil Excavator
   category = crafting/station
