@@ -5837,3 +5837,54 @@
     ingredients[]
       name = Rupu Vine
       count n = 10
+[]
+  name = Quarry
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 50
+    ingredients[]
+      name = Wood
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 500
+    ingredients[]
+      name = Reinforced Plank
+      count n = 1
+[]
+  name = Lumber Mill
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 50
+    ingredients[]
+      name = Wood
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 500
+    ingredients[]
+      name = Reinforced Plank
+      count n = 1
+[]
+  name = Artificer Woodworking Station
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 250
+    ingredients[]
+      name = Fiber
+      count n = 180
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
