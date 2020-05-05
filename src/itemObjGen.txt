@@ -289,6 +289,12 @@
       count n = 1
     output n = 3
     station = Stomping Station
+  crafting[]
+    ingredients[]
+      name = Thornberry
+      count n = 1
+    output n = 3
+    station = Stomping Station
 []
   name = Wood
   category = materials
