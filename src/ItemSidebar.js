@@ -90,7 +90,7 @@ export default function ItemSidebar({children, dispatch}) {
             }}/>
         ))}
         </List>
-        <span>Can't find what you're looking for? Let me know on Discord: <a href='https://discord.gg/HXmmwrb' target='_blank' rel='noopener noreferrer'>https://discord.gg/ufDWKCS</a></span>
+        <span>Can't find what you're looking for? Let me know on Discord: <a href='https://discord.gg/HXmmwrb' target='_blank' rel='noopener noreferrer'>https://discord.gg/HXmmwrb</a></span>
       </Segment>
     </Sidebar>
     <Sidebar.Pusher
