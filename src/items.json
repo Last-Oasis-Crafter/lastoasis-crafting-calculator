@@ -1742,6 +1742,32 @@
 		]
 	},
 	{
+		"name": "Advanced Furnace",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Ceramic Shard",
+						"count": 100
+					},
+					{
+						"name": "Wood Shaft",
+						"count": 25
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 10
+					},
+					{
+						"name": "Bone Glue",
+						"count": 12
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Advanced Woodworking Station",
 		"category": "crafting/station",
 		"crafting": [
@@ -1765,6 +1791,36 @@
 					},
 					{
 						"name": "Rupu Vine",
+						"count": 10
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Artificer Woodworking Station",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Wood",
+						"count": 250
+					},
+					{
+						"name": "Fiber",
+						"count": 180
+					},
+					{
+						"name": "Earth Wax",
+						"count": 25
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 8
+					},
+					{
+						"name": "Iron Ingot",
 						"count": 10
 					}
 				]
@@ -1846,6 +1902,32 @@
 		]
 	},
 	{
+		"name": "Lumber Mill",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 50
+					},
+					{
+						"name": "Wood",
+						"count": 300
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 500
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 1
+					}
+				]
+			}
+		]
+	},
+	{
 		"name": "Purification Station",
 		"category": "crafting/station",
 		"crafting": [
@@ -1858,6 +1940,32 @@
 					{
 						"name": "Wood",
 						"count": 150
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Quarry",
+		"category": "crafting/station",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 50
+					},
+					{
+						"name": "Wood",
+						"count": 300
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 500
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 1
 					}
 				]
 			}
@@ -5103,7 +5211,18 @@
 	},
 	{
 		"name": "Glass",
-		"category": "materials"
+		"category": "materials",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Sand",
+						"count": 2
+					}
+				],
+				"station": "Advanced Furnace"
+			}
+		]
 	},
 	{
 		"name": "Hide",
@@ -5305,6 +5424,16 @@
 				"ingredients": [
 					{
 						"name": "Aloe",
+						"count": 1
+					}
+				],
+				"output": 3,
+				"station": "Stomping Station"
+			},
+			{
+				"ingredients": [
+					{
+						"name": "Thornberry",
 						"count": 1
 					}
 				],
@@ -9430,6 +9559,186 @@
 					},
 					{
 						"name": "Wood",
+						"count": 24
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Cargo - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 16
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 45
+					},
+					{
+						"name": "Bone Glue",
+						"count": 20
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 96
+					},
+					{
+						"name": "Worm Silk",
+						"count": 25
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Durability - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron ingot",
+						"count": 45
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 192
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 56
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 80
+					},
+					{
+						"name": "Obsidian",
+						"count": 8
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Gear - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 16
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 56
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 32
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 176
+					},
+					{
+						"name": "Worm Silk",
+						"count": 40
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Mobility - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 24
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 23
+					},
+					{
+						"name": "Worm Silk",
+						"count": 32
+					},
+					{
+						"name": "Bone Glue",
+						"count": 42
+					},
+					{
+						"name": "Tar",
+						"count": 64
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Torque - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 24
+					},
+					{
+						"name": "Chitin Plate",
+						"count": 61
+					},
+					{
+						"name": "Reinforced Plank",
+						"count": 16
+					},
+					{
+						"name": "Ceramic Shard",
+						"count": 80
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 192
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Toboggan Walker Upgrade - Water - Tier 4",
+		"category": "walkers/toboggan/upgrades/tier4",
+		"crafting": [
+			{
+				"ingredients": [
+					{
+						"name": "Iron Ingot",
+						"count": 13
+					},
+					{
+						"name": "Nomad Cloth",
+						"count": 40
+					},
+					{
+						"name": "Redwood Wood",
+						"count": 128
+					},
+					{
+						"name": "Rupu Gel",
+						"count": 48
+					},
+					{
+						"name": "Bone Glue",
 						"count": 24
 					}
 				]
