@@ -279,7 +279,7 @@
     station = Stomping Station
   crafting[]
     ingredients[]
-      name = Huge cactus Fruit
+      name = Huge Cactus Fruit
       count n = 1
     output n = 12
     station = Stomping Station
@@ -317,7 +317,7 @@
   category = items/vitamins
   crafting[]
     ingredients[]
-      name = Huge cactus Fruit
+      name = Huge Cactus Fruit
       count n = 3
     ingredients[]
       name = Purified Water
@@ -352,7 +352,7 @@
       count n = 12
     ingredients[]
       name = Cattail
-      count n = 14
+      count n = 44
     ingredients[]
       name = Glass
       count n = 1
@@ -6008,3 +6008,16 @@
     ingredients[]
       name = Iron Ingot
       count n = 10
+[]
+  name = Cauterizing Station
+  category = crafting/station/vitamins
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 45
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Aloe
+      count n = 20
