@@ -740,7 +740,7 @@
       name = Rope
       count n = 1
     ingredients[]
-      name = Rupu fur Armor
+      name = Rupu Fur Armor
       count n = 1
 []
   name = Triple Stitch Armor
@@ -1443,10 +1443,10 @@
   crafting[]
     ingredients[]
       name = Fiber Weave
-      count n = 2
+      count n = 1
     ingredients[]
       name = Aloe
-      count n = 1
+      count n = 2
 []
   name = Durable Water Sack
   category = items/gear/backpacks/belt
@@ -4413,7 +4413,7 @@
       name = Wood Shaft
       count n = 12
     ingredients[]
-      name = Worm Scale
+      name = Worm Silk
       count n = 10
     ingredients[]
       name = Rupu Vine
