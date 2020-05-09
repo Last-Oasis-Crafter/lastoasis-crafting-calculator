@@ -4533,10 +4533,10 @@
   category = items/ammo/ammunition/projectiles/ballista
   crafting[]
     ingredients[]
-      name = Iron Ore
+      name = Wood Shaft
       count n = 8
     ingredients[]
-      name = Wood Shaft
+      name = Iron Ore
       count n = 1
     ingredients[]
       name = Feather
@@ -4609,6 +4609,7 @@
     ingredients[]
       name = Bone Splinter
       count n = 1
+    station = Camp Fire
 []
   name = Green Death Bomb
   category = items/ammo/ammunition/projectiles/slingshot
@@ -4622,6 +4623,7 @@
     ingredients[]
       name = Mushroom Flesh
       count n = 15
+    station = Camp Fire
 []
   name = Rupu Rock
   category = items/ammo/ammunition/projectiles/slingshot
@@ -4655,6 +4657,7 @@
     ingredients[]
       name = Sulfur
       count n = 5
+    station = Camp Fire
 []
   name = Dart
   category = items/ammo/ammunition/projectiles/repeater
@@ -4988,7 +4991,7 @@
       name = Purified Water
       count n = 15
 []
-  name = Small Chest
+  name = SmallChest
   category = buildings/construction/container
   crafting[]
     ingredients[]
@@ -5255,8 +5258,8 @@
       name = Clay
       count n = 40
 []
-  name = Concrete Corner
-  category = buildings/construction/concrete
+  name = Cement Corner
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5271,8 +5274,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Door
-  category = buildings/construction/concrete
+  name = Cement Door
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5287,8 +5290,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Foundation
-  category = buildings/construction/concrete
+  name = Cement Foundation
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5303,8 +5306,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Wall 1
-  category = buildings/construction/concrete
+  name = Cement Wall 1
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5319,8 +5322,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Wall 2
-  category = buildings/construction/concrete
+  name = Cement Wall 2
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5335,8 +5338,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Battlements
-  category = buildings/construction/concrete
+  name = Cement Battlements
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5351,8 +5354,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Roof
-  category = buildings/construction/concrete
+  name = Cement Roof
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5367,8 +5370,8 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Wall with Windows 1
-  category = buildings/construction/concrete
+  name = Cement Wall With Window 1
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5383,8 +5386,40 @@
       name = Ash
       count n = 100
 []
-  name = Concrete Wall with Windows 2
-  category = buildings/construction/concrete
+  name = Cement Wall With Window 2
+  category = buildings/construction/cement
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Cement Wall With Windows 1
+  category = buildings/construction/cement
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 100
+    ingredients[]
+      name = Tar
+      count n = 12
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+    ingredients[]
+      name = Ash
+      count n = 100
+[]
+  name = Cement Wall With Windows 2
+  category = buildings/construction/cement
   crafting[]
     ingredients[]
       name = Clay
@@ -5469,6 +5504,16 @@
     ingredients[]
       name = Rupu Vine
       count n = 3
+[]
+  name = Light Wood Stairs
+  category = buildings/construction/light wood
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Fiber
+      count n = 45
 []
   name = Light Wood Guard Rail
   category = buildings/construction/light wood
@@ -5730,19 +5775,6 @@
       count n = 1
 []
   name = Heavy Wood Roof
-  category = buildings/construction/heavy wood
-  crafting[]
-    ingredients[]
-      name = Redwood Wood
-      count n = 35
-    ingredients[]
-      name = Iron Ingot
-      count n = 5
-    ingredients[]
-      name = Bone Glue
-      count n = 1
-[]
-  name = Heavy Wood Stairs
   category = buildings/construction/heavy wood
   crafting[]
     ingredients[]
