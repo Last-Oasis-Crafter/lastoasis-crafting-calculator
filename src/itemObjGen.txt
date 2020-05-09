@@ -48,12 +48,25 @@
 []
   name = Charcoal
   category = materials
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1
+    station = Furnace
 []
   name = Chitin Plate
   category = materials
 []
   name = Clay
   category = materials
+  crafting[]
+    ingredients[]
+      name = Terrain: Clay Spots
+      count n = 1
+    ingredients[]
+      name = Ash
+      count n = 10
+    station = Soil Excavator
 []
   name = Contaminated Water
   category = materials
@@ -210,6 +223,11 @@
 []
   name = Sand
   category = materials
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 1
+    station = Stomping Station
 []
   name = Stone
   category = materials
@@ -5974,7 +5992,7 @@
       name = Reinforced Plank
       count n = 1
 []
-  name = Lumber Mill
+  name = Lumbermill
   category = crafting/station
   crafting[]
     ingredients[]
