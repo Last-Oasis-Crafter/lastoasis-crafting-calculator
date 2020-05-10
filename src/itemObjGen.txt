@@ -4077,7 +4077,7 @@
   category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
-      name = Reinforced Plank
+      name = Wood Shaft
       count n = 140
     ingredients[]
       name = Nomad Cloth
@@ -4103,7 +4103,7 @@
   category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
-      name = Wood Shaft
+      name = Reinforced Plank
       count n = 180
     ingredients[]
       name = Worm Silk
