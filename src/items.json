@@ -5746,7 +5746,7 @@
     ]
   },
   {
-    "name": "Buffalo Walker Legs (1 of 4)",
+    "name": "Buffalo Walker Legs (1 of 2)",
     "category": "walkers/buffalo/parts/legs",
     "crafting": [
       {
@@ -5796,16 +5796,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 65
+            "name": "Wood Shaft",
+            "count": 46
           },
           {
-            "name": "Worm Silk",
-            "count": 56
+            "name": "Rope",
+            "count": 18
           },
           {
-            "name": "Hide",
-            "count": 100
+            "name": "Nomad Cloth",
+            "count": 4
           }
         ]
       }
@@ -6348,18 +6348,18 @@
     ]
   },
   {
-    "name": "Dinghy Walker Legs (1 of 4)",
+    "name": "Dinghy Walker Legs (1 of 2)",
     "category": "walkers/dinghy/parts/legs",
     "crafting": [
       {
         "ingredients": [
           {
             "name": "Wood",
-            "count": 38
+            "count": 76
           },
           {
             "name": "Wood Shaft",
-            "count": 5
+            "count": 10
           }
         ]
       }
@@ -6928,7 +6928,7 @@
     ]
   },
   {
-    "name": "Armored Falco Walker Legs (1 of 4)",
+    "name": "Armored Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -6954,7 +6954,7 @@
     ]
   },
   {
-    "name": "Falco Walker Legs (1 of 4)",
+    "name": "Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -6976,7 +6976,7 @@
     ]
   },
   {
-    "name": "Heavy Falco Walker Legs (1 of 4)",
+    "name": "Heavy Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -8264,7 +8264,7 @@
     ]
   },
   {
-    "name": "Hornet Walker Legs (1 of 4)",
+    "name": "Hornet Walker Legs (1 of 2)",
     "category": "walkers/hornet/parts/legs",
     "crafting": [
       {
@@ -8314,16 +8314,34 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 50
+            "name": "Wood Shaft",
+            "count": 40
           },
           {
-            "name": "Worm Silk",
-            "count": 42
+            "name": "Rope",
+            "count": 14
           },
           {
-            "name": "Hide",
-            "count": 85
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 87
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 48
           }
         ]
       }
@@ -9636,13 +9654,17 @@
           {
             "name": "Stone",
             "count": 150
+          },
+          {
+            "name": "Proxy License",
+            "count": 1
           }
         ]
       }
     ]
   },
   {
-    "name": "Armored Proxy Walker Legs (1 of 4)",
+    "name": "Armored Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9653,7 +9675,7 @@
           },
           {
             "name": "Wood Shaft",
-            "count": 93
+            "count": 436
           },
           {
             "name": "Ceramic Shard",
@@ -9668,7 +9690,7 @@
     ]
   },
   {
-    "name": "Heavy Proxy Walker Legs (1 of 4)",
+    "name": "Heavy Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9690,7 +9712,7 @@
     ]
   },
   {
-    "name": "Proxy Walker Legs (1 of 4)",
+    "name": "Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9746,7 +9768,7 @@
     ]
   },
   {
-    "name": "Armored Schmetterling Walker Legs (1 of 4)",
+    "name": "Armored Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9772,7 +9794,7 @@
     ]
   },
   {
-    "name": "Heavy Schmetterling Walker Legs (1 of 4)",
+    "name": "Heavy Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9794,7 +9816,7 @@
     ]
   },
   {
-    "name": "Schmetterling Walker Legs (1 of 4)",
+    "name": "Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9822,16 +9844,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 140
+            "name": "Reinforced Plank",
+            "count": 180
           },
           {
-            "name": "Nomad Cloth",
-            "count": 16
+            "name": "Worm Silk",
+            "count": 105
           },
           {
-            "name": "Hide",
-            "count": 30
+            "name": "Worm Scale",
+            "count": 5
           }
         ]
       }
@@ -9866,16 +9888,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 180
+            "name": "Wood Shaft",
+            "count": 140
           },
           {
-            "name": "Worm Silk",
-            "count": 105
+            "name": "Nomad Cloth",
+            "count": 16
           },
           {
-            "name": "Worm Scale",
-            "count": 5
+            "name": "Hide",
+            "count": 30
           }
         ]
       }
@@ -11112,7 +11134,7 @@
     ]
   },
   {
-    "name": "Stiletto Walker Legs (1 of 4)",
+    "name": "Stiletto Walker Legs (1 of 2)",
     "category": "walkers/stiletto/parts/legs",
     "crafting": [
       {
@@ -11694,6 +11716,10 @@
             "count": 3030
           },
           {
+            "name": "Fiber",
+            "count": 625
+          },
+          {
             "name": "Stone",
             "count": 600
           },
@@ -11710,7 +11736,7 @@
     ]
   },
   {
-    "name": "Armored Titan Walker Legs (1 of 4)",
+    "name": "Armored Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11736,7 +11762,7 @@
     ]
   },
   {
-    "name": "Heavy Titan Walker Legs (1 of 4)",
+    "name": "Heavy Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11758,7 +11784,7 @@
     ]
   },
   {
-    "name": "Titan Walker Legs (1 of 4)",
+    "name": "Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11786,16 +11812,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 140
+            "name": "Reinforced Plank",
+            "count": 220
           },
           {
-            "name": "Nomad Cloth",
-            "count": 16
+            "name": "Worm Silk",
+            "count": 135
           },
           {
-            "name": "Hide",
-            "count": 30
+            "name": "Worm Scale",
+            "count": 6
           }
         ]
       }
@@ -11830,16 +11856,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 220
+            "name": "Wood Shaft",
+            "count": 140
           },
           {
-            "name": "Worm Silk",
-            "count": 135
+            "name": "Nomad Cloth",
+            "count": 16
           },
           {
-            "name": "Worm Scale",
-            "count": 6
+            "name": "Hide",
+            "count": 30
           }
         ]
       }
@@ -12390,7 +12416,7 @@
     ]
   },
   {
-    "name": "Armored Toboggan Walker Legs (1 of 4)",
+    "name": "Armored Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12416,7 +12442,7 @@
     ]
   },
   {
-    "name": "Heavy Toboggan Walker Legs (1 of 4)",
+    "name": "Heavy Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12438,7 +12464,7 @@
     ]
   },
   {
-    "name": "Toboggan Walker Legs (1 of 4)",
+    "name": "Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12856,6 +12882,36 @@
     ]
   },
   {
+    "name": "Toboggan Walker Upgrade - Armor - Tier 4",
+    "category": "walkers/toboggan/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
     "crafting": [
@@ -12880,36 +12936,6 @@
           {
             "name": "Worm Silk",
             "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Durability - Tier 4",
-    "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
           }
         ]
       }
@@ -13036,6 +13062,42 @@
     ]
   },
   {
+    "name": "Long Sawblade",
+    "category": "walkers/tools",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 280
+          },
+          {
+            "name": "Wood",
+            "count": 2000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sawblade Tool",
+    "category": "walkers/tools",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Steering Levers",
     "category": "walkers/tools",
     "crafting": [
@@ -13048,6 +13110,28 @@
           {
             "name": "Rope",
             "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tool Pod",
+    "category": "walkers/tools",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 400
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 20
           }
         ]
       }
@@ -13114,7 +13198,7 @@
     ]
   },
   {
-    "name": "Armored Tusker Walker Legs (1 of 4)",
+    "name": "Armored Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13140,7 +13224,7 @@
     ]
   },
   {
-    "name": "Heavy Tusker Walker Legs (1 of 4)",
+    "name": "Heavy Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13162,7 +13246,7 @@
     ]
   },
   {
-    "name": "Tusker Walker Legs (1 of 4)",
+    "name": "Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13190,16 +13274,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 110
+            "name": "Reinforced Plank",
+            "count": 150
           },
           {
-            "name": "Nomad Cloth",
-            "count": 12
+            "name": "Worm Scale",
+            "count": 4
           },
           {
-            "name": "Hide",
-            "count": 22
+            "name": "Worm Silk",
+            "count": 100
           }
         ]
       }
@@ -13234,16 +13318,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood",
-            "count": 1680
+            "name": "Wood Shaft",
+            "count": 110
           },
           {
             "name": "Nomad Cloth",
-            "count": 19
+            "count": 12
           },
           {
-            "name": "Worm Silk",
-            "count": 60
+            "name": "Hide",
+            "count": 22
           }
         ]
       }
