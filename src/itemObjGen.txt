@@ -1965,6 +1965,216 @@
       name = Rope
       count n = 12
 []
+  name = Firefly Walker Upgrade - Cargo - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Firefly Walker Upgrade - Water - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Firefly Walker Upgrade - Gear - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Firefly Walker Upgrade - Armor - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 45
+    ingredients[]
+      name = Redwood Wood
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+[]
+  name = Firefly Walker Upgrade - Mobility - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Reinforced Plank
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 5
+[]
+  name = Firefly Walker Upgrade - Torque - Tier 3
+  category = walkers/firefly/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80
+[]
+  name = Firefly Walker Upgrade - Cargo - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 28
+    ingredients[]
+      name = Bone Glue
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 60
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Firefly Walker Upgrade - Water - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Rupu Gel
+      count n = 30
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+[]
+  name = Firefly Walker Upgrade - Gear - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 35
+    ingredients[]
+      name = Reinforced Plank
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 110
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Firefly Walker Upgrade - Armor - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 28
+    ingredients[]
+      name = Ceramic Shard
+      count n = 120
+    ingredients[]
+      name = Chitin Plate
+      count n = 35
+    ingredients[]
+      name = Nomad Cloth
+      count n = 50
+    ingredients[]
+      name = Obsidian
+      count n = 5
+[]
+  name = Firefly Walker Upgrade - Mobility - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Reinforced Plank
+      count n = 14
+    ingredients[]
+      name = Worm Silk
+      count n = 20
+    ingredients[]
+      name = Bone Glue
+      count n = 26
+    ingredients[]
+      name = Tar
+      count n = 40
+[]
+  name = Firefly Walker Upgrade - Torque - Tier 4
+  category = walkers/firefly/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Chitin Plate
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 120
+[]
   name = Dinghy Walker Body
   category = walkers/dinghy
   crafting[]
@@ -2206,6 +2416,120 @@
       name = Wood
       count n = 80   
 []
+  name = Dinghy Walker Upgrade - Cargo - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 28
+    ingredients[]
+      name = Bone Glue
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 60
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Rupu Gel
+      count n = 30
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+[]
+  name = Dinghy Walker Upgrade - Gear - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 35
+    ingredients[]
+      name = Reinforced Plank
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 110
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Dinghy Walker Upgrade - Armor - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 28
+    ingredients[]
+      name = Ceramic Shard
+      count n = 120
+    ingredients[]
+      name = Chitin Plate
+      count n = 35
+    ingredients[]
+      name = Nomad Cloth
+      count n = 50
+    ingredients[]
+      name = Obsidian
+      count n = 5
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Reinforced Plank
+      count n = 14
+    ingredients[]
+      name = Worm Silk
+      count n = 20
+    ingredients[]
+      name = Bone Glue
+      count n = 26
+    ingredients[]
+      name = Tar
+      count n = 40
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 4
+  category = walkers/dinghy/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Chitin Plate
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 120
+[]
   name = Nomad Spider Walker Body
   category = walkers/spider
   crafting[]
@@ -2415,6 +2739,216 @@
     ingredients[]
       name = Rope
       count n = 12
+[]
+  name = Spider Walker Upgrade - Cargo - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Spider Walker Upgrade - Water - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Spider Walker Upgrade - Gear - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Spider Walker Upgrade - Armor - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 45
+    ingredients[]
+      name = Redwood Wood
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 4
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+[]
+  name = Spider Walker Upgrade - Mobility - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Reinforced Plank
+      count n = 4
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 5
+[]
+  name = Spider Walker Upgrade - Torque - Tier 3
+  category = walkers/spider/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80
+[]
+  name = Spider Walker Upgrade - Cargo - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 28
+    ingredients[]
+      name = Bone Glue
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 60
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Spider Walker Upgrade - Water - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Rupu Gel
+      count n = 30
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+[]
+  name = Spider Walker Upgrade - Gear - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Nomad Cloth
+      count n = 35
+    ingredients[]
+      name = Reinforced Plank
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 110
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Spider Walker Upgrade - Armor - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 28
+    ingredients[]
+      name = Ceramic Shard
+      count n = 120
+    ingredients[]
+      name = Chitin Plate
+      count n = 35
+    ingredients[]
+      name = Nomad Cloth
+      count n = 50
+    ingredients[]
+      name = Obsidian
+      count n = 5
+[]
+  name = Spider Walker Upgrade - Mobility - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Reinforced Plank
+      count n = 14
+    ingredients[]
+      name = Worm Silk
+      count n = 20
+    ingredients[]
+      name = Bone Glue
+      count n = 26
+    ingredients[]
+      name = Tar
+      count n = 40
+[]
+  name = Spider Walker Upgrade - Torque - Tier 4
+  category = walkers/spider/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Chitin Plate
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 120
 []
   name = Mollusk Walker Body
   category = walkers/mollusk
@@ -3055,6 +3589,216 @@
       name = Rope
       count n = 20
 []
+  name = Stiletto Walker Upgrade - Cargo - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 56
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Stiletto Walker Upgrade - Water - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Stiletto Walker Upgrade - Gear - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Earth Wax
+      count n = 64
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Stiletto Walker Upgrade - Armor - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 72
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 7
+    ingredients[]
+      name = Chitin Plate
+      count n = 16
+[]
+  name = Stiletto Walker Upgrade - Mobility - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 64
+    ingredients[]
+      name = Reinforced Plank
+      count n = 7
+    ingredients[]
+      name = Earth Wax
+      count n = 128
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+[]
+  name = Stiletto Walker Upgrade - Torque - Tier 3
+  category = walkers/stiletto/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Stiletto Walker Upgrade - Cargo - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Stiletto Walker Upgrade - Water - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Stiletto Walker Upgrade - Gear - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Stiletto Walker Upgrade - Armor - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Stiletto Walker Upgrade - Mobility - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+[]
+  name = Stiletto Walker Upgrade - Torque - Tier 4
+  category = walkers/stiletto/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
+[]
   name = Buffalo Walker Body
   category = walkers/buffalo
   crafting[]
@@ -3317,6 +4061,121 @@
     ingredients[]
       name = Wood
       count n = 128
+      count n = 20
+[]
+  name = Buffalo Walker Upgrade - Cargo - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Buffalo Walker Upgrade - Water - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Buffalo Walker Upgrade - Gear - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Buffalo Walker Upgrade - Armor - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Buffalo Walker Upgrade - Mobility - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+[]
+  name = Buffalo Walker Upgrade - Torque - Tier 4
+  category = walkers/buffalo/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
 []
   name = Toboggan Walker Body
   category = walkers/toboggan
@@ -3524,6 +4383,102 @@
       name = Rope
       count n = 20
 []
+  name = Toboggan Walker Upgrade - Water - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Toboggan Walker Upgrade - Gear - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Earth Wax
+      count n = 64
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Toboggan Walker Upgrade - Cargo - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 56
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Toboggan Walker Upgrade - Mobility - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 64
+    ingredients[]
+      name = Reinforced Plank
+      count n = 7
+    ingredients[]
+      name = Earth Wax
+      count n = 128
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+[]
+  name = Toboggan Walker Upgrade - Armor - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 72
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 7
+    ingredients[]
+      name = Chitin Plate
+      count n = 16
+[]
+  name = Toboggan Walker Upgrade - Torque - Tier 3
+  category = walkers/toboggan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
   name = Toboggan Walker Upgrade - Water - Tier 4
   category = walkers/toboggan/upgrades/tier4
   crafting[]
@@ -3711,6 +4666,312 @@
     ingredients[]
       name = Hide
       count n = 42
+[]
+  name = Hornet Walker Upgrade - Cargo - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Hornet Walker Upgrade - Water - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Hornet Walker Upgrade - Gear - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 13
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 128
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Hornet Walker Upgrade - Armor - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 48
+    ingredients[]
+      name = Fiber Weave
+      count n = 24
+    ingredients[]
+      name = Rupu Pelt
+      count n = 42
+    ingredients[]
+      name = Chitin Plate
+      count n = 4
+[]
+  name = Hornet Walker Upgrade - Mobility - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 32
+    ingredients[]
+      name = Rupu Vine
+      count n = 48
+    ingredients[]
+      name = Earth Wax
+      count n = 16
+    ingredients[]
+      name = Wood
+      count n = 48
+[]
+  name = Hornet Walker Upgrade - Torque - Tier 2
+  category = walkers/hornet/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Hornet Walker Upgrade - Cargo - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 56
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Hornet Walker Upgrade - Water - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Hornet Walker Upgrade - Gear - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Earth Wax
+      count n = 64
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Hornet Walker Upgrade - Armor - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 72
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Bone Glue
+      count n = 7
+    ingredients[]
+      name = Chitin Plate
+      count n = 16
+[]
+  name = Hornet Walker Upgrade - Mobility - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 64
+    ingredients[]
+      name = Reinforced Plank
+      count n = 7
+    ingredients[]
+      name = Earth Wax
+      count n = 128
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+[]
+  name = Hornet Walker Upgrade - Torque - Tier 3
+  category = walkers/hornet/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Hornet Walker Upgrade - Cargo - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Hornet Walker Upgrade - Water - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Hornet Walker Upgrade - Gear - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Hornet Walker Upgrade - Armor - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Hornet Walker Upgrade - Mobility - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+[]
+  name = Hornet Walker Upgrade - Torque - Tier 4
+  category = walkers/hornet/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
 []
   name = Falco Walker Body
   category = walkers/falco
@@ -4005,7 +5266,7 @@
       name = Ceramic Shard
       count n = 48
     ingredients[]
-      name = Rupu Vine
+      name = Rupu Pelt
       count n = 56
     ingredients[]
       name = Rope
@@ -4013,6 +5274,120 @@
     ingredients[]
       name = Wood
       count n = 128
+[]
+  name = Falco Walker Upgrade - Cargo - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Falco Walker Upgrade - Water - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Falco Walker Upgrade - Gear - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 56
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Redwood Wood
+      count n = 176
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+[]
+  name = Falco Walker Upgrade - Armor - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 45
+    ingredients[]
+      name = Ceramic Shard
+      count n = 192
+    ingredients[]
+      name = Chitin Plate
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 80
+    ingredients[]
+      name = Obsidian
+      count n = 8
+[]
+  name = Falco Walker Upgrade - Mobility - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Reinforced Plank
+      count n = 23
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Bone Glue
+      count n = 42
+    ingredients[]
+      name = Tar
+      count n = 64
+[]
+  name = Falco Walker Upgrade - Torque - Tier 4
+  category = walkers/falco/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
 []
   name = Schmetterling Walker Body
   category = walkers/schmetterling
@@ -4025,7 +5400,7 @@
       count n = 225
     ingredients[]
       name = Rope
-      count n = 88
+      count n = 1425
     ingredients[]
       name = Fiber
       count n = 1425
@@ -4129,6 +5504,312 @@
     ingredients[]
       name = Worm Scale
       count n = 5
+[]
+  name = Schmetterling Walker Upgrade - Cargo - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 188
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Schmetterling Walker Upgrade - Water - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Hide
+      count n = 38
+    ingredients[]
+      name = Wood
+      count n = 38
+[]
+  name = Schmetterling Walker Upgrade - Gear - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Schmetterling Walker Upgrade - Armor - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 75
+    ingredients[]
+      name = Fiber Weave
+      count n = 38
+    ingredients[]
+      name = Rupu Pelt
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Schmetterling Walker Upgrade - Mobility - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 75
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Schmetterling Walker Upgrade - Torque - Tier 2
+  category = walkers/schmetterling/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 163
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Rope
+      count n = 30
+[]
+  name = Schmetterling Walker Upgrade - Cargo - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 88
+    ingredients[]
+      name = Stone
+      count n = 200
+[]
+  name = Schmetterling Walker Upgrade - Water - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 113
+    ingredients[]
+      name = Wood
+      count n = 213
+    ingredients[]
+      name = Fiber Weave
+      count n = 88
+[]
+  name = Schmetterling Walker Upgrade - Gear - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Earth Wax
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 188
+[]
+  name = Schmetterling Walker Upgrade - Armor - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 113
+    ingredients[]
+      name = Redwood Wood
+      count n = 125
+    ingredients[]
+      name = Bone Glue
+      count n = 10
+    ingredients[]
+      name = Chitin Plate
+      count n = 25
+[]
+  name = Schmetterling Walker Upgrade - Mobility - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 200
+    ingredients[]
+      name = Bone Glue
+      count n = 13
+[]
+  name = Schmetterling Walker Upgrade - Torque - Tier 3
+  category = walkers/schmetterling/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 75
+    ingredients[]
+      name = Rupu Vine
+      count n = 88
+    ingredients[]
+      name = Rope
+      count n = 63
+    ingredients[]
+      name = Wood
+      count n = 200
+[]
+  name = Schmetterling Walker Upgrade - Cargo - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 70
+    ingredients[]
+      name = Bone Glue
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 63
+[]
+  name = Schmetterling Walker Upgrade - Water - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 63
+    ingredients[]
+      name = Redwood Wood
+      count n = 200
+    ingredients[]
+      name = Rupu Gel
+      count n = 75
+    ingredients[]
+      name = Bone Glue
+      count n = 38
+[]
+  name = Schmetterling Walker Upgrade - Gear - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 88
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 275
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+[]
+  name = Schmetterling Walker Upgrade - Armor - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 70
+    ingredients[]
+      name = Ceramic Shard
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 88
+    ingredients[]
+      name = Nomad Cloth
+      count n = 150
+    ingredients[]
+      name = Obsidian
+      count n = 13
+[]
+  name = Schmetterling Walker Upgrade - Mobility - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 35
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 100
+[]
+  name = Schmetterling Walker Upgrade - Torque - Tier 4
+  category = walkers/schmetterling/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Chitin Plate
+      count n = 95
+    ingredients[]
+      name = Reinforced Plank
+      count n = 25
+    ingredients[]
+      name = Ceramic Shard
+      count n = 125
+    ingredients[]
+      name = Redwood Wood
+      count n = 300
 []
   name = Tusker Walker Body
   category = walkers/tusker
@@ -4248,6 +5929,312 @@
     ingredients[]
       name = Hide
       count n = 22
+[]
+  name = Tusker Walker Upgrade - Cargo - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 188
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Tusker Walker Upgrade - Water - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Hide
+      count n = 38
+    ingredients[]
+      name = Wood
+      count n = 38
+[]
+  name = Tusker Walker Upgrade - Gear - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Tusker Walker Upgrade - Armor - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 75
+    ingredients[]
+      name = Fiber Weave
+      count n = 38
+    ingredients[]
+      name = Rupu Pelt
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Tusker Walker Upgrade - Mobility - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 75
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Tusker Walker Upgrade - Torque - Tier 2
+  category = walkers/tusker/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 163
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Rope
+      count n = 30
+[]
+  name = Tusker Walker Upgrade - Cargo - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 88
+    ingredients[]
+      name = Stone
+      count n = 200
+[]
+  name = Tusker Walker Upgrade - Water - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 113
+    ingredients[]
+      name = Wood
+      count n = 213
+    ingredients[]
+      name = Fiber Weave
+      count n = 88
+[]
+  name = Tusker Walker Upgrade - Gear - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Earth Wax
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 188
+[]
+  name = Tusker Walker Upgrade - Armor - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 113
+    ingredients[]
+      name = Redwood Wood
+      count n = 125
+    ingredients[]
+      name = Bone Glue
+      count n = 10
+    ingredients[]
+      name = Chitin Plate
+      count n = 25
+[]
+  name = Tusker Walker Upgrade - Mobility - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 200
+    ingredients[]
+      name = Bone Glue
+      count n = 13
+[]
+  name = Tusker Walker Upgrade - Torque - Tier 3
+  category = walkers/tusker/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 75
+    ingredients[]
+      name = Rupu Vine
+      count n = 88
+    ingredients[]
+      name = Rope
+      count n = 63
+    ingredients[]
+      name = Wood
+      count n = 200
+[]
+  name = Tusker Walker Upgrade - Cargo - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 70
+    ingredients[]
+      name = Bone Glue
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 63
+[]
+  name = Tusker Walker Upgrade - Water - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 63
+    ingredients[]
+      name = Redwood Wood
+      count n = 200
+    ingredients[]
+      name = Rupu Gel
+      count n = 75
+    ingredients[]
+      name = Bone Glue
+      count n = 38
+[]
+  name = Tusker Walker Upgrade - Gear - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 88
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 275
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+[]
+  name = Tusker Walker Upgrade - Armor - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 70
+    ingredients[]
+      name = Ceramic Shard
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 88
+    ingredients[]
+      name = Nomad Cloth
+      count n = 150
+    ingredients[]
+      name = Obsidian
+      count n = 13
+[]
+  name = Tusker Walker Upgrade - Mobility - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 35
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 100
+[]
+  name = Tusker Walker Upgrade - Torque - Tier 4
+  category = walkers/tusker/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Chitin Plate
+      count n = 95
+    ingredients[]
+      name = Reinforced Plank
+      count n = 25
+    ingredients[]
+      name = Ceramic Shard
+      count n = 125
+    ingredients[]
+      name = Redwood Wood
+      count n = 300
 []
   name = Proxy Walker Body
   category = walkers/proxy
@@ -4431,6 +6418,312 @@
     ingredients[]
       name = Hide
       count n = 30
+[]
+  name = Titan Walker Upgrade - Cargo - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 188
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Titan Walker Upgrade - Water - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Hide
+      count n = 38
+    ingredients[]
+      name = Wood
+      count n = 38
+[]
+  name = Titan Walker Upgrade - Gear - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Titan Walker Upgrade - Armor - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 75
+    ingredients[]
+      name = Fiber Weave
+      count n = 38
+    ingredients[]
+      name = Rupu Pelt
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Titan Walker Upgrade - Mobility - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 75
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Titan Walker Upgrade - Torque - Tier 2
+  category = walkers/titan/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 163
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Rope
+      count n = 30
+[]
+  name = Titan Walker Upgrade - Cargo - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 88
+    ingredients[]
+      name = Stone
+      count n = 200
+[]
+  name = Titan Walker Upgrade - Water - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 113
+    ingredients[]
+      name = Wood
+      count n = 213
+    ingredients[]
+      name = Fiber Weave
+      count n = 88
+[]
+  name = Titan Walker Upgrade - Gear - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Earth Wax
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 188
+[]
+  name = Titan Walker Upgrade - Armor - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 113
+    ingredients[]
+      name = Redwood Wood
+      count n = 125
+    ingredients[]
+      name = Bone Glue
+      count n = 10
+    ingredients[]
+      name = Chitin Plate
+      count n = 25
+[]
+  name = Titan Walker Upgrade - Mobility - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 200
+    ingredients[]
+      name = Bone Glue
+      count n = 13
+[]
+  name = Titan Walker Upgrade - Torque - Tier 3
+  category = walkers/titan/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 75
+    ingredients[]
+      name = Rupu Vine
+      count n = 88
+    ingredients[]
+      name = Rope
+      count n = 63
+    ingredients[]
+      name = Wood
+      count n = 200
+[]
+  name = Titan Walker Upgrade - Cargo - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 70
+    ingredients[]
+      name = Bone Glue
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 63
+[]
+  name = Titan Walker Upgrade - Water - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 63
+    ingredients[]
+      name = Redwood Wood
+      count n = 200
+    ingredients[]
+      name = Rupu Gel
+      count n = 75
+    ingredients[]
+      name = Bone Glue
+      count n = 38
+[]
+  name = Titan Walker Upgrade - Gear - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 88
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 275
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+[]
+  name = Titan Walker Upgrade - Armor - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 70
+    ingredients[]
+      name = Ceramic Shard
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 88
+    ingredients[]
+      name = Nomad Cloth
+      count n = 150
+    ingredients[]
+      name = Obsidian
+      count n = 13
+[]
+  name = Titan Walker Upgrade - Mobility - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 35
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 100
+[]
+  name = Titan Walker Upgrade - Torque - Tier 4
+  category = walkers/titan/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Chitin Plate
+      count n = 95
+    ingredients[]
+      name = Reinforced Plank
+      count n = 25
+    ingredients[]
+      name = Ceramic Shard
+      count n = 125
+    ingredients[]
+      name = Redwood Wood
+      count n = 300
 []
   name = Reinforced Plank
   category = materials
