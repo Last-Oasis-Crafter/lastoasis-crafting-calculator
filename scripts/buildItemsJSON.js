@@ -11,4 +11,4 @@ itemsJSON.sort((itemA, itemB) => itemA.name.localeCompare(itemB.name));
 // Sort Alphabetically by item.category
 itemsJSON.sort((itemA, itemB) => itemA.category.localeCompare(itemB.category));
 
-fs.writeFileSync('./src/items.json', JSON.stringify(itemsJSON, null, '\t'), 'utf8');
+fs.writeFileSync('./src/items.json', JSON.stringify(itemsJSON, null, 2), 'utf8');
