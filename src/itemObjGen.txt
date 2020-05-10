@@ -1734,6 +1734,39 @@
       name = Fiber
       count n = 35
 []
+  name = Tool Pod
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 400
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+[]
+  name = Sawblade Tool
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+[]
+  name = Long Sawblade
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 280
+    ingredients[]
+      name = Wood
+      count n = 2000
+[]
   name = Steering Levers
   category = walkers/tools
   crafting[]
@@ -2158,15 +2191,15 @@
       name = Rupu Vine
       count n = 10
 []
-  name = Dinghy Walker Legs (1 of 4)
+  name = Dinghy Walker Legs (1 of 2)
   category = walkers/dinghy/parts/legs
   crafting[]
     ingredients[]
       name = Wood
-      count n = 38
+      count n = 76
     ingredients[]
       name = Wood Shaft
-      count n = 5
+      count n = 10
 []
   name = Dinghy Walker Wings (1 of 2)
   category = walkers/dinghy/parts/wings
@@ -3414,7 +3447,7 @@
       name = Stone
       count n = 90
 []
-  name = Stiletto Walker Legs (1 of 4)
+  name = Stiletto Walker Legs (1 of 2)
   category = walkers/stiletto/parts/legs
   crafting[]
     ingredients[]
@@ -3788,7 +3821,7 @@
       name = Stone
       count n = 280
 []
-  name = Buffalo Walker Legs (1 of 4)
+  name = Buffalo Walker Legs (1 of 2)
   category = walkers/buffalo/parts/legs
   crafting[]
     ingredients[]
@@ -3815,14 +3848,14 @@
   category = walkers/buffalo/parts/wings
   crafting[]
     ingredients[]
-      name = Reinforced Plank
-      count n = 65
+      name = Wood Shaft
+      count n = 46
     ingredients[]
-      name = Worm Silk
-      count n = 56
+      name = Rope
+      count n = 18
     ingredients[]
-      name = Hide
-      count n = 100
+      name = Nomad Cloth
+      count n = 4
 []
   name = Buffalo Walker Medium Wings (1 of 2)
   category = walkers/buffalo/parts/wings
@@ -4163,7 +4196,7 @@
       name = Stone
       count n = 180
 []
-  name = Toboggan Walker Legs (1 of 4)
+  name = Toboggan Walker Legs (1 of 2)
   category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
@@ -4176,7 +4209,7 @@
       name = Earth Wax
       count n = 36
 []
-  name = Armored Toboggan Walker Legs (1 of 4)
+  name = Armored Toboggan Walker Legs (1 of 2)
   category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
@@ -4192,7 +4225,7 @@
       name = Bone Glue
       count n = 16
 []
-  name = Heavy Toboggan Walker Legs (1 of 4)
+  name = Heavy Toboggan Walker Legs (1 of 2)
   category = walkers/toboggan/parts/legs
   crafting[]
     ingredients[]
@@ -4522,7 +4555,7 @@
       name = Tar
       count n = 64
 []
-  name = Toboggan Walker Upgrade - Durability - Tier 4
+  name = Toboggan Walker Upgrade - Armor - Tier 4
   category = walkers/toboggan/upgrades/tier4
   crafting[]
     ingredients[]
@@ -4585,7 +4618,7 @@
       name = Bone Splinter
       count n = 55
 []
-  name = Hornet Walker Legs (1 of 4)
+  name = Hornet Walker Legs (1 of 2)
   category = walkers/hornet/parts/legs
   crafting[]
     ingredients[]
@@ -4598,18 +4631,28 @@
       name = Earth Wax
       count n = 40
 []
+  name = Hornet Walker Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 87
+    ingredients[]
+      name = Fiber Weave
+      count n = 48
+[]
   name = Hornet Walker Small Wings (1 of 2)
   category = walkers/hornet/parts/wings
   crafting[]
     ingredients[]
-      name = Reinforced Plank
-      count n = 50
+      name = Wood Shaft
+      count n = 40
     ingredients[]
-      name = Worm Silk
-      count n = 42
+      name = Rope
+      count n = 14
     ingredients[]
-      name = Hide
-      count n = 85
+      name = Nomad Cloth
+      count n = 4
 []
   name = Hornet Walker Medium Wings (1 of 2)
   category = walkers/hornet/parts/wings
@@ -4949,7 +4992,7 @@
       name = Stone
       count n = 400
 []
-  name = Falco Walker Legs (1 of 4)
+  name = Falco Walker Legs (1 of 2)
   category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
@@ -4962,7 +5005,7 @@
       name = Earth Wax
       count n = 48
 []
-  name = Armored Falco Walker Legs (1 of 4)
+  name = Armored Falco Walker Legs (1 of 2)
   category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
@@ -4978,7 +5021,7 @@
       name = Bone Glue
       count n = 28
 []
-  name = Heavy Falco Walker Legs (1 of 4)
+  name = Heavy Falco Walker Legs (1 of 2)
   category = walkers/falco/parts/legs
   crafting[]
     ingredients[]
@@ -5368,7 +5411,7 @@
       name = Stone
       count n = 450
 []
-  name = Schmetterling Walker Legs (1 of 4)
+  name = Schmetterling Walker Legs (1 of 2)
   category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
@@ -5381,7 +5424,7 @@
       name = Earth Wax
       count n = 136
 []
-  name = Armored Schmetterling Walker Legs (1 of 4)
+  name = Armored Schmetterling Walker Legs (1 of 2)
   category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
@@ -5397,7 +5440,7 @@
       name = Tar
       count n = 16
 []
-  name = Heavy Schmetterling Walker Legs (1 of 4)
+  name = Heavy Schmetterling Walker Legs (1 of 2)
   category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
@@ -5427,14 +5470,14 @@
   category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
-      name = Reinforced Plank
-      count n = 180
+      name = Wood Shaft
+      count n = 140
     ingredients[]
-      name = Worm Silk
-      count n = 105
+      name = Nomad Cloth
+      count n = 16
     ingredients[]
-      name = Worm Scale
-      count n = 5
+      name = Hide
+      count n = 30
 []
   name = Schmetterling Walker Medium Wings (1 of 2)
   category = walkers/schmetterling/parts/wings
@@ -5453,14 +5496,14 @@
   category = walkers/schmetterling/parts/wings
   crafting[]
     ingredients[]
-      name = Wood Shaft
-      count n = 140
+      name = Reinforced Plank
+      count n = 180
     ingredients[]
-      name = Nomad Cloth
-      count n = 16
+      name = Worm Silk
+      count n = 105
     ingredients[]
-      name = Hide
-      count n = 30
+      name = Worm Scale
+      count n = 5
 []
   name = Schmetterling Walker Upgrade - Cargo - Tier 2
   category = walkers/schmetterling/upgrades/tier2
@@ -5793,7 +5836,7 @@
       name = Bone Glue
       count n = 5
 []
-  name = Tusker Walker Legs (1 of 4)
+  name = Tusker Walker Legs (1 of 2)
   category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
@@ -5806,7 +5849,7 @@
       name = Earth Wax
       count n = 114
 []
-  name = Armored Tusker Walker Legs (1 of 4)
+  name = Armored Tusker Walker Legs (1 of 2)
   category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
@@ -5822,7 +5865,7 @@
       name = Tar
       count n = 15
 []
-  name = Heavy Tusker Walker Legs (1 of 4)
+  name = Heavy Tusker Walker Legs (1 of 2)
   category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
@@ -5848,18 +5891,18 @@
       name = Nomad Cloth
       count n = 11
 []
-  name = Tusker Walker Small Wings (1 of 2)
+  name = Tusker Walker Large Wings (1 of 2)
   category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
-      name = Wood
-      count n = 1680
+      name = Reinforced Plank
+      count n = 150
     ingredients[]
-      name = Nomad Cloth
-      count n = 19
+      name = Worm Scale
+      count n = 4
     ingredients[]
       name = Worm Silk
-      count n = 60
+      count n = 100
 []
   name = Tusker Walker Medium Wings (1 of 2)
   category = walkers/tusker/parts/wings
@@ -5874,7 +5917,7 @@
       name = Worm Silk
       count n = 25
 []
-  name = Tusker Walker Large Wings (1 of 2)
+  name = Tusker Walker Small Wings (1 of 2)
   category = walkers/tusker/parts/wings
   crafting[]
     ingredients[]
@@ -6217,8 +6260,11 @@
     ingredients[]
       name = Stone
       count n = 150
+    ingredients[]
+      name = Proxy License
+      count n = 1
 []
-  name = Proxy Walker Legs (1 of 4)
+  name = Proxy Walker Legs (1 of 2)
   category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
@@ -6231,7 +6277,7 @@
       name = Earth Wax
       count n = 114
 []
-  name = Armored Proxy Walker Legs (1 of 4)
+  name = Armored Proxy Walker Legs (1 of 2)
   category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
@@ -6239,7 +6285,7 @@
       count n = 408
     ingredients[]
       name = Wood Shaft
-      count n = 93
+      count n = 436
     ingredients[]
       name = Ceramic Shard
       count n = 168
@@ -6247,7 +6293,7 @@
       name = Tar
       count n = 12
 []
-  name = Heavy Proxy Walker Legs (1 of 4)
+  name = Heavy Proxy Walker Legs (1 of 2)
   category = walkers/proxy/parts/legs
   crafting[]
     ingredients[]
@@ -6267,6 +6313,9 @@
       name = Wood
       count n = 3030
     ingredients[]
+      name = Fiber
+      count n = 625
+    ingredients[]
       name = Stone
       count n = 600
     ingredients[]
@@ -6276,7 +6325,7 @@
       name = Wood Shaft
       count n = 385
 []
-  name = Titan Walker Legs (1 of 4)
+  name = Titan Walker Legs (1 of 2)
   category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
@@ -6289,7 +6338,7 @@
       name = Earth Wax
       count n = 136
 []
-  name = Armored Titan Walker Legs (1 of 4)
+  name = Armored Titan Walker Legs (1 of 2)
   category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
@@ -6305,7 +6354,7 @@
       name = Tar
       count n = 16
 []
-  name = Heavy Titan Walker Legs (1 of 4)
+  name = Heavy Titan Walker Legs (1 of 2)
   category = walkers/titan/parts/legs
   crafting[]
     ingredients[]
@@ -6331,7 +6380,7 @@
       name = Nomad Cloth
       count n = 13
 []
-  name = Titan Walker Small Wings (1 of 2)
+  name = Titan Walker Large Wings (1 of 2)
   category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
@@ -6357,7 +6406,7 @@
       name = Nomad Cloth
       count n = 32
 []
-  name = Titan Walker Large Wings (1 of 2)
+  name = Titan Walker Small Wings (1 of 2)
   category = walkers/titan/parts/wings
   crafting[]
     ingredients[]
