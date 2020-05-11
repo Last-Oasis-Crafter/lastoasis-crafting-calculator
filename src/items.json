@@ -5746,7 +5746,7 @@
     ]
   },
   {
-    "name": "Buffalo Walker Legs (1 of 2)",
+    "name": "Buffalo Walker Legs (1 of 4)",
     "category": "walkers/buffalo/parts/legs",
     "crafting": [
       {
@@ -5796,16 +5796,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 46
+            "name": "Reinforced Plank",
+            "count": 65
           },
           {
-            "name": "Rope",
-            "count": 18
+            "name": "Worm Silk",
+            "count": 56
           },
           {
-            "name": "Nomad Cloth",
-            "count": 4
+            "name": "Hide",
+            "count": 100
           }
         ]
       }
@@ -6142,186 +6142,6 @@
     ]
   },
   {
-    "name": "Buffalo Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Buffalo Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 45
-          },
-          {
-            "name": "Bone Glue",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 96
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Buffalo Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 56
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 32
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 176
-          },
-          {
-            "name": "Worm Silk",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Buffalo Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 23
-          },
-          {
-            "name": "Worm Silk",
-            "count": 32
-          },
-          {
-            "name": "Bone Glue",
-            "count": 42
-          },
-          {
-            "name": "Tar",
-            "count": 64
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Buffalo Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 61
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 16
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 80
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 192
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Buffalo Walker Upgrade - Water - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 13
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 40
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 128
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 48
-          },
-          {
-            "name": "Bone Glue",
-            "count": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinghy Walker Body",
     "category": "walkers/dinghy",
     "crafting": [
@@ -6348,18 +6168,18 @@
     ]
   },
   {
-    "name": "Dinghy Walker Legs (1 of 2)",
+    "name": "Dinghy Walker Legs (1 of 4)",
     "category": "walkers/dinghy/parts/legs",
     "crafting": [
       {
         "ingredients": [
           {
             "name": "Wood",
-            "count": 76
+            "count": 38
           },
           {
             "name": "Wood Shaft",
-            "count": 10
+            "count": 5
           }
         ]
       }
@@ -6718,186 +6538,6 @@
     ]
   },
   {
-    "name": "Dinghy Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinghy Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 28
-          },
-          {
-            "name": "Bone Glue",
-            "count": 12
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 60
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinghy Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 35
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 110
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinghy Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 14
-          },
-          {
-            "name": "Worm Silk",
-            "count": 20
-          },
-          {
-            "name": "Bone Glue",
-            "count": 26
-          },
-          {
-            "name": "Tar",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinghy Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 120
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinghy Walker Upgrade - Water - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 8
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 30
-          },
-          {
-            "name": "Bone Glue",
-            "count": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Falco Walker Body",
     "category": "walkers/falco",
     "crafting": [
@@ -6928,7 +6568,7 @@
     ]
   },
   {
-    "name": "Armored Falco Walker Legs (1 of 2)",
+    "name": "Armored Falco Walker Legs (1 of 4)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -6954,7 +6594,7 @@
     ]
   },
   {
-    "name": "Falco Walker Legs (1 of 2)",
+    "name": "Falco Walker Legs (1 of 4)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -6976,7 +6616,7 @@
     ]
   },
   {
-    "name": "Heavy Falco Walker Legs (1 of 2)",
+    "name": "Heavy Falco Walker Legs (1 of 4)",
     "category": "walkers/falco/parts/legs",
     "crafting": [
       {
@@ -7394,186 +7034,6 @@
     ]
   },
   {
-    "name": "Falco Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Falco Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 45
-          },
-          {
-            "name": "Bone Glue",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 96
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Falco Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 56
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 32
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 176
-          },
-          {
-            "name": "Worm Silk",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Falco Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 23
-          },
-          {
-            "name": "Worm Silk",
-            "count": 32
-          },
-          {
-            "name": "Bone Glue",
-            "count": 42
-          },
-          {
-            "name": "Tar",
-            "count": 64
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Falco Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 61
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 16
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 80
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 192
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Falco Walker Upgrade - Water - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 13
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 40
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 128
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 48
-          },
-          {
-            "name": "Bone Glue",
-            "count": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Firefly Walker Body",
     "category": "walkers/firefly",
     "crafting": [
@@ -7890,342 +7350,6 @@
     ]
   },
   {
-    "name": "Firefly Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 45
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 4
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 12
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 35
-          },
-          {
-            "name": "Stone",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 10
-          },
-          {
-            "name": "Earth Wax",
-            "count": 40
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 4
-          },
-          {
-            "name": "Earth Wax",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 30
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 35
-          },
-          {
-            "name": "Rope",
-            "count": 25
-          },
-          {
-            "name": "Wood",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Water - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 20
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 45
-          },
-          {
-            "name": "Wood",
-            "count": 85
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 35
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 28
-          },
-          {
-            "name": "Bone Glue",
-            "count": 12
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 60
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 35
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 110
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 14
-          },
-          {
-            "name": "Worm Silk",
-            "count": 20
-          },
-          {
-            "name": "Bone Glue",
-            "count": 26
-          },
-          {
-            "name": "Tar",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 120
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Water - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 8
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 30
-          },
-          {
-            "name": "Bone Glue",
-            "count": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Hornet Walker Body",
     "category": "walkers/hornet",
     "crafting": [
@@ -8264,7 +7388,7 @@
     ]
   },
   {
-    "name": "Hornet Walker Legs (1 of 2)",
+    "name": "Hornet Walker Legs (1 of 4)",
     "category": "walkers/hornet/parts/legs",
     "crafting": [
       {
@@ -8314,526 +7438,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 40
+            "name": "Reinforced Plank",
+            "count": 50
           },
           {
-            "name": "Rope",
-            "count": 14
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Wings (1 of 2)",
-    "category": "walkers/hornet/parts/wings",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 87
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 48
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
+            "name": "Worm Silk",
             "count": 42
           },
           {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Cargo - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 24
-          },
-          {
-            "name": "Fiber",
-            "count": 160
-          },
-          {
-            "name": "Wood",
-            "count": 120
-          },
-          {
-            "name": "Stone",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Gear - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 13
-          },
-          {
-            "name": "Fiber",
-            "count": 160
-          },
-          {
-            "name": "Wood",
-            "count": 128
-          },
-          {
-            "name": "Stone",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Mobility - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 32
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 48
-          },
-          {
-            "name": "Earth Wax",
-            "count": 16
-          },
-          {
-            "name": "Wood",
-            "count": 48
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Torque - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 24
-          },
-          {
-            "name": "Fiber",
-            "count": 104
-          },
-          {
-            "name": "Wood",
-            "count": 96
-          },
-          {
-            "name": "Rope",
-            "count": 20
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Water - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 16
-          },
-          {
-            "name": "Fiber",
-            "count": 160
-          },
-          {
             "name": "Hide",
-            "count": 24
-          },
-          {
-            "name": "Wood",
-            "count": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 20
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 56
-          },
-          {
-            "name": "Stone",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 16
-          },
-          {
-            "name": "Earth Wax",
-            "count": 64
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 64
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 7
-          },
-          {
-            "name": "Earth Wax",
-            "count": 128
-          },
-          {
-            "name": "Bone Glue",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 48
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 56
-          },
-          {
-            "name": "Rope",
-            "count": 40
-          },
-          {
-            "name": "Wood",
-            "count": 128
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Water - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 32
-          },
-          {
-            "name": "Hide",
-            "count": 72
-          },
-          {
-            "name": "Wood",
-            "count": 136
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 56
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 45
-          },
-          {
-            "name": "Bone Glue",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 96
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 56
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 32
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 176
-          },
-          {
-            "name": "Worm Silk",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 23
-          },
-          {
-            "name": "Worm Silk",
-            "count": 32
-          },
-          {
-            "name": "Bone Glue",
-            "count": 42
-          },
-          {
-            "name": "Tar",
-            "count": 64
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 61
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 16
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 80
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 192
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Hornet Walker Upgrade - Water - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 13
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 40
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 128
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 48
-          },
-          {
-            "name": "Bone Glue",
-            "count": 24
+            "count": 85
           }
         ]
       }
@@ -9654,17 +8268,13 @@
           {
             "name": "Stone",
             "count": 150
-          },
-          {
-            "name": "Proxy License",
-            "count": 1
           }
         ]
       }
     ]
   },
   {
-    "name": "Armored Proxy Walker Legs (1 of 2)",
+    "name": "Armored Proxy Walker Legs (1 of 4)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9675,7 +8285,7 @@
           },
           {
             "name": "Wood Shaft",
-            "count": 436
+            "count": 93
           },
           {
             "name": "Ceramic Shard",
@@ -9690,7 +8300,7 @@
     ]
   },
   {
-    "name": "Heavy Proxy Walker Legs (1 of 2)",
+    "name": "Heavy Proxy Walker Legs (1 of 4)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9712,7 +8322,7 @@
     ]
   },
   {
-    "name": "Proxy Walker Legs (1 of 2)",
+    "name": "Proxy Walker Legs (1 of 4)",
     "category": "walkers/proxy/parts/legs",
     "crafting": [
       {
@@ -9768,7 +8378,7 @@
     ]
   },
   {
-    "name": "Armored Schmetterling Walker Legs (1 of 2)",
+    "name": "Armored Schmetterling Walker Legs (1 of 4)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9794,7 +8404,7 @@
     ]
   },
   {
-    "name": "Heavy Schmetterling Walker Legs (1 of 2)",
+    "name": "Heavy Schmetterling Walker Legs (1 of 4)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9816,7 +8426,7 @@
     ]
   },
   {
-    "name": "Schmetterling Walker Legs (1 of 2)",
+    "name": "Schmetterling Walker Legs (1 of 4)",
     "category": "walkers/schmetterling/parts/legs",
     "crafting": [
       {
@@ -9844,16 +8454,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 180
+            "name": "Wood Shaft",
+            "count": 140
           },
           {
-            "name": "Worm Silk",
-            "count": 105
+            "name": "Nomad Cloth",
+            "count": 16
           },
           {
-            "name": "Worm Scale",
-            "count": 5
+            "name": "Hide",
+            "count": 30
           }
         ]
       }
@@ -9888,16 +8498,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 140
+            "name": "Reinforced Plank",
+            "count": 180
           },
           {
-            "name": "Nomad Cloth",
-            "count": 16
+            "name": "Worm Silk",
+            "count": 105
           },
           {
-            "name": "Hide",
-            "count": 30
+            "name": "Worm Scale",
+            "count": 5
           }
         ]
       }
@@ -9920,498 +8530,6 @@
           {
             "name": "Nomad Cloth",
             "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Cargo - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Gear - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 20
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Mobility - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 50
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 75
-          },
-          {
-            "name": "Earth Wax",
-            "count": 25
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Torque - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 163
-          },
-          {
-            "name": "Wood",
-            "count": 150
-          },
-          {
-            "name": "Rope",
-            "count": 30
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Water - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 25
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Hide",
-            "count": 38
-          },
-          {
-            "name": "Wood",
-            "count": 38
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 30
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 88
-          },
-          {
-            "name": "Stone",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Earth Wax",
-            "count": 100
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 100
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Earth Wax",
-            "count": 200
-          },
-          {
-            "name": "Bone Glue",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 75
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 88
-          },
-          {
-            "name": "Rope",
-            "count": 63
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Water - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Hide",
-            "count": 113
-          },
-          {
-            "name": "Wood",
-            "count": 213
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 88
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 70
-          },
-          {
-            "name": "Bone Glue",
-            "count": 30
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 150
-          },
-          {
-            "name": "Worm Silk",
-            "count": 63
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 88
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 275
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 35
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 65
-          },
-          {
-            "name": "Tar",
-            "count": 100
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 95
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 25
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 125
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 300
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Schmetterling Walker Upgrade - Water - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 20
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 63
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 200
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 75
-          },
-          {
-            "name": "Bone Glue",
-            "count": 38
           }
         ]
       }
@@ -10768,342 +8886,6 @@
     ]
   },
   {
-    "name": "Spider Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 45
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 4
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 12
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 35
-          },
-          {
-            "name": "Stone",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 10
-          },
-          {
-            "name": "Earth Wax",
-            "count": 40
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 4
-          },
-          {
-            "name": "Earth Wax",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 30
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 35
-          },
-          {
-            "name": "Rope",
-            "count": 25
-          },
-          {
-            "name": "Wood",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Water - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 20
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 45
-          },
-          {
-            "name": "Wood",
-            "count": 85
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 35
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 28
-          },
-          {
-            "name": "Bone Glue",
-            "count": 12
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 60
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 10
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 35
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 110
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 14
-          },
-          {
-            "name": "Worm Silk",
-            "count": 20
-          },
-          {
-            "name": "Bone Glue",
-            "count": 26
-          },
-          {
-            "name": "Tar",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 15
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 120
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Spider Walker Upgrade - Water - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 8
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 30
-          },
-          {
-            "name": "Bone Glue",
-            "count": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Stiletto Walker Body",
     "category": "walkers/stiletto",
     "crafting": [
@@ -11134,7 +8916,7 @@
     ]
   },
   {
-    "name": "Stiletto Walker Legs (1 of 2)",
+    "name": "Stiletto Walker Legs (1 of 4)",
     "category": "walkers/stiletto/parts/legs",
     "crafting": [
       {
@@ -11370,342 +9152,6 @@
     ]
   },
   {
-    "name": "Stiletto Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 20
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 56
-          },
-          {
-            "name": "Stone",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 16
-          },
-          {
-            "name": "Earth Wax",
-            "count": 64
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 64
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 7
-          },
-          {
-            "name": "Earth Wax",
-            "count": 128
-          },
-          {
-            "name": "Bone Glue",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 48
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 56
-          },
-          {
-            "name": "Rope",
-            "count": 40
-          },
-          {
-            "name": "Wood",
-            "count": 128
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Water - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 32
-          },
-          {
-            "name": "Hide",
-            "count": 72
-          },
-          {
-            "name": "Wood",
-            "count": 136
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 56
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 45
-          },
-          {
-            "name": "Bone Glue",
-            "count": 20
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 96
-          },
-          {
-            "name": "Worm Silk",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 16
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 56
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 32
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 176
-          },
-          {
-            "name": "Worm Silk",
-            "count": 40
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 23
-          },
-          {
-            "name": "Worm Silk",
-            "count": 32
-          },
-          {
-            "name": "Bone Glue",
-            "count": 42
-          },
-          {
-            "name": "Tar",
-            "count": 64
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 24
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 61
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 16
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 80
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 192
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Stiletto Walker Upgrade - Water - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 13
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 40
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 128
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 48
-          },
-          {
-            "name": "Bone Glue",
-            "count": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Titan Walker Body",
     "category": "walkers/titan",
     "crafting": [
@@ -11714,10 +9160,6 @@
           {
             "name": "Wood",
             "count": 3030
-          },
-          {
-            "name": "Fiber",
-            "count": 625
           },
           {
             "name": "Stone",
@@ -11736,7 +9178,7 @@
     ]
   },
   {
-    "name": "Armored Titan Walker Legs (1 of 2)",
+    "name": "Armored Titan Walker Legs (1 of 4)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11762,7 +9204,7 @@
     ]
   },
   {
-    "name": "Heavy Titan Walker Legs (1 of 2)",
+    "name": "Heavy Titan Walker Legs (1 of 4)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11784,7 +9226,7 @@
     ]
   },
   {
-    "name": "Titan Walker Legs (1 of 2)",
+    "name": "Titan Walker Legs (1 of 4)",
     "category": "walkers/titan/parts/legs",
     "crafting": [
       {
@@ -11812,16 +9254,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 220
+            "name": "Wood Shaft",
+            "count": 140
           },
           {
-            "name": "Worm Silk",
-            "count": 135
+            "name": "Nomad Cloth",
+            "count": 16
           },
           {
-            "name": "Worm Scale",
-            "count": 6
+            "name": "Hide",
+            "count": 30
           }
         ]
       }
@@ -11856,16 +9298,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 140
+            "name": "Reinforced Plank",
+            "count": 220
           },
           {
-            "name": "Nomad Cloth",
-            "count": 16
+            "name": "Worm Silk",
+            "count": 135
           },
           {
-            "name": "Hide",
-            "count": 30
+            "name": "Worm Scale",
+            "count": 6
           }
         ]
       }
@@ -11888,498 +9330,6 @@
           {
             "name": "Nomad Cloth",
             "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Cargo - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Gear - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 20
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Mobility - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 50
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 75
-          },
-          {
-            "name": "Earth Wax",
-            "count": 25
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Torque - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 163
-          },
-          {
-            "name": "Wood",
-            "count": 150
-          },
-          {
-            "name": "Rope",
-            "count": 30
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Water - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 25
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Hide",
-            "count": 38
-          },
-          {
-            "name": "Wood",
-            "count": 38
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 30
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 88
-          },
-          {
-            "name": "Stone",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Earth Wax",
-            "count": 100
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 100
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Earth Wax",
-            "count": 200
-          },
-          {
-            "name": "Bone Glue",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 75
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 88
-          },
-          {
-            "name": "Rope",
-            "count": 63
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Water - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Hide",
-            "count": 113
-          },
-          {
-            "name": "Wood",
-            "count": 213
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 88
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 70
-          },
-          {
-            "name": "Bone Glue",
-            "count": 30
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 150
-          },
-          {
-            "name": "Worm Silk",
-            "count": 63
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 88
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 275
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 35
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 65
-          },
-          {
-            "name": "Tar",
-            "count": 100
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 95
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 25
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 125
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 300
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Titan Walker Upgrade - Water - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 20
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 63
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 200
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 75
-          },
-          {
-            "name": "Bone Glue",
-            "count": 38
           }
         ]
       }
@@ -12416,7 +9366,7 @@
     ]
   },
   {
-    "name": "Armored Toboggan Walker Legs (1 of 2)",
+    "name": "Armored Toboggan Walker Legs (1 of 4)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12442,7 +9392,7 @@
     ]
   },
   {
-    "name": "Heavy Toboggan Walker Legs (1 of 2)",
+    "name": "Heavy Toboggan Walker Legs (1 of 4)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12464,7 +9414,7 @@
     ]
   },
   {
-    "name": "Toboggan Walker Legs (1 of 2)",
+    "name": "Toboggan Walker Legs (1 of 4)",
     "category": "walkers/toboggan/parts/legs",
     "crafting": [
       {
@@ -12726,192 +9676,6 @@
     ]
   },
   {
-    "name": "Toboggan Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 20
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 56
-          },
-          {
-            "name": "Stone",
-            "count": 80
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 16
-          },
-          {
-            "name": "Earth Wax",
-            "count": 64
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 64
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 7
-          },
-          {
-            "name": "Earth Wax",
-            "count": 128
-          },
-          {
-            "name": "Bone Glue",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 48
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 56
-          },
-          {
-            "name": "Rope",
-            "count": 40
-          },
-          {
-            "name": "Wood",
-            "count": 128
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Water - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 32
-          },
-          {
-            "name": "Hide",
-            "count": 72
-          },
-          {
-            "name": "Wood",
-            "count": 136
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 56
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Toboggan Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
     "crafting": [
@@ -12936,6 +9700,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/toboggan/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -13062,42 +9856,6 @@
     ]
   },
   {
-    "name": "Long Sawblade",
-    "category": "walkers/tools",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 280
-          },
-          {
-            "name": "Wood",
-            "count": 2000
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Sawblade Tool",
-    "category": "walkers/tools",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 40
-          },
-          {
-            "name": "Bone Splinter",
-            "count": 50
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Steering Levers",
     "category": "walkers/tools",
     "crafting": [
@@ -13110,28 +9868,6 @@
           {
             "name": "Rope",
             "count": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tool Pod",
-    "category": "walkers/tools",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 400
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 10
-          },
-          {
-            "name": "Bone Splinter",
-            "count": 20
           }
         ]
       }
@@ -13198,7 +9934,7 @@
     ]
   },
   {
-    "name": "Armored Tusker Walker Legs (1 of 2)",
+    "name": "Armored Tusker Walker Legs (1 of 4)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13224,7 +9960,7 @@
     ]
   },
   {
-    "name": "Heavy Tusker Walker Legs (1 of 2)",
+    "name": "Heavy Tusker Walker Legs (1 of 4)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13246,7 +9982,7 @@
     ]
   },
   {
-    "name": "Tusker Walker Legs (1 of 2)",
+    "name": "Tusker Walker Legs (1 of 4)",
     "category": "walkers/tusker/parts/legs",
     "crafting": [
       {
@@ -13274,16 +10010,16 @@
       {
         "ingredients": [
           {
-            "name": "Reinforced Plank",
-            "count": 150
+            "name": "Wood Shaft",
+            "count": 110
           },
           {
-            "name": "Worm Scale",
-            "count": 4
+            "name": "Nomad Cloth",
+            "count": 12
           },
           {
-            "name": "Worm Silk",
-            "count": 100
+            "name": "Hide",
+            "count": 22
           }
         ]
       }
@@ -13318,16 +10054,16 @@
       {
         "ingredients": [
           {
-            "name": "Wood Shaft",
-            "count": 110
+            "name": "Wood",
+            "count": 1680
           },
           {
             "name": "Nomad Cloth",
-            "count": 12
+            "count": 19
           },
           {
-            "name": "Hide",
-            "count": 22
+            "name": "Worm Silk",
+            "count": 60
           }
         ]
       }
@@ -13350,498 +10086,6 @@
           {
             "name": "Nomad Cloth",
             "count": 11
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Cargo - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Gear - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 20
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          },
-          {
-            "name": "Stone",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Mobility - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 50
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 75
-          },
-          {
-            "name": "Earth Wax",
-            "count": 25
-          },
-          {
-            "name": "Wood",
-            "count": 75
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Torque - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 38
-          },
-          {
-            "name": "Fiber",
-            "count": 163
-          },
-          {
-            "name": "Wood",
-            "count": 150
-          },
-          {
-            "name": "Rope",
-            "count": 30
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Water - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 25
-          },
-          {
-            "name": "Fiber",
-            "count": 250
-          },
-          {
-            "name": "Hide",
-            "count": 38
-          },
-          {
-            "name": "Wood",
-            "count": 38
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Cargo - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 30
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 88
-          },
-          {
-            "name": "Stone",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Gear - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 63
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 25
-          },
-          {
-            "name": "Earth Wax",
-            "count": 100
-          },
-          {
-            "name": "Wood",
-            "count": 188
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Mobility - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 100
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 10
-          },
-          {
-            "name": "Earth Wax",
-            "count": 200
-          },
-          {
-            "name": "Bone Glue",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Torque - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 75
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 88
-          },
-          {
-            "name": "Rope",
-            "count": 63
-          },
-          {
-            "name": "Wood",
-            "count": 200
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Water - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 50
-          },
-          {
-            "name": "Hide",
-            "count": 113
-          },
-          {
-            "name": "Wood",
-            "count": 213
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 88
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Cargo - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 70
-          },
-          {
-            "name": "Bone Glue",
-            "count": 30
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 150
-          },
-          {
-            "name": "Worm Silk",
-            "count": 63
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Gear - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 88
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 275
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Mobility - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 35
-          },
-          {
-            "name": "Worm Silk",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 65
-          },
-          {
-            "name": "Tar",
-            "count": 100
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Torque - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 38
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 95
-          },
-          {
-            "name": "Reinforced Plank",
-            "count": 25
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 125
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 300
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tusker Walker Upgrade - Water - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 20
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 63
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 200
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 75
-          },
-          {
-            "name": "Bone Glue",
-            "count": 38
           }
         ]
       }
