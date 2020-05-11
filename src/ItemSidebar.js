@@ -1,13 +1,15 @@
-import React, { useState, useEffect } from 'react'
-import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
-import escapeRegExp from 'lodash.escaperegexp'
-import useDebounce from './useDebounce'
-import { items as itemJson } from './Items'
-import Craftable from './Craftable'
 import './ItemSidebar.css'
 
+import escapeRegExp from 'lodash.escaperegexp'
+import React, { useEffect, useState } from 'react'
+import { Button, Input, List, Segment, Sidebar } from 'semantic-ui-react'
+
+import Craftable from './Craftable'
+import { items as itemJson } from './Items'
+import useDebounce from './useDebounce'
+
 export default function ItemSidebar({children, dispatch}) {
-  const craftables = itemJson.filter(item => item.crafting && item.crafting.length > 0)
+  const craftables = itemJson.filter(item => item.recipes && item.recipes.length > 0)
   // Search states
   const [searchResult, setSearchResult] = useState(craftables)
   const [searchValue, setSearchValue] = useState('')

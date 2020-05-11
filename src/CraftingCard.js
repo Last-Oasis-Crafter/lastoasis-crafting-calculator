@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Accordion, Icon, Image } from 'semantic-ui-react'
+
 import EditableNumberText from './EditableNumberText';
 import Recipe from './Recipe';
 
@@ -10,8 +11,8 @@ export default function CraftingCard({item, dispatch, index}) {
 
   // set recipes
   useEffect(() => {
-    if(item.crafting && item.crafting.length > 0) {
-      setRecipes(item.crafting)
+    if(item.recipes && item.recipes.length > 0) {
+      setRecipes(item.recipes)
     }
   }, [item])
   

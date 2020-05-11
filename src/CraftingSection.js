@@ -1,17 +1,18 @@
 import React from 'react'
-import { Header, Container } from 'semantic-ui-react'
+import { Container, Header } from 'semantic-ui-react'
+
 import CraftingPlan from './CraftingPlan'
 import CraftingRequirements from './CraftingRequirements'
 
-export default function CraftingSection({crafting, dispatch}) {
+export default function CraftingSection({recipes, dispatch}) {
   return (
     <Container textAlign='left' style={{paddingTop: '30px'}}>
-    {crafting.length === 0 ? 
+    {recipes.length === 0 ? 
       <Header size='huge'>Add recipes to craft...</Header>
       :
       <React.Fragment>
-        <CraftingPlan items={crafting} dispatch={dispatch} />
-        <CraftingRequirements items={crafting} />
+        <CraftingPlan items={recipes} dispatch={dispatch} />
+        <CraftingRequirements items={recipes} />
       </React.Fragment>
     }
     </Container>
