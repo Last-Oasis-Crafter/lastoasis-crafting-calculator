@@ -1,36 +1,41 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
 import useDebounce from './useDebounce'
-import { items as itemJson } from './Items'
 import Craftable from './Craftable'
 import './ItemSidebar.css'
+import useItems from './hooks/useItems'
 
 export default function ItemSidebar({children, dispatch}) {
-  const craftables = itemJson.filter(item => item.crafting && item.crafting.length > 0)
   // Search states
-  const [searchResult, setSearchResult] = useState(craftables)
+  const [{ items, isLoading }, fetchItems] = useItems() 
+  const craftables = useMemo(() => items.filter(item => item.crafting && item.crafting.length > 0), [items])
   const [searchValue, setSearchValue] = useState('')
   const [isSearchLoading, setSearchLoading] = useState(false)
   const [sidebarOpen, setSidebarOpen] = useState(true)
   const [onlyShowCraftables, setOnlyShowCraftables] = useState(true)
+  
+  const debouncedSearchValue = useDebounce(searchValue, 400)
 
-  const debouncedSearchValue = useDebounce(searchValue, 100)
-
-  useEffect(() => {
+  const searchResult = useMemo(() => {
     setSearchLoading(true)
-    let results = onlyShowCraftables ? craftables :  itemJson
+    let results = onlyShowCraftables ? craftables :  items
+
     if(searchValue) {
 
       const regExTerms = escapeRegExp(searchValue).split(' ').map(term => new RegExp(term, 'i'))
       const isMatch = (result) => regExTerms.reduce((prev, term) => prev && term.test(result.name + result.category), true)
       results = results.filter(isMatch)
     }
-
+    
     setSearchLoading(false)
-    setSearchResult(results)
-  }, [debouncedSearchValue, onlyShowCraftables])
-
+    return results
+  }, [debouncedSearchValue, onlyShowCraftables, items])
+  
+  useEffect(() => {
+    fetchItems()
+  }, [])
+  
   return (
   <Sidebar.Pushable
     style={{
@@ -78,7 +83,7 @@ export default function ItemSidebar({children, dispatch}) {
           icon='search'
           placeholder='Search...'
           onChange={e => setSearchValue(e.target.value)}
-          loading={isSearchLoading}
+          loading={isSearchLoading || isLoading}
           />
         <List inverted divided verticalAlign='middle'>
         {searchResult.map(item => (
