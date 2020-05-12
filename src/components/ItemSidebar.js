@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useMemo } from 'react'
 import { Sidebar, Segment, List, Input, Button } from 'semantic-ui-react'
 import escapeRegExp from 'lodash.escaperegexp'
-import useDebounce from './useDebounce'
+import useDebounce from '../hooks/useDebounce'
 import Craftable from './Craftable'
 import './ItemSidebar.css'
-import useItems from './hooks/useItems'
+import useItems from '../hooks/useItems'
 
 export default function ItemSidebar({children, dispatch}) {
   // Search states

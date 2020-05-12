@@ -3,9 +3,9 @@ import ReactGA from 'react-ga';
 
 
 import './App.css';
-import ItemSidebar from './ItemSidebar'
-import CraftingReducer from './CraftingReducer';
-import CraftingSection from './CraftingSection';
+import ItemSidebar from './components/ItemSidebar'
+import CraftingReducer from './reducers/CraftingReducer';
+import CraftingSection from './components/CraftingSection';
 
 const trackingId = "UA-63206624-2";
 ReactGA.initialize(trackingId);
