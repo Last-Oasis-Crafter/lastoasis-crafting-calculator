@@ -2,7 +2,7 @@
   {
     "name": "Barrier Base",
     "category": "buildings/construction/barrier",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -24,7 +24,7 @@
   {
     "name": "Barrier Gate",
     "category": "buildings/construction/barrier",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -46,7 +46,7 @@
   {
     "name": "Barrier Plank",
     "category": "buildings/construction/barrier",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -68,7 +68,7 @@
   {
     "name": "Bed",
     "category": "buildings/construction/bed",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -90,7 +90,7 @@
   {
     "name": "Hammock",
     "category": "buildings/construction/bed",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -116,7 +116,7 @@
   {
     "name": "Sand Bed",
     "category": "buildings/construction/bed",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -134,7 +134,7 @@
   {
     "name": "Cement Battlements",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -160,7 +160,7 @@
   {
     "name": "Cement Corner",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -186,7 +186,7 @@
   {
     "name": "Cement Door",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -212,7 +212,7 @@
   {
     "name": "Cement Foundation",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -238,7 +238,7 @@
   {
     "name": "Cement Roof",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -264,7 +264,7 @@
   {
     "name": "Cement Wall 1",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -290,7 +290,7 @@
   {
     "name": "Cement Wall 2",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -316,7 +316,7 @@
   {
     "name": "Cement Wall With Window 1",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -342,7 +342,7 @@
   {
     "name": "Cement Wall With Window 2",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -368,7 +368,7 @@
   {
     "name": "Cement Wall With Windows 1",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -394,7 +394,7 @@
   {
     "name": "Cement Wall With Windows 2",
     "category": "buildings/construction/cement",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -420,7 +420,7 @@
   {
     "name": "Clay Battlement",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -442,7 +442,7 @@
   {
     "name": "Clay Corner",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -464,7 +464,7 @@
   {
     "name": "Clay Door",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -486,7 +486,7 @@
   {
     "name": "Clay Foundation",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -508,7 +508,7 @@
   {
     "name": "Clay Roof",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -530,7 +530,7 @@
   {
     "name": "Clay Wall",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -552,7 +552,7 @@
   {
     "name": "Clay Wall with Window",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -574,7 +574,7 @@
   {
     "name": "Clay Wall with Windows",
     "category": "buildings/construction/clay",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -596,7 +596,7 @@
   {
     "name": "Ammo Chest",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -618,7 +618,7 @@
   {
     "name": "Gigantic Chest",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -640,7 +640,7 @@
   {
     "name": "Large Chest",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -662,7 +662,7 @@
   {
     "name": "Large Water Container",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -688,7 +688,7 @@
   {
     "name": "Medium Chest",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -710,7 +710,7 @@
   {
     "name": "Medium Liquid Container",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -736,7 +736,7 @@
   {
     "name": "Small Water Bag",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -758,7 +758,7 @@
   {
     "name": "SmallChest",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -780,7 +780,7 @@
   {
     "name": "Water Pitcher",
     "category": "buildings/construction/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -794,7 +794,7 @@
   {
     "name": "Clan Flag",
     "category": "buildings/construction/decorations",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -812,7 +812,7 @@
   {
     "name": "Clan Flag Hanging",
     "category": "buildings/construction/decorations",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -830,7 +830,7 @@
   {
     "name": "Heavy Wood Battlements",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -852,7 +852,7 @@
   {
     "name": "Heavy Wood Corner",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -874,7 +874,7 @@
   {
     "name": "Heavy Wood Door",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -896,7 +896,7 @@
   {
     "name": "Heavy Wood Double Slit Wall",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -918,7 +918,7 @@
   {
     "name": "Heavy Wood Foundation",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -940,7 +940,7 @@
   {
     "name": "Heavy Wood Roof",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -962,7 +962,7 @@
   {
     "name": "Heavy Wood Slit Wall",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -984,7 +984,7 @@
   {
     "name": "Heavy Wood Wall 1",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1006,7 +1006,7 @@
   {
     "name": "Heavy Wood Wall 2",
     "category": "buildings/construction/heavy wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1028,7 +1028,7 @@
   {
     "name": "Light Wood Door",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1046,7 +1046,7 @@
   {
     "name": "Light Wood Foundation",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1064,7 +1064,7 @@
   {
     "name": "Light Wood Guard Rail",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1082,7 +1082,7 @@
   {
     "name": "Light Wood Roof",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1100,7 +1100,7 @@
   {
     "name": "Light Wood Stairs",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1118,7 +1118,7 @@
   {
     "name": "Light Wood Wooden Battlements",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1136,7 +1136,7 @@
   {
     "name": "Light Wood Wooden Corner",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1154,7 +1154,7 @@
   {
     "name": "Light Wood Wooden Double Slit Wall",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1172,7 +1172,7 @@
   {
     "name": "Light Wood Wooden Slit Wall",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1190,7 +1190,7 @@
   {
     "name": "Light Wood Wooden Wall",
     "category": "buildings/construction/light wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1208,7 +1208,7 @@
   {
     "name": "Medium Wood Battlements",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1230,7 +1230,7 @@
   {
     "name": "Medium Wood Door",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1252,7 +1252,7 @@
   {
     "name": "Medium Wood Double Slit Wall",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1274,7 +1274,7 @@
   {
     "name": "Medium Wood Foundation",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1296,7 +1296,7 @@
   {
     "name": "Medium Wood Roof",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1318,7 +1318,7 @@
   {
     "name": "Medium Wood Slit Wall",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1340,7 +1340,7 @@
   {
     "name": "Medium Wood Wall",
     "category": "buildings/construction/medium wood",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1362,7 +1362,7 @@
   {
     "name": "Cloth Door",
     "category": "buildings/construction/sand bag",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1380,7 +1380,7 @@
   {
     "name": "Sandbag Roof",
     "category": "buildings/construction/sand bag",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1398,7 +1398,7 @@
   {
     "name": "Sandbag Wall",
     "category": "buildings/construction/sand bag",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1416,7 +1416,7 @@
   {
     "name": "Sandbag Wall Window",
     "category": "buildings/construction/sand bag",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1434,7 +1434,7 @@
   {
     "name": "Crane",
     "category": "buildings/construction/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1460,7 +1460,7 @@
   {
     "name": "Hose Station",
     "category": "buildings/construction/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1486,7 +1486,7 @@
   {
     "name": "Rangefinder",
     "category": "buildings/construction/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1508,7 +1508,7 @@
   {
     "name": "Ballista",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1534,7 +1534,7 @@
   {
     "name": "Catapult",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1564,7 +1564,7 @@
   {
     "name": "Gun Pod",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1586,7 +1586,7 @@
   {
     "name": "Net Thrower",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1608,7 +1608,7 @@
   {
     "name": "Remote Ballista",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1634,7 +1634,7 @@
   {
     "name": "Repeater",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1656,7 +1656,7 @@
   {
     "name": "Scattershot Gun",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1682,7 +1682,7 @@
   {
     "name": "Slingshot",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1708,7 +1708,7 @@
   {
     "name": "Small Ballista",
     "category": "buildings/construction/weapons/ranged",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1726,7 +1726,7 @@
   {
     "name": "Gun Pod Plating",
     "category": "buildings/construction/weapons/ranged/armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1748,7 +1748,7 @@
   {
     "name": "Gun Pod Shell",
     "category": "buildings/construction/weapons/ranged/armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1770,7 +1770,7 @@
   {
     "name": "Advanced Fiberworking Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1792,7 +1792,7 @@
   {
     "name": "Advanced Furnace",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1818,7 +1818,7 @@
   {
     "name": "Advanced Woodworking Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1848,7 +1848,7 @@
   {
     "name": "Artificer Woodworking Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1878,7 +1878,7 @@
   {
     "name": "Camp Fire",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1900,7 +1900,7 @@
   {
     "name": "Fiberworking Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1922,7 +1922,7 @@
   {
     "name": "Furnace",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1952,7 +1952,7 @@
   {
     "name": "Lumbermill",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1978,7 +1978,7 @@
   {
     "name": "Purification Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -1996,7 +1996,7 @@
   {
     "name": "Quarry",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2022,7 +2022,7 @@
   {
     "name": "Soil Excavator",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2048,7 +2048,7 @@
   {
     "name": "Stomping Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2074,7 +2074,7 @@
   {
     "name": "Torque Windmill",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2100,7 +2100,7 @@
   {
     "name": "Water Condenser",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2122,7 +2122,7 @@
   {
     "name": "Woodworking Station",
     "category": "crafting/station",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2144,7 +2144,7 @@
   {
     "name": "Cauterizing Station",
     "category": "crafting/station/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2166,7 +2166,7 @@
   {
     "name": "Defensive Tower",
     "category": "items",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2192,7 +2192,7 @@
   {
     "name": "Rupu Sling",
     "category": "items",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2218,7 +2218,7 @@
   {
     "name": "Bone Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2240,7 +2240,7 @@
   {
     "name": "Bone Harpoon",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2262,7 +2262,7 @@
   {
     "name": "Ceramic-Tipped Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2284,7 +2284,7 @@
   {
     "name": "Ceramic-Tipped Harpoon",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2306,7 +2306,7 @@
   {
     "name": "Fire Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2332,7 +2332,7 @@
   {
     "name": "Flint Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2350,7 +2350,7 @@
   {
     "name": "Flint Harpoon",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2372,7 +2372,7 @@
   {
     "name": "Hellfire Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2398,7 +2398,7 @@
   {
     "name": "Iron-Tipped Bolt",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2424,7 +2424,7 @@
   {
     "name": "Iron-Tipped Harpoon",
     "category": "items/ammo/ammunition/projectiles/ballista",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2446,7 +2446,7 @@
   {
     "name": "Catapult Boulder",
     "category": "items/ammo/ammunition/projectiles/catapult",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2468,7 +2468,7 @@
   {
     "name": "Hullbreaker Rock",
     "category": "items/ammo/ammunition/projectiles/catapult",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2490,7 +2490,7 @@
   {
     "name": "Net",
     "category": "items/ammo/ammunition/projectiles/netthrower",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2512,7 +2512,7 @@
   {
     "name": "Dart",
     "category": "items/ammo/ammunition/projectiles/repeater",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2534,7 +2534,7 @@
   {
     "name": "Hullbreaker Scattershot",
     "category": "items/ammo/ammunition/projectiles/scattershot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2560,7 +2560,7 @@
   {
     "name": "Scattershot",
     "category": "items/ammo/ammunition/projectiles/scattershot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2578,7 +2578,7 @@
   {
     "name": "Choking Cloud",
     "category": "items/ammo/ammunition/projectiles/slingshot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2601,7 +2601,7 @@
   {
     "name": "Green Death Bomb",
     "category": "items/ammo/ammunition/projectiles/slingshot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2624,7 +2624,7 @@
   {
     "name": "Rupu Rock",
     "category": "items/ammo/ammunition/projectiles/slingshot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2642,7 +2642,7 @@
   {
     "name": "Small Boulder",
     "category": "items/ammo/ammunition/projectiles/slingshot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2660,7 +2660,7 @@
   {
     "name": "Sulfur Bomb",
     "category": "items/ammo/ammunition/projectiles/slingshot",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2683,7 +2683,7 @@
   {
     "name": "Baskwood Armor",
     "category": "items/armors/baskwood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2705,7 +2705,7 @@
   {
     "name": "Baskwood Boots",
     "category": "items/armors/baskwood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2731,7 +2731,7 @@
   {
     "name": "Baskwood Bracers",
     "category": "items/armors/baskwood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2757,7 +2757,7 @@
   {
     "name": "Carapace Armor",
     "category": "items/armors/carapace armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2783,7 +2783,7 @@
   {
     "name": "Carapace Boots",
     "category": "items/armors/carapace armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2809,7 +2809,7 @@
   {
     "name": "Carapace Gauntlets",
     "category": "items/armors/carapace armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2835,7 +2835,7 @@
   {
     "name": "Cloak",
     "category": "items/armors/cloak",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2861,7 +2861,7 @@
   {
     "name": "Feather Boots",
     "category": "items/armors/feather boots",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2879,7 +2879,7 @@
   {
     "name": "Fiber Arm Wraps",
     "category": "items/armors/fiber armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2897,7 +2897,7 @@
   {
     "name": "Fiber Headwrap",
     "category": "items/armors/fiber armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2911,7 +2911,7 @@
   {
     "name": "Fiber Sandals",
     "category": "items/armors/fiber armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2929,7 +2929,7 @@
   {
     "name": "Fiber Shirt And Trousers",
     "category": "items/armors/fiber armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2943,7 +2943,7 @@
   {
     "name": "Brittle Bone Armor",
     "category": "items/armors/forester's armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2961,7 +2961,7 @@
   {
     "name": "Forester's Armor",
     "category": "items/armors/forester's armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -2983,7 +2983,7 @@
   {
     "name": "Forester's Sandals",
     "category": "items/armors/forester's armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3005,7 +3005,7 @@
   {
     "name": "Forester's Sleeves",
     "category": "items/armors/forester's armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3027,7 +3027,7 @@
   {
     "name": "Iron Studded Armor",
     "category": "items/armors/iron studded armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3053,7 +3053,7 @@
   {
     "name": "Iron Studded Boots",
     "category": "items/armors/iron studded armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3079,7 +3079,7 @@
   {
     "name": "Iron Studded Gauntlets",
     "category": "items/armors/iron studded armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3105,7 +3105,7 @@
   {
     "name": "Redwood Wood Armor",
     "category": "items/armors/redwood wood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3131,7 +3131,7 @@
   {
     "name": "Redwood Wood Boots",
     "category": "items/armors/redwood wood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3157,7 +3157,7 @@
   {
     "name": "Redwood Wood Bracers",
     "category": "items/armors/redwood wood armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3183,7 +3183,7 @@
   {
     "name": "Cloaked Rupu Fur Armor",
     "category": "items/armors/rupu fur armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3205,7 +3205,7 @@
   {
     "name": "Rupu Fur Armor",
     "category": "items/armors/rupu fur armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3223,7 +3223,7 @@
   {
     "name": "Rupu Fur Sandals",
     "category": "items/armors/rupu fur armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3241,7 +3241,7 @@
   {
     "name": "Rupu Fur Sleeves",
     "category": "items/armors/rupu fur armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3259,7 +3259,7 @@
   {
     "name": "Triple Stitch Armor",
     "category": "items/armors/triple stitch armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3277,7 +3277,7 @@
   {
     "name": "Triple Stitch Boots",
     "category": "items/armors/triple stitch armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3299,7 +3299,7 @@
   {
     "name": "Triple Stitch Bracers",
     "category": "items/armors/triple stitch armor",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3321,7 +3321,7 @@
   {
     "name": "Kite",
     "category": "items/equipment",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3339,7 +3339,7 @@
   {
     "name": "Durable Water Sack",
     "category": "items/gear/backpacks/belt",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3357,7 +3357,7 @@
   {
     "name": "Heavy Backpack",
     "category": "items/gear/backpacks/belt",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3375,7 +3375,7 @@
   {
     "name": "Light Backpack",
     "category": "items/gear/backpacks/belt",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3393,7 +3393,7 @@
   {
     "name": "Split Durable Water Sack",
     "category": "items/gear/backpacks/belt",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3419,7 +3419,7 @@
   {
     "name": "Medium Backpack",
     "category": "items/gear/backpacks/belts",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3441,7 +3441,7 @@
   {
     "name": "Torque Backpack",
     "category": "items/gear/backpacks/belts",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3467,7 +3467,7 @@
   {
     "name": "Water Circulator",
     "category": "items/gear/backpacks/belts",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3489,7 +3489,7 @@
   {
     "name": "Wingsuit",
     "category": "items/gear/belts",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3507,7 +3507,7 @@
   {
     "name": "Bone Bottle",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3529,7 +3529,7 @@
   {
     "name": "Ceramic Flask",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3551,7 +3551,7 @@
   {
     "name": "Improvised Bottle",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3573,7 +3573,7 @@
   {
     "name": "Makeshift Bottle",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3591,7 +3591,7 @@
   {
     "name": "Split Bone Bottle",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3613,7 +3613,7 @@
   {
     "name": "Split Ceramic Flask",
     "category": "items/gear/bottles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3635,7 +3635,7 @@
   {
     "name": "Foraging Pouch",
     "category": "items/gear/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3649,7 +3649,7 @@
   {
     "name": "Large Gathering Pouch",
     "category": "items/gear/container",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3667,7 +3667,7 @@
   {
     "name": "Beltless Grappling Hook",
     "category": "items/gear/grappling/hook",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3693,7 +3693,7 @@
   {
     "name": "Fast Grappling Hook",
     "category": "items/gear/grappling/hook",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3711,7 +3711,7 @@
   {
     "name": "Long Grappling Hook",
     "category": "items/gear/grappling/hook",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3733,7 +3733,7 @@
   {
     "name": "Repaired Grappling Hook",
     "category": "items/gear/grappling/hook",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3755,7 +3755,7 @@
   {
     "name": "Torque Battery",
     "category": "items/gear/torque/battery",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3777,7 +3777,7 @@
   {
     "name": "Primitive Bandage",
     "category": "items/interactables/bandages",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3791,7 +3791,7 @@
   {
     "name": "Sterile Bandage",
     "category": "items/interactables/bandages",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3809,7 +3809,7 @@
   {
     "name": "Bonebreaker",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3832,7 +3832,7 @@
   {
     "name": "Desert Mule",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3851,7 +3851,7 @@
   {
     "name": "Fury Fumes",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3874,7 +3874,7 @@
   {
     "name": "Jojo Mojo",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3897,7 +3897,7 @@
   {
     "name": "Race Dust",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3924,7 +3924,7 @@
   {
     "name": "Rupu Repellent",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3951,7 +3951,7 @@
   {
     "name": "Sinus Destroyer",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3978,7 +3978,7 @@
   {
     "name": "Vision Powder",
     "category": "items/vitamins",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -3997,7 +3997,7 @@
   {
     "name": "Advanced Pickaxe",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4019,7 +4019,7 @@
   {
     "name": "Beat Stick",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4037,7 +4037,7 @@
   {
     "name": "Blunt Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4055,7 +4055,7 @@
   {
     "name": "Bonespike Sword",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4077,7 +4077,7 @@
   {
     "name": "Bouldercut Battle Axe",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4103,7 +4103,7 @@
   {
     "name": "Ironblade Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4133,7 +4133,7 @@
   {
     "name": "Jaggertooth Club",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4155,7 +4155,7 @@
   {
     "name": "Jaggertooth Maul",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4177,7 +4177,7 @@
   {
     "name": "Javelin",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4199,7 +4199,7 @@
   {
     "name": "Long Bonespike Swordstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4221,7 +4221,7 @@
   {
     "name": "Long Ceramic Hoofmace",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4247,7 +4247,7 @@
   {
     "name": "Master Pickaxe",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4269,7 +4269,7 @@
   {
     "name": "Nibiran Battle Axe",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4295,7 +4295,7 @@
   {
     "name": "Nibiran Curved Dagger",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4321,7 +4321,7 @@
   {
     "name": "Nibiran Decapitator",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4351,7 +4351,7 @@
   {
     "name": "Nibiran Hammer",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4377,7 +4377,7 @@
   {
     "name": "Nibiran Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4407,7 +4407,7 @@
   {
     "name": "Nibiran Warhammer",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4433,7 +4433,7 @@
   {
     "name": "Paddleblade Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4459,7 +4459,7 @@
   {
     "name": "Rawbone Club",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4481,7 +4481,7 @@
   {
     "name": "Rawbone Maul",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4507,7 +4507,7 @@
   {
     "name": "Rawbone Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4529,7 +4529,7 @@
   {
     "name": "Sawtooth Sword",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4551,7 +4551,7 @@
   {
     "name": "Short Ceramic Hoofmace",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4577,7 +4577,7 @@
   {
     "name": "Short Malletblade",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4599,7 +4599,7 @@
   {
     "name": "Singblade",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4625,7 +4625,7 @@
   {
     "name": "Spikebone Club",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4651,7 +4651,7 @@
   {
     "name": "Spikebone Maul",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4673,7 +4673,7 @@
   {
     "name": "Torch",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4695,7 +4695,7 @@
   {
     "name": "Traveller's Staff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4713,7 +4713,7 @@
   {
     "name": "Wyndan Flame Sword",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4739,7 +4739,7 @@
   {
     "name": "Wyndan Hammer",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4765,7 +4765,7 @@
   {
     "name": "Wyndan Sabre",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4791,7 +4791,7 @@
   {
     "name": "Wyndan Warhammer",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4817,7 +4817,7 @@
   {
     "name": "Wyndanblade Quarterstaff",
     "category": "items/weapons",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4839,7 +4839,7 @@
   {
     "name": "Advanced Hatchet",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4865,7 +4865,7 @@
   {
     "name": "Bouldercut Hand Axe",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4891,7 +4891,7 @@
   {
     "name": "Heavy Rawbone Hand Axe",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4913,7 +4913,7 @@
   {
     "name": "Nibiran Hand Axe",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4939,7 +4939,7 @@
   {
     "name": "Rawbone Battle Axe",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4961,7 +4961,7 @@
   {
     "name": "Rawbone Hand Axe",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -4983,7 +4983,7 @@
   {
     "name": "Woodcutter's Hatchet",
     "category": "items/weapons/tools/axes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5001,7 +5001,7 @@
   {
     "name": "Simple Pickaxe",
     "category": "items/weapons/tools/pickaxes",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5023,7 +5023,7 @@
   {
     "name": "Simple Repair Hammer",
     "category": "items/weapons/tools/repair hammer",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5041,7 +5041,7 @@
   {
     "name": "Scythe",
     "category": "items/weapons/tools/sickles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5067,7 +5067,7 @@
   {
     "name": "Simple Sickle",
     "category": "items/weapons/tools/sickles",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5113,7 +5113,7 @@
   {
     "name": "Bone Glue",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5144,7 +5144,7 @@
   {
     "name": "Ceramic Shard",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5160,7 +5160,7 @@
   {
     "name": "Charcoal",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5179,7 +5179,7 @@
   {
     "name": "Clay",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5210,7 +5210,7 @@
   {
     "name": "Earth Wax",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5273,7 +5273,7 @@
   {
     "name": "Fiber Weave",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5292,7 +5292,7 @@
   {
     "name": "Fragment",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5311,7 +5311,7 @@
   {
     "name": "Glass",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5338,7 +5338,7 @@
   {
     "name": "Iron Ingot",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5357,7 +5357,7 @@
   {
     "name": "Liquid Fuel",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5384,7 +5384,7 @@
   {
     "name": "Nomad Cloth",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5428,7 +5428,7 @@
   {
     "name": "Purified Water",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5552,7 +5552,7 @@
   {
     "name": "Reinforced Plank",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5571,7 +5571,7 @@
   {
     "name": "Rope",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5615,7 +5615,7 @@
   {
     "name": "Sand",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5642,7 +5642,7 @@
   {
     "name": "Tablet",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5660,7 +5660,7 @@
   {
     "name": "Tar",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5687,7 +5687,7 @@
   {
     "name": "Wood Shaft",
     "category": "materials",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5714,7 +5714,7 @@
   {
     "name": "Buffalo Walker Body",
     "category": "walkers/buffalo",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5748,7 +5748,7 @@
   {
     "name": "Buffalo Walker Legs (1 of 2)",
     "category": "walkers/buffalo/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5770,7 +5770,7 @@
   {
     "name": "Buffalo Walker Medium Wings (1 of 2)",
     "category": "walkers/buffalo/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5792,7 +5792,7 @@
   {
     "name": "Buffalo Walker Small Wings (1 of 2)",
     "category": "walkers/buffalo/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5814,7 +5814,7 @@
   {
     "name": "Buffalo Walker Wings (1 of 2)",
     "category": "walkers/buffalo/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5832,7 +5832,7 @@
   {
     "name": "Buffalo Walker Upgrade - Armor - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5858,7 +5858,7 @@
   {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5884,7 +5884,7 @@
   {
     "name": "Buffalo Walker Upgrade - Gear - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5910,7 +5910,7 @@
   {
     "name": "Buffalo Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5936,7 +5936,7 @@
   {
     "name": "Buffalo Walker Upgrade - Torque - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5962,7 +5962,7 @@
   {
     "name": "Buffalo Walker Upgrade - Water - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -5988,7 +5988,7 @@
   {
     "name": "Buffalo Walker Upgrade - Armor - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6014,7 +6014,7 @@
   {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6040,7 +6040,7 @@
   {
     "name": "Buffalo Walker Upgrade - Gear - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6066,7 +6066,7 @@
   {
     "name": "Buffalo Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6092,7 +6092,7 @@
   {
     "name": "Buffalo Walker Upgrade - Torque - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6118,7 +6118,7 @@
   {
     "name": "Buffalo Walker Upgrade - Water - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6144,7 +6144,7 @@
   {
     "name": "Buffalo Walker Upgrade - Armor - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6174,7 +6174,7 @@
   {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6204,7 +6204,7 @@
   {
     "name": "Buffalo Walker Upgrade - Gear - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6234,7 +6234,7 @@
   {
     "name": "Buffalo Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6264,7 +6264,7 @@
   {
     "name": "Buffalo Walker Upgrade - Torque - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6294,7 +6294,7 @@
   {
     "name": "Buffalo Walker Upgrade - Water - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6324,7 +6324,7 @@
   {
     "name": "Dinghy Walker Body",
     "category": "walkers/dinghy",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6350,7 +6350,7 @@
   {
     "name": "Dinghy Walker Legs (1 of 2)",
     "category": "walkers/dinghy/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6368,7 +6368,7 @@
   {
     "name": "Dinghy Walker Small Wings (1 of 2)",
     "category": "walkers/dinghy/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6390,7 +6390,7 @@
   {
     "name": "Dinghy Walker Wings (1 of 2)",
     "category": "walkers/dinghy/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6408,7 +6408,7 @@
   {
     "name": "Dinghy Walker Upgrade - Armor - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6434,7 +6434,7 @@
   {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6460,7 +6460,7 @@
   {
     "name": "Dinghy Walker Upgrade - Gear - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6486,7 +6486,7 @@
   {
     "name": "Dinghy Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6512,7 +6512,7 @@
   {
     "name": "Dinghy Walker Upgrade - Torque - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6538,7 +6538,7 @@
   {
     "name": "Dinghy Walker Upgrade - Water - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6564,7 +6564,7 @@
   {
     "name": "Dinghy Walker Upgrade - Armor - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6590,7 +6590,7 @@
   {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6616,7 +6616,7 @@
   {
     "name": "Dinghy Walker Upgrade - Gear - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6642,7 +6642,7 @@
   {
     "name": "Dinghy Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6668,7 +6668,7 @@
   {
     "name": "Dinghy Walker Upgrade - Torque - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6694,7 +6694,7 @@
   {
     "name": "Dinghy Walker Upgrade - Water - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6720,7 +6720,7 @@
   {
     "name": "Dinghy Walker Upgrade - Armor - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6750,7 +6750,7 @@
   {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6780,7 +6780,7 @@
   {
     "name": "Dinghy Walker Upgrade - Gear - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6810,7 +6810,7 @@
   {
     "name": "Dinghy Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6840,7 +6840,7 @@
   {
     "name": "Dinghy Walker Upgrade - Torque - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6870,7 +6870,7 @@
   {
     "name": "Dinghy Walker Upgrade - Water - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6900,7 +6900,7 @@
   {
     "name": "Falco Walker Body",
     "category": "walkers/falco",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6930,7 +6930,7 @@
   {
     "name": "Armored Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6956,7 +6956,7 @@
   {
     "name": "Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -6978,7 +6978,7 @@
   {
     "name": "Heavy Falco Walker Legs (1 of 2)",
     "category": "walkers/falco/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7000,7 +7000,7 @@
   {
     "name": "Falco Walker Wings (1 of 2)",
     "category": "walkers/falco/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7018,7 +7018,7 @@
   {
     "name": "Falco Walker Wings Large (1 of 2)",
     "category": "walkers/falco/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7040,7 +7040,7 @@
   {
     "name": "Falco Walker Wings Medium (1 of 2)",
     "category": "walkers/falco/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7062,7 +7062,7 @@
   {
     "name": "Falco Walker Wings Small (1 of 2)",
     "category": "walkers/falco/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7084,7 +7084,7 @@
   {
     "name": "Falco Walker Upgrade - Armor - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7110,7 +7110,7 @@
   {
     "name": "Falco Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7136,7 +7136,7 @@
   {
     "name": "Falco Walker Upgrade - Gear - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7162,7 +7162,7 @@
   {
     "name": "Falco Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7188,7 +7188,7 @@
   {
     "name": "Falco Walker Upgrade - Torque - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7214,7 +7214,7 @@
   {
     "name": "Falco Walker Upgrade - Water - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7240,7 +7240,7 @@
   {
     "name": "Falco Walker Upgrade - Armor - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7266,7 +7266,7 @@
   {
     "name": "Falco Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7292,7 +7292,7 @@
   {
     "name": "Falco Walker Upgrade - Gear - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7318,7 +7318,7 @@
   {
     "name": "Falco Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7344,7 +7344,7 @@
   {
     "name": "Falco Walker Upgrade - Torque - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7370,7 +7370,7 @@
   {
     "name": "Falco Walker Upgrade - Water - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7396,7 +7396,7 @@
   {
     "name": "Falco Walker Upgrade - Armor - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7426,7 +7426,7 @@
   {
     "name": "Falco Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7456,7 +7456,7 @@
   {
     "name": "Falco Walker Upgrade - Gear - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7486,7 +7486,7 @@
   {
     "name": "Falco Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7516,7 +7516,7 @@
   {
     "name": "Falco Walker Upgrade - Torque - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7546,7 +7546,7 @@
   {
     "name": "Falco Walker Upgrade - Water - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7576,7 +7576,7 @@
   {
     "name": "Firefly Walker Body",
     "category": "walkers/firefly",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7598,7 +7598,7 @@
   {
     "name": "Firefly Walker Legs (1 of 2)",
     "category": "walkers/firefly/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7616,7 +7616,7 @@
   {
     "name": "Firefly Walker Wings (1 of 2)",
     "category": "walkers/firefly/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7634,7 +7634,7 @@
   {
     "name": "Firefly Walker Upgrade - Armor - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7656,7 +7656,7 @@
   {
     "name": "Firefly Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7674,7 +7674,7 @@
   {
     "name": "Firefly Walker Upgrade - Gear - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7692,7 +7692,7 @@
   {
     "name": "Firefly Walker Upgrade - Mobility - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7714,7 +7714,7 @@
   {
     "name": "Firefly Walker Upgrade - Water - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7736,7 +7736,7 @@
   {
     "name": "Firefly Walker Upgrade - Armor - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7762,7 +7762,7 @@
   {
     "name": "Firefly Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7788,7 +7788,7 @@
   {
     "name": "Firefly Walker Upgrade - Gear - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7814,7 +7814,7 @@
   {
     "name": "Firefly Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7840,7 +7840,7 @@
   {
     "name": "Firefly Walker Upgrade - Torque - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7866,7 +7866,7 @@
   {
     "name": "Firefly Walker Upgrade - Water - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7892,7 +7892,7 @@
   {
     "name": "Firefly Walker Upgrade - Armor - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7918,7 +7918,7 @@
   {
     "name": "Firefly Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7944,7 +7944,7 @@
   {
     "name": "Firefly Walker Upgrade - Gear - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7970,7 +7970,7 @@
   {
     "name": "Firefly Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -7996,7 +7996,7 @@
   {
     "name": "Firefly Walker Upgrade - Torque - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8022,7 +8022,7 @@
   {
     "name": "Firefly Walker Upgrade - Water - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8048,7 +8048,7 @@
   {
     "name": "Firefly Walker Upgrade - Armor - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8078,7 +8078,7 @@
   {
     "name": "Firefly Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8108,7 +8108,7 @@
   {
     "name": "Firefly Walker Upgrade - Gear - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8138,7 +8138,7 @@
   {
     "name": "Firefly Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8168,7 +8168,7 @@
   {
     "name": "Firefly Walker Upgrade - Torque - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8198,7 +8198,7 @@
   {
     "name": "Firefly Walker Upgrade - Water - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8228,7 +8228,7 @@
   {
     "name": "Hornet Walker Body",
     "category": "walkers/hornet",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8266,7 +8266,7 @@
   {
     "name": "Hornet Walker Legs (1 of 2)",
     "category": "walkers/hornet/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8288,7 +8288,7 @@
   {
     "name": "Hornet Walker Medium Wings (1 of 2)",
     "category": "walkers/hornet/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8310,7 +8310,7 @@
   {
     "name": "Hornet Walker Small Wings (1 of 2)",
     "category": "walkers/hornet/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8332,7 +8332,7 @@
   {
     "name": "Hornet Walker Wings (1 of 2)",
     "category": "walkers/hornet/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8350,7 +8350,7 @@
   {
     "name": "Hornet Walker Upgrade - Armor - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8376,7 +8376,7 @@
   {
     "name": "Hornet Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8402,7 +8402,7 @@
   {
     "name": "Hornet Walker Upgrade - Gear - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8428,7 +8428,7 @@
   {
     "name": "Hornet Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8454,7 +8454,7 @@
   {
     "name": "Hornet Walker Upgrade - Torque - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8480,7 +8480,7 @@
   {
     "name": "Hornet Walker Upgrade - Water - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8506,7 +8506,7 @@
   {
     "name": "Hornet Walker Upgrade - Armor - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8532,7 +8532,7 @@
   {
     "name": "Hornet Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8558,7 +8558,7 @@
   {
     "name": "Hornet Walker Upgrade - Gear - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8584,7 +8584,7 @@
   {
     "name": "Hornet Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8610,7 +8610,7 @@
   {
     "name": "Hornet Walker Upgrade - Torque - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8636,7 +8636,7 @@
   {
     "name": "Hornet Walker Upgrade - Water - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8662,7 +8662,7 @@
   {
     "name": "Hornet Walker Upgrade - Armor - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8692,7 +8692,7 @@
   {
     "name": "Hornet Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8722,7 +8722,7 @@
   {
     "name": "Hornet Walker Upgrade - Gear - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8752,7 +8752,7 @@
   {
     "name": "Hornet Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8782,7 +8782,7 @@
   {
     "name": "Hornet Walker Upgrade - Torque - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8812,7 +8812,7 @@
   {
     "name": "Hornet Walker Upgrade - Water - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8842,7 +8842,7 @@
   {
     "name": "Mollusk Walker Body",
     "category": "walkers/mollusk",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8872,7 +8872,7 @@
   {
     "name": "Mollusk Walker Legs (1 of 2)",
     "category": "walkers/mollusk/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8890,7 +8890,7 @@
   {
     "name": "Mollusk Walker Legs Armored (1 of 2)",
     "category": "walkers/mollusk/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8916,7 +8916,7 @@
   {
     "name": "Mollusk Walker Wings (1 of 2)",
     "category": "walkers/mollusk/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8934,7 +8934,7 @@
   {
     "name": "Mollusk Walker Wings Heavy (1 of 2)",
     "category": "walkers/mollusk/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8956,7 +8956,7 @@
   {
     "name": "Mollusk Walker Wings Medium (1 of 2)",
     "category": "walkers/mollusk/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -8978,7 +8978,7 @@
   {
     "name": "Mollusk Walker Wings Small (1 of 2)",
     "category": "walkers/mollusk/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9000,7 +9000,7 @@
   {
     "name": "Mollusk Walker Upgrade - Armor - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9022,7 +9022,7 @@
   {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9044,7 +9044,7 @@
   {
     "name": "Mollusk Walker Upgrade - Gear - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9066,7 +9066,7 @@
   {
     "name": "Mollusk Walker Upgrade - Mobility - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9088,7 +9088,7 @@
   {
     "name": "Mollusk Walker Upgrade - Torque - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9110,7 +9110,7 @@
   {
     "name": "Mollusk Walker Upgrade - Water - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9132,7 +9132,7 @@
   {
     "name": "Mollusk Walker Upgrade - Armor - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9158,7 +9158,7 @@
   {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9184,7 +9184,7 @@
   {
     "name": "Mollusk Walker Upgrade - Gear - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9210,7 +9210,7 @@
   {
     "name": "Mollusk Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9236,7 +9236,7 @@
   {
     "name": "Mollusk Walker Upgrade - Torque - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9262,7 +9262,7 @@
   {
     "name": "Mollusk Walker Upgrade - Water - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9288,7 +9288,7 @@
   {
     "name": "Mollusk Walker Upgrade - Armor - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9314,7 +9314,7 @@
   {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9340,7 +9340,7 @@
   {
     "name": "Mollusk Walker Upgrade - Gear - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9366,7 +9366,7 @@
   {
     "name": "Mollusk Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9392,7 +9392,7 @@
   {
     "name": "Mollusk Walker Upgrade - Torque - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9418,7 +9418,7 @@
   {
     "name": "Mollusk Walker Upgrade - Water - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9444,7 +9444,7 @@
   {
     "name": "Mollusk Walker Upgrade - Armor - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9474,7 +9474,7 @@
   {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9504,7 +9504,7 @@
   {
     "name": "Mollusk Walker Upgrade - Gear - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9534,7 +9534,7 @@
   {
     "name": "Mollusk Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9564,7 +9564,7 @@
   {
     "name": "Mollusk Walker Upgrade - Torque - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9594,7 +9594,7 @@
   {
     "name": "Mollusk Walker Upgrade - Water - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9624,7 +9624,7 @@
   {
     "name": "Proxy Walker Body",
     "category": "walkers/proxy",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9666,7 +9666,7 @@
   {
     "name": "Armored Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9692,7 +9692,7 @@
   {
     "name": "Heavy Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9714,7 +9714,7 @@
   {
     "name": "Proxy Walker Legs (1 of 2)",
     "category": "walkers/proxy/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9736,7 +9736,7 @@
   {
     "name": "Schmetterling Walker Body",
     "category": "walkers/schmetterling",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9770,7 +9770,7 @@
   {
     "name": "Armored Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9796,7 +9796,7 @@
   {
     "name": "Heavy Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9818,7 +9818,7 @@
   {
     "name": "Schmetterling Walker Legs (1 of 2)",
     "category": "walkers/schmetterling/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9840,7 +9840,7 @@
   {
     "name": "Schmetterling Walker Large Wings (1 of 2)",
     "category": "walkers/schmetterling/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9862,7 +9862,7 @@
   {
     "name": "Schmetterling Walker Medium Wings (1 of 2)",
     "category": "walkers/schmetterling/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9884,7 +9884,7 @@
   {
     "name": "Schmetterling Walker Small Wings (1 of 2)",
     "category": "walkers/schmetterling/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9906,7 +9906,7 @@
   {
     "name": "Schmetterling Walker Wings (1 of 2)",
     "category": "walkers/schmetterling/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10060,7 +10060,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Armor - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10086,7 +10086,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10112,7 +10112,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Gear - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10138,7 +10138,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10164,7 +10164,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Torque - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10190,7 +10190,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Water - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10216,7 +10216,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Armor - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10242,7 +10242,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10268,7 +10268,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Gear - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10294,7 +10294,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10320,7 +10320,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Torque - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10346,7 +10346,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Water - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10372,7 +10372,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Armor - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10402,7 +10402,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10432,7 +10432,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Gear - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10462,7 +10462,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10492,7 +10492,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Torque - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10522,7 +10522,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Water - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10552,7 +10552,7 @@
   {
     "name": "Nomad Spider Walker Body",
     "category": "walkers/spider",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10574,7 +10574,7 @@
   {
     "name": "Spider Walker With Ballista",
     "category": "walkers/spider",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10600,7 +10600,7 @@
   {
     "name": "Armored Spider Walker Legs (1 of 2)",
     "category": "walkers/spider/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10618,7 +10618,7 @@
   {
     "name": "Spider Walker Legs (1 of 2)",
     "category": "walkers/spider/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10636,7 +10636,7 @@
   {
     "name": "Spider Walker Upgrade - Armor - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10658,7 +10658,7 @@
   {
     "name": "Spider Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10680,7 +10680,7 @@
   {
     "name": "Spider Walker Upgrade - Gear - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10702,7 +10702,7 @@
   {
     "name": "Spider Walker Upgrade - Mobility - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10724,7 +10724,7 @@
   {
     "name": "Spider Walker Upgrade - Water - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10746,7 +10746,7 @@
   {
     "name": "Spider Walker Upgrade - Armor - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10772,7 +10772,7 @@
   {
     "name": "Spider Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10798,7 +10798,7 @@
   {
     "name": "Spider Walker Upgrade - Gear - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10824,7 +10824,7 @@
   {
     "name": "Spider Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10850,7 +10850,7 @@
   {
     "name": "Spider Walker Upgrade - Torque - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10876,7 +10876,7 @@
   {
     "name": "Spider Walker Upgrade - Water - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10902,7 +10902,7 @@
   {
     "name": "Spider Walker Upgrade - Armor - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10928,7 +10928,7 @@
   {
     "name": "Spider Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10954,7 +10954,7 @@
   {
     "name": "Spider Walker Upgrade - Gear - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10980,7 +10980,7 @@
   {
     "name": "Spider Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11006,7 +11006,7 @@
   {
     "name": "Spider Walker Upgrade - Torque - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11032,7 +11032,7 @@
   {
     "name": "Spider Walker Upgrade - Water - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11058,7 +11058,7 @@
   {
     "name": "Spider Walker Upgrade - Armor - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11088,7 +11088,7 @@
   {
     "name": "Spider Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11118,7 +11118,7 @@
   {
     "name": "Spider Walker Upgrade - Gear - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11148,7 +11148,7 @@
   {
     "name": "Spider Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11178,7 +11178,7 @@
   {
     "name": "Spider Walker Upgrade - Torque - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11208,7 +11208,7 @@
   {
     "name": "Spider Walker Upgrade - Water - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11238,7 +11238,7 @@
   {
     "name": "Stiletto Walker Body",
     "category": "walkers/stiletto",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11268,7 +11268,7 @@
   {
     "name": "Stiletto Walker Legs (1 of 2)",
     "category": "walkers/stiletto/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11286,7 +11286,7 @@
   {
     "name": "Stiletto Walker Medium Wings (1 of 2)",
     "category": "walkers/stiletto/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11308,7 +11308,7 @@
   {
     "name": "Stiletto Walker Small Wings (1 of 2)",
     "category": "walkers/stiletto/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11330,7 +11330,7 @@
   {
     "name": "Stiletto Walker Wings (1 of 2)",
     "category": "walkers/stiletto/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11348,7 +11348,7 @@
   {
     "name": "Stiletto Walker Upgrade - Armor - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11374,7 +11374,7 @@
   {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11400,7 +11400,7 @@
   {
     "name": "Stiletto Walker Upgrade - Gear - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11426,7 +11426,7 @@
   {
     "name": "Stiletto Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11452,7 +11452,7 @@
   {
     "name": "Stiletto Walker Upgrade - Torque - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11478,7 +11478,7 @@
   {
     "name": "Stiletto Walker Upgrade - Water - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11504,7 +11504,7 @@
   {
     "name": "Stiletto Walker Upgrade - Armor - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11530,7 +11530,7 @@
   {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11556,7 +11556,7 @@
   {
     "name": "Stiletto Walker Upgrade - Gear - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11582,7 +11582,7 @@
   {
     "name": "Stiletto Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11608,7 +11608,7 @@
   {
     "name": "Stiletto Walker Upgrade - Torque - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11634,7 +11634,7 @@
   {
     "name": "Stiletto Walker Upgrade - Water - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11660,7 +11660,7 @@
   {
     "name": "Stiletto Walker Upgrade - Armor - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11690,7 +11690,7 @@
   {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11720,7 +11720,7 @@
   {
     "name": "Stiletto Walker Upgrade - Gear - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11750,7 +11750,7 @@
   {
     "name": "Stiletto Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11780,7 +11780,7 @@
   {
     "name": "Stiletto Walker Upgrade - Torque - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11810,7 +11810,7 @@
   {
     "name": "Stiletto Walker Upgrade - Water - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11840,7 +11840,7 @@
   {
     "name": "Titan Walker Body",
     "category": "walkers/titan",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11870,7 +11870,7 @@
   {
     "name": "Armored Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11896,7 +11896,7 @@
   {
     "name": "Heavy Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11918,7 +11918,7 @@
   {
     "name": "Titan Walker Legs (1 of 2)",
     "category": "walkers/titan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11940,7 +11940,7 @@
   {
     "name": "Titan Walker Large Wings (1 of 2)",
     "category": "walkers/titan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11962,7 +11962,7 @@
   {
     "name": "Titan Walker Medium Wings (1 of 2)",
     "category": "walkers/titan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -11984,7 +11984,7 @@
   {
     "name": "Titan Walker Small Wings (1 of 2)",
     "category": "walkers/titan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12006,7 +12006,7 @@
   {
     "name": "Titan Walker Wings (1 of 2)",
     "category": "walkers/titan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12028,7 +12028,7 @@
   {
     "name": "Titan Walker Upgrade - Armor - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12054,7 +12054,7 @@
   {
     "name": "Titan Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12080,7 +12080,7 @@
   {
     "name": "Titan Walker Upgrade - Gear - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12106,7 +12106,7 @@
   {
     "name": "Titan Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12132,7 +12132,7 @@
   {
     "name": "Titan Walker Upgrade - Torque - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12158,7 +12158,7 @@
   {
     "name": "Titan Walker Upgrade - Water - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12184,7 +12184,7 @@
   {
     "name": "Titan Walker Upgrade - Armor - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12210,7 +12210,7 @@
   {
     "name": "Titan Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12236,7 +12236,7 @@
   {
     "name": "Titan Walker Upgrade - Gear - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12262,7 +12262,7 @@
   {
     "name": "Titan Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12288,7 +12288,7 @@
   {
     "name": "Titan Walker Upgrade - Torque - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12314,7 +12314,7 @@
   {
     "name": "Titan Walker Upgrade - Water - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12340,7 +12340,7 @@
   {
     "name": "Titan Walker Upgrade - Armor - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12370,7 +12370,7 @@
   {
     "name": "Titan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12400,7 +12400,7 @@
   {
     "name": "Titan Walker Upgrade - Gear - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12430,7 +12430,7 @@
   {
     "name": "Titan Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12460,7 +12460,7 @@
   {
     "name": "Titan Walker Upgrade - Torque - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12490,7 +12490,7 @@
   {
     "name": "Titan Walker Upgrade - Water - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12520,7 +12520,7 @@
   {
     "name": "Toboggan Walker Body",
     "category": "walkers/toboggan",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12550,7 +12550,7 @@
   {
     "name": "Armored Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12576,7 +12576,7 @@
   {
     "name": "Heavy Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12598,7 +12598,7 @@
   {
     "name": "Toboggan Walker Legs (1 of 2)",
     "category": "walkers/toboggan/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12620,7 +12620,7 @@
   {
     "name": "Toboggan Walker Large Wings (1 of 2)",
     "category": "walkers/toboggan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12642,7 +12642,7 @@
   {
     "name": "Toboggan Walker Medium Wings (1 of 2)",
     "category": "walkers/toboggan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12664,7 +12664,7 @@
   {
     "name": "Toboggan Walker Small Wings (1 of 2)",
     "category": "walkers/toboggan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12686,7 +12686,7 @@
   {
     "name": "Toboggan Walker Wings (1 of 2)",
     "category": "walkers/toboggan/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12704,7 +12704,7 @@
   {
     "name": "Toboggan Walker Upgrade - Armor - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12730,7 +12730,7 @@
   {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12756,7 +12756,7 @@
   {
     "name": "Toboggan Walker Upgrade - Gear - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12782,7 +12782,7 @@
   {
     "name": "Toboggan Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12808,7 +12808,7 @@
   {
     "name": "Toboggan Walker Upgrade - Torque - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12834,7 +12834,7 @@
   {
     "name": "Toboggan Walker Upgrade - Water - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12860,7 +12860,7 @@
   {
     "name": "Toboggan Walker Upgrade - Armor - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12886,7 +12886,7 @@
   {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12912,7 +12912,7 @@
   {
     "name": "Toboggan Walker Upgrade - Gear - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12938,7 +12938,7 @@
   {
     "name": "Toboggan Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12964,7 +12964,7 @@
   {
     "name": "Toboggan Walker Upgrade - Torque - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -12990,7 +12990,7 @@
   {
     "name": "Toboggan Walker Upgrade - Water - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13016,7 +13016,7 @@
   {
     "name": "Toboggan Walker Upgrade - Armor - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13046,7 +13046,7 @@
   {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13076,7 +13076,7 @@
   {
     "name": "Toboggan Walker Upgrade - Gear - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13106,7 +13106,7 @@
   {
     "name": "Toboggan Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13136,7 +13136,7 @@
   {
     "name": "Toboggan Walker Upgrade - Torque - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13166,7 +13166,7 @@
   {
     "name": "Toboggan Walker Upgrade - Water - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13196,7 +13196,7 @@
   {
     "name": "Long Sawblade",
     "category": "walkers/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13214,7 +13214,7 @@
   {
     "name": "Sawblade Tool",
     "category": "walkers/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13232,7 +13232,7 @@
   {
     "name": "Steering Levers",
     "category": "walkers/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13250,7 +13250,7 @@
   {
     "name": "Tool Pod",
     "category": "walkers/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13272,7 +13272,7 @@
   {
     "name": "Walker Climber",
     "category": "walkers/tools",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13294,7 +13294,7 @@
   {
     "name": "Tusker Walker Body",
     "category": "walkers/tusker",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13332,7 +13332,7 @@
   {
     "name": "Armored Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13358,7 +13358,7 @@
   {
     "name": "Heavy Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13380,7 +13380,7 @@
   {
     "name": "Tusker Walker Legs (1 of 2)",
     "category": "walkers/tusker/parts/legs",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13402,7 +13402,7 @@
   {
     "name": "Tusker Walker Large Wings (1 of 2)",
     "category": "walkers/tusker/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13424,7 +13424,7 @@
   {
     "name": "Tusker Walker Medium Wings (1 of 2)",
     "category": "walkers/tusker/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13446,7 +13446,7 @@
   {
     "name": "Tusker Walker Small Wings (1 of 2)",
     "category": "walkers/tusker/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13468,7 +13468,7 @@
   {
     "name": "Tusker Walker Wings (1 of 2)",
     "category": "walkers/tusker/parts/wings",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13490,7 +13490,7 @@
   {
     "name": "Tusker Walker Upgrade - Armor - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13516,7 +13516,7 @@
   {
     "name": "Tusker Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13542,7 +13542,7 @@
   {
     "name": "Tusker Walker Upgrade - Gear - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13568,7 +13568,7 @@
   {
     "name": "Tusker Walker Upgrade - Mobility - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13594,7 +13594,7 @@
   {
     "name": "Tusker Walker Upgrade - Torque - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13620,7 +13620,7 @@
   {
     "name": "Tusker Walker Upgrade - Water - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13646,7 +13646,7 @@
   {
     "name": "Tusker Walker Upgrade - Armor - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13672,7 +13672,7 @@
   {
     "name": "Tusker Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13698,7 +13698,7 @@
   {
     "name": "Tusker Walker Upgrade - Gear - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13724,7 +13724,7 @@
   {
     "name": "Tusker Walker Upgrade - Mobility - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13750,7 +13750,7 @@
   {
     "name": "Tusker Walker Upgrade - Torque - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13776,7 +13776,7 @@
   {
     "name": "Tusker Walker Upgrade - Water - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13802,7 +13802,7 @@
   {
     "name": "Tusker Walker Upgrade - Armor - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13832,7 +13832,7 @@
   {
     "name": "Tusker Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13862,7 +13862,7 @@
   {
     "name": "Tusker Walker Upgrade - Gear - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13892,7 +13892,7 @@
   {
     "name": "Tusker Walker Upgrade - Mobility - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13922,7 +13922,7 @@
   {
     "name": "Tusker Walker Upgrade - Torque - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -13952,7 +13952,7 @@
   {
     "name": "Tusker Walker Upgrade - Water - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
