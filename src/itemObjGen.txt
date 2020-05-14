@@ -5504,6 +5504,84 @@
       name = Worm Scale
       count n = 5
 []
+  name = Schmetterling Walker Upgrade - Cargo - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 50
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Schmetterling Walker Upgrade - Water - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 63
+    ingredients[]
+      name = Hide
+      count n = 13
+[]
+  name = Schmetterling Walker Upgrade - Gear - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 55
+    ingredients[]
+      name = Fiber
+      count n = 45
+    ingredients[]
+      name = Stone
+      count n = 20
+[]
+  name = Schmetterling Walker Upgrade - Armor - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 38
+[]
+  name = Schmetterling Walker Upgrade - Mobility - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 88
+    ingredients[]
+      name = Wood Shaft
+      count n = 38
+    ingredients[]
+      name = Palm Leaves
+      count n = 50
+[]
+  name = Schmetterling Walker Upgrade - Torque - Tier 1
+  category = walkers/schmetterling/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Rope
+      count n = 9
+[]
   name = Schmetterling Walker Upgrade - Cargo - Tier 2
   category = walkers/schmetterling/upgrades/tier2
   crafting[]
