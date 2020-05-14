@@ -9928,7 +9928,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Armor - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9950,7 +9950,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9972,7 +9972,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Gear - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -9994,7 +9994,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Mobility - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10016,7 +10016,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Torque - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
@@ -10038,7 +10038,7 @@
   {
     "name": "Schmetterling Walker Upgrade - Water - Tier 1",
     "category": "walkers/schmetterling/upgrades/tier1",
-    "crafting": [
+    "recipes": [
       {
         "ingredients": [
           {
