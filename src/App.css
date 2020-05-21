@@ -1,1 +1,9 @@
+body {
+  background-color: #161920;
+  color: white;
+}
 
+button#clearAll {
+  background-color: #5f238d !important;
+  color: white;
+}

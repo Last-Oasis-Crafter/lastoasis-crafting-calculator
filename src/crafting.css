@@ -11,3 +11,11 @@
 .countInput button {
   display: none !important;
 }
+
+.ui.accordion.styled {
+  background-color: rgba(0,0,0,0);
+}
+
+#crafting .ui.header, #crafting .title {
+  color: white;
+}
