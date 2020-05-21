@@ -1374,6 +1374,19 @@
       name = Fiber
       count n = 5
 []
+  name = Throwing Net
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Fiber
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 4
+    ingredients[]
+      name = Rupu Vine
+      count n = 8
+[]
   name = Torch
   category = items/weapons
   crafting[]
