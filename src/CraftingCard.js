@@ -6,7 +6,7 @@ import Recipe from './Recipe';
 export default function CraftingCard({item, dispatch, index}) {
   const [recipes, setRecipes] = useState([])
   const [selectedRecipe, setSelectedRecipe] = useState(0)
-  const [active, setActive] = useState(true)
+  const [active, setActive] = useState(false)
 
   // set recipes
   useEffect(() => {
