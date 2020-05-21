@@ -3,10 +3,10 @@ import { Accordion, Icon, Image } from 'semantic-ui-react'
 import EditableNumberText from './EditableNumberText';
 import Recipe from './Recipe';
 
-export default function CraftingCard({item, dispatch, index}) {
+export default function CraftingCard({item, dispatch, index, defaultActive=false}) {
   const [recipes, setRecipes] = useState([])
   const [selectedRecipe, setSelectedRecipe] = useState(0)
-  const [active, setActive] = useState(false)
+  const [active, setActive] = useState(defaultActive)
 
   // set recipes
   useEffect(() => {
