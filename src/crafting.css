@@ -14,6 +14,11 @@
 
 .ui.accordion.styled {
   background-color: rgba(0,0,0,0);
+  border: #aaa 1px solid;
+}
+
+#crafting .title:not(:nth-child(1)) {
+  border-top: 1px #aaa solid;
 }
 
 #crafting .ui.header, #crafting .title {
