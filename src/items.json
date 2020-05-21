@@ -5852,32 +5852,6 @@
     ]
   },
   {
-    "name": "Buffalo Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/buffalo/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/buffalo/upgrades/tier2",
     "crafting": [
@@ -5898,6 +5872,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/buffalo/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -6008,32 +6008,6 @@
     ]
   },
   {
-    "name": "Buffalo Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/buffalo/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/buffalo/upgrades/tier3",
     "crafting": [
@@ -6054,6 +6028,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/buffalo/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -6164,36 +6164,6 @@
     ]
   },
   {
-    "name": "Buffalo Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/buffalo/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Buffalo Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
     "crafting": [
@@ -6218,6 +6188,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/buffalo/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -6428,32 +6428,6 @@
     ]
   },
   {
-    "name": "Dinghy Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/dinghy/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 30
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 15
-          },
-          {
-            "name": "Hide",
-            "count": 20
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/dinghy/upgrades/tier2",
     "crafting": [
@@ -6474,6 +6448,32 @@
           {
             "name": "Stone",
             "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/dinghy/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 30
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 15
+          },
+          {
+            "name": "Hide",
+            "count": 20
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 2
           }
         ]
       }
@@ -6584,32 +6584,6 @@
     ]
   },
   {
-    "name": "Dinghy Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/dinghy/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 45
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 4
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/dinghy/upgrades/tier3",
     "crafting": [
@@ -6630,6 +6604,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/dinghy/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 45
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 50
+          },
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
           }
         ]
       }
@@ -6740,36 +6740,6 @@
     ]
   },
   {
-    "name": "Dinghy Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/dinghy/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinghy Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/dinghy/upgrades/tier4",
     "crafting": [
@@ -6794,6 +6764,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinghy Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/dinghy/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 28
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 120
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 35
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 50
+          },
+          {
+            "name": "Obsidian",
+            "count": 5
           }
         ]
       }
@@ -7104,32 +7104,6 @@
     ]
   },
   {
-    "name": "Falco Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/falco/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Falco Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
     "crafting": [
@@ -7150,6 +7124,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/falco/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -7260,32 +7260,6 @@
     ]
   },
   {
-    "name": "Falco Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/falco/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Falco Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/falco/upgrades/tier3",
     "crafting": [
@@ -7306,6 +7280,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/falco/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -7416,36 +7416,6 @@
     ]
   },
   {
-    "name": "Falco Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/falco/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Falco Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/falco/upgrades/tier4",
     "crafting": [
@@ -7470,6 +7440,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/falco/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -7654,7 +7654,25 @@
     ]
   },
   {
-    "name": "Firefly Walker Upgrade - Armor - Tier 1",
+    "name": "Firefly Walker Upgrade - Cargo - Tier 1",
+    "category": "walkers/firefly/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 30
+          },
+          {
+            "name": "Fiber",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Upgrade - Durability - Tier 1",
     "category": "walkers/firefly/upgrades/tier1",
     "crafting": [
       {
@@ -7670,24 +7688,6 @@
           {
             "name": "Hide",
             "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firefly Walker Upgrade - Cargo - Tier 1",
-    "category": "walkers/firefly/upgrades/tier1",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 30
-          },
-          {
-            "name": "Fiber",
-            "count": 20
           }
         ]
       }
@@ -7756,32 +7756,6 @@
     ]
   },
   {
-    "name": "Firefly Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/firefly/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 30
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 15
-          },
-          {
-            "name": "Hide",
-            "count": 20
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Firefly Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/firefly/upgrades/tier2",
     "crafting": [
@@ -7802,6 +7776,32 @@
           {
             "name": "Stone",
             "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/firefly/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 30
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 15
+          },
+          {
+            "name": "Hide",
+            "count": 20
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 2
           }
         ]
       }
@@ -7912,32 +7912,6 @@
     ]
   },
   {
-    "name": "Firefly Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/firefly/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 45
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 4
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Firefly Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/firefly/upgrades/tier3",
     "crafting": [
@@ -7958,6 +7932,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/firefly/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 45
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 50
+          },
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
           }
         ]
       }
@@ -8068,36 +8068,6 @@
     ]
   },
   {
-    "name": "Firefly Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/firefly/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Firefly Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/firefly/upgrades/tier4",
     "crafting": [
@@ -8122,6 +8092,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firefly Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/firefly/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 28
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 120
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 35
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 50
+          },
+          {
+            "name": "Obsidian",
+            "count": 5
           }
         ]
       }
@@ -8370,32 +8370,6 @@
     ]
   },
   {
-    "name": "Hornet Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/hornet/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Hornet Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/hornet/upgrades/tier2",
     "crafting": [
@@ -8416,6 +8390,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/hornet/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -8526,32 +8526,6 @@
     ]
   },
   {
-    "name": "Hornet Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/hornet/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Hornet Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/hornet/upgrades/tier3",
     "crafting": [
@@ -8572,6 +8546,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/hornet/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -8682,36 +8682,6 @@
     ]
   },
   {
-    "name": "Hornet Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/hornet/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Hornet Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/hornet/upgrades/tier4",
     "crafting": [
@@ -8736,6 +8706,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/hornet/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -9020,28 +9020,6 @@
     ]
   },
   {
-    "name": "Mollusk Walker Upgrade - Armor - Tier 1",
-    "category": "walkers/mollusk/upgrades/tier1",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 64
-          },
-          {
-            "name": "Stone",
-            "count": 64
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/mollusk/upgrades/tier1",
     "crafting": [
@@ -9058,6 +9036,28 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Upgrade - Durability - Tier 1",
+    "category": "walkers/mollusk/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 64
+          },
+          {
+            "name": "Stone",
+            "count": 64
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 24
           }
         ]
       }
@@ -9152,32 +9152,6 @@
     ]
   },
   {
-    "name": "Mollusk Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/mollusk/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/mollusk/upgrades/tier2",
     "crafting": [
@@ -9198,6 +9172,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/mollusk/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -9308,32 +9308,6 @@
     ]
   },
   {
-    "name": "Mollusk Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/mollusk/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/mollusk/upgrades/tier3",
     "crafting": [
@@ -9354,6 +9328,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/mollusk/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -9464,36 +9464,6 @@
     ]
   },
   {
-    "name": "Mollusk Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/mollusk/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Mollusk Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/mollusk/upgrades/tier4",
     "crafting": [
@@ -9518,6 +9488,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/mollusk/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -9948,32 +9948,6 @@
     ]
   },
   {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/schmetterling/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
     "crafting": [
@@ -9994,6 +9968,32 @@
           {
             "name": "Stone",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/schmetterling/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 75
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 38
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 5
           }
         ]
       }
@@ -10104,32 +10104,6 @@
     ]
   },
   {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/schmetterling/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/schmetterling/upgrades/tier3",
     "crafting": [
@@ -10150,6 +10124,32 @@
           {
             "name": "Stone",
             "count": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/schmetterling/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 113
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 125
+          },
+          {
+            "name": "Bone Glue",
+            "count": 10
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 25
           }
         ]
       }
@@ -10260,36 +10260,6 @@
     ]
   },
   {
-    "name": "Schmetterling Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/schmetterling/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/schmetterling/upgrades/tier4",
     "crafting": [
@@ -10314,6 +10284,36 @@
           {
             "name": "Worm Silk",
             "count": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/schmetterling/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 70
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 300
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 88
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 150
+          },
+          {
+            "name": "Obsidian",
+            "count": 13
           }
         ]
       }
@@ -10524,28 +10524,6 @@
     ]
   },
   {
-    "name": "Spider Walker Upgrade - Armor - Tier 1",
-    "category": "walkers/spider/upgrades/tier1",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 40
-          },
-          {
-            "name": "Stone",
-            "count": 40
-          },
-          {
-            "name": "Hide",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Spider Walker Upgrade - Cargo - Tier 1",
     "category": "walkers/spider/upgrades/tier1",
     "crafting": [
@@ -10562,6 +10540,28 @@
           {
             "name": "Stone",
             "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker Upgrade - Durability - Tier 1",
+    "category": "walkers/spider/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 40
+          },
+          {
+            "name": "Stone",
+            "count": 40
+          },
+          {
+            "name": "Hide",
+            "count": 8
           }
         ]
       }
@@ -10634,32 +10634,6 @@
     ]
   },
   {
-    "name": "Spider Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/spider/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 30
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 15
-          },
-          {
-            "name": "Hide",
-            "count": 20
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Spider Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/spider/upgrades/tier2",
     "crafting": [
@@ -10680,6 +10654,32 @@
           {
             "name": "Stone",
             "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/spider/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 30
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 15
+          },
+          {
+            "name": "Hide",
+            "count": 20
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 2
           }
         ]
       }
@@ -10790,32 +10790,6 @@
     ]
   },
   {
-    "name": "Spider Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/spider/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 45
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 50
-          },
-          {
-            "name": "Bone Glue",
-            "count": 4
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Spider Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/spider/upgrades/tier3",
     "crafting": [
@@ -10836,6 +10810,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/spider/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 45
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 50
+          },
+          {
+            "name": "Bone Glue",
+            "count": 4
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
           }
         ]
       }
@@ -10946,36 +10946,6 @@
     ]
   },
   {
-    "name": "Spider Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/spider/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 28
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 120
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 35
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Obsidian",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Spider Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/spider/upgrades/tier4",
     "crafting": [
@@ -11000,6 +10970,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/spider/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 28
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 120
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 35
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 50
+          },
+          {
+            "name": "Obsidian",
+            "count": 5
           }
         ]
       }
@@ -11236,32 +11236,6 @@
     ]
   },
   {
-    "name": "Stiletto Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/stiletto/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/stiletto/upgrades/tier2",
     "crafting": [
@@ -11282,6 +11256,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/stiletto/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -11392,32 +11392,6 @@
     ]
   },
   {
-    "name": "Stiletto Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/stiletto/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/stiletto/upgrades/tier3",
     "crafting": [
@@ -11438,6 +11412,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/stiletto/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -11548,36 +11548,6 @@
     ]
   },
   {
-    "name": "Stiletto Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/stiletto/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Stiletto Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/stiletto/upgrades/tier4",
     "crafting": [
@@ -11602,6 +11572,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/stiletto/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -11916,32 +11916,6 @@
     ]
   },
   {
-    "name": "Titan Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/titan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Titan Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/titan/upgrades/tier2",
     "crafting": [
@@ -11962,6 +11936,32 @@
           {
             "name": "Stone",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/titan/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 75
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 38
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 5
           }
         ]
       }
@@ -12072,32 +12072,6 @@
     ]
   },
   {
-    "name": "Titan Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/titan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Titan Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/titan/upgrades/tier3",
     "crafting": [
@@ -12118,6 +12092,32 @@
           {
             "name": "Stone",
             "count": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/titan/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 113
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 125
+          },
+          {
+            "name": "Bone Glue",
+            "count": 10
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 25
           }
         ]
       }
@@ -12228,36 +12228,6 @@
     ]
   },
   {
-    "name": "Titan Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/titan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Titan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/titan/upgrades/tier4",
     "crafting": [
@@ -12282,6 +12252,36 @@
           {
             "name": "Worm Silk",
             "count": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/titan/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 70
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 300
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 88
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 150
+          },
+          {
+            "name": "Obsidian",
+            "count": 13
           }
         ]
       }
@@ -12592,32 +12592,6 @@
     ]
   },
   {
-    "name": "Toboggan Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/toboggan/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 48
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 24
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 42
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/toboggan/upgrades/tier2",
     "crafting": [
@@ -12638,6 +12612,32 @@
           {
             "name": "Stone",
             "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/toboggan/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 48
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 24
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 42
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 4
           }
         ]
       }
@@ -12748,32 +12748,6 @@
     ]
   },
   {
-    "name": "Toboggan Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/toboggan/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 72
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 80
-          },
-          {
-            "name": "Bone Glue",
-            "count": 7
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/toboggan/upgrades/tier3",
     "crafting": [
@@ -12794,6 +12768,32 @@
           {
             "name": "Stone",
             "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/toboggan/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 72
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Bone Glue",
+            "count": 7
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 16
           }
         ]
       }
@@ -12904,36 +12904,6 @@
     ]
   },
   {
-    "name": "Toboggan Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/toboggan/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron ingot",
-            "count": 45
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 192
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 56
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 80
-          },
-          {
-            "name": "Obsidian",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Toboggan Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/toboggan/upgrades/tier4",
     "crafting": [
@@ -12958,6 +12928,36 @@
           {
             "name": "Worm Silk",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/toboggan/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron ingot",
+            "count": 45
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 192
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 80
+          },
+          {
+            "name": "Obsidian",
+            "count": 8
           }
         ]
       }
@@ -13378,32 +13378,6 @@
     ]
   },
   {
-    "name": "Tusker Walker Upgrade - Armor - Tier 2",
-    "category": "walkers/tusker/upgrades/tier2",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Bone Splinter",
-            "count": 75
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 38
-          },
-          {
-            "name": "Rupu Pelt",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Tusker Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/tusker/upgrades/tier2",
     "crafting": [
@@ -13424,6 +13398,32 @@
           {
             "name": "Stone",
             "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/tusker/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 75
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 38
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 5
           }
         ]
       }
@@ -13534,32 +13534,6 @@
     ]
   },
   {
-    "name": "Tusker Walker Upgrade - Armor - Tier 3",
-    "category": "walkers/tusker/upgrades/tier3",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 113
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 125
-          },
-          {
-            "name": "Bone Glue",
-            "count": 10
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Tusker Walker Upgrade - Cargo - Tier 3",
     "category": "walkers/tusker/upgrades/tier3",
     "crafting": [
@@ -13580,6 +13554,32 @@
           {
             "name": "Stone",
             "count": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/tusker/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 113
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 125
+          },
+          {
+            "name": "Bone Glue",
+            "count": 10
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 25
           }
         ]
       }
@@ -13690,36 +13690,6 @@
     ]
   },
   {
-    "name": "Tusker Walker Upgrade - Armor - Tier 4",
-    "category": "walkers/tusker/upgrades/tier4",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 70
-          },
-          {
-            "name": "Ceramic Shard",
-            "count": 300
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 88
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 150
-          },
-          {
-            "name": "Obsidian",
-            "count": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Tusker Walker Upgrade - Cargo - Tier 4",
     "category": "walkers/tusker/upgrades/tier4",
     "crafting": [
@@ -13744,6 +13714,36 @@
           {
             "name": "Worm Silk",
             "count": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/tusker/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 70
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 300
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 88
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 150
+          },
+          {
+            "name": "Obsidian",
+            "count": 13
           }
         ]
       }

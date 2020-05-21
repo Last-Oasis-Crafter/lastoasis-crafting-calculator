@@ -1856,7 +1856,7 @@
       name = Fiber
       count n = 18
 []
-  name = Firefly Walker Upgrade - Armor - Tier 1
+  name = Firefly Walker Upgrade - Durability - Tier 1
   category = walkers/firefly/upgrades/tier1
   crafting[]
     ingredients[]
@@ -1930,7 +1930,7 @@
       name = Stone
       count n = 10
 []
-  name = Firefly Walker Upgrade - Armor - Tier 2
+  name = Firefly Walker Upgrade - Durability - Tier 2
   category = walkers/firefly/upgrades/tier2
   crafting[]
     ingredients[]
@@ -2026,7 +2026,7 @@
       name = Wood
       count n = 75
 []
-  name = Firefly Walker Upgrade - Armor - Tier 3
+  name = Firefly Walker Upgrade - Durability - Tier 3
   category = walkers/firefly/upgrades/tier3
   crafting[]
     ingredients[]
@@ -2131,7 +2131,7 @@
       name = Worm Silk
       count n = 25
 []
-  name = Firefly Walker Upgrade - Armor - Tier 4
+  name = Firefly Walker Upgrade - Durability - Tier 4
   category = walkers/firefly/upgrades/tier4
   crafting[]
     ingredients[]
@@ -2285,7 +2285,7 @@
       name = Stone
       count n = 10
 []
-  name = Dinghy Walker Upgrade - Armor - Tier 2
+  name = Dinghy Walker Upgrade - Durability - Tier 2
   category = walkers/dinghy/upgrades/tier2
   crafting[]
     ingredients[]
@@ -2381,7 +2381,7 @@
       name = Wood
       count n = 75  
 []
-  name = Dinghy Walker Upgrade - Armor - Tier 3
+  name = Dinghy Walker Upgrade - Durability - Tier 3
   category = walkers/dinghy/upgrades/tier3
   crafting[]
     ingredients[]
@@ -2486,7 +2486,7 @@
       name = Worm Silk
       count n = 25
 []
-  name = Dinghy Walker Upgrade - Armor - Tier 4
+  name = Dinghy Walker Upgrade - Durability - Tier 4
   category = walkers/dinghy/upgrades/tier4
   crafting[]
     ingredients[]
@@ -2631,7 +2631,7 @@
       name = Stone
       count n = 10
 []
-  name = Spider Walker Upgrade - Armor - Tier 1
+  name = Spider Walker Upgrade - Durability - Tier 1
   category = walkers/spider/upgrades/tier1
   crafting[]
     ingredients[]
@@ -2705,7 +2705,7 @@
       name = Stone
       count n = 10
 []
-  name = Spider Walker Upgrade - Armor - Tier 2
+  name = Spider Walker Upgrade - Durability - Tier 2
   category = walkers/spider/upgrades/tier2
   crafting[]
     ingredients[]
@@ -2801,7 +2801,7 @@
       name = Wood
       count n = 75
 []
-  name = Spider Walker Upgrade - Armor - Tier 3
+  name = Spider Walker Upgrade - Durability - Tier 3
   category = walkers/spider/upgrades/tier3
   crafting[]
     ingredients[]
@@ -2906,7 +2906,7 @@
       name = Worm Silk
       count n = 25
 []
-  name = Spider Walker Upgrade - Armor - Tier 4
+  name = Spider Walker Upgrade - Durability - Tier 4
   category = walkers/spider/upgrades/tier4
   crafting[]
     ingredients[]
@@ -3109,7 +3109,7 @@
       name = Palm Leaves
       count n = 32
 []
-  name = Mollusk Walker Upgrade - Armor - Tier 1
+  name = Mollusk Walker Upgrade - Durability - Tier 1
   category = walkers/mollusk/upgrades/tier1
   crafting[]
     ingredients[]
@@ -3199,7 +3199,7 @@
       name = Wood
       count n = 48
 []
-  name = Mollusk Walker Upgrade - Armor - Tier 2
+  name = Mollusk Walker Upgrade - Durability - Tier 2
   category = walkers/mollusk/upgrades/tier2
   crafting[]
     ingredients[]
@@ -3295,7 +3295,7 @@
       name = Bone Glue
       count n = 8
 []
-  name = Mollusk Walker Upgrade - Armor - Tier 3
+  name = Mollusk Walker Upgrade - Durability - Tier 3
   category = walkers/mollusk/upgrades/tier3
   crafting[]
     ingredients[]
@@ -3403,7 +3403,7 @@
       name = Tar
       count n = 64
 []
-  name = Mollusk Walker Upgrade - Armor - Tier 4
+  name = Mollusk Walker Upgrade - Durability - Tier 4
   category = walkers/mollusk/upgrades/tier4
   crafting[]
     ingredients[]
@@ -3554,7 +3554,7 @@
       name = Stone
       count n = 16
 []
-  name = Stiletto Walker Upgrade - Armor - Tier 2
+  name = Stiletto Walker Upgrade - Durability - Tier 2
   category = walkers/stiletto/upgrades/tier2
   crafting[]
     ingredients[]
@@ -3650,7 +3650,7 @@
       name = Wood
       count n = 75
 []
-  name = Stiletto Walker Upgrade - Armor - Tier 3
+  name = Stiletto Walker Upgrade - Durability - Tier 3
   category = walkers/stiletto/upgrades/tier3
   crafting[]
     ingredients[]
@@ -3755,7 +3755,7 @@
       name = Worm Silk
       count n = 40
 []
-  name = Stiletto Walker Upgrade - Armor - Tier 4
+  name = Stiletto Walker Upgrade - Durability - Tier 4
   category = walkers/stiletto/upgrades/tier4
   crafting[]
     ingredients[]
@@ -3931,7 +3931,7 @@
       name = Stone
       count n = 16
 []
-  name = Buffalo Walker Upgrade - Armor - Tier 2
+  name = Buffalo Walker Upgrade - Durability - Tier 2
   category = walkers/buffalo/upgrades/tier2
   crafting[]
     ingredients[]
@@ -4027,7 +4027,7 @@
       name = Wood
       count n = 75
 []
-  name = Buffalo Walker Upgrade - Armor - Tier 3
+  name = Buffalo Walker Upgrade - Durability - Tier 3
   category = walkers/buffalo/upgrades/tier3
   crafting[]
     ingredients[]
@@ -4132,7 +4132,7 @@
       name = Worm Silk
       count n = 40
 []
-  name = Buffalo Walker Upgrade - Armor - Tier 4
+  name = Buffalo Walker Upgrade - Durability - Tier 4
   category = walkers/buffalo/upgrades/tier4
   crafting[]
     ingredients[]
@@ -4347,7 +4347,7 @@
       name = Stone
       count n = 16
 []
-  name = Toboggan Walker Upgrade - Armor - Tier 2
+  name = Toboggan Walker Upgrade - Durability - Tier 2
   category = walkers/toboggan/upgrades/tier2
   crafting[]
     ingredients[]
@@ -4459,7 +4459,7 @@
       name = Bone Glue
       count n = 8
 []
-  name = Toboggan Walker Upgrade - Armor - Tier 3
+  name = Toboggan Walker Upgrade - Durability - Tier 3
   category = walkers/toboggan/upgrades/tier3
   crafting[]
     ingredients[]
@@ -4567,7 +4567,7 @@
       name = Tar
       count n = 64
 []
-  name = Toboggan Walker Upgrade - Armor - Tier 4
+  name = Toboggan Walker Upgrade - Durability - Tier 4
   category = walkers/toboggan/upgrades/tier4
   crafting[]
     ingredients[]
@@ -4727,7 +4727,7 @@
       name = Stone
       count n = 16
 []
-  name = Hornet Walker Upgrade - Armor - Tier 2
+  name = Hornet Walker Upgrade - Durability - Tier 2
   category = walkers/hornet/upgrades/tier2
   crafting[]
     ingredients[]
@@ -4823,7 +4823,7 @@
       name = Wood
       count n = 75
 []
-  name = Hornet Walker Upgrade - Armor - Tier 3
+  name = Hornet Walker Upgrade - Durability - Tier 3
   category = walkers/hornet/upgrades/tier3
   crafting[]
     ingredients[]
@@ -4928,7 +4928,7 @@
       name = Worm Silk
       count n = 40
 []
-  name = Hornet Walker Upgrade - Armor - Tier 4
+  name = Hornet Walker Upgrade - Durability - Tier 4
   category = walkers/hornet/upgrades/tier4
   crafting[]
     ingredients[]
@@ -5143,7 +5143,7 @@
       name = Stone
       count n = 16
 []
-  name = Falco Walker Upgrade - Armor - Tier 2
+  name = Falco Walker Upgrade - Durability - Tier 2
   category = walkers/falco/upgrades/tier2
   crafting[]
     ingredients[]
@@ -5239,7 +5239,7 @@
       name = Wood
       count n = 75
 []
-  name = Falco Walker Upgrade - Armor - Tier 3
+  name = Falco Walker Upgrade - Durability - Tier 3
   category = walkers/falco/upgrades/tier3
   crafting[]
     ingredients[]
@@ -5344,7 +5344,7 @@
       name = Worm Silk
       count n = 40
 []
-  name = Falco Walker Upgrade - Armor - Tier 4
+  name = Falco Walker Upgrade - Durability - Tier 4
   category = walkers/falco/upgrades/tier4
   crafting[]
     ingredients[]
@@ -5565,7 +5565,7 @@
       name = Stone
       count n = 25
 []
-  name = Schmetterling Walker Upgrade - Armor - Tier 2
+  name = Schmetterling Walker Upgrade - Durability - Tier 2
   category = walkers/schmetterling/upgrades/tier2
   crafting[]
     ingredients[]
@@ -5661,7 +5661,7 @@
       name = Wood
       count n = 188
 []
-  name = Schmetterling Walker Upgrade - Armor - Tier 3
+  name = Schmetterling Walker Upgrade - Durability - Tier 3
   category = walkers/schmetterling/upgrades/tier3
   crafting[]
     ingredients[]
@@ -5766,7 +5766,7 @@
       name = Worm Silk
       count n = 50
 []
-  name = Schmetterling Walker Upgrade - Armor - Tier 4
+  name = Schmetterling Walker Upgrade - Durability - Tier 4
   category = walkers/schmetterling/upgrades/tier4
   crafting[]
     ingredients[]
@@ -5990,7 +5990,7 @@
       name = Stone
       count n = 25
 []
-  name = Tusker Walker Upgrade - Armor - Tier 2
+  name = Tusker Walker Upgrade - Durability - Tier 2
   category = walkers/tusker/upgrades/tier2
   crafting[]
     ingredients[]
@@ -6086,7 +6086,7 @@
       name = Wood
       count n = 188
 []
-  name = Tusker Walker Upgrade - Armor - Tier 3
+  name = Tusker Walker Upgrade - Durability - Tier 3
   category = walkers/tusker/upgrades/tier3
   crafting[]
     ingredients[]
@@ -6191,7 +6191,7 @@
       name = Worm Silk
       count n = 50
 []
-  name = Tusker Walker Upgrade - Armor - Tier 4
+  name = Tusker Walker Upgrade - Durability - Tier 4
   category = walkers/tusker/upgrades/tier4
   crafting[]
     ingredients[]
@@ -6479,7 +6479,7 @@
       name = Stone
       count n = 25
 []
-  name = Titan Walker Upgrade - Armor - Tier 2
+  name = Titan Walker Upgrade - Durability - Tier 2
   category = walkers/titan/upgrades/tier2
   crafting[]
     ingredients[]
@@ -6575,7 +6575,7 @@
       name = Wood
       count n = 188
 []
-  name = Titan Walker Upgrade - Armor - Tier 3
+  name = Titan Walker Upgrade - Durability - Tier 3
   category = walkers/titan/upgrades/tier3
   crafting[]
     ingredients[]
@@ -6680,7 +6680,7 @@
       name = Worm Silk
       count n = 50
 []
-  name = Titan Walker Upgrade - Armor - Tier 4
+  name = Titan Walker Upgrade - Durability - Tier 4
   category = walkers/titan/upgrades/tier4
   crafting[]
     ingredients[]
