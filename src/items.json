@@ -4671,6 +4671,28 @@
     ]
   },
   {
+    "name": "Throwing Net",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Fiber",
+            "count": 20
+          },
+          {
+            "name": "Stone",
+            "count": 4
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Torch",
     "category": "items/weapons",
     "crafting": [
