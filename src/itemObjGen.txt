@@ -5556,7 +5556,7 @@
       name = Stone
       count n = 20
 []
-  name = Schmetterling Walker Upgrade - Armor - Tier 1
+  name = Schmetterling Walker Upgrade - Durability - Tier 1
   category = walkers/schmetterling/upgrades/tier1
   crafting[]
     ingredients[]
