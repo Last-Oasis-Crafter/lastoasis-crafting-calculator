@@ -9948,6 +9948,138 @@
     ]
   },
   {
+    "name": "Schmetterling Walker Upgrade - Cargo - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 75
+          },
+          {
+            "name": "Fiber",
+            "count": 50
+          },
+          {
+            "name": "Stone",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Durability - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 100
+          },
+          {
+            "name": "Stone",
+            "count": 100
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Gear - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 55
+          },
+          {
+            "name": "Fiber",
+            "count": 45
+          },
+          {
+            "name": "Stone",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Mobility - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 88
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 38
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Torque - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 80
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Rope",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Upgrade - Water - Tier 1",
+    "category": "walkers/schmetterling/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 75
+          },
+          {
+            "name": "Fiber",
+            "count": 63
+          },
+          {
+            "name": "Hide",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Schmetterling Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/schmetterling/upgrades/tier2",
     "crafting": [
