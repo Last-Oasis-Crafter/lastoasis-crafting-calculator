@@ -671,11 +671,11 @@
           },
           {
             "name": "Nomad Cloth",
-            "count": 22
+            "count": 6
           },
           {
             "name": "Clay",
-            "count": 8
+            "count": 5
           },
           {
             "name": "Stone",
@@ -715,7 +715,7 @@
         "ingredients": [
           {
             "name": "Nomad Cloth",
-            "count": 8
+            "count": 2
           },
           {
             "name": "Fiber",
@@ -723,7 +723,7 @@
           },
           {
             "name": "Earth Wax",
-            "count": 4
+            "count": 2
           },
           {
             "name": "Stone",
@@ -741,11 +741,11 @@
         "ingredients": [
           {
             "name": "Wood Shaft",
-            "count": 2
+            "count": 1
           },
           {
             "name": "Rupu Pelt",
-            "count": 4
+            "count": 2
           },
           {
             "name": "Fiber",

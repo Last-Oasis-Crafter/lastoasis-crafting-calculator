@@ -7485,10 +7485,10 @@
   crafting[]
     ingredients[]
       name = Wood Shaft
-      count n = 2
+      count n = 1
     ingredients[]
       name = Rupu Pelt
-      count n = 4
+      count n = 2
     ingredients[]
       name = Fiber
       count n = 15
@@ -7498,13 +7498,13 @@
   crafting[]
     ingredients[]
       name = Nomad Cloth
-      count n = 8
+      count n = 2
     ingredients[]
       name = Fiber
       count n = 90
     ingredients[]
       name = Earth Wax
-      count n = 4
+      count n = 2
     ingredients[]
       name = Stone
       count n = 15
@@ -7543,10 +7543,10 @@
       count n = 5
     ingredients[]
       name = Nomad Cloth
-      count n = 22
+      count n = 6
     ingredients[]
       name = Clay
-      count n = 8
+      count n = 5
     ingredients[]
       name = Stone
       count n = 80
