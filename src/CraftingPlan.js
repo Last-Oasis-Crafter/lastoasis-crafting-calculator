@@ -12,7 +12,7 @@ export default function CraftingPlan ({ items, dispatch }) {
           'max-width': '600px'
         }}>
         Crafting:
-        <Button content='Clear All' floated='right' size='mini' compact onClick={e => dispatch({ type: 'REMOVE_ALL' })} />
+        <Button id='clearAll' content='Clear All' floated='right' size='mini' compact onClick={e => dispatch({ type: 'REMOVE_ALL' })} />
       </Header>
       <Accordion styled>
         {items.map((item, index) =>

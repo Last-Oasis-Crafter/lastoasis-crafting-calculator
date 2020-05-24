@@ -52,4 +52,9 @@
 
 .recipe .icon {
   font-size: 16px !important;
+  color: white;
+}
+
+.recipe, .recipe .header {
+  color: #ddd;
 }

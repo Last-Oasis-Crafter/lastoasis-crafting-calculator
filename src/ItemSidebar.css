@@ -16,3 +16,19 @@
   font-size: 24px !important;
   z-index: 1000;
 }
+
+input[type=text],
+textarea,
+.ui.input>input,
+.ui.input>i {
+  background-color: #333;
+  color: #ccc;
+}
+
+input[type=text]:focus,
+textarea:focus,
+.ui.input>input:focus,
+.ui.input>i:focus {
+  background-color: #ddd;
+  color: #222;
+}
