@@ -20,7 +20,8 @@ export default function CraftingPlan ({ items, dispatch }) {
             key={item.name}
             item={item}
             dispatch={dispatch}
-            index={index} />
+            index={index}
+            defaultActive={index === 0} />
         )}
       </Accordion>
     </Segment >
