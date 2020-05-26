@@ -4066,7 +4066,7 @@
       name = Ceramic Shard
       count n = 48
     ingredients[]
-      name = Rupu Pelt
+      name = Rupu Vine
       count n = 56
     ingredients[]
       name = Rope
