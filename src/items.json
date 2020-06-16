@@ -7104,6 +7104,138 @@
     ]
   },
   {
+    "name": "Falco Walker Upgrade - Cargo - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 48
+          },
+          {
+            "name": "Fiber",
+            "count": 32
+          },
+          {
+            "name": "Stone",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Durability - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 64
+          },
+          {
+            "name": "Stone",
+            "count": 64
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Gear - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 36
+          },
+          {
+            "name": "Fiber",
+            "count": 32
+          },
+          {
+            "name": "Stone",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Mobility - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 56
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 24
+          },
+          {
+            "name": "Palm Leaves",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Torque - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 52
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 13
+          },
+          {
+            "name": "Rope",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Upgrade - Water - Tier 1",
+    "category": "walkers/falco/upgrades/tier1",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 48
+          },
+          {
+            "name": "Fiber",
+            "count": 40
+          },
+          {
+            "name": "Hide",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Falco Walker Upgrade - Cargo - Tier 2",
     "category": "walkers/falco/upgrades/tier2",
     "crafting": [
@@ -13072,7 +13204,7 @@
       {
         "ingredients": [
           {
-            "name": "Iron ingot",
+            "name": "Iron Ingot",
             "count": 45
           },
           {
