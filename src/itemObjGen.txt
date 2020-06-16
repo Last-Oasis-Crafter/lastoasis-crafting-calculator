@@ -4571,7 +4571,7 @@
   category = walkers/toboggan/upgrades/tier4
   crafting[]
     ingredients[]
-      name = Iron ingot
+      name = Iron Ingot
       count n = 45
     ingredients[]
       name = Ceramic Shard
@@ -5094,6 +5094,84 @@
     ingredients[]
       name = Hide
       count n = 120
+[]
+  name = Falco Walker Upgrade - Water - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Falco Walker Upgrade - Gear - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Falco Walker Upgrade - Cargo - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Falco Walker Upgrade - Mobility - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Palm Leaves
+      count n = 32
+[]
+  name = Falco Walker Upgrade - Durability - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Falco Walker Upgrade - Torque - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 7
 []
   name = Falco Walker Upgrade - Cargo - Tier 2
   category = walkers/falco/upgrades/tier2
