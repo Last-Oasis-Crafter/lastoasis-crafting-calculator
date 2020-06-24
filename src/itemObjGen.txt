@@ -153,6 +153,9 @@
   name = Iron Ore
   category = materials
 []
+  name = Lava
+  category = materials
+[]
   name = Mushroom Flesh
   category = materials
 []
@@ -1427,7 +1430,7 @@
       count n = 12
 []
   name = Advanced Pickaxe
-  category = items/weapons
+  category = items/weapons/tools/pickaxes
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -1440,7 +1443,7 @@
       count n = 2
 []
   name = Master Pickaxe
-  category = items/weapons
+  category = items/weapons/tools/pickaxes
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -1755,20 +1758,29 @@
       count n = 400
     ingredients[]
       name = Nomad Cloth
-      count n = 10
+      count n = 35
     ingredients[]
-      name = Bone Splinter
-      count n = 20
+      name = Rope
+      count n = 30
+    ingredients[]
+      name = Iron Ore
+      count n = 4
 []
   name = Sawblade Tool
   category = walkers/tools
   crafting[]
     ingredients[]
       name = Wood Shaft
-      count n = 40
+      count n = 60
     ingredients[]
       name = Bone Splinter
-      count n = 50
+      count n = 100
+    ingredients[]
+      name = Rope
+      count n = 20
+    ingredients[]
+      name = Iron Ore
+      count n = 2
 []
   name = Long Sawblade
   category = walkers/tools
@@ -1779,6 +1791,12 @@
     ingredients[]
       name = Wood
       count n = 2000
+    ingredients[]
+      name = Bone Splinter
+      count n = 400
+    ingredients[]
+      name = Iron Ore
+      count n = 5
 []
   name = Steering Levers
   category = walkers/tools
@@ -6893,6 +6911,431 @@
       name = Redwood Wood
       count n = 300
 []
+  name = Domus Walker Body
+  category = walkers/domus
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 4110
+    ingredients[]
+      name = Fiber
+      count n = 1350
+    ingredients[]
+      name = Stone
+      count n = 510
+    ingredients[]
+      name = Rope
+      count n = 140
+    ingredients[]
+      name = Wood Shaft
+      count n = 235
+    ingredients[]
+      name = Obsidian
+      count n = 90
+    ingredients[]
+      name = Bone Glue
+      count n = 9
+[]
+  name = Domus Walker Legs (1 of 2)
+  category = walkers/domus/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1000
+    ingredients[]
+      name = Wood Shaft
+      count n = 124
+    ingredients[]
+      name = Earth Wax
+      count n = 146
+[]
+  name = Armored Domus Walker Legs (1 of 2)
+  category = walkers/domus/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 420
+    ingredients[]
+      name = Wood Shaft
+      count n = 410
+    ingredients[]
+      name = Ceramic Shard
+      count n = 136
+    ingredients[]
+      name = Tar
+      count n = 22
+[]
+  name = Heavy Domus Walker Legs (1 of 2)
+  category = walkers/domus/parts/legs
+  crafting[]
+    ingredients[]
+      name = Worm Silk
+      count n = 59
+    ingredients[]
+      name = Reinforced Plank
+      count n = 27
+    ingredients[]
+      name = Worm Scale
+      count n = 8
+[]
+  name = Domus Walker Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 360
+    ingredients[]
+      name = Rope
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 15
+[]
+  name = Domus Walker Large Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 195
+    ingredients[]
+      name = Worm Silk
+      count n = 112
+    ingredients[]
+      name = Worm Scale
+      count n = 7
+[]
+  name = Domus Walker Medium Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 310
+    ingredients[]
+      name = Worm Silk
+      count n = 36
+    ingredients[]
+      name = Nomad Cloth
+      count n = 35
+[]
+  name = Domus Walker Small Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 160
+    ingredients[]
+      name = Nomad Cloth
+      count n = 19
+    ingredients[]
+      name = Hide
+      count n = 48
+[]
+  name = Domus Walker Upgrade - Cargo - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 188
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Domus Walker Upgrade - Water - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Hide
+      count n = 38
+    ingredients[]
+      name = Wood
+      count n = 38
+[]
+  name = Domus Walker Upgrade - Gear - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Domus Walker Upgrade - Durability - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 75
+    ingredients[]
+      name = Fiber Weave
+      count n = 38
+    ingredients[]
+      name = Rupu Pelt
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Domus Walker Upgrade - Mobility - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 75
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Domus Walker Upgrade - Torque - Tier 2
+  category = walkers/domus/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 163
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Rope
+      count n = 30
+[]
+  name = Domus Walker Upgrade - Cargo - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 88
+    ingredients[]
+      name = Stone
+      count n = 200
+[]
+  name = Domus Walker Upgrade - Water - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 113
+    ingredients[]
+      name = Wood
+      count n = 213
+    ingredients[]
+      name = Fiber Weave
+      count n = 88
+[]
+  name = Domus Walker Upgrade - Gear - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Earth Wax
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 188
+[]
+  name = Domus Walker Upgrade - Durability - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 113
+    ingredients[]
+      name = Redwood Wood
+      count n = 125
+    ingredients[]
+      name = Bone Glue
+      count n = 10
+    ingredients[]
+      name = Chitin Plate
+      count n = 25
+[]
+  name = Domus Walker Upgrade - Mobility - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 200
+    ingredients[]
+      name = Bone Glue
+      count n = 13
+[]
+  name = Domus Walker Upgrade - Torque - Tier 3
+  category = walkers/domus/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 75
+    ingredients[]
+      name = Rupu Vine
+      count n = 88
+    ingredients[]
+      name = Rope
+      count n = 63
+    ingredients[]
+      name = Wood
+      count n = 200
+[]
+  name = Domus Walker Upgrade - Cargo - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 70
+    ingredients[]
+      name = Bone Glue
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 63
+[]
+  name = Domus Walker Upgrade - Water - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 63
+    ingredients[]
+      name = Redwood Wood
+      count n = 200
+    ingredients[]
+      name = Rupu Gel
+      count n = 75
+    ingredients[]
+      name = Bone Glue
+      count n = 38
+[]
+  name = Domus Walker Upgrade - Gear - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 88
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 275
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+[]
+  name = Domus Walker Upgrade - Durability - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 70
+    ingredients[]
+      name = Ceramic Shard
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 88
+    ingredients[]
+      name = Nomad Cloth
+      count n = 150
+    ingredients[]
+      name = Obsidian
+      count n = 13
+[]
+  name = Domus Walker Upgrade - Mobility - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 35
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 100
+[]
+  name = Domus Walker Upgrade - Torque - Tier 4
+  category = walkers/domus/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Chitin Plate
+      count n = 95
+    ingredients[]
+      name = Reinforced Plank
+      count n = 25
+    ingredients[]
+      name = Ceramic Shard
+      count n = 125
+    ingredients[]
+      name = Redwood Wood
+      count n = 300
+[]
   name = Reinforced Plank
   category = materials
   crafting[]
@@ -8581,3 +9024,226 @@
     ingredients[]
       name = Aloe
       count n = 20
+[]
+  name = Obsidian Flask
+  category = items/gear/bottles
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 10
+    ingredients[]
+      name = Ash
+      count n = 50
+    ingredients[]
+      name = Fiber
+      count n = 50
+[]
+  name = Firestone Bludgeon
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Lava
+      count n = 15
+    ingredients[]
+      name = Stone
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+[]
+  name = Firestone Kopesh
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 22
+    ingredients[]
+      name = Lava
+      count n = 15
+    ingredients[]
+      name = Stone
+      count n = 22
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+[]
+  name = Firestone Longblade
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 28
+    ingredients[]
+      name = Lava
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+[]
+  name = Firebomb
+  category = items/weapons/explosive
+  crafting[]
+    ingredients[]
+      name = Beeswax
+      count n = 4
+    ingredients[]
+      name = Lava
+      count n = 3
+    ingredients[]
+      name = Feather
+      count n = 1
+[]
+  name = Fire Bomb
+  category = items/ammo/ammunition/projectiles/catapult
+  crafting[]
+    ingredients[]
+      name = Stone
+      count n = 20
+    ingredients[]
+      name = Lava
+      count n = 8
+    ingredients[]
+      name = Feather
+      count n = 5
+    station = Camp Fire
+[]
+  name = Floating Mine
+  category = items/ammo/ammunition/projectiles/repeater
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Feather
+      count n = 32
+    ingredients[]
+      name = Lava
+      count n = 12
+[]
+  name = Explosive Dart
+  category = items/ammo/ammunition/projectiles/repeater/explosive
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Feather
+      count n = 16
+    ingredients[]
+      name = Lava
+      count n = 6
+[]
+  name = Explosive Bolt
+  category = items/ammo/ammunition/projectiles/ballista/explosive
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 3
+    ingredients[]
+      name = Lava
+      count n = 2
+    ingredients[]
+      name = Feather
+      count n = 6
+[]
+  name = Obsidian Canister
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 100
+    ingredients[]
+      name = Nomad Cloth
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 20
+[]
+  name = Obsidian Pot
+  category = buildings/construction/container
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 38
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Redwood Wood
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 20
+[]
+  name = Firestone Axe
+  category = items/weapons/tools/axe
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Lava
+      count n = 15
+    ingredients[]
+      name = Stone
+      count n = 28
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+[]
+  name = Firestone Battleaxe
+  category = items/weapons/tools/axe
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Lava
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+[]
+  name = Firestone Bozdogan
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 22
+    ingredients[]
+      name = Lava
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+[]
+  name = Firestone Hammerstaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Lava
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 7
