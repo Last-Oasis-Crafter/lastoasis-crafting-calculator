@@ -1,5 +1,372 @@
 [
   {
+    "name": "Explosive Bolt",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 3
+          },
+          {
+            "name": "Lava",
+            "count": 2
+          },
+          {
+            "name": "Feather",
+            "count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Explosive Dart",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 16
+          },
+          {
+            "name": "Lava",
+            "count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fire Bomb",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firebomb",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Beeswax",
+            "count": 4
+          },
+          {
+            "name": "Lava",
+            "count": 3
+          },
+          {
+            "name": "Feather",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Axe",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 28
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Battleaxe",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Bludgeon",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Bozdogan",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 22
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Hammerstaff",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 7,
+            "": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Kopesh",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 22
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 22
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Longblade",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 28
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Floating Mine",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 32
+          },
+          {
+            "name": "Lava",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Canister",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 100
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 50
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Flask",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 10
+          },
+          {
+            "name": "Ash",
+            "count": 50
+          },
+          {
+            "name": "Fiber",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Pot",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 38
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 30
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Barrier Base",
     "category": "buildings/construction/barrier",
     "crafting": [
@@ -5374,6 +5741,10 @@
   },
   {
     "name": "Iron Ore",
+    "category": "materials"
+  },
+  {
+    "name": "Lava",
     "category": "materials"
   },
   {
@@ -13360,6 +13731,14 @@
           {
             "name": "Wood",
             "count": 2000
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 400
+          },
+          {
+            "name": "Iron Ore",
+            "count": 5
           }
         ]
       }
@@ -13373,11 +13752,19 @@
         "ingredients": [
           {
             "name": "Wood Shaft",
-            "count": 40
+            "count": 60
           },
           {
             "name": "Bone Splinter",
-            "count": 50
+            "count": 100
+          },
+          {
+            "name": "Rope",
+            "count": 20
+          },
+          {
+            "name": "Iron Ore",
+            "count": 2
           }
         ]
       }
@@ -13413,11 +13800,15 @@
           },
           {
             "name": "Nomad Cloth",
-            "count": 10
+            "count": 35
           },
           {
-            "name": "Bone Splinter",
-            "count": 20
+            "name": "Rope",
+            "count": 30
+          },
+          {
+            "name": "Iron Ore",
+            "count": 4
           }
         ]
       }
