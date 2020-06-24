@@ -1430,7 +1430,7 @@
       count n = 12
 []
   name = Advanced Pickaxe
-  category = items/weapons
+  category = items/weapons/tools/pickaxes
   crafting[]
     ingredients[]
       name = Ceramic Shard
@@ -1443,7 +1443,7 @@
       count n = 2
 []
   name = Master Pickaxe
-  category = items/weapons
+  category = items/weapons/tools/pickaxes
   crafting[]
     ingredients[]
       name = Iron Ingot
@@ -9026,7 +9026,7 @@
       count n = 20
 []
   name = Obsidian Flask
-  category = 
+  category = items/gear/bottles
   crafting[]
     ingredients[]
       name = Obsidian
@@ -9039,7 +9039,7 @@
       count n = 50
 []
   name = Firestone Bludgeon
-  category = 
+  category = items/weapons
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9055,7 +9055,7 @@
       count n = 5
 []
   name = Firestone Kopesh
-  category = 
+  category = items/weapons
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9071,7 +9071,7 @@
       count n = 5
 []
   name = Firestone Longblade
-  category = 
+  category = items/weapons
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9087,7 +9087,7 @@
       count n = 8
 []
   name = Firebomb
-  category = 
+  category = items/weapons/explosive
   crafting[]
     ingredients[]
       name = Beeswax
@@ -9100,7 +9100,7 @@
       count n = 1
 []
   name = Fire Bomb
-  category = 
+  category = items/ammo/ammunition/projectiles/catapult
   crafting[]
     ingredients[]
       name = Stone
@@ -9114,7 +9114,7 @@
     station = Camp Fire
 []
   name = Floating Mine
-  category = 
+  category = items/ammo/ammunition/projectiles/repeater
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9127,7 +9127,7 @@
       count n = 12
 []
   name = Explosive Dart
-  category = 
+  category = items/ammo/ammunition/projectiles/repeater/explosive
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9140,7 +9140,7 @@
       count n = 6
 []
   name = Explosive Bolt
-  category = 
+  category = items/ammo/ammunition/projectiles/ballista/explosive
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9153,7 +9153,7 @@
       count n = 6
 []
   name = Obsidian Canister
-  category = 
+  category = buildings/construction/container
   crafting[]
     ingredients[]
       name = Obsidian
@@ -9169,7 +9169,7 @@
       count n = 20
 []
   name = Obsidian Pot
-  category = 
+  category = buildings/construction/container
   crafting[]
     ingredients[]
       name = Obsidian
@@ -9185,7 +9185,7 @@
       count n = 20
 []
   name = Firestone Axe
-  category = 
+  category = items/weapons/tools/axe
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9201,7 +9201,7 @@
       count n = 5
 []
   name = Firestone Battleaxe
-  category = 
+  category = items/weapons/tools/axe
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9217,7 +9217,7 @@
       count n = 8
 []
   name = Firestone Bozdogan
-  category = 
+  category = items/weapons
   crafting[]
     ingredients[]
       name = Wood Shaft
@@ -9233,7 +9233,7 @@
       count n = 8
 []
   name = Firestone Hammerstaff
-  category = 
+  category = items/weapons
   crafting[]
     ingredients[]
       name = Wood Shaft

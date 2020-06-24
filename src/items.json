@@ -1,372 +1,5 @@
 [
   {
-    "name": "Explosive Bolt",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 3
-          },
-          {
-            "name": "Lava",
-            "count": 2
-          },
-          {
-            "name": "Feather",
-            "count": 6
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Explosive Dart",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 8
-          },
-          {
-            "name": "Feather",
-            "count": 16
-          },
-          {
-            "name": "Lava",
-            "count": 6
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Fire Bomb",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Stone",
-            "count": 20
-          },
-          {
-            "name": "Lava",
-            "count": 8
-          },
-          {
-            "name": "Feather",
-            "count": 5
-          }
-        ],
-        "station": "Camp Fire"
-      }
-    ]
-  },
-  {
-    "name": "Firebomb",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Beeswax",
-            "count": 4
-          },
-          {
-            "name": "Lava",
-            "count": 3
-          },
-          {
-            "name": "Feather",
-            "count": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Axe",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 20
-          },
-          {
-            "name": "Lava",
-            "count": 15
-          },
-          {
-            "name": "Stone",
-            "count": 28
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Battleaxe",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 25
-          },
-          {
-            "name": "Lava",
-            "count": 18
-          },
-          {
-            "name": "Stone",
-            "count": 30
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Bludgeon",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 20
-          },
-          {
-            "name": "Lava",
-            "count": 15
-          },
-          {
-            "name": "Stone",
-            "count": 30
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Bozdogan",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 22
-          },
-          {
-            "name": "Lava",
-            "count": 18
-          },
-          {
-            "name": "Stone",
-            "count": 32
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Hammerstaff",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 25
-          },
-          {
-            "name": "Lava",
-            "count": 18
-          },
-          {
-            "name": "Stone",
-            "count": 32
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 7
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Kopesh",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 22
-          },
-          {
-            "name": "Lava",
-            "count": 15
-          },
-          {
-            "name": "Stone",
-            "count": 22
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Firestone Longblade",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 28
-          },
-          {
-            "name": "Lava",
-            "count": 18
-          },
-          {
-            "name": "Stone",
-            "count": 30
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 8
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Floating Mine",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood Shaft",
-            "count": 8
-          },
-          {
-            "name": "Feather",
-            "count": 32
-          },
-          {
-            "name": "Lava",
-            "count": 12
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Obsidian Canister",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Obsidian",
-            "count": 100
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 50
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 65
-          },
-          {
-            "name": "Chitin Plate",
-            "count": 20
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Obsidian Flask",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Obsidian",
-            "count": 10
-          },
-          {
-            "name": "Ash",
-            "count": 50
-          },
-          {
-            "name": "Fiber",
-            "count": 50
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Obsidian Pot",
-    "category": "",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Obsidian",
-            "count": 38
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 10
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 30
-          },
-          {
-            "name": "Rupu Vine",
-            "count": 20
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Barrier Base",
     "category": "buildings/construction/barrier",
     "crafting": [
@@ -1095,6 +728,58 @@
           {
             "name": "Stone",
             "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Canister",
+    "category": "buildings/construction/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 100
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 50
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Obsidian Pot",
+    "category": "buildings/construction/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 38
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 30
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 20
           }
         ]
       }
@@ -2811,6 +2496,28 @@
     ]
   },
   {
+    "name": "Explosive Bolt",
+    "category": "items/ammo/ammunition/projectiles/ballista/explosive",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 3
+          },
+          {
+            "name": "Lava",
+            "count": 2
+          },
+          {
+            "name": "Feather",
+            "count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Catapult Boulder",
     "category": "items/ammo/ammunition/projectiles/catapult",
     "crafting": [
@@ -2829,6 +2536,29 @@
             "count": 18
           }
         ]
+      }
+    ]
+  },
+  {
+    "name": "Fire Bomb",
+    "category": "items/ammo/ammunition/projectiles/catapult",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Stone",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 5
+          }
+        ],
+        "station": "Camp Fire"
       }
     ]
   },
@@ -2893,6 +2623,50 @@
           {
             "name": "Stone",
             "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Floating Mine",
+    "category": "items/ammo/ammunition/projectiles/repeater",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 32
+          },
+          {
+            "name": "Lava",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Explosive Dart",
+    "category": "items/ammo/ammunition/projectiles/repeater/explosive",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          },
+          {
+            "name": "Feather",
+            "count": 16
+          },
+          {
+            "name": "Lava",
+            "count": 6
           }
         ]
       }
@@ -3956,6 +3730,28 @@
     ]
   },
   {
+    "name": "Obsidian Flask",
+    "category": "items/gear/bottles",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 10
+          },
+          {
+            "name": "Ash",
+            "count": 50
+          },
+          {
+            "name": "Fiber",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Split Bone Bottle",
     "category": "items/gear/bottles",
     "crafting": [
@@ -4362,28 +4158,6 @@
     ]
   },
   {
-    "name": "Advanced Pickaxe",
-    "category": "items/weapons",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Ceramic Shard",
-            "count": 12
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 20
-          },
-          {
-            "name": "Bone Glue",
-            "count": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Beat Stick",
     "category": "items/weapons",
     "crafting": [
@@ -4462,6 +4236,136 @@
           {
             "name": "Rupu Vine",
             "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Bludgeon",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Bozdogan",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 22
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Hammerstaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Kopesh",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 22
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 22
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Longblade",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 28
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
           }
         ]
       }
@@ -4606,28 +4510,6 @@
           {
             "name": "Stone",
             "count": 70
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Master Pickaxe",
-    "category": "items/weapons",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Iron Ingot",
-            "count": 3
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 28
-          },
-          {
-            "name": "Nomad Cloth",
-            "count": 1
           }
         ]
       }
@@ -5226,6 +5108,80 @@
     ]
   },
   {
+    "name": "Firebomb",
+    "category": "items/weapons/explosive",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Beeswax",
+            "count": 4
+          },
+          {
+            "name": "Lava",
+            "count": 3
+          },
+          {
+            "name": "Feather",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Axe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Lava",
+            "count": 15
+          },
+          {
+            "name": "Stone",
+            "count": 28
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Firestone Battleaxe",
+    "category": "items/weapons/tools/axe",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Advanced Hatchet",
     "category": "items/weapons/tools/axes",
     "crafting": [
@@ -5381,6 +5337,50 @@
           },
           {
             "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Advanced Pickaxe",
+    "category": "items/weapons/tools/pickaxes",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 12
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 20
+          },
+          {
+            "name": "Bone Glue",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Master Pickaxe",
+    "category": "items/weapons/tools/pickaxes",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 3
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 28
+          },
+          {
+            "name": "Nomad Cloth",
             "count": 1
           }
         ]
