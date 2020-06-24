@@ -61,7 +61,8 @@
             "name": "Feather",
             "count": 5
           }
-        ]
+        ],
+        "station": "Camp Fire"
       }
     ]
   },
@@ -211,8 +212,7 @@
           },
           {
             "name": "Nomad Cloth",
-            "count": 7,
-            "": {}
+            "count": 7
           }
         ]
       }
@@ -7285,6 +7285,694 @@
           {
             "name": "Bone Glue",
             "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Body",
+    "category": "walkers/domus",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 4110
+          },
+          {
+            "name": "Fiber",
+            "count": 1350
+          },
+          {
+            "name": "Stone",
+            "count": 510
+          },
+          {
+            "name": "Rope",
+            "count": 140
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 235
+          },
+          {
+            "name": "Obsidian",
+            "count": 90
+          },
+          {
+            "name": "Bone Glue",
+            "count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Armored Domus Walker Legs (1 of 2)",
+    "category": "walkers/domus/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 420
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 410
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 136
+          },
+          {
+            "name": "Tar",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Legs (1 of 2)",
+    "category": "walkers/domus/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1000
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 124
+          },
+          {
+            "name": "Earth Wax",
+            "count": 146
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavy Domus Walker Legs (1 of 2)",
+    "category": "walkers/domus/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Worm Silk",
+            "count": 59
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 27
+          },
+          {
+            "name": "Worm Scale",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Large Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 195
+          },
+          {
+            "name": "Worm Silk",
+            "count": 112
+          },
+          {
+            "name": "Worm Scale",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Medium Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 310
+          },
+          {
+            "name": "Worm Silk",
+            "count": 36
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Small Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 160
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 19
+          },
+          {
+            "name": "Hide",
+            "count": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 360
+          },
+          {
+            "name": "Rope",
+            "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Cargo - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 38
+          },
+          {
+            "name": "Fiber",
+            "count": 250
+          },
+          {
+            "name": "Wood",
+            "count": 188
+          },
+          {
+            "name": "Stone",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Durability - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 75
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 38
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 65
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Gear - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 20
+          },
+          {
+            "name": "Fiber",
+            "count": 250
+          },
+          {
+            "name": "Wood",
+            "count": 200
+          },
+          {
+            "name": "Stone",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Mobility - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 50
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 75
+          },
+          {
+            "name": "Earth Wax",
+            "count": 25
+          },
+          {
+            "name": "Wood",
+            "count": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Torque - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 38
+          },
+          {
+            "name": "Fiber",
+            "count": 163
+          },
+          {
+            "name": "Wood",
+            "count": 150
+          },
+          {
+            "name": "Rope",
+            "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Water - Tier 2",
+    "category": "walkers/domus/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 25
+          },
+          {
+            "name": "Fiber",
+            "count": 250
+          },
+          {
+            "name": "Hide",
+            "count": 38
+          },
+          {
+            "name": "Wood",
+            "count": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Cargo - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 63
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 30
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 88
+          },
+          {
+            "name": "Stone",
+            "count": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Durability - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 113
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 125
+          },
+          {
+            "name": "Bone Glue",
+            "count": 10
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Gear - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 63
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 25
+          },
+          {
+            "name": "Earth Wax",
+            "count": 100
+          },
+          {
+            "name": "Wood",
+            "count": 188
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Mobility - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 100
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 10
+          },
+          {
+            "name": "Earth Wax",
+            "count": 200
+          },
+          {
+            "name": "Bone Glue",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Torque - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 75
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 88
+          },
+          {
+            "name": "Rope",
+            "count": 63
+          },
+          {
+            "name": "Wood",
+            "count": 200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Water - Tier 3",
+    "category": "walkers/domus/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 50
+          },
+          {
+            "name": "Hide",
+            "count": 113
+          },
+          {
+            "name": "Wood",
+            "count": 213
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Cargo - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 25
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 70
+          },
+          {
+            "name": "Bone Glue",
+            "count": 30
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 150
+          },
+          {
+            "name": "Worm Silk",
+            "count": 63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Durability - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 70
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 300
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 88
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 150
+          },
+          {
+            "name": "Obsidian",
+            "count": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Gear - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 25
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 88
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 50
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 275
+          },
+          {
+            "name": "Worm Silk",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Mobility - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 38
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 35
+          },
+          {
+            "name": "Worm Silk",
+            "count": 50
+          },
+          {
+            "name": "Bone Glue",
+            "count": 65
+          },
+          {
+            "name": "Tar",
+            "count": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Torque - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 38
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 95
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 25
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 125
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Upgrade - Water - Tier 4",
+    "category": "walkers/domus/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 20
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 63
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 200
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 75
+          },
+          {
+            "name": "Bone Glue",
+            "count": 38
           }
         ]
       }
