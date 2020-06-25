@@ -1765,11 +1765,19 @@
         "ingredients": [
           {
             "name": "Wood",
-            "count": 80
+            "count": 15
+          },
+          {
+            "name": "Rope",
+            "count": 10
           },
           {
             "name": "Fiber",
-            "count": 95
+            "count": 20
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 5
           }
         ]
       }
@@ -1814,6 +1822,282 @@
           {
             "name": "Wood",
             "count": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chair Comfortable",
+    "category": "buildings/furniture",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 35
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chair Simple",
+    "category": "buildings/furniture",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 15
+          },
+          {
+            "name": "Fiber",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chair Throne",
+    "category": "buildings/furniture",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 5
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Table",
+    "category": "buildings/furniture",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 45
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 6
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basket Open",
+    "category": "buildings/furniture/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basket Tall",
+    "category": "buildings/furniture/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basket Wide",
+    "category": "buildings/furniture/container",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Carpet Dark",
+    "category": "buildings/furniture/decoration",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 1
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Carpet Light",
+    "category": "buildings/furniture/decoration",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Rupu Vine",
+            "count": 1
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fire Goblet",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 4
+          },
+          {
+            "name": "Stone",
+            "count": 25
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamp Double Hanging",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 20
+          },
+          {
+            "name": "Stone",
+            "count": 3
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamp Overhanging",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 25
+          },
+          {
+            "name": "Stone",
+            "count": 4
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamp Single Hanging",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 20
+          },
+          {
+            "name": "Stone",
+            "count": 3
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamp Standing",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 10
+          },
+          {
+            "name": "Stone",
+            "count": 2
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 1
           }
         ]
       }

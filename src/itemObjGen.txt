@@ -7837,10 +7837,16 @@
   crafting[]
     ingredients[]
       name = Wood
-      count n = 80
+      count n = 15
+    ingredients[]
+      name = Rope
+      count n = 10
     ingredients[]
       name = Fiber
-      count n = 95
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 5
 []
   name = Gun Pod
   category = buildings/construction/weapons/ranged
@@ -9247,3 +9253,161 @@
     ingredients[]
       name = Nomad Cloth
       count n = 7
+[]
+  name = Basket Tall
+  category = buildings/furniture/container
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Basket Wide
+  category = buildings/furniture/container
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Basket Open
+  category = buildings/furniture/container
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 15
+[]
+  name = Carpet Light
+  category = buildings/furniture/decoration
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 1
+    ingredients[]
+      name = Fiber Weave
+      count n = 5
+[]
+  name = Carpet Dark
+  category = buildings/furniture/decoration
+  crafting[]
+    ingredients[]
+      name = Rupu Vine
+      count n = 1
+    ingredients[]
+      name = Rupu Pelt
+      count n = 5
+[]
+  name = Chair Simple
+  category = buildings/furniture
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 10
+[]
+  name = Chair Throne
+  category = buildings/furniture
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 5
+    ingredients[]
+      name = Rupu Vine
+      count n = 25
+[]
+  name = Chair Comfortable
+  category = buildings/furniture
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Fiber Weave
+      count n = 1
+[]
+  name = Fire Goblet
+  category = buildings/furniture/lighting
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 4
+    ingredients[]
+      name = Stone
+      count n = 25
+    ingredients[]
+      name = Rupu Gel
+      count n = 3
+[]
+  name = Lamp Standing
+  category = buildings/furniture/lighting
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 2
+    ingredients[]
+      name = Rupu Gel
+      count n = 1
+[]
+  name = Lamp Double Hanging
+  category = buildings/furniture/lighting
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 3
+    ingredients[]
+      name = Rupu Gel
+      count n = 1
+[]
+  name = Lamp Single Hanging
+  category = buildings/furniture/lighting
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 3
+    ingredients[]
+      name = Rupu Gel
+      count n = 1
+[]
+  name = Lamp Overhanging
+  category = buildings/furniture/lighting
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 25
+    ingredients[]
+      name = Stone
+      count n = 4
+    ingredients[]
+      name = Rupu Gel
+      count n = 1
+[]
+  name = Table
+  category = buildings/furniture
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 45
+    ingredients[]
+      name = Rupu Pelt
+      count n = 6
+    ingredients[]
+      name = Stone
+      count n = 10
