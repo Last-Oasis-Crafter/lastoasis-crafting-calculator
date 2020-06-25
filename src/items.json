@@ -2038,28 +2038,6 @@
     ]
   },
   {
-    "name": "Lamp Double Single",
-    "category": "buildings/furniture/lighting",
-    "crafting": [
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 20
-          },
-          {
-            "name": "Stone",
-            "count": 3
-          },
-          {
-            "name": "Rupu Gel",
-            "count": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Lamp Overhanging",
     "category": "buildings/furniture/lighting",
     "crafting": [
@@ -2072,6 +2050,28 @@
           {
             "name": "Stone",
             "count": 4
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamp Single Hanging",
+    "category": "buildings/furniture/lighting",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 20
+          },
+          {
+            "name": "Stone",
+            "count": 3
           },
           {
             "name": "Rupu Gel",

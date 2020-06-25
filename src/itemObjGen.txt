@@ -9373,7 +9373,7 @@
       name = Rupu Gel
       count n = 1
 []
-  name = Lamp Double Single
+  name = Lamp Single Hanging
   category = buildings/furniture/lighting
   crafting[]
     ingredients[]
