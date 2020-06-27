@@ -4,8 +4,8 @@
 }
 
 span.editableNumber {
-  text-decoration: black underline;
   cursor: pointer;
+  text-decoration: white underline;
 }
 
 input[type=number]::-webkit-outer-spin-button,
