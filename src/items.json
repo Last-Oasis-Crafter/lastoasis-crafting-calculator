@@ -1,5 +1,291 @@
 [
   {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "category": "",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          },
+          {
+            "name": "",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Barrier Base",
     "category": "buildings/construction/barrier",
     "crafting": [
@@ -2312,6 +2598,28 @@
     ]
   },
   {
+    "name": "Obsidian Machine",
+    "category": "crafting/station",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Obsidian",
+            "count": 36
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 12
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Purification Station",
     "category": "crafting/station",
     "crafting": [
@@ -3102,6 +3410,28 @@
           }
         ],
         "station": "Camp Fire"
+      }
+    ]
+  },
+  {
+    "name": "Gas Mask",
+    "category": "items/armor/head",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Nomad Cloth",
+            "count": 3
+          },
+          {
+            "name": "Charcoal",
+            "count": 12
+          },
+          {
+            "name": "Hide",
+            "count": 5
+          }
+        ]
       }
     ]
   },
@@ -4526,6 +4856,32 @@
     ]
   },
   {
+    "name": "Firestone Bladestaff",
+    "category": "items/weapons",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          },
+          {
+            "name": "Lava",
+            "count": 18
+          },
+          {
+            "name": "Stone",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Firestone Bludgeon",
     "category": "items/weapons",
     "crafting": [
@@ -4662,24 +5018,20 @@
       {
         "ingredients": [
           {
-            "name": "Iron Ingot",
-            "count": 25
-          },
-          {
             "name": "Wood Shaft",
-            "count": 35
+            "count": 30
           },
           {
-            "name": "Rupu Vine",
-            "count": 40
+            "name": "Nibiran Ingot",
+            "count": 14
           },
           {
             "name": "Nomad Cloth",
-            "count": 15
+            "count": 10
           },
           {
-            "name": "Ceramic Shard",
-            "count": 15
+            "name": "Bone Glue",
+            "count": 12
           }
         ]
       }
@@ -4806,20 +5158,20 @@
       {
         "ingredients": [
           {
-            "name": "Rupu Vine",
-            "count": 28
-          },
-          {
             "name": "Wood Shaft",
-            "count": 12
+            "count": 24
           },
           {
-            "name": "Iron Ingot",
-            "count": 14
+            "name": "Nibiran Ingot",
+            "count": 20
           },
           {
             "name": "Nomad Cloth",
-            "count": 4
+            "count": 12
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 30
           }
         ]
       }
@@ -4832,20 +5184,20 @@
       {
         "ingredients": [
           {
-            "name": "Iron Ore",
-            "count": 38
-          },
-          {
-            "name": "Wood Shaft",
+            "name": "Rupu Vine",
             "count": 40
           },
           {
-            "name": "Nomad Cloth",
-            "count": 12
+            "name": "Wood Shaft",
+            "count": 18
           },
           {
-            "name": "Ceramic Shard",
-            "count": 10
+            "name": "Nibiran Ingot",
+            "count": 18
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
           }
         ]
       }
@@ -4858,24 +5210,20 @@
       {
         "ingredients": [
           {
-            "name": "Iron Ore",
+            "name": "Wood Shaft",
             "count": 34
           },
           {
-            "name": "Wood Shaft",
-            "count": 50
+            "name": "Nibiran Ingot",
+            "count": 26
           },
           {
             "name": "Nomad Cloth",
             "count": 18
           },
           {
-            "name": "Ceramic Shard",
-            "count": 16
-          },
-          {
-            "name": "Redwood Wood",
-            "count": 20
+            "name": "Rupu Vine",
+            "count": 30
           }
         ]
       }
@@ -4888,20 +5236,20 @@
       {
         "ingredients": [
           {
-            "name": "Iron Ore",
-            "count": 42
+            "name": "Nomad Cloth",
+            "count": 7
           },
           {
             "name": "Wood Shaft",
-            "count": 40
+            "count": 20
           },
           {
-            "name": "Nomad Cloth",
-            "count": 12
+            "name": "Nibiran Ingot",
+            "count": 14
           },
           {
             "name": "Bone Glue",
-            "count": 35
+            "count": 10
           }
         ]
       }
@@ -4914,24 +5262,20 @@
       {
         "ingredients": [
           {
-            "name": "Iron Ingot",
-            "count": 20
-          },
-          {
             "name": "Wood Shaft",
-            "count": 35
+            "count": 30
           },
           {
-            "name": "Rupu Vine",
-            "count": 40
-          },
-          {
-            "name": "Nomad Cloth",
+            "name": "Nibiran Ingot",
             "count": 14
           },
           {
-            "name": "Worm Scale",
-            "count": 2
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Bone Glue",
+            "count": 12
           }
         ]
       }
@@ -4944,20 +5288,20 @@
       {
         "ingredients": [
           {
-            "name": "Rupu Vine",
-            "count": 32
-          },
-          {
             "name": "Wood Shaft",
-            "count": 14
+            "count": 22
           },
           {
-            "name": "Iron Ingot",
-            "count": 15
+            "name": "Nibiran Ingot",
+            "count": 21
           },
           {
             "name": "Nomad Cloth",
-            "count": 5
+            "count": 12
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 28
           }
         ]
       }
@@ -5551,15 +5895,15 @@
           },
           {
             "name": "Wood Shaft",
-            "count": 10
+            "count": 22
           },
           {
-            "name": "Iron Ingot",
-            "count": 15
+            "name": "Nibiran Ingot",
+            "count": 16
           },
           {
             "name": "Nomad Cloth",
-            "count": 4
+            "count": 5
           }
         ]
       }
@@ -5744,18 +6088,60 @@
       {
         "ingredients": [
           {
+            "name": "Wood Shaft",
+            "count": 2
+          },
+          {
             "name": "Fiber",
             "count": 22
           },
           {
             "name": "Stone",
             "count": 10
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 2
           }
         ]
+      }
+    ]
+  },
+  {
+    "name": "Nibiran Ingot",
+    "category": "material",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 1
+          },
+          {
+            "name": "Nibiran Mineral",
+            "count": 8
+          }
+        ],
+        "station": "Advanced Furnace"
+      }
+    ]
+  },
+  {
+    "name": "Lava Fuel",
+    "category": "material/explosive",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Lava",
+            "count": 17
+          },
+          {
+            "name": "Corn",
+            "count": 8
+          },
+          {
+            "name": "Purified Water",
+            "count": 5
+          }
+        ],
+        "station": "Obsidian Machine"
       }
     ]
   },
@@ -6445,6 +6831,28 @@
     ]
   },
   {
+    "name": "Buffalo Walker Heavy Wings (1 of 2)",
+    "category": "walkers/buffalo/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 78
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Buffalo Walker Medium Wings (1 of 2)",
     "category": "walkers/buffalo/parts/wings",
     "crafting": [
@@ -6461,6 +6869,80 @@
           {
             "name": "Hide",
             "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Raider Wings (1 of 2)",
+    "category": "walkers/buffalo/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 70
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          },
+          {
+            "name": "Hide",
+            "count": 120
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Rugged Wings (1 of 2)",
+    "category": "walkers/buffalo/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 60
+          },
+          {
+            "name": "Worm Silk",
+            "count": 40
+          },
+          {
+            "name": "Hide",
+            "count": 60
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/buffalo/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 70
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          },
+          {
+            "name": "Hide",
+            "count": 100
           }
         ]
       }
@@ -7624,15 +8106,15 @@
           },
           {
             "name": "Wood Shaft",
-            "count": 410
+            "count": 350
           },
           {
             "name": "Ceramic Shard",
-            "count": 136
+            "count": 100
           },
           {
             "name": "Tar",
-            "count": 22
+            "count": 20
           }
         ]
       }
@@ -7667,16 +8149,46 @@
       {
         "ingredients": [
           {
-            "name": "Worm Silk",
-            "count": 59
+            "name": "Redwood Wood",
+            "count": 100
           },
           {
             "name": "Reinforced Plank",
-            "count": 27
+            "count": 80
           },
           {
-            "name": "Worm Scale",
-            "count": 8
+            "name": "Tar",
+            "count": 34
+          },
+          {
+            "name": "Worm Silk",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Heavy Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 250
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 30
+          },
+          {
+            "name": "Worm Silk",
+            "count": 24
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 34
           }
         ]
       }
@@ -7690,15 +8202,15 @@
         "ingredients": [
           {
             "name": "Reinforced Plank",
-            "count": 195
+            "count": 15
           },
           {
             "name": "Worm Silk",
             "count": 112
           },
           {
-            "name": "Worm Scale",
-            "count": 7
+            "name": "Iron Ingot",
+            "count": 22
           }
         ]
       }
@@ -7720,7 +8232,85 @@
           },
           {
             "name": "Nomad Cloth",
-            "count": 35
+            "count": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Raider Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 32
+          },
+          {
+            "name": "Worm Silk",
+            "count": 110
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 56
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Rugged Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 16
+          },
+          {
+            "name": "Worm Silk",
+            "count": 92
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 20
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Domus Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/domus/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 22
+          },
+          {
+            "name": "Worm Silk",
+            "count": 100
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 20
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
           }
         ]
       }
@@ -8381,6 +8971,32 @@
     ]
   },
   {
+    "name": "Falco Walker Wings Heavy (1 of 2)",
+    "category": "walkers/falco/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 84
+          },
+          {
+            "name": "Rope",
+            "count": 42
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Falco Walker Wings Large (1 of 2)",
     "category": "walkers/falco/parts/wings",
     "crafting": [
@@ -8410,7 +9026,7 @@
         "ingredients": [
           {
             "name": "Wood Shaft",
-            "count": 111
+            "count": 112
           },
           {
             "name": "Nomad Cloth",
@@ -8419,6 +9035,80 @@
           {
             "name": "Hide",
             "count": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Wings Raider (1 of 2)",
+    "category": "walkers/falco/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 80
+          },
+          {
+            "name": "Worm Silk",
+            "count": 70
+          },
+          {
+            "name": "Hide",
+            "count": 110
+          },
+          {
+            "name": "Iron Ore",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Wings Rugged (1 of 2)",
+    "category": "walkers/falco/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 74
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          },
+          {
+            "name": "Hide",
+            "count": 100
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Falco Walker Wings Skirmish (1 of 2)",
+    "category": "walkers/falco/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 78
+          },
+          {
+            "name": "Worm Silk",
+            "count": 68
+          },
+          {
+            "name": "Hide",
+            "count": 120
           }
         ]
       }
@@ -9783,6 +10473,54 @@
     ]
   },
   {
+    "name": "Hornet Walker Heavy Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 44
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 10
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Large Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 50
+          },
+          {
+            "name": "Worm Silk",
+            "count": 42
+          },
+          {
+            "name": "Hide",
+            "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hornet Walker Medium Wings (1 of 2)",
     "category": "walkers/hornet/parts/wings",
     "crafting": [
@@ -9799,6 +10537,84 @@
           {
             "name": "Hide",
             "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Raider Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 66
+          },
+          {
+            "name": "Worm Silk",
+            "count": 58
+          },
+          {
+            "name": "Hide",
+            "count": 90
+          },
+          {
+            "name": "Iron Ore",
+            "count": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Rugged Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 52
+          },
+          {
+            "name": "Worm Silk",
+            "count": 38
+          },
+          {
+            "name": "Hide",
+            "count": 84
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/hornet/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 52
+          },
+          {
+            "name": "Worm Silk",
+            "count": 50
+          },
+          {
+            "name": "Hide",
+            "count": 84
+          },
+          {
+            "name": "Iron Ore",
+            "count": 16
           }
         ]
       }
@@ -10436,15 +11252,19 @@
         "ingredients": [
           {
             "name": "Wood Shaft",
-            "count": 20
+            "count": 38
           },
           {
             "name": "Rope",
-            "count": 9
+            "count": 28
           },
           {
             "name": "Nomad Cloth",
-            "count": 6
+            "count": 8
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 14
           }
         ]
       }
@@ -10467,6 +11287,84 @@
           {
             "name": "Nomad Cloth",
             "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Wings Raider (1 of 2)",
+    "category": "walkers/mollusk/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 36
+          },
+          {
+            "name": "Worm Silk",
+            "count": 24
+          },
+          {
+            "name": "Hide",
+            "count": 50
+          },
+          {
+            "name": "Iron Ore",
+            "count": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Wings Rugged (1 of 2)",
+    "category": "walkers/mollusk/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 68
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 12
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mollusk Walker Wings Skirmish (1 of 2)",
+    "category": "walkers/mollusk/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 76
+          },
+          {
+            "name": "Rope",
+            "count": 44
+          },
+          {
+            "name": "Worm Silk",
+            "count": 20
+          },
+          {
+            "name": "Iron Ore",
+            "count": 18
           }
         ]
       }
@@ -11197,11 +12095,15 @@
             "count": 214
           },
           {
-            "name": "Worm Scale",
-            "count": 2
+            "name": "Redwood Wood",
+            "count": 80
           },
           {
             "name": "Tar",
+            "count": 14
+          },
+          {
+            "name": "Worm Silk",
             "count": 14
           }
         ]
@@ -11297,16 +12199,20 @@
       {
         "ingredients": [
           {
-            "name": "Worm Silk",
-            "count": 50
-          },
-          {
             "name": "Reinforced Plank",
-            "count": 24
+            "count": 100
           },
           {
-            "name": "Worm Scale",
-            "count": 5
+            "name": "Tar",
+            "count": 40
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Worm Silk",
+            "count": 20
           }
         ]
       }
@@ -11335,6 +12241,32 @@
     ]
   },
   {
+    "name": "Schmetterling Walker Heavy Wings (1 of 2)",
+    "category": "walkers/schmetterling/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 220
+          },
+          {
+            "name": "Worm Silk",
+            "count": 28
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 30
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Schmetterling Walker Large Wings (1 of 2)",
     "category": "walkers/schmetterling/parts/wings",
     "crafting": [
@@ -11349,8 +12281,8 @@
             "count": 105
           },
           {
-            "name": "Worm Scale",
-            "count": 5
+            "name": "Iron Ingot",
+            "count": 10
           }
         ]
       }
@@ -11373,6 +12305,84 @@
           {
             "name": "Nomad Cloth",
             "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Raider Wings (1 of 2)",
+    "category": "walkers/schmetterling/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 200
+          },
+          {
+            "name": "Worm Silk",
+            "count": 90
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 50
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Rugged Wings (1 of 2)",
+    "category": "walkers/schmetterling/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 182
+          },
+          {
+            "name": "Worm Silk",
+            "count": 90
+          },
+          {
+            "name": "Iron Ore",
+            "count": 10
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schmetterling Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/schmetterling/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 200
+          },
+          {
+            "name": "Worm Silk",
+            "count": 100
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 14
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 30
           }
         ]
       }
@@ -12781,6 +13791,28 @@
     ]
   },
   {
+    "name": "Stiletto Walker Heavy Wings (1 of 2)",
+    "category": "walkers/stiletto/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 45
+          },
+          {
+            "name": "Rope",
+            "count": 32
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Stiletto Walker Medium Wings (1 of 2)",
     "category": "walkers/stiletto/parts/wings",
     "crafting": [
@@ -12791,12 +13823,90 @@
             "count": 50
           },
           {
-            "name": "Nomad Cloth",
-            "count": 4
-          },
-          {
             "name": "Hide",
             "count": 30
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Raider Wings (1 of 2)",
+    "category": "walkers/stiletto/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 74
+          },
+          {
+            "name": "Rope",
+            "count": 70
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 20
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Rugged Wings (1 of 2)",
+    "category": "walkers/stiletto/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 66
+          },
+          {
+            "name": "Rope",
+            "count": 56
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/stiletto/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 80
+          },
+          {
+            "name": "Rope",
+            "count": 70
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 20
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 32
           }
         ]
       }
@@ -13398,15 +14508,19 @@
         "ingredients": [
           {
             "name": "Reinforced Plank",
-            "count": 135
+            "count": 120
           },
           {
-            "name": "Worm Scale",
-            "count": 2
+            "name": "Redwood Wood",
+            "count": 100
           },
           {
             "name": "Tar",
-            "count": 10
+            "count": 40
+          },
+          {
+            "name": "Worm Silk",
+            "count": 14
           }
         ]
       }
@@ -13435,6 +14549,32 @@
     ]
   },
   {
+    "name": "Titan Walker Heavy Wings (1 of 2)",
+    "category": "walkers/titan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 212
+          },
+          {
+            "name": "Worm Silk",
+            "count": 26
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 28
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 44
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Titan Walker Large Wings (1 of 2)",
     "category": "walkers/titan/parts/wings",
     "crafting": [
@@ -13446,11 +14586,11 @@
           },
           {
             "name": "Worm Silk",
-            "count": 135
+            "count": 136
           },
           {
-            "name": "Worm Scale",
-            "count": 6
+            "name": "Iron Ingot",
+            "count": 16
           }
         ]
       }
@@ -13473,6 +14613,84 @@
           {
             "name": "Nomad Cloth",
             "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Raider Wings (1 of 2)",
+    "category": "walkers/titan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 240
+          },
+          {
+            "name": "Worm Silk",
+            "count": 120
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 60
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Rugged Wings (1 of 2)",
+    "category": "walkers/titan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 200
+          },
+          {
+            "name": "Worm Silk",
+            "count": 115
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 16
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Titan Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/titan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 230
+          },
+          {
+            "name": "Worm Silk",
+            "count": 124
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 18
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
           }
         ]
       }
@@ -14115,6 +15333,32 @@
     ]
   },
   {
+    "name": "Toboggan Walker Heavy Wings (1 of 2)",
+    "category": "walkers/toboggan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 54
+          },
+          {
+            "name": "Rope",
+            "count": 34
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 6
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Toboggan Walker Large Wings (1 of 2)",
     "category": "walkers/toboggan/parts/wings",
     "crafting": [
@@ -14153,6 +15397,84 @@
           {
             "name": "Hide",
             "count": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Raider Wings (1 of 2)",
+    "category": "walkers/toboggan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 70
+          },
+          {
+            "name": "Worm Silk",
+            "count": 64
+          },
+          {
+            "name": "Hide",
+            "count": 100
+          },
+          {
+            "name": "Iron Ore",
+            "count": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Rugged Wings (1 of 2)",
+    "category": "walkers/toboggan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 50
+          },
+          {
+            "name": "Worm Silk",
+            "count": 56
+          },
+          {
+            "name": "Hide",
+            "count": 70
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toboggan Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/toboggan/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 52
+          },
+          {
+            "name": "Worm Silk",
+            "count": 42
+          },
+          {
+            "name": "Hide",
+            "count": 94
+          },
+          {
+            "name": "Iron Ore",
+            "count": 14
           }
         ]
       }
@@ -14853,12 +16175,12 @@
       {
         "ingredients": [
           {
-            "name": "Redwood Wood",
-            "count": 468
+            "name": "Wood",
+            "count": 1005
           },
           {
             "name": "Wood Shaft",
-            "count": 498
+            "count": 480
           },
           {
             "name": "Ceramic Shard",
@@ -14866,7 +16188,7 @@
           },
           {
             "name": "Tar",
-            "count": 15
+            "count": 30
           }
         ]
       }
@@ -14880,15 +16202,19 @@
         "ingredients": [
           {
             "name": "Reinforced Plank",
-            "count": 100
+            "count": 120
           },
           {
-            "name": "Worm Scale",
-            "count": 1
+            "name": "Redwood Wood",
+            "count": 150
           },
           {
             "name": "Tar",
-            "count": 7
+            "count": 44
+          },
+          {
+            "name": "Worm Silk",
+            "count": 14
           }
         ]
       }
@@ -14917,6 +16243,32 @@
     ]
   },
   {
+    "name": "Tusker Walker Heavy Wings (1 of 2)",
+    "category": "walkers/tusker/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 186
+          },
+          {
+            "name": "Worm Silk",
+            "count": 14
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 18
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tusker Walker Large Wings (1 of 2)",
     "category": "walkers/tusker/parts/wings",
     "crafting": [
@@ -14927,8 +16279,8 @@
             "count": 150
           },
           {
-            "name": "Worm Scale",
-            "count": 4
+            "name": "Iron Ingot",
+            "count": 10
           },
           {
             "name": "Worm Silk",
@@ -14954,7 +16306,85 @@
           },
           {
             "name": "Worm Silk",
-            "count": 25
+            "count": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Raider Wings (1 of 2)",
+    "category": "walkers/tusker/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 180
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 30
+          },
+          {
+            "name": "Worm Silk",
+            "count": 120
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Rugged Wings (1 of 2)",
+    "category": "walkers/tusker/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 140
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 8
+          },
+          {
+            "name": "Worm Silk",
+            "count": 80
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tusker Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/tusker/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 164
+          },
+          {
+            "name": "Iron Ingot",
+            "count": 10
+          },
+          {
+            "name": "Worm Silk",
+            "count": 114
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 20
           }
         ]
       }
