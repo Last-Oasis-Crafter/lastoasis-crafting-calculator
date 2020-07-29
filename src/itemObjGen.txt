@@ -914,17 +914,17 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Iron Ore
-      count n = 42
+      name = Nomad Cloth
+      count n = 7
     ingredients[]
       name = Wood Shaft
-      count n = 40
+      count n = 20
     ingredients[]
-      name = Nomad Cloth
-      count n = 12
+      name = Nibiran Ingot
+      count n = 14
     ingredients[]
       name = Bone Glue
-      count n = 35
+      count n = 10
 []
   name = Woodcutter's Hatchet
   category = items/weapons/tools/axes
@@ -1002,13 +1002,13 @@
       count n = 30
     ingredients[]
       name = Wood Shaft
-      count n = 10
+      count n = 22
     ingredients[]
-      name = Iron Ingot
-      count n = 15
+      name = Nibiran Ingot
+      count n = 16
     ingredients[]
       name = Nomad Cloth
-      count n = 4
+      count n = 5
 []
   name = Bonespike Sword
   category = items/weapons
@@ -1056,17 +1056,17 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Iron Ore
-      count n = 38
-    ingredients[]
-      name = Wood Shaft
+      name = Rupu Vine
       count n = 40
     ingredients[]
-      name = Nomad Cloth
-      count n = 12
+      name = Wood Shaft
+      count n = 18
     ingredients[]
-      name = Ceramic Shard
-      count n = 10
+      name = Nibiran Ingot
+      count n = 18
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
 []
   name = Scythe
   category = items/weapons/tools/sickles
@@ -1204,6 +1204,22 @@
       name = Wood Shaft
       count n = 10
 []
+  name = Firestone Bladestaff
+  category = items/weapons
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+    ingredients[]
+      name = Lava
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 7
+[]
   name = Paddleblade Quarterstaff
   category = items/weapons
   crafting[]
@@ -1237,39 +1253,33 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Iron Ingot
-      count n = 25
-    ingredients[]
       name = Wood Shaft
-      count n = 35
+      count n = 30
     ingredients[]
-      name = Rupu Vine
-      count n = 40
+      name = Nibiran Ingot
+      count n = 14
     ingredients[]
       name = Nomad Cloth
-      count n = 15
+      count n = 10
     ingredients[]
-      name = Ceramic Shard
-      count n = 15
+      name = Bone Glue
+      count n = 12
 []
   name = Nibiran Quarterstaff
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Iron Ingot
-      count n = 20
-    ingredients[]
       name = Wood Shaft
-      count n = 35
+      count n = 30
     ingredients[]
-      name = Rupu Vine
-      count n = 40
-    ingredients[]
-      name = Nomad Cloth
+      name = Nibiran Ingot
       count n = 14
     ingredients[]
-      name = Worm Scale
-      count n = 2
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Bone Glue
+      count n = 12
 []
   name = Rawbone Battle Axe
   category = items/weapons/tools/axes
@@ -1304,17 +1314,17 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Rupu Vine
-      count n = 28
-    ingredients[]
       name = Wood Shaft
-      count n = 12
+      count n = 24
     ingredients[]
-      name = Iron Ingot
-      count n = 14
+      name = Nibiran Ingot
+      count n = 20
     ingredients[]
       name = Nomad Cloth
-      count n = 4
+      count n = 12
+    ingredients[]
+      name = Rupu Vine
+      count n = 30
 []
   name = Long Bonespike Swordstaff
   category = items/weapons
@@ -1349,20 +1359,17 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Iron Ore
+      name = Wood Shaft
       count n = 34
     ingredients[]
-      name = Wood Shaft
-      count n = 50
+      name = Nibiran Ingot
+      count n = 26
     ingredients[]
       name = Nomad Cloth
       count n = 18
     ingredients[]
-      name = Ceramic Shard
-      count n = 16
-    ingredients[]
-      name = Redwood Wood
-      count n = 20
+      name = Rupu Vine
+      count n = 30
 []
   name = Javelin
   category = items/weapons
@@ -1407,14 +1414,14 @@
   category = items/weapons/tools/sickles
   crafting[]
     ingredients[]
+      name = Wood Shaft
+      count n = 2
+    ingredients[]
       name = Fiber
       count n = 22
     ingredients[]
       name = Stone
       count n = 10
-    ingredients[]
-      name = Wood Shaft
-      count n = 2
 []
   name = Simple Pickaxe
   category = items/weapons/tools/pickaxes
@@ -3067,13 +3074,64 @@
   crafting[]
     ingredients[]
       name = Wood Shaft
-      count n = 20
+      count n = 38
     ingredients[]
       name = Rope
-      count n = 9
+      count n = 28
     ingredients[]
       name = Nomad Cloth
-      count n = 6
+      count n = 8
+    ingredients[]
+      name = Redwood Wood
+      count n = 14
+[]
+  name = Mollusk Walker Wings Rugged (1 of 2)
+  category = walkers/mollusk/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 68
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 18
+[]
+  name = Mollusk Walker Wings Skirmish (1 of 2)
+  category = walkers/mollusk/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 76
+    ingredients[]
+      name = Rope
+      count n = 44
+    ingredients[]
+      name = Worm Silk
+      count n = 20
+    ingredients[]
+      name = Iron Ore
+      count n = 18
+[]
+  name = Mollusk Walker Wings Raider (1 of 2)
+  category = walkers/mollusk/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 36
+    ingredients[]
+      name = Worm Silk
+      count n = 24
+    ingredients[]
+      name = Hide
+      count n = 50
+    ingredients[]
+      name = Iron Ore
+      count n = 38
 []
   name = Mollusk Walker Upgrade - Water - Tier 1
   category = walkers/mollusk/upgrades/tier1
@@ -3518,11 +3576,72 @@
       name = Wood Shaft
       count n = 50
     ingredients[]
-      name = Nomad Cloth
-      count n = 4
-    ingredients[]
       name = Hide
       count n = 30
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+[]
+  name = Stiletto Walker Heavy Wings (1 of 2)
+  category = walkers/stiletto/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+    ingredients[]
+      name = Rope
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+[]
+  name = Stiletto Walker Rugged Wings (1 of 2)
+  category = walkers/stiletto/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 66
+    ingredients[]
+      name = Rope
+      count n = 56
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+    ingredients[]
+      name = Redwood Wood
+      count n = 22
+[]
+  name = Stiletto Walker Skirmish Wings (1 of 2)
+  category = walkers/stiletto/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 80
+    ingredients[]
+      name = Rope
+      count n = 70
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 32
+[]
+  name = Stiletto Walker Raider Wings (1 of 2)
+  category = walkers/stiletto/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 74
+    ingredients[]
+      name = Rope
+      count n = 70
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 32
 []
   name = Stiletto Walker Upgrade - Cargo - Tier 2
   category = walkers/stiletto/upgrades/tier2
@@ -3900,6 +4019,64 @@
     ingredients[]
       name = Hide
       count n = 50
+[]
+  name = Buffalo Walker Heavy Wings (1 of 2)
+  category = walkers/buffalo/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 78
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+[]
+  name = Buffalo Walker Rugged Wings (1 of 2)
+  category = walkers/buffalo/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 60
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 60
+    ingredients[]
+      name = Redwood Wood
+      count n = 14
+[]
+  name = Buffalo Walker Skirmish Wings (1 of 2)
+  category = walkers/buffalo/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 70
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+    ingredients[]
+      name = Hide
+      count n = 100
+[]
+  name = Buffalo Walker Raider Wings (1 of 2)
+  category = walkers/buffalo/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 70
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+    ingredients[]
+      name = Hide
+      count n = 120
+    ingredients[]
+      name = Redwood Wood
+      count n = 24
 []
   name = Buffalo Walker Upgrade - Cargo - Tier 2
   category = walkers/buffalo/upgrades/tier2
@@ -4317,6 +4494,70 @@
       name = Hide
       count n = 85
 []
+  name = Toboggan Walker Heavy Wings (1 of 2)
+  category = walkers/toboggan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 54
+    ingredients[]
+      name = Rope
+      count n = 34
+    ingredients[]
+      name = Nomad Cloth
+      count n = 6
+    ingredients[]
+      name = Redwood Wood
+      count n = 12
+[]
+  name = Toboggan Walker Rugged Wings (1 of 2)
+  category = walkers/toboggan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Worm Silk
+      count n = 56
+    ingredients[]
+      name = Hide
+      count n = 70
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Toboggan Walker Skirmish Wings (1 of 2)
+  category = walkers/toboggan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 52
+    ingredients[]
+      name = Worm Silk
+      count n = 42
+    ingredients[]
+      name = Hide
+      count n = 94
+    ingredients[]
+      name = Iron Ore
+      count n = 14
+[]
+  name = Toboggan Walker Raider Wings (1 of 2)
+  category = walkers/toboggan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 70
+    ingredients[]
+      name = Worm Silk
+      count n = 64
+    ingredients[]
+      name = Hide
+      count n = 100
+    ingredients[]
+      name = Iron Ore
+      count n = 32
+[]
   name = Toboggan Walker Upgrade - Cargo - Tier 2
   category = walkers/toboggan/upgrades/tier2
   crafting[]
@@ -4696,6 +4937,83 @@
     ingredients[]
       name = Hide
       count n = 42
+[]
+  name = Hornet Walker Large Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Worm Silk
+      count n = 42
+    ingredients[]
+      name = Hide
+      count n = 80
+[]
+  name = Hornet Walker Heavy Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 44
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 10
+    ingredients[]
+      name = Redwood Wood
+      count n = 14
+[]
+  name = Hornet Walker Rugged Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 52
+    ingredients[]
+      name = Worm Silk
+      count n = 38
+    ingredients[]
+      name = Hide
+      count n = 84
+    ingredients[]
+      name = Redwood Wood
+      count n = 16
+[]
+  name = Hornet Walker Skirmish Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 52
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 84
+    ingredients[]
+      name = Iron Ore
+      count n = 16
+[]
+  name = Hornet Walker Raider Wings (1 of 2)
+  category = walkers/hornet/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 66
+    ingredients[]
+      name = Worm Silk
+      count n = 58
+    ingredients[]
+      name = Hide
+      count n = 90
+    ingredients[]
+      name = Iron Ore
+      count n = 34
 []
   name = Hornet Walker Upgrade - Cargo - Tier 2
   category = walkers/hornet/upgrades/tier2
@@ -5092,7 +5410,7 @@
   crafting[]
     ingredients[]
       name = Wood Shaft
-      count n = 111
+      count n = 112
     ingredients[]
       name = Nomad Cloth
       count n = 10
@@ -5112,6 +5430,67 @@
     ingredients[]
       name = Hide
       count n = 120
+[]
+  name = Falco Walker Wings Heavy (1 of 2)
+  category = walkers/falco/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 84
+    ingredients[]
+      name = Rope
+      count n = 42
+    ingredients[]
+      name = Nomad Cloth
+      count n = 12
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Falco Walker Wings Rugged (1 of 2)
+  category = walkers/falco/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 74
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+    ingredients[]
+      name = Hide
+      count n = 100
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Falco Walker Wings Skirmish (1 of 2)
+  category = walkers/falco/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 78
+    ingredients[]
+      name = Worm Silk
+      count n = 68
+    ingredients[]
+      name = Hide
+      count n = 120
+[]
+  name = Falco Walker Wings Raider (1 of 2)
+  category = walkers/falco/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 80
+    ingredients[]
+      name = Worm Silk
+      count n = 70
+    ingredients[]
+      name = Hide
+      count n = 110
+    ingredients[]
+      name = Iron Ore
+      count n = 50
 []
   name = Falco Walker Upgrade - Water - Tier 1
   category = walkers/falco/upgrades/tier1
@@ -5552,14 +5931,17 @@
   category = walkers/schmetterling/parts/legs
   crafting[]
     ingredients[]
-      name = Worm Silk
-      count n = 50
-    ingredients[]
       name = Reinforced Plank
-      count n = 24
+      count n = 100
     ingredients[]
-      name = Worm Scale
-      count n = 5
+      name = Tar
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Worm Silk
+      count n = 20
 []
   name = Schmetterling Walker Wings (1 of 2)
   category = walkers/schmetterling/parts/wings
@@ -5610,8 +5992,72 @@
       name = Worm Silk
       count n = 105
     ingredients[]
-      name = Worm Scale
-      count n = 5
+      name = Iron Ingot
+      count n = 10
+[]
+  name = Schmetterling Walker Heavy Wings (1 of 2)
+  category = walkers/schmetterling/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 220
+    ingredients[]
+      name = Worm Silk
+      count n = 28
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 48
+[]
+  name = Schmetterling Walker Rugged Wings (1 of 2)
+  category = walkers/schmetterling/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 182
+    ingredients[]
+      name = Worm Silk
+      count n = 90
+    ingredients[]
+      name = Iron Ore
+      count n = 10
+    ingredients[]
+      name = Redwood Wood
+      count n = 60
+[]
+  name = Schmetterling Walker Skirmish Wings (1 of 2)
+  category = walkers/schmetterling/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 200
+    ingredients[]
+      name = Worm Silk
+      count n = 100
+    ingredients[]
+      name = Iron Ingot
+      count n = 14
+    ingredients[]
+      name = Redwood Wood
+      count n = 30
+[]
+  name = Schmetterling Walker Raider Wings (1 of 2)
+  category = walkers/schmetterling/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 200
+    ingredients[]
+      name = Worm Silk
+      count n = 90
+    ingredients[]
+      name = Iron Ingot
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 70
 []
   name = Schmetterling Walker Upgrade - Cargo - Tier 1
   category = walkers/schmetterling/upgrades/tier1
@@ -6039,30 +6485,33 @@
   category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
-      name = Redwood Wood
-      count n = 468
+      name = Wood
+      count n = 1005
     ingredients[]
       name = Wood Shaft
-      count n = 498
+      count n = 480
     ingredients[]
       name = Ceramic Shard
       count n = 150
     ingredients[]
       name = Tar
-      count n = 15
+      count n = 30
 []
   name = Heavy Tusker Walker Legs (1 of 2)
   category = walkers/tusker/parts/legs
   crafting[]
     ingredients[]
       name = Reinforced Plank
-      count n = 100
+      count n = 120
     ingredients[]
-      name = Worm Scale
-      count n = 1
+      name = Redwood Wood
+      count n = 150
     ingredients[]
       name = Tar
-      count n = 7
+      count n = 44
+    ingredients[]
+      name = Worm Silk
+      count n = 14
 []
   name = Tusker Walker Wings (1 of 2)
   category = walkers/tusker/parts/wings
@@ -6084,8 +6533,8 @@
       name = Reinforced Plank
       count n = 150
     ingredients[]
-      name = Worm Scale
-      count n = 4
+      name = Iron Ingot
+      count n = 10
     ingredients[]
       name = Worm Silk
       count n = 100
@@ -6101,7 +6550,7 @@
       count n = 24
     ingredients[]
       name = Worm Silk
-      count n = 25
+      count n = 26
 []
   name = Tusker Walker Small Wings (1 of 2)
   category = walkers/tusker/parts/wings
@@ -6115,6 +6564,70 @@
     ingredients[]
       name = Hide
       count n = 22
+[]
+  name = Tusker Walker Heavy Wings (1 of 2)
+  category = walkers/tusker/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 186
+    ingredients[]
+      name = Worm Silk
+      count n = 14
+    ingredients[]
+      name = Nomad Cloth
+      count n = 18
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Tusker Walker Rugged Wings (1 of 2)
+  category = walkers/tusker/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 140
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Worm Silk
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 30
+[]
+  name = Tusker Walker Skirmish Wings (1 of 2)
+  category = walkers/tusker/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 164
+    ingredients[]
+      name = Iron Ingot
+      count n = 10
+    ingredients[]
+      name = Worm Silk
+      count n = 114
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Tusker Walker Raider Wings (1 of 2)
+  category = walkers/tusker/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 180
+    ingredients[]
+      name = Iron Ingot
+      count n = 30
+    ingredients[]
+      name = Worm Silk
+      count n = 120
+    ingredients[]
+      name = Redwood Wood
+      count n = 40
 []
   name = Tusker Walker Upgrade - Cargo - Tier 2
   category = walkers/tusker/upgrades/tier2
@@ -6486,10 +6999,13 @@
       name = Reinforced Plank
       count n = 214
     ingredients[]
-      name = Worm Scale
-      count n = 2
+      name = Redwood Wood
+      count n = 80
     ingredients[]
       name = Tar
+      count n = 14
+    ingredients[]
+      name = Worm Silk
       count n = 14
 []
   name = Titan Walker Body
@@ -6545,13 +7061,16 @@
   crafting[]
     ingredients[]
       name = Reinforced Plank
-      count n = 135
+      count n = 120
     ingredients[]
-      name = Worm Scale
-      count n = 2
+      name = Redwood Wood
+      count n = 100
     ingredients[]
       name = Tar
-      count n = 10
+      count n = 40
+    ingredients[]
+      name = Worm Silk
+      count n = 14
 []
   name = Titan Walker Wings (1 of 2)
   category = walkers/titan/parts/wings
@@ -6574,10 +7093,10 @@
       count n = 220
     ingredients[]
       name = Worm Silk
-      count n = 135
+      count n = 136
     ingredients[]
-      name = Worm Scale
-      count n = 6
+      name = Iron Ingot
+      count n = 16
 []
   name = Titan Walker Medium Wings (1 of 2)
   category = walkers/titan/parts/wings
@@ -6604,6 +7123,70 @@
     ingredients[]
       name = Hide
       count n = 30
+[]
+  name = Titan Walker Heavy Wings (1 of 2)
+  category = walkers/titan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 212
+    ingredients[]
+      name = Worm Silk
+      count n = 26
+    ingredients[]
+      name = Nomad Cloth
+      count n = 28
+    ingredients[]
+      name = Redwood Wood
+      count n = 44
+[]
+  name = Titan Walker Rugged Wings (1 of 2)
+  category = walkers/titan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 200
+    ingredients[]
+      name = Worm Silk
+      count n = 115
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Redwood Wood
+      count n = 70
+[]
+  name = Titan Walker Skirmish Wings (1 of 2)
+  category = walkers/titan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 230
+    ingredients[]
+      name = Worm Silk
+      count n = 124
+    ingredients[]
+      name = Iron Ingot
+      count n = 18
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Titan Walker Raider Wings (1 of 2)
+  category = walkers/titan/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 240
+    ingredients[]
+      name = Worm Silk
+      count n = 120
+    ingredients[]
+      name = Iron Ingot
+      count n = 60
+    ingredients[]
+      name = Redwood Wood
+      count n = 72
 []
   name = Titan Walker Upgrade - Cargo - Tier 2
   category = walkers/titan/upgrades/tier2
@@ -6957,26 +7540,29 @@
       count n = 420
     ingredients[]
       name = Wood Shaft
-      count n = 410
+      count n = 350
     ingredients[]
       name = Ceramic Shard
-      count n = 136
+      count n = 100
     ingredients[]
       name = Tar
-      count n = 22
+      count n = 20
 []
   name = Heavy Domus Walker Legs (1 of 2)
   category = walkers/domus/parts/legs
   crafting[]
     ingredients[]
-      name = Worm Silk
-      count n = 59
+      name = Redwood Wood
+      count n = 100
     ingredients[]
       name = Reinforced Plank
-      count n = 27
+      count n = 80
     ingredients[]
-      name = Worm Scale
-      count n = 8
+      name = Tar
+      count n = 34
+    ingredients[]
+      name = Worm Silk
+      count n = 12
 []
   name = Domus Walker Wings (1 of 2)
   category = walkers/domus/parts/wings
@@ -6996,13 +7582,13 @@
   crafting[]
     ingredients[]
       name = Reinforced Plank
-      count n = 195
+      count n = 15
     ingredients[]
       name = Worm Silk
       count n = 112
     ingredients[]
-      name = Worm Scale
-      count n = 7
+      name = Iron Ingot
+      count n = 22
 []
   name = Domus Walker Medium Wings (1 of 2)
   category = walkers/domus/parts/wings
@@ -7015,7 +7601,7 @@
       count n = 36
     ingredients[]
       name = Nomad Cloth
-      count n = 35
+      count n = 34
 []
   name = Domus Walker Small Wings (1 of 2)
   category = walkers/domus/parts/wings
@@ -7029,6 +7615,70 @@
     ingredients[]
       name = Hide
       count n = 48
+[]
+  name = Domus Walker Heavy Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 250
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Worm Silk
+      count n = 24
+    ingredients[]
+      name = Redwood Wood
+      count n = 34
+[]
+  name = Domus Walker Rugged Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Worm Silk
+      count n = 92
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 36
+[]
+  name = Domus Walker Skirmish Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 22
+    ingredients[]
+      name = Worm Silk
+      count n = 100
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 20
+[]
+  name = Domus Walker Raider Wings (1 of 2)
+  category = walkers/domus/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 32
+    ingredients[]
+      name = Worm Silk
+      count n = 110
+    ingredients[]
+      name = Iron Ingot
+      count n = 56
+    ingredients[]
+      name = Redwood Wood
+      count n = 40
 []
   name = Domus Walker Upgrade - Cargo - Tier 2
   category = walkers/domus/upgrades/tier2
@@ -7394,17 +8044,17 @@
   category = items/weapons
   crafting[]
     ingredients[]
-      name = Rupu Vine
-      count n = 32
-    ingredients[]
       name = Wood Shaft
-      count n = 14
+      count n = 22
     ingredients[]
-      name = Iron Ingot
-      count n = 15
+      name = Nibiran Ingot
+      count n = 21
     ingredients[]
       name = Nomad Cloth
-      count n = 5
+      count n = 12
+    ingredients[]
+      name = Rupu Vine
+      count n = 28
 []
   name = Kite
   category = items/equipment
@@ -9411,3 +10061,55 @@
     ingredients[]
       name = Stone
       count n = 10
+[]
+  name = Gas Mask
+  category = items/armor/head
+  crafting[]
+    ingredients[]
+      name = Nomad Cloth
+      count n = 3
+    ingredients[]
+      name = Charcoal
+      count n = 12
+    ingredients[]
+      name = Hide
+      count n = 5
+[]
+  name = Obsidian Machine
+  category = crafting/station
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 36
+    ingredients[]
+      name = Redwood Wood
+      count n = 12
+    ingredients[]
+      name = Nomad Cloth
+      count n = 2
+[]
+  name = Lava Fuel
+  category = material/explosive
+  crafting[]
+    ingredients[]
+      name = Lava
+      count n = 17
+    ingredients[]
+      name = Corn
+      count n = 8
+    ingredients[]
+      name = Purified Water
+      count n = 5
+    station = Obsidian Machine
+[]
+  name = Nibiran Ingot
+  category = material
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 1
+    ingredients[]
+      name = Nibiran Mineral
+      count n = 8
+    station = Advanced Furnace
+    
