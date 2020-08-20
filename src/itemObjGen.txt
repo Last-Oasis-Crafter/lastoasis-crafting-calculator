@@ -10112,4 +10112,207 @@
       name = Nibiran Mineral
       count n = 8
     station = Advanced Furnace
-    
+[]
+  name = Cobra Walker Body
+  category = walkers/cobra
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 900
+    ingredients[]
+      name = Fiber
+      count n = 390
+    ingredients[]
+      name = Stone
+      count n = 350
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Rope
+      count n = 30
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Rupu Vine
+      count n = 12
+[]
+  name = Cobra Walker Legs (1 of 2)
+  category = walkers/cobra/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Wood Shaft
+      count n = 28
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+[]
+  name = Bombolt
+  category = items/ammo/ammunition/projectiles/cobra
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    ingredients[]
+      name = Lava Fuel
+      count n = 1
+    ingredients[]
+      name = Obsidian
+      count n = 5
+[]
+  name = Cobra Walker Upgrade - Cargo - Tier 2
+  category = walkers/cobra/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Wood
+      count n = 120
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Cobra Walker Upgrade - Water - Tier 2
+  category = walkers/cobra/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Cobra Walker Upgrade - Torque - Tier 2
+  category = walkers/cobra/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Cobra Walker Upgrade - Cargo - Tier 3
+  category = walkers/cobra/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 56
+    ingredients[]
+      name = Stone
+      count n = 80
+[]
+  name = Cobra Walker Upgrade - Water - Tier 3
+  category = walkers/cobra/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Cobra Walker Upgrade - Torque - Tier 3
+  category = walkers/cobra/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Cobra Walker Upgrade - Cargo - Tier 4
+  category = walkers/cobra/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Redwood Wood
+      count n = 96
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Cobra Walker Upgrade - Water - Tier 4
+  category = walkers/cobra/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Cobra Walker Upgrade - Torque - Tier 4
+  category = walkers/cobra/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
