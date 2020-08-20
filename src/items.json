@@ -2891,6 +2891,28 @@
     ]
   },
   {
+    "name": "Bombolt",
+    "category": "items/ammo/ammunition/projectiles/cobra",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          },
+          {
+            "name": "Lava Fuel",
+            "count": 1
+          },
+          {
+            "name": "Obsidian",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Net",
     "category": "items/ammo/ammunition/projectiles/netthrower",
     "crafting": [
@@ -5832,8 +5854,7 @@
             "count": 8
           }
         ],
-        "station": "Advanced Furnace",
-        "": {}
+        "station": "Advanced Furnace"
       }
     ]
   },
@@ -7168,6 +7189,312 @@
   {
     "name": "Buffalo Walker Upgrade - Water - Tier 4",
     "category": "walkers/buffalo/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 13
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 40
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 128
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 48
+          },
+          {
+            "name": "Bone Glue",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Body",
+    "category": "walkers/cobra",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 900
+          },
+          {
+            "name": "Fiber",
+            "count": 390
+          },
+          {
+            "name": "Stone",
+            "count": 350
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Rope",
+            "count": 30
+          },
+          {
+            "name": "Bone Splinter",
+            "count": 10
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Legs (1 of 2)",
+    "category": "walkers/cobra/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 200
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 28
+          },
+          {
+            "name": "Earth Wax",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Cargo - Tier 2",
+    "category": "walkers/cobra/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 24
+          },
+          {
+            "name": "Fiber",
+            "count": 160
+          },
+          {
+            "name": "Wood",
+            "count": 120
+          },
+          {
+            "name": "Stone",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Torque - Tier 2",
+    "category": "walkers/cobra/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 24
+          },
+          {
+            "name": "Fiber",
+            "count": 104
+          },
+          {
+            "name": "Wood",
+            "count": 96
+          },
+          {
+            "name": "Rope",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Water - Tier 2",
+    "category": "walkers/cobra/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 16
+          },
+          {
+            "name": "Fiber",
+            "count": 160
+          },
+          {
+            "name": "Hide",
+            "count": 24
+          },
+          {
+            "name": "Wood",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Cargo - Tier 3",
+    "category": "walkers/cobra/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 20
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 56
+          },
+          {
+            "name": "Stone",
+            "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Torque - Tier 3",
+    "category": "walkers/cobra/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 48
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 56
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Wood",
+            "count": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Water - Tier 3",
+    "category": "walkers/cobra/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 32
+          },
+          {
+            "name": "Hide",
+            "count": 72
+          },
+          {
+            "name": "Wood",
+            "count": 136
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Cargo - Tier 4",
+    "category": "walkers/cobra/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 16
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 45
+          },
+          {
+            "name": "Bone Glue",
+            "count": 20
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 96
+          },
+          {
+            "name": "Worm Silk",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Torque - Tier 4",
+    "category": "walkers/cobra/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 24
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 61
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 16
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 80
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cobra Walker Upgrade - Water - Tier 4",
+    "category": "walkers/cobra/upgrades/tier4",
     "crafting": [
       {
         "ingredients": [
