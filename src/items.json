@@ -3828,6 +3828,32 @@
     ]
   },
   {
+    "name": "Exoskeleton",
+    "category": "items/equipment/armor/personal/walker",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 45
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 15
+          },
+          {
+            "name": "Bone Glue",
+            "count": 5
+          },
+          {
+            "name": "Hide",
+            "count": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Durable Water Sack",
     "category": "items/gear/backpacks/belt",
     "crafting": [
@@ -16167,6 +16193,32 @@
           {
             "name": "Fiber",
             "count": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Walker Packing Compartment",
+    "category": "walkers/tools",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 400
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 35
+          },
+          {
+            "name": "Rope",
+            "count": 20
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 10
           }
         ]
       }
