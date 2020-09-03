@@ -10316,3 +10316,35 @@
     ingredients[]
       name = Redwood Wood
       count n = 192
+[]
+  name = Walker Packing Compartment
+  category = walkers/tools
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 400
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 20
+    ingredients[]
+      name = Rupu Vine
+      count n = 10
+[]
+  name = Exoskeleton
+  category = items/equipment/armor/personal/walker
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 45
+    ingredients[]
+      name = Chitin Plate
+      count n = 15
+    ingredients[]
+      name = Bone Glue
+      count n = 5
+    ingredients[]
+      name = Hide
+      count n = 30
