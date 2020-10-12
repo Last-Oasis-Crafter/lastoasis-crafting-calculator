@@ -8218,7 +8218,7 @@
       name = Fiber
       count n = 18
 []
-  name = Choking Cloud
+  name = Chalk Cloud
   category = items/ammo/ammunition/projectiles/slingshot
   crafting[]
     ingredients[]
@@ -10348,3 +10348,678 @@
     ingredients[]
       name = Hide
       count n = 30
+[]
+  name = Camelop Walker Body
+  category = walkers/camelop
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 700
+    ingredients[]
+      name = Fiber
+      count n = 90
+    ingredients[]
+      name = Stone
+      count n = 120
+    ingredients[]
+      name = Wood Shaft
+      count n = 125
+    ingredients[]
+      name = Rope
+      count n = 70
+    ingredients[]
+      name = Obsidian
+      count n = 50
+    ingredients[]
+      name = Clay
+      count n = 20
+[]
+  name = Camelop Walker Legs (1 of 2)
+  category = walkers/camelop/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Wood Shaft
+      count n = 28
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+[]
+  name = Camelop Walker Upgrade - Water - Tier 2
+  category = walkers/camelop/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Camelop Walker Upgrade - Torque - Tier 2
+  category = walkers/camelop/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Camelop Walker Upgrade - Water - Tier 3
+  category = walkers/camelop/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Camelop Walker Upgrade - Torque - Tier 3
+  category = walkers/camelop/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Camelop Walker Upgrade - Water - Tier 4
+  category = walkers/camelop/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Camelop Walker Upgrade - Torque - Tier 4
+  category = walkers/camelop/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
+[]
+  name = Panda Walker Body
+  category = walkers/panda
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1360
+    ingredients[]
+      name = Fiber
+      count n = 600
+    ingredients[]
+      name = Stone
+      count n = 350
+    ingredients[]
+      name = Wood Shaft
+      count n = 121
+    ingredients[]
+      name = Rope
+      count n = 86
+    ingredients[]
+      name = Nomad Cloth
+      count n = 5
+    ingredients[]
+      name = Rupu Vine
+      count n = 110
+    ingredients[]
+      name = Ceramic Shard
+      count n = 35
+[]
+  name = Panda Walker Legs (1 of 2)
+  category = walkers/panda/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 650
+    ingredients[]
+      name = Wood Shaft
+      count n = 86
+    ingredients[]
+      name = Earth Wax
+      count n = 93
+[]
+  name = Armored Panda Walker Legs (1 of 2)
+  category = walkers/panda/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 620
+    ingredients[]
+      name = Wood Shaft
+      count n = 276
+    ingredients[]
+      name = Bone Splinter
+      count n = 49
+    ingredients[]
+      name = Bone Glue
+      count n = 16
+    ingredients[]
+      name = Redwood Wood
+      count n = 185
+    ingredients[]
+      name = Ceramic Shard
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 8
+[]
+  name = Heavy Panda Walker Legs (1 of 2)
+  category = walkers/panda/parts/legs
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 79
+    ingredients[]
+      name = Chitin Plate
+      count n = 18
+    ingredients[]
+      name = Tar
+      count n = 12
+[]
+  name = Panda Walker Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 130
+    ingredients[]
+      name = Fiver Weave
+      count n = 63
+[]
+  name = Panda Walker Large Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 88
+    ingredients[]
+      name = Worm Silk
+      count n = 75
+    ingredients[]
+      name = Hide
+      count n = 142
+[]
+  name = Panda Walker Medium Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 121
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+    ingredients[]
+      name = Hide
+      count n = 83
+[]
+  name = Panda Walker Small Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 65
+    ingredients[]
+      name = Rope
+      count n = 31
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+[]
+  name = Panda Walker Heavy Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 91
+    ingredients[]
+      name = Worm Silk
+      count n = 32
+    ingredients[]
+      name = Nomad Cloth
+      count n = 16
+    ingredients[]
+      name = Redwood Wood
+      count n = 25
+[]
+  name = Panda Walker Rugged Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 83
+    ingredients[]
+      name = Worm Silk
+      count n = 71
+    ingredients[]
+      name = Hide
+      count n = 116
+    ingredients[]
+      name = Redwood Wood
+      count n = 31
+[]
+  name = Panda Walker Skirmish Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 91
+    ingredients[]
+      name = Worm Silk
+      count n = 79
+    ingredients[]
+      name = Hide
+      count n = 137
+    ingredients[]
+      name = Iron Ore
+      count n = 29
+[]
+  name = Panda Walker Raider Wings (1 of 2)
+  category = walkers/panda/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 92
+    ingredients[]
+      name = Worm Silk
+      count n = 85
+    ingredients[]
+      name = Hide
+      count n = 142
+    ingredients[]
+      name = Iron Ore
+      count n = 63
+[]
+  name = Panda Walker Upgrade - Cargo - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 188
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Panda Walker Upgrade - Water - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 25
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Hide
+      count n = 38
+    ingredients[]
+      name = Wood
+      count n = 38
+[]
+  name = Panda Walker Upgrade - Gear - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 20
+    ingredients[]
+      name = Fiber
+      count n = 250
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Panda Walker Upgrade - Durability - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 75
+    ingredients[]
+      name = Fiber Weave
+      count n = 38
+    ingredients[]
+      name = Rupu Pelt
+      count n = 65
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Panda Walker Upgrade - Mobility - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 50
+    ingredients[]
+      name = Rupu Vine
+      count n = 75
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 75
+[]
+  name = Panda Walker Upgrade - Torque - Tier 2
+  category = walkers/panda/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 38
+    ingredients[]
+      name = Fiber
+      count n = 163
+    ingredients[]
+      name = Wood
+      count n = 150
+    ingredients[]
+      name = Rope
+      count n = 30
+[]
+  name = Panda Walker Upgrade - Cargo - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 88
+    ingredients[]
+      name = Stone
+      count n = 200
+[]
+  name = Panda Walker Upgrade - Water - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Hide
+      count n = 113
+    ingredients[]
+      name = Wood
+      count n = 213
+    ingredients[]
+      name = Fiber Weave
+      count n = 88
+[]
+  name = Panda Walker Upgrade - Gear - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 63
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Earth Wax
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 188
+[]
+  name = Panda Walker Upgrade - Durability - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 113
+    ingredients[]
+      name = Redwood Wood
+      count n = 125
+    ingredients[]
+      name = Bone Glue
+      count n = 10
+    ingredients[]
+      name = Chitin Plate
+      count n = 25
+[]
+  name = Panda Walker Upgrade - Mobility - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 100
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Earth Wax
+      count n = 200
+    ingredients[]
+      name = Bone Glue
+      count n = 13
+[]
+  name = Panda Walker Upgrade - Torque - Tier 3
+  category = walkers/panda/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 75
+    ingredients[]
+      name = Rupu Vine
+      count n = 88
+    ingredients[]
+      name = Rope
+      count n = 63
+    ingredients[]
+      name = Wood
+      count n = 200
+[]
+  name = Panda Walker Upgrade - Cargo - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 70
+    ingredients[]
+      name = Bone Glue
+      count n = 30
+    ingredients[]
+      name = Redwood Wood
+      count n = 150
+    ingredients[]
+      name = Worm Silk
+      count n = 63
+[]
+  name = Panda Walker Upgrade - Water - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 20
+    ingredients[]
+      name = Nomad Cloth
+      count n = 63
+    ingredients[]
+      name = Redwood Wood
+      count n = 200
+    ingredients[]
+      name = Rupu Gel
+      count n = 75
+    ingredients[]
+      name = Bone Glue
+      count n = 38
+[]
+  name = Panda Walker Upgrade - Gear - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 25
+    ingredients[]
+      name = Nomad Cloth
+      count n = 88
+    ingredients[]
+      name = Reinforced Plank
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 275
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+[]
+  name = Panda Walker Upgrade - Durability - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 70
+    ingredients[]
+      name = Ceramic Shard
+      count n = 300
+    ingredients[]
+      name = Chitin Plate
+      count n = 88
+    ingredients[]
+      name = Nomad Cloth
+      count n = 150
+    ingredients[]
+      name = Obsidian
+      count n = 13
+[]
+  name = Panda Walker Upgrade - Mobility - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 35
+    ingredients[]
+      name = Worm Silk
+      count n = 50
+    ingredients[]
+      name = Bone Glue
+      count n = 65
+    ingredients[]
+      name = Tar
+      count n = 100
+[]
+  name = Panda Walker Upgrade - Torque - Tier 4
+  category = walkers/panda/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 38
+    ingredients[]
+      name = Chitin Plate
+      count n = 95
+    ingredients[]
+      name = Reinforced Plank
+      count n = 25
+    ingredients[]
+      name = Ceramic Shard
+      count n = 125
+    ingredients[]
+      name = Redwood Wood
+      count n = 300
+[]
+  name = Cluster Bomb
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Obsidian
+      count n = 30
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+    ingredients[]
+      name = Mushroom Flesh
+      count n = 50
+    ingredients[]
+      name = Lava Fuel
+      count n = 1
+    ingredients[]
+      name = Tar
+      count n = 10
+    station = Camp Fire
+[]
+  name = Aloe Goo Bomb
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Aloe Vera
+      count n = 18
+    ingredients[]
+      name = Purified Water
+      count n = 10
+    ingredients[]
+      name = Thornberry
+      count n = 2
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    station = Camp Fire
