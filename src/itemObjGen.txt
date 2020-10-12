@@ -8218,7 +8218,7 @@
       name = Fiber
       count n = 18
 []
-  name = Chalk Cloud
+  name = Chalk Bomb
   category = items/ammo/ammunition/projectiles/slingshot
   crafting[]
     ingredients[]
@@ -11022,4 +11022,21 @@
     ingredients[]
       name = Nomad Cloth
       count n = 1
+    station = Camp Fire
+[]
+  name = Insect Bomb
+  category = items/ammo/ammunition/projectiles/slingshot
+  crafting[]
+    ingredients[]
+      name = Clay
+      count n = 3
+    ingredients[]
+      name = Nomad Cloth
+      count n = 1
+    ingredients[]
+      name = Beeswax
+      count n = 5
+    ingredients[]
+      name = Insect
+      count n = 18
     station = Camp Fire

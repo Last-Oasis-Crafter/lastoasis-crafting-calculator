@@ -3072,7 +3072,7 @@
     ]
   },
   {
-    "name": "Chalk Cloud",
+    "name": "Chalk Bomb",
     "category": "items/ammo/ammunition/projectiles/slingshot",
     "crafting": [
       {
@@ -3142,6 +3142,33 @@
           {
             "name": "Mushroom Flesh",
             "count": 15
+          }
+        ],
+        "station": "Camp Fire"
+      }
+    ]
+  },
+  {
+    "name": "Insect Bomb",
+    "category": "items/ammo/ammunition/projectiles/slingshot",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Clay",
+            "count": 3
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 1
+          },
+          {
+            "name": "Beeswax",
+            "count": 5
+          },
+          {
+            "name": "Insect",
+            "count": 18
           }
         ],
         "station": "Camp Fire"
