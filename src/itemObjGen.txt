@@ -11429,3 +11429,169 @@
     ingredients[]
       name = Redwood Wood
       count n = 192
+[]
+  name = Silur Walker Body
+  category = walkers/silur
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1615
+    ingredients[]
+      name = Fiber
+      count n = 950
+    ingredients[]
+      name = Stone
+      count n = 390
+    ingredients[]
+      name = Rope
+      count n = 39
+    ingredients[]
+      name = Wood Shaft
+      count n = 42
+    ingredients[]
+      name = Earth Wax
+      count n = 12
+[]
+  name = Silur Walker Legs (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 280
+    ingredients[]
+      name = Wood Shaft
+      count n = 36
+    ingredients[]
+      name = Earth Wax
+      count n = 42
+[]
+  name = Silur Walker Legs Armored (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1470
+    ingredients[]
+      name = Wood Shaft
+      count n = 183
+    ingredients[]
+      name = Ceramic Shard
+      count n = 102
+    ingredients[]
+      name = Bone Glue
+      count n = 33
+[]
+  name = Silur Walker Legs Heavy (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 60
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+    ingredients[]
+      name = Tar
+      count n = 5
+[]
+  name = Silur Walker Upgrade - Water - Tier 2
+  category = walkers/silur/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Silur Walker Upgrade - Torque - Tier 2
+  category = walkers/silur/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Silur Walker Upgrade - Water - Tier 3
+  category = walkers/silur/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Silur Walker Upgrade - Torque - Tier 3
+  category = walkers/silur/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Silur Walker Upgrade - Water - Tier 4
+  category = walkers/silur/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Silur Walker Upgrade - Torque - Tier 4
+  category = walkers/silur/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
