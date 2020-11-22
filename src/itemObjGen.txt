@@ -11595,3 +11595,147 @@
     ingredients[]
       name = Redwood Wood
       count n = 192
+[]
+  name = Balang Walker Body
+  category = walkers/balang
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 400
+    ingredients[]
+      name = Fiber
+      count n = 265
+    ingredients[]
+      name = Rupu Vine
+      count n = 22
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 85
+[]
+  name = Balang Walker Legs (1 of 2)
+  category = walkers/balang/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 90
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+[]
+  name = Balang Walker Small Wings (1 of 2)
+  category = walkers/balang/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 16
+    ingredients[]
+      name = Fiber Weave
+      count n = 42
+    ingredients[]
+      name = Rope
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Water - Tier 2
+  category = walkers/balang/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Torque - Tier 2
+  category = walkers/balang/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 65
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 12
+[]
+  name = Balang Walker Upgrade - Water - Tier 3
+  category = walkers/balang/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Balang Walker Upgrade - Torque - Tier 3
+  category = walkers/balang/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80
+[]
+  name = Balang Walker Upgrade - Water - Tier 4
+  category = walkers/balang/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Rupu Gel
+      count n = 30
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Torque - Tier 4
+  category = walkers/balang/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Chitin Plate
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 120
