@@ -8153,6 +8153,22 @@
       name = Fiery Concoction
       count n = 1
 []
+  name = Hardened Hellfire Bolt
+  category = items/ammo/ammunition/projectiles/ballista
+  crafting[]
+    ingredients[]
+      name = Hellfire Bolt
+      count n = 1
+    ingredients[]
+      name = Ceramic Shard
+      count n = 2
+    ingredients[]
+      name = Nibiran Mineral
+      count n = 1
+    ingredients[]
+      name = Liquid Fuel
+      count n = 2
+[]
   name = Iron-Tipped Bolt
   category = items/ammo/ammunition/projectiles/ballista
   crafting[]
@@ -8390,6 +8406,22 @@
     ingredients[]
       name = Purified Water
       count n = 40
+[]
+  name = Battle Fan
+  category = buildings/construction/tools
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 6
+    ingredients[]
+      name = Wood Shaft
+      count n = 35
+    ingredients[]
+      name = Rupu Vine
+      count n = 60
+    ingredients[]
+      name = Bone Glue
+      count n = 5
 []
   name = Water Pitcher
   category = buildings/construction/container
@@ -8808,7 +8840,7 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 40
+      count n = 20
 []
   name = Clay Foundation
   category = buildings/construction/clay
@@ -8821,7 +8853,7 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 50
+      count n = 25
 []
   name = Clay Wall
   category = buildings/construction/clay
@@ -8834,7 +8866,7 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 40
+      count n = 20
 []
   name = Clay Battlement
   category = buildings/construction/clay
@@ -8847,7 +8879,7 @@
       count n = 20
     ingredients[]
       name = Clay
-      count n = 20
+      count n = 10
 []
   name = Clay Roof
   category = buildings/construction/clay
@@ -8860,7 +8892,7 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 40
+      count n = 20
 []
   name = Clay Wall with Window
   category = buildings/construction/clay
@@ -8873,7 +8905,7 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 40
+      count n = 20
 []
   name = Clay Wall with Windows
   category = buildings/construction/clay
@@ -8886,183 +8918,183 @@
       count n = 28
     ingredients[]
       name = Clay
-      count n = 40
+      count n = 15
 []
   name = Cement Corner
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 35
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 35
 []
   name = Cement Door
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 50
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 50
 []
   name = Cement Foundation
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 60
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 60
 []
   name = Cement Wall 1
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Cement Wall 2
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Cement Battlements
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 35
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 35
 []
   name = Cement Roof
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 60
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 60
 []
   name = Cement Wall With Window 1
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Cement Wall With Window 2
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Cement Wall With Windows 1
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Cement Wall With Windows 2
   category = buildings/construction/cement
   crafting[]
     ingredients[]
-      name = Clay
-      count n = 100
+      name = Stone
+      count n = 45
     ingredients[]
       name = Tar
-      count n = 12
+      count n = 20
     ingredients[]
       name = Chitin Plate
       count n = 20
     ingredients[]
       name = Ash
-      count n = 100
+      count n = 45
 []
   name = Rupu Sling
   category = items
@@ -11059,3 +11091,669 @@
     ingredients[]
       name = Pearl
       count n = 20
+  name = Small Base Walker Packer
+  category = buildings/construction/walker
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 370
+    ingredients[]
+      name = Fiber Weave
+      count n = 27
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 25
+[]
+  name = Large Base Walker Packer
+  category = buildings/construction/walker
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Bone Glue
+      count n = 6
+    ingredients[]
+      name = Rope
+      count n = 60
+    ingredients[]
+      name = Redwood Wood
+      count n = 35
+[]
+  name = Base Maintenance Chest
+  category = buildings/construction
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 130
+    ingredients[]
+      name = Fiber
+      count n = 150
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Stone Wall
+  category = buildings/construction/stone
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+[]
+  name = Stone Door
+  category = buildings/construction/stone
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+[]
+  name = Stone Foundation
+  category = buildings/construction/stone
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+[]
+  name = Stone Roof
+  category = buildings/construction/stone
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+[]
+  name = Stone Wall with Window
+  category = buildings/construction/stone
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 28
+    ingredients[]
+      name = Stone
+      count n = 10
+    ingredients[]
+      name = Wood Shaft
+      count n = 1
+[]
+  name = Hercul Walker Body
+  category = walkers/hercul
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1580
+    ingredients[]
+      name = Stone
+      count n = 270
+    ingredients[]
+      name = Fiber
+      count n = 1200
+    ingredients[]
+      name = Rope
+      count n = 15
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+    ingredients[]
+      name = Earth Wax
+      count n = 10
+[]
+  name = Hercul Walker Legs (1 of 2)
+  category = walkers/hercul/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 280
+    ingredients[]
+      name = Wood Shaft
+      count n = 36
+    ingredients[]
+      name = Earth Wax
+      count n = 42
+[]
+  name = Hercul Walker Legs Armored (1 of 2)
+  category = walkers/hercul/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1470
+    ingredients[]
+      name = Wood Shaft
+      count n = 183
+    ingredients[]
+      name = Ceramic Shard
+      count n = 102
+    ingredients[]
+      name = Bone Glue
+      count n = 33
+[]
+  name = Hercul Walker Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 93
+    ingredients[]
+      name = Fiber Weave
+      count n = 52
+[]
+  name = Hercul Walker Small Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 40
+    ingredients[]
+      name = Rope
+      count n = 18
+    ingredients[]
+      name = Nomad Cloth
+      count n = 4
+[]
+  name = Hercul Walker Medium Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 92
+    ingredients[]
+      name = Nomad Cloth
+      count n = 8
+    ingredients[]
+      name = Hide
+      count n = 50
+[]
+  name = Hercul Walker Heavy Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 78
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 14
+[]
+  name = Hercul Walker Rugged Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 60
+    ingredients[]
+      name = Worm Silk
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 60
+    ingredients[]
+      name = Redwood Wood
+      count n = 14
+[]
+  name = Hercul Walker Skirmish Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 70
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+    ingredients[]
+      name = Hide
+      count n = 100
+[]
+  name = Hercul Walker Raider Wings (1 of 2)
+  category = walkers/hercul/parts/wings
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 70
+    ingredients[]
+      name = Worm Silk
+      count n = 60
+    ingredients[]
+      name = Hide
+      count n = 120
+    ingredients[]
+      name = Redwood Wood
+      count n = 24
+[]
+  name = Hercul Walker Upgrade - Water - Tier 2
+  category = walkers/hercul/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Hercul Walker Upgrade - Torque - Tier 2
+  category = walkers/hercul/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Hercul Walker Upgrade - Water - Tier 3
+  category = walkers/hercul/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Hercul Walker Upgrade - Torque - Tier 3
+  category = walkers/hercul/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Hercul Walker Upgrade - Water - Tier 4
+  category = walkers/hercul/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Hercul Walker Upgrade - Torque - Tier 4
+  category = walkers/hercul/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
+[]
+  name = Silur Walker Body
+  category = walkers/silur
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1615
+    ingredients[]
+      name = Fiber
+      count n = 950
+    ingredients[]
+      name = Stone
+      count n = 390
+    ingredients[]
+      name = Rope
+      count n = 39
+    ingredients[]
+      name = Wood Shaft
+      count n = 42
+    ingredients[]
+      name = Earth Wax
+      count n = 12
+[]
+  name = Silur Walker Legs (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 280
+    ingredients[]
+      name = Wood Shaft
+      count n = 36
+    ingredients[]
+      name = Earth Wax
+      count n = 42
+[]
+  name = Silur Walker Legs Armored (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1470
+    ingredients[]
+      name = Wood Shaft
+      count n = 183
+    ingredients[]
+      name = Ceramic Shard
+      count n = 102
+    ingredients[]
+      name = Bone Glue
+      count n = 33
+[]
+  name = Silur Walker Legs Heavy (1 of 2)
+  category = walkers/silur/parts/legs
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 60
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+    ingredients[]
+      name = Tar
+      count n = 5
+[]
+  name = Silur Walker Upgrade - Water - Tier 2
+  category = walkers/silur/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 16
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Hide
+      count n = 24
+    ingredients[]
+      name = Wood
+      count n = 24
+[]
+  name = Silur Walker Upgrade - Torque - Tier 2
+  category = walkers/silur/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 104
+    ingredients[]
+      name = Wood
+      count n = 96
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Silur Walker Upgrade - Water - Tier 3
+  category = walkers/silur/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 32
+    ingredients[]
+      name = Hide
+      count n = 72
+    ingredients[]
+      name = Wood
+      count n = 136
+    ingredients[]
+      name = Fiber Weave
+      count n = 56
+[]
+  name = Silur Walker Upgrade - Torque - Tier 3
+  category = walkers/silur/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 48
+    ingredients[]
+      name = Rupu Vine
+      count n = 56
+    ingredients[]
+      name = Rope
+      count n = 40
+    ingredients[]
+      name = Wood
+      count n = 128
+[]
+  name = Silur Walker Upgrade - Water - Tier 4
+  category = walkers/silur/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 13
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Redwood Wood
+      count n = 128
+    ingredients[]
+      name = Rupu Gel
+      count n = 48
+    ingredients[]
+      name = Bone Glue
+      count n = 24
+[]
+  name = Silur Walker Upgrade - Torque - Tier 4
+  category = walkers/silur/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 24
+    ingredients[]
+      name = Chitin Plate
+      count n = 61
+    ingredients[]
+      name = Reinforced Plank
+      count n = 16
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Redwood Wood
+      count n = 192
+[]
+  name = Balang Walker Body
+  category = walkers/balang
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 400
+    ingredients[]
+      name = Fiber
+      count n = 265
+    ingredients[]
+      name = Rupu Vine
+      count n = 22
+    ingredients[]
+      name = Wood Shaft
+      count n = 10
+    ingredients[]
+      name = Stone
+      count n = 85
+[]
+  name = Balang Walker Legs (1 of 2)
+  category = walkers/balang/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 90
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+[]
+  name = Balang Walker Small Wings (1 of 2)
+  category = walkers/balang/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood Shaft
+      count n = 16
+    ingredients[]
+      name = Fiber Weave
+      count n = 42
+    ingredients[]
+      name = Rope
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Water - Tier 2
+  category = walkers/balang/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 10
+    ingredients[]
+      name = Fiber
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 15
+    ingredients[]
+      name = Wood
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Torque - Tier 2
+  category = walkers/balang/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 15
+    ingredients[]
+      name = Fiber
+      count n = 65
+    ingredients[]
+      name = Wood
+      count n = 60
+    ingredients[]
+      name = Rope
+      count n = 12
+[]
+  name = Balang Walker Upgrade - Water - Tier 3
+  category = walkers/balang/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 20
+    ingredients[]
+      name = Rupu Pelt
+      count n = 45
+    ingredients[]
+      name = Wood
+      count n = 85
+    ingredients[]
+      name = Fiber Weave
+      count n = 35
+[]
+  name = Balang Walker Upgrade - Torque - Tier 3
+  category = walkers/balang/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 30
+    ingredients[]
+      name = Rupu Vine
+      count n = 35
+    ingredients[]
+      name = Rope
+      count n = 25
+    ingredients[]
+      name = Wood
+      count n = 80
+[]
+  name = Balang Walker Upgrade - Water - Tier 4
+  category = walkers/balang/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 8
+    ingredients[]
+      name = Nomad Cloth
+      count n = 25
+    ingredients[]
+      name = Redwood Wood
+      count n = 80
+    ingredients[]
+      name = Rupu Gel
+      count n = 30
+    ingredients[]
+      name = Bone Glue
+      count n = 15
+[]
+  name = Balang Walker Upgrade - Torque - Tier 4
+  category = walkers/balang/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 15
+    ingredients[]
+      name = Chitin Plate
+      count n = 38
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Ceramic Shard
+      count n = 50
+    ingredients[]
+      name = Redwood Wood
+      count n = 120

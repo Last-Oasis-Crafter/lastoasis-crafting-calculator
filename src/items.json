@@ -1,5 +1,27 @@
 [
   {
+    "name": "Base Maintenance Chest",
+    "category": "buildings/construction",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 130
+          },
+          {
+            "name": "Fiber",
+            "count": 150
+          },
+          {
+            "name": "Stone",
+            "count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Barrier Base",
     "category": "buildings/construction/barrier",
     "crafting": [
@@ -138,12 +160,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 35
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -151,7 +173,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 35
           }
         ]
       }
@@ -164,12 +186,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 35
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -177,7 +199,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 35
           }
         ]
       }
@@ -190,12 +212,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 50
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -203,7 +225,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 50
           }
         ]
       }
@@ -216,12 +238,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 60
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -229,7 +251,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 60
           }
         ]
       }
@@ -242,12 +264,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 60
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -255,7 +277,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 60
           }
         ]
       }
@@ -268,12 +290,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -281,7 +303,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -294,12 +316,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -307,7 +329,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -320,12 +342,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -333,7 +355,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -346,12 +368,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -359,7 +381,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -372,12 +394,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -385,7 +407,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -398,12 +420,12 @@
       {
         "ingredients": [
           {
-            "name": "Clay",
-            "count": 100
+            "name": "Stone",
+            "count": 45
           },
           {
             "name": "Tar",
-            "count": 12
+            "count": 20
           },
           {
             "name": "Chitin Plate",
@@ -411,7 +433,7 @@
           },
           {
             "name": "Ash",
-            "count": 100
+            "count": 45
           }
         ]
       }
@@ -433,7 +455,7 @@
           },
           {
             "name": "Clay",
-            "count": 20
+            "count": 10
           }
         ]
       }
@@ -477,7 +499,7 @@
           },
           {
             "name": "Clay",
-            "count": 40
+            "count": 20
           }
         ]
       }
@@ -499,7 +521,7 @@
           },
           {
             "name": "Clay",
-            "count": 50
+            "count": 25
           }
         ]
       }
@@ -521,7 +543,7 @@
           },
           {
             "name": "Clay",
-            "count": 40
+            "count": 20
           }
         ]
       }
@@ -543,7 +565,7 @@
           },
           {
             "name": "Clay",
-            "count": 40
+            "count": 20
           }
         ]
       }
@@ -565,7 +587,7 @@
           },
           {
             "name": "Clay",
-            "count": 40
+            "count": 20
           }
         ]
       }
@@ -587,7 +609,7 @@
           },
           {
             "name": "Clay",
-            "count": 40
+            "count": 15
           }
         ]
       }
@@ -1434,6 +1456,26 @@
             "count": 20
           }
         ]
+      },
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 370
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 27
+          },
+          {
+            "name": "Earth Wax",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 25
+          }
+        ]
       }
     ]
   },
@@ -1510,6 +1552,142 @@
     ]
   },
   {
+    "name": "Stone Door",
+    "category": "buildings/construction/stone",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 28
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Foundation",
+    "category": "buildings/construction/stone",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 28
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Roof",
+    "category": "buildings/construction/stone",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 28
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall",
+    "category": "buildings/construction/stone",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 28
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall with Window",
+    "category": "buildings/construction/stone",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 28
+          },
+          {
+            "name": "Stone",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battle Fan",
+    "category": "buildings/construction/tools",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 6
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 35
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 60
+          },
+          {
+            "name": "Bone Glue",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Crane",
     "category": "buildings/construction/tools",
     "crafting": [
@@ -1578,6 +1756,32 @@
           {
             "name": "Bone Glue",
             "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Large Base Walker Packer",
+    "category": "buildings/construction/walker",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 10
+          },
+          {
+            "name": "Bone Glue",
+            "count": 6
+          },
+          {
+            "name": "Rope",
+            "count": 60
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 35
           }
         ]
       }
@@ -2748,6 +2952,32 @@
           {
             "name": "Rupu Vine",
             "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hardened Hellfire Bolt",
+    "category": "items/ammo/ammunition/projectiles/ballista",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Hellfire Bolt",
+            "count": 1
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 2
+          },
+          {
+            "name": "Nibiran Mineral",
+            "count": 1
+          },
+          {
+            "name": "Liquid Fuel",
+            "count": 2
           }
         ]
       }
@@ -6650,6 +6880,240 @@
   {
     "name": "Worm Silk",
     "category": "materials"
+  },
+  {
+    "name": "Balang Walker Body",
+    "category": "walkers/balang",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 400
+          },
+          {
+            "name": "Fiber",
+            "count": 265
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 22
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 10
+          },
+          {
+            "name": "Stone",
+            "count": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Legs (1 of 2)",
+    "category": "walkers/balang/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 90
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Small Wings (1 of 2)",
+    "category": "walkers/balang/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 16
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 42
+          },
+          {
+            "name": "Rope",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Torque - Tier 2",
+    "category": "walkers/balang/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 15
+          },
+          {
+            "name": "Fiber",
+            "count": 65
+          },
+          {
+            "name": "Wood",
+            "count": 60
+          },
+          {
+            "name": "Rope",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Water - Tier 2",
+    "category": "walkers/balang/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 10
+          },
+          {
+            "name": "Fiber",
+            "count": 100
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 15
+          },
+          {
+            "name": "Wood",
+            "count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Torque - Tier 3",
+    "category": "walkers/balang/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 30
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 35
+          },
+          {
+            "name": "Rope",
+            "count": 25
+          },
+          {
+            "name": "Wood",
+            "count": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Water - Tier 3",
+    "category": "walkers/balang/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 20
+          },
+          {
+            "name": "Rupu Pelt",
+            "count": 45
+          },
+          {
+            "name": "Wood",
+            "count": 85
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Torque - Tier 4",
+    "category": "walkers/balang/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 15
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 38
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 10
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 50
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Balang Walker Upgrade - Water - Tier 4",
+    "category": "walkers/balang/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 8
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 25
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 80
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 30
+          },
+          {
+            "name": "Bone Glue",
+            "count": 15
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Buffalo Walker Body",
@@ -10820,6 +11284,410 @@
     ]
   },
   {
+    "name": "Hercul Walker Body",
+    "category": "walkers/hercul",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1580
+          },
+          {
+            "name": "Stone",
+            "count": 270
+          },
+          {
+            "name": "Fiber",
+            "count": 1200
+          },
+          {
+            "name": "Rope",
+            "count": 15
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 45
+          },
+          {
+            "name": "Earth Wax",
+            "count": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Legs (1 of 2)",
+    "category": "walkers/hercul/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 280
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 36
+          },
+          {
+            "name": "Earth Wax",
+            "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Legs Armored (1 of 2)",
+    "category": "walkers/hercul/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1470
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 183
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 102
+          },
+          {
+            "name": "Bone Glue",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Heavy Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 78
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Medium Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 92
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 8
+          },
+          {
+            "name": "Hide",
+            "count": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Raider Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 70
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          },
+          {
+            "name": "Hide",
+            "count": 120
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Rugged Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 60
+          },
+          {
+            "name": "Worm Silk",
+            "count": 40
+          },
+          {
+            "name": "Hide",
+            "count": 60
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Skirmish Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 70
+          },
+          {
+            "name": "Worm Silk",
+            "count": 60
+          },
+          {
+            "name": "Hide",
+            "count": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Small Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood Shaft",
+            "count": 40
+          },
+          {
+            "name": "Rope",
+            "count": 18
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Wings (1 of 2)",
+    "category": "walkers/hercul/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 93
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 52
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Torque - Tier 2",
+    "category": "walkers/hercul/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 24
+          },
+          {
+            "name": "Fiber",
+            "count": 104
+          },
+          {
+            "name": "Wood",
+            "count": 96
+          },
+          {
+            "name": "Rope",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Water - Tier 2",
+    "category": "walkers/hercul/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 16
+          },
+          {
+            "name": "Fiber",
+            "count": 160
+          },
+          {
+            "name": "Hide",
+            "count": 24
+          },
+          {
+            "name": "Wood",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Torque - Tier 3",
+    "category": "walkers/hercul/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 48
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 56
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Wood",
+            "count": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Water - Tier 3",
+    "category": "walkers/hercul/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 32
+          },
+          {
+            "name": "Hide",
+            "count": 72
+          },
+          {
+            "name": "Wood",
+            "count": 136
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Torque - Tier 4",
+    "category": "walkers/hercul/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 24
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 61
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 16
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 80
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hercul Walker Upgrade - Water - Tier 4",
+    "category": "walkers/hercul/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 13
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 40
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 128
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 48
+          },
+          {
+            "name": "Bone Glue",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hornet Walker Body",
     "category": "walkers/hornet",
     "crafting": [
@@ -14262,6 +15130,274 @@
           {
             "name": "Bone Glue",
             "count": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Body",
+    "category": "walkers/silur",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1615
+          },
+          {
+            "name": "Fiber",
+            "count": 950
+          },
+          {
+            "name": "Stone",
+            "count": 390
+          },
+          {
+            "name": "Rope",
+            "count": 39
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 42
+          },
+          {
+            "name": "Earth Wax",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Legs (1 of 2)",
+    "category": "walkers/silur/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 280
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 36
+          },
+          {
+            "name": "Earth Wax",
+            "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Legs Armored (1 of 2)",
+    "category": "walkers/silur/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1470
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 183
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 102
+          },
+          {
+            "name": "Bone Glue",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Legs Heavy (1 of 2)",
+    "category": "walkers/silur/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 60
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
+          },
+          {
+            "name": "Tar",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Torque - Tier 2",
+    "category": "walkers/silur/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 24
+          },
+          {
+            "name": "Fiber",
+            "count": 104
+          },
+          {
+            "name": "Wood",
+            "count": 96
+          },
+          {
+            "name": "Rope",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Water - Tier 2",
+    "category": "walkers/silur/upgrades/tier2",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bone Splinter",
+            "count": 16
+          },
+          {
+            "name": "Fiber",
+            "count": 160
+          },
+          {
+            "name": "Hide",
+            "count": 24
+          },
+          {
+            "name": "Wood",
+            "count": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Torque - Tier 3",
+    "category": "walkers/silur/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 48
+          },
+          {
+            "name": "Rupu Vine",
+            "count": 56
+          },
+          {
+            "name": "Rope",
+            "count": 40
+          },
+          {
+            "name": "Wood",
+            "count": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Water - Tier 3",
+    "category": "walkers/silur/upgrades/tier3",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Ceramic Shard",
+            "count": 32
+          },
+          {
+            "name": "Hide",
+            "count": 72
+          },
+          {
+            "name": "Wood",
+            "count": 136
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Torque - Tier 4",
+    "category": "walkers/silur/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 24
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 61
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 16
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 80
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silur Walker Upgrade - Water - Tier 4",
+    "category": "walkers/silur/upgrades/tier4",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Iron Ingot",
+            "count": 13
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 40
+          },
+          {
+            "name": "Redwood Wood",
+            "count": 128
+          },
+          {
+            "name": "Rupu Gel",
+            "count": 48
+          },
+          {
+            "name": "Bone Glue",
+            "count": 24
           }
         ]
       }
