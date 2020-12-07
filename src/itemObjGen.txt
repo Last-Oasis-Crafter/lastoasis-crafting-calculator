@@ -2849,8 +2849,8 @@
       name = Ceramic Shard
       count n = 40
     ingredients[]
-      name = Reinforced Plank
-      count n = 4
+      name = Chitin Plate
+      count n = 30
     ingredients[]
       name = Earth Wax
       count n = 80
@@ -8147,8 +8147,11 @@
       name = Tar
       count n = 35
     ingredients[]
-      name = Sulfur
-      count n = 30
+      name = Lava Fuel
+      count n = 5
+    ingredients[]
+      name = Fiery Concoction
+      count n = 1
 []
   name = Iron-Tipped Bolt
   category = items/ammo/ammunition/projectiles/ballista
@@ -11040,3 +11043,19 @@
       name = Insect
       count n = 18
     station = Camp Fire
+[]
+  name = Poaching Hut
+  category = buildings/construction/placeable/claim
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 300
+    ingredients[]
+      name = Animal Fat
+      count n = 80
+    ingredients[]
+      name = Nomad Cloth
+      count n = 40
+    ingredients[]
+      name = Pearl
+      count n = 20
