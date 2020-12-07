@@ -1434,6 +1434,32 @@
     ]
   },
   {
+    "name": "Poaching Hut",
+    "category": "buildings/construction/placeable/claim",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 300
+          },
+          {
+            "name": "Animal Fat",
+            "count": 80
+          },
+          {
+            "name": "Nomad Cloth",
+            "count": 40
+          },
+          {
+            "name": "Pearl",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Cloth Door",
     "category": "buildings/construction/sand bag",
     "crafting": [
@@ -2982,8 +3008,12 @@
             "count": 35
           },
           {
-            "name": "Sulfur",
-            "count": 30
+            "name": "Lava Fuel",
+            "count": 5
+          },
+          {
+            "name": "Fiery Concoction",
+            "count": 1
           }
         ]
       }
@@ -15818,8 +15848,8 @@
             "count": 40
           },
           {
-            "name": "Reinforced Plank",
-            "count": 4
+            "name": "Chitin Plate",
+            "count": 30
           },
           {
             "name": "Earth Wax",
