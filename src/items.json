@@ -1456,26 +1456,6 @@
             "count": 20
           }
         ]
-      },
-      {
-        "ingredients": [
-          {
-            "name": "Wood",
-            "count": 370
-          },
-          {
-            "name": "Fiber Weave",
-            "count": 27
-          },
-          {
-            "name": "Earth Wax",
-            "count": 10
-          },
-          {
-            "name": "Wood Shaft",
-            "count": 25
-          }
-        ]
       }
     ]
   },
@@ -1782,6 +1762,32 @@
           {
             "name": "Redwood Wood",
             "count": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Small Base Walker Packer",
+    "category": "buildings/construction/walker",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 370
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 27
+          },
+          {
+            "name": "Earth Wax",
+            "count": 10
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 25
           }
         ]
       }

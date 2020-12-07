@@ -11091,6 +11091,7 @@
     ingredients[]
       name = Pearl
       count n = 20
+[]
   name = Small Base Walker Packer
   category = buildings/construction/walker
   crafting[]
