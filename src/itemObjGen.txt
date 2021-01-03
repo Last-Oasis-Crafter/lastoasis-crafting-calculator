@@ -3546,6 +3546,22 @@
       name = Wood Shaft
       count n = 18
 []
+  name = Stiletto Walker Legs Armored (1 of 2)
+  category = walkers/stiletto/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 490
+    ingredients[]
+      name = Wood Shaft
+      count n = 60
+    ingredients[]
+      name = Ceramic Shard
+      count n = 24
+    ingredients[]
+      name = Bone Glue
+      count n = 8
+[]
   name = Stiletto Walker Wings (1 of 2)
   category = walkers/stiletto/parts/wings
   crafting[]
@@ -3983,6 +3999,35 @@
     ingredients[]
       name = Earth Wax
       count n = 42
+[]
+  name = Buffalo Walker Legs Armored (1 of 2)
+  category = walkers/buffalo/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1470
+    ingredients[]
+      name = Wood Shaft
+      count n = 183
+    ingredients[]
+      name = Ceramic Shard
+      count n = 102
+    ingredients[]
+      name = Bone Glue
+      count n = 33
+[]
+  name = Buffalo Walker Legs Heavy (1 of 2)
+  category = walkers/buffalo/parts/legs
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 60
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+    ingredients[]
+      name = Tar
+      count n = 5
 []
   name = Buffalo Walker Wings (1 of 2)
   category = walkers/buffalo/parts/wings
@@ -4901,6 +4946,35 @@
     ingredients[]
       name = Earth Wax
       count n = 40
+[]
+  name = Hornet Walker Legs Armored (1 of 2)
+  category = walkers/hornet/parts/legs
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 1365
+    ingredients[]
+      name = Wood Shaft
+      count n = 168
+    ingredients[]
+      name = Ceramic Shard
+      count n = 87
+    ingredients[]
+      name = Bone Glue
+      count n = 27
+[]
+  name = Hornet Walker Legs Heavy (1 of 2)
+  category = walkers/hornet/parts/legs
+  crafting[]
+    ingredients[]
+      name = Reinforced Plank
+      count n = 64
+    ingredients[]
+      name = Chitin Plate
+      count n = 10
+    ingredients[]
+      name = Tar
+      count n = 5
 []
   name = Hornet Walker Wings (1 of 2)
   category = walkers/hornet/parts/wings
@@ -11643,6 +11717,16 @@
     ingredients[]
       name = Wood Shaft
       count n = 8
+[]
+  name = Balang Walker Wings (1 of 2)
+  category = walkers/balang/parts/wings
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 16
 []
   name = Balang Walker Small Wings (1 of 2)
   category = walkers/balang/parts/wings

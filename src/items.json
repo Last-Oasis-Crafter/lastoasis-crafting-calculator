@@ -6958,6 +6958,24 @@
     ]
   },
   {
+    "name": "Balang Walker Wings (1 of 2)",
+    "category": "walkers/balang/parts/wings",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 30
+          },
+          {
+            "name": "Fiber Weave",
+            "count": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Balang Walker Upgrade - Torque - Tier 2",
     "category": "walkers/balang/upgrades/tier2",
     "crafting": [
@@ -7172,6 +7190,54 @@
           {
             "name": "Earth Wax",
             "count": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Legs Armored (1 of 2)",
+    "category": "walkers/buffalo/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1470
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 183
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 102
+          },
+          {
+            "name": "Bone Glue",
+            "count": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buffalo Walker Legs Heavy (1 of 2)",
+    "category": "walkers/buffalo/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 60
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
+          },
+          {
+            "name": "Tar",
+            "count": 5
           }
         ]
       }
@@ -11754,6 +11820,54 @@
     ]
   },
   {
+    "name": "Hornet Walker Legs Armored (1 of 2)",
+    "category": "walkers/hornet/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 1365
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 168
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 87
+          },
+          {
+            "name": "Bone Glue",
+            "count": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hornet Walker Legs Heavy (1 of 2)",
+    "category": "walkers/hornet/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Reinforced Plank",
+            "count": 64
+          },
+          {
+            "name": "Chitin Plate",
+            "count": 10
+          },
+          {
+            "name": "Tar",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hornet Walker Heavy Wings (1 of 2)",
     "category": "walkers/hornet/parts/wings",
     "crafting": [
@@ -16138,6 +16252,32 @@
           {
             "name": "Wood Shaft",
             "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stiletto Walker Legs Armored (1 of 2)",
+    "category": "walkers/stiletto/parts/legs",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Wood",
+            "count": 490
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 60
+          },
+          {
+            "name": "Ceramic Shard",
+            "count": 24
+          },
+          {
+            "name": "Bone Glue",
+            "count": 8
           }
         ]
       }
