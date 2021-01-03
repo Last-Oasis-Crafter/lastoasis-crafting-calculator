@@ -2056,16 +2056,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 45
+      count n = 40
     ingredients[]
-      name = Redwood Wood
-      count n = 50
+      name = Earth Wax
+      count n = 80
     ingredients[]
       name = Bone Glue
-      count n = 4
+      count n = 5
     ingredients[]
       name = Chitin Plate
-      count n = 10
+      count n = 30
 []
   name = Firefly Walker Upgrade - Mobility - Tier 3
   category = walkers/firefly/upgrades/tier3
@@ -2074,8 +2074,8 @@
       name = Ceramic Shard
       count n = 40
     ingredients[]
-      name = Reinforced Plank
-      count n = 4
+      name = Chitin Plate
+      count n = 30
     ingredients[]
       name = Earth Wax
       count n = 80
@@ -2411,16 +2411,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 45
+      count n = 40
     ingredients[]
-      name = Redwood Wood
-      count n = 50
+      name = Earth Wax
+      count n = 80
     ingredients[]
       name = Bone Glue
       count n = 4
     ingredients[]
       name = Chitin Plate
-      count n = 10  
+      count n = 35  
 []
   name = Dinghy Walker Upgrade - Mobility - Tier 3
   category = walkers/dinghy/upgrades/tier3
@@ -2429,8 +2429,8 @@
       name = Ceramic Shard
       count n = 40
     ingredients[]
-      name = Reinforced Plank
-      count n = 4
+      name = Chitin Plate
+      count n = 35
     ingredients[]
       name = Earth Wax
       count n = 80
@@ -2831,16 +2831,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 45
+      count n = 40
     ingredients[]
-      name = Redwood Wood
-      count n = 50
+      name = Earth Wax
+      count n = 80
     ingredients[]
       name = Bone Glue
-      count n = 4
+      count n = 5
     ingredients[]
       name = Chitin Plate
-      count n = 10
+      count n = 30
 []
   name = Spider Walker Upgrade - Mobility - Tier 3
   category = walkers/spider/upgrades/tier3
@@ -3362,8 +3362,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 60
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -3376,16 +3376,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 40
     ingredients[]
-      name = Redwood Wood
-      count n = 80
-    ingredients[]
-      name = Bone Glue
-      count n = 7
-    ingredients[]
-      name = Chitin Plate
+      name = Nomad Cloth
       count n = 16
+    ingredients[]
+      name = Earth Wax
+      count n = 64
+    ingredients[]
+      name = Wood
+      count n = 75
 []
   name = Mollusk Walker Upgrade - Torque - Tier 3
   category = walkers/mollusk/upgrades/tier3
@@ -3792,16 +3792,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 64
     ingredients[]
-      name = Redwood Wood
-      count n = 80
+      name = Earth Wax
+      count n = 128
     ingredients[]
       name = Bone Glue
-      count n = 7
+      count n = 8
     ingredients[]
       name = Chitin Plate
-      count n = 16
+      count n = 55
 []
   name = Stiletto Walker Upgrade - Mobility - Tier 3
   category = walkers/stiletto/upgrades/tier3
@@ -3810,8 +3810,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 55
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -4227,16 +4227,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 64
     ingredients[]
-      name = Redwood Wood
-      count n = 80
+      name = Earth Wax
+      count n = 128
     ingredients[]
       name = Bone Glue
-      count n = 7
+      count n = 8
     ingredients[]
       name = Chitin Plate
-      count n = 16
+      count n = 60
 []
   name = Buffalo Walker Upgrade - Mobility - Tier 3
   category = walkers/buffalo/upgrades/tier3
@@ -4245,8 +4245,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 60
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -4709,8 +4709,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 55
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -4723,16 +4723,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 64
     ingredients[]
-      name = Redwood Wood
-      count n = 80
+      name = Earth Wax
+      count n = 128
     ingredients[]
       name = Bone Glue
-      count n = 7
+      count n = 8
     ingredients[]
       name = Chitin Plate
-      count n = 16
+      count n = 55
 []
   name = Toboggan Walker Upgrade - Torque - Tier 3
   category = walkers/toboggan/upgrades/tier3
@@ -5164,16 +5164,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 64
     ingredients[]
-      name = Redwood Wood
-      count n = 80
+      name = Earth Wax
+      count n = 128
     ingredients[]
       name = Bone Glue
-      count n = 7
+      count n = 8
     ingredients[]
       name = Chitin Plate
-      count n = 16
+      count n = 55
 []
   name = Hornet Walker Upgrade - Mobility - Tier 3
   category = walkers/hornet/upgrades/tier3
@@ -5182,8 +5182,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 55
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -5719,16 +5719,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 72
+      count n = 64
     ingredients[]
-      name = Redwood Wood
-      count n = 80
+      name = Earth Wax
+      count n = 128
     ingredients[]
       name = Bone Glue
-      count n = 7
+      count n = 8
     ingredients[]
       name = Chitin Plate
-      count n = 16
+      count n = 55
 []
   name = Falco Walker Upgrade - Mobility - Tier 3
   category = walkers/falco/upgrades/tier3
@@ -5737,8 +5737,8 @@
       name = Ceramic Shard
       count n = 64
     ingredients[]
-      name = Reinforced Plank
-      count n = 7
+      name = Chitin Plate
+      count n = 55
     ingredients[]
       name = Earth Wax
       count n = 128
@@ -6286,16 +6286,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 113
+      count n = 100
     ingredients[]
-      name = Redwood Wood
-      count n = 125
+      name = Earth Wax
+      count n = 200
     ingredients[]
       name = Bone Glue
-      count n = 10
+      count n = 13
     ingredients[]
       name = Chitin Plate
-      count n = 25
+      count n = 100
 []
   name = Schmetterling Walker Upgrade - Mobility - Tier 3
   category = walkers/schmetterling/upgrades/tier3
@@ -6304,8 +6304,8 @@
       name = Ceramic Shard
       count n = 100
     ingredients[]
-      name = Reinforced Plank
-      count n = 10
+      name = Chitin Plate
+      count n = 100
     ingredients[]
       name = Earth Wax
       count n = 200
@@ -6778,16 +6778,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 113
+      count n = 100
     ingredients[]
-      name = Redwood Wood
-      count n = 125
+      name = Earth Wax
+      count n = 200
     ingredients[]
       name = Bone Glue
-      count n = 10
+      count n = 13
     ingredients[]
       name = Chitin Plate
-      count n = 25
+      count n = 100
 []
   name = Tusker Walker Upgrade - Mobility - Tier 3
   category = walkers/tusker/upgrades/tier3
@@ -6796,8 +6796,8 @@
       name = Ceramic Shard
       count n = 100
     ingredients[]
-      name = Reinforced Plank
-      count n = 10
+      name = Chitin Plate
+      count n = 100
     ingredients[]
       name = Earth Wax
       count n = 200
@@ -7337,16 +7337,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 113
+      count n = 100
     ingredients[]
-      name = Redwood Wood
-      count n = 125
+      name = Earth Wax
+      count n = 200
     ingredients[]
       name = Bone Glue
-      count n = 10
+      count n = 13
     ingredients[]
       name = Chitin Plate
-      count n = 25
+      count n = 100
 []
   name = Titan Walker Upgrade - Mobility - Tier 3
   category = walkers/titan/upgrades/tier3
@@ -7355,8 +7355,8 @@
       name = Ceramic Shard
       count n = 100
     ingredients[]
-      name = Reinforced Plank
-      count n = 10
+      name = Chitin Plate
+      count n = 100
     ingredients[]
       name = Earth Wax
       count n = 200
@@ -7829,16 +7829,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 113
+      count n = 100
     ingredients[]
-      name = Redwood Wood
-      count n = 125
+      name = Earth Wax
+      count n = 200
     ingredients[]
       name = Bone Glue
-      count n = 10
+      count n = 13
     ingredients[]
       name = Chitin Plate
-      count n = 25
+      count n = 100
 []
   name = Domus Walker Upgrade - Mobility - Tier 3
   category = walkers/domus/upgrades/tier3
@@ -7847,8 +7847,8 @@
       name = Ceramic Shard
       count n = 100
     ingredients[]
-      name = Reinforced Plank
-      count n = 10
+      name = Chitin Plate
+      count n = 100
     ingredients[]
       name = Earth Wax
       count n = 200
@@ -10865,16 +10865,16 @@
   crafting[]
     ingredients[]
       name = Ceramic Shard
-      count n = 113
+      count n = 100
     ingredients[]
-      name = Redwood Wood
-      count n = 125
+      name = Earth Wax
+      count n = 200
     ingredients[]
       name = Bone Glue
-      count n = 10
+      count n = 13
     ingredients[]
       name = Chitin Plate
-      count n = 25
+      count n = 100
 []
   name = Panda Walker Upgrade - Mobility - Tier 3
   category = walkers/panda/upgrades/tier3
@@ -10883,8 +10883,8 @@
       name = Ceramic Shard
       count n = 100
     ingredients[]
-      name = Reinforced Plank
-      count n = 10
+      name = Chitin Plate
+      count n = 100
     ingredients[]
       name = Earth Wax
       count n = 200
