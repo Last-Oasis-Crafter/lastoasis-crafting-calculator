@@ -4123,6 +4123,84 @@
       name = Redwood Wood
       count n = 24
 []
+  name = Buffalo Walker Upgrade - Cargo - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Buffalo Walker Upgrade - Water - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Buffalo Walker Upgrade - Gear - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Buffalo Walker Upgrade - Durability - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Buffalo Walker Upgrade - Mobility - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Plam Leaves
+      count n = 32
+[]
+  name = Buffalo Walker Upgrade - Torque - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 6
+[]
   name = Buffalo Walker Upgrade - Cargo - Tier 2
   category = walkers/buffalo/upgrades/tier2
   crafting[]
