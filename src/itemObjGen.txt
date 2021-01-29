@@ -7496,6 +7496,84 @@
       name = Redwood Wood
       count n = 72
 []
+  name = Titan Walker Upgrade - Cargo - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 50
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Titan Walker Upgrade - Water - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 63
+    ingredients[]
+      name = Hide
+      count n = 13
+[]
+  name = Titan Walker Upgrade - Gear - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 55
+    ingredients[]
+      name = Fiber
+      count n = 45
+    ingredients[]
+      name = Stone
+      count n = 20
+[]
+  name = Titan Walker Upgrade - Durability - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 38
+[]
+  name = Titan Walker Upgrade - Mobility - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 88
+    ingredients[]
+      name = Wood Shaft
+      count n = 38
+    ingredients[]
+      name = Palm Leaves
+      count n = 50
+[]
+  name = Titan Walker Upgrade - Torque - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Rope
+      count n = 8
+[]
   name = Titan Walker Upgrade - Cargo - Tier 2
   category = walkers/titan/upgrades/tier2
   crafting[]
