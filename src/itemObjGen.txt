@@ -2262,6 +2262,84 @@
       name = Rope
       count n = 10
 []
+  name = Dinghy Walker Upgrade - Cargo - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Rupu Pelt
+      count n = 5
+[]
+  name = Dinghy Walker Upgrade - Gear - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 22
+    ingredients[]
+      name = Fiber
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Durability - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Stone
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Wood Shaft
+      count n = 15
+    ingredients[]
+      name = Palm Leaves
+      count n = 20
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 32
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 3
+[]
   name = Dinghy Walker Upgrade - Cargo - Tier 2
   category = walkers/dinghy/upgrades/tier2
   crafting[]
@@ -4123,6 +4201,84 @@
       name = Redwood Wood
       count n = 24
 []
+  name = Buffalo Walker Upgrade - Cargo - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Buffalo Walker Upgrade - Water - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Buffalo Walker Upgrade - Gear - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Buffalo Walker Upgrade - Durability - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Buffalo Walker Upgrade - Mobility - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Plam Leaves
+      count n = 32
+[]
+  name = Buffalo Walker Upgrade - Torque - Tier 1
+  category = walkers/buffalo/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 6
+[]
   name = Buffalo Walker Upgrade - Cargo - Tier 2
   category = walkers/buffalo/upgrades/tier2
   crafting[]
@@ -4602,6 +4758,84 @@
     ingredients[]
       name = Iron Ore
       count n = 32
+[]
+  name = Toboggan Walker Upgrade - Cargo - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Toboggan Walker Upgrade - Water - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Toboggan Walker Upgrade - Gear - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Toboggan Walker Upgrade - Durability - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Toboggan Walker Upgrade - Mobility - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Palm Leaves
+      count n = 32
+[]
+  name = Toboggan Walker Upgrade - Torque - Tier 1
+  category = walkers/toboggan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 5
 []
   name = Toboggan Walker Upgrade - Cargo - Tier 2
   category = walkers/toboggan/upgrades/tier2
@@ -5089,6 +5323,84 @@
       name = Iron Ore
       count n = 34
 []
+  name = Hornet Walker Upgrade - Cargo - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Hornet Walker Upgrade - Water - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Hornet Walker Upgrade - Gear - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 36
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
+  name = Hornet Walker Upgrade - Durability - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 64
+    ingredients[]
+      name = Stone
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
+[]
+  name = Hornet Walker Upgrade - Mobility - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 56
+    ingredients[]
+      name = Wood Shaft
+      count n = 24
+    ingredients[]
+      name = Palm Leaves
+      count n = 32
+[]
+  name = Hornet Walker Upgrade - Torque - Tier 1
+  category = walkers/hornet/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 52
+    ingredients[]
+      name = Wood Shaft
+      count n = 13
+    ingredients[]
+      name = Rope
+      count n = 7
+[]
   name = Hornet Walker Upgrade - Cargo - Tier 2
   category = walkers/hornet/upgrades/tier2
   crafting[]
@@ -5566,6 +5878,19 @@
       name = Iron Ore
       count n = 50
 []
+  name = Falco Walker Upgrade - Cargo - Tier 1
+  category = walkers/falco/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 32
+    ingredients[]
+      name = Stone
+      count n = 16
+[]
   name = Falco Walker Upgrade - Water - Tier 1
   category = walkers/falco/upgrades/tier1
   crafting[]
@@ -5592,18 +5917,18 @@
       name = Stone
       count n = 16
 []
-  name = Falco Walker Upgrade - Cargo - Tier 1
+  name = Falco Walker Upgrade - Durability - Tier 1
   category = walkers/falco/upgrades/tier1
   crafting[]
     ingredients[]
       name = Wood
-      count n = 48
-    ingredients[]
-      name = Fiber
-      count n = 32
+      count n = 64
     ingredients[]
       name = Stone
-      count n = 16
+      count n = 64
+    ingredients[]
+      name = Rupu Pelt
+      count n = 24
 []
   name = Falco Walker Upgrade - Mobility - Tier 1
   category = walkers/falco/upgrades/tier1
@@ -5617,19 +5942,6 @@
     ingredients[]
       name = Palm Leaves
       count n = 32
-[]
-  name = Falco Walker Upgrade - Durability - Tier 1
-  category = walkers/falco/upgrades/tier1
-  crafting[]
-    ingredients[]
-      name = Wood
-      count n = 64
-    ingredients[]
-      name = Stone
-      count n = 64
-    ingredients[]
-      name = Rupu Pelt
-      count n = 24
 []
   name = Falco Walker Upgrade - Torque - Tier 1
   category = walkers/falco/upgrades/tier1
@@ -6703,6 +7015,84 @@
       name = Redwood Wood
       count n = 40
 []
+  name = Tusker Walker Upgrade - Cargo - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 50
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Tusker Walker Upgrade - Water - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 63
+    ingredients[]
+      name = Hide
+      count n = 13
+[]
+  name = Tusker Walker Upgrade - Gear - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 55
+    ingredients[]
+      name = Fiber
+      count n = 45
+    ingredients[]
+      name = Stone
+      count n = 20
+[]
+  name = Tusker Walker Upgrade - Durability - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 38
+[]
+  name = Tusker Walker Upgrade - Mobility - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 88
+    ingredients[]
+      name = Wood Shaft
+      count n = 38
+    ingredients[]
+      name = Palm Leaves
+      count n = 50
+[]
+  name = Tusker Walker Upgrade - Torque - Tier 1
+  category = walkers/tusker/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Rope
+      count n = 12
+[]
   name = Tusker Walker Upgrade - Cargo - Tier 2
   category = walkers/tusker/upgrades/tier2
   crafting[]
@@ -7261,6 +7651,84 @@
     ingredients[]
       name = Redwood Wood
       count n = 72
+[]
+  name = Titan Walker Upgrade - Cargo - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 50
+    ingredients[]
+      name = Stone
+      count n = 25
+[]
+  name = Titan Walker Upgrade - Water - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 75
+    ingredients[]
+      name = Fiber
+      count n = 63
+    ingredients[]
+      name = Hide
+      count n = 13
+[]
+  name = Titan Walker Upgrade - Gear - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 55
+    ingredients[]
+      name = Fiber
+      count n = 45
+    ingredients[]
+      name = Stone
+      count n = 20
+[]
+  name = Titan Walker Upgrade - Durability - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 100
+    ingredients[]
+      name = Stone
+      count n = 100
+    ingredients[]
+      name = Rupu Pelt
+      count n = 38
+[]
+  name = Titan Walker Upgrade - Mobility - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 88
+    ingredients[]
+      name = Wood Shaft
+      count n = 38
+    ingredients[]
+      name = Palm Leaves
+      count n = 50
+[]
+  name = Titan Walker Upgrade - Torque - Tier 1
+  category = walkers/titan/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 80
+    ingredients[]
+      name = Wood Shaft
+      count n = 20
+    ingredients[]
+      name = Rope
+      count n = 8
 []
   name = Titan Walker Upgrade - Cargo - Tier 2
   category = walkers/titan/upgrades/tier2
@@ -10272,6 +10740,19 @@
     ingredients[]
       name = Obsidian
       count n = 5
+[]
+  name = Cobra Walker Upgrade - Water - Tier 1
+  category = walkers/cobra/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 48
+    ingredients[]
+      name = Fiber
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
 []
   name = Cobra Walker Upgrade - Cargo - Tier 2
   category = walkers/cobra/upgrades/tier2
