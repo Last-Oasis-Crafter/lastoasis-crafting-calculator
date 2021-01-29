@@ -2262,6 +2262,84 @@
       name = Rope
       count n = 10
 []
+  name = Dinghy Walker Upgrade - Cargo - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 20
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Water - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 30
+    ingredients[]
+      name = Fiber
+      count n = 25
+    ingredients[]
+      name = Rupu Pelt
+      count n = 5
+[]
+  name = Dinghy Walker Upgrade - Gear - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 22
+    ingredients[]
+      name = Fiber
+      count n = 18
+    ingredients[]
+      name = Stone
+      count n = 10
+[]
+  name = Dinghy Walker Upgrade - Durability - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 40
+    ingredients[]
+      name = Stone
+      count n = 40
+    ingredients[]
+      name = Hide
+      count n = 8
+[]
+  name = Dinghy Walker Upgrade - Mobility - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 35
+    ingredients[]
+      name = Wood Shaft
+      count n = 15
+    ingredients[]
+      name = Palm Leaves
+      count n = 20
+[]
+  name = Dinghy Walker Upgrade - Torque - Tier 1
+  category = walkers/dinghy/upgrades/tier1
+  crafting[]
+    ingredients[]
+      name = Wood
+      count n = 32
+    ingredients[]
+      name = Wood Shaft
+      count n = 8
+    ingredients[]
+      name = Rope
+      count n = 3
+[]
   name = Dinghy Walker Upgrade - Cargo - Tier 2
   category = walkers/dinghy/upgrades/tier2
   crafting[]
