@@ -9747,13 +9747,13 @@
   crafting[]
     ingredients[]
       name = Iron Ingot
-      count n = 50
+      count n = 20
     ingredients[]
-      name = Wood
-      count n = 300
+      name = Redwood Wood
+      count n = 70
     ingredients[]
-      name = Chitin Plate
-      count n = 500
+      name = Bone Glue
+      count n = 8
     ingredients[]
       name = Reinforced Plank
       count n = 1
