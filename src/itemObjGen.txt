@@ -8831,14 +8831,14 @@
   category = items/ammo/ammunition/projectiles/slingshot
   crafting[]
     ingredients[]
-      name = Stone
-      count n = 30
+      name = Clay
+      count n = 12
     ingredients[]
       name = Earth Wax
-      count n = 5
+      count n = 18
     ingredients[]
       name = Sulfur
-      count n = 5
+      count n = 30
     station = Camp Fire
 []
   name = Dart
@@ -9695,6 +9695,45 @@
     ingredients[]
       name = Rupu Vine
       count n = 20
+[]
+  name = Giant Wall
+  category = buildings/construction/wall
+  crafting[]
+    ingredients[]
+      name = Bent Wooden Planks
+      count n = 9
+    ingredients[]
+      name = Stone
+      count n = 50
+    ingredients[]
+      name = Wood Shaft
+      count n = 12
+[]
+  name = Giant Wall Gate
+  category = buildings/construction/wall
+  crafting[]
+    ingredients[]
+      name = Bent Wooden Planks
+      count n = 50
+    ingredients[]
+      name = Obsidian
+      count n = 30
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+[]
+  name = Giant Wall Packer
+  category = buildings/construction/wall
+  crafting[]
+    ingredients[]
+      name = Redwood Wood
+      count n = 85
+    ingredients[]
+      name = Reinforced Plank
+      count n = 10
+    ingredients[]
+      name = Rope
+      count n = 55
 []
   name = Barrier Plank
   category = buildings/construction/barrier

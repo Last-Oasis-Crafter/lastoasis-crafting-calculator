@@ -1794,6 +1794,72 @@
     ]
   },
   {
+    "name": "Giant Wall",
+    "category": "buildings/construction/wall",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bent Wooden Planks",
+            "count": 9
+          },
+          {
+            "name": "Stone",
+            "count": 50
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giant Wall Gate",
+    "category": "buildings/construction/wall",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Bent Wooden Planks",
+            "count": 50
+          },
+          {
+            "name": "Obsidian",
+            "count": 30
+          },
+          {
+            "name": "Wood Shaft",
+            "count": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giant Wall Packer",
+    "category": "buildings/construction/wall",
+    "crafting": [
+      {
+        "ingredients": [
+          {
+            "name": "Redwood Wood",
+            "count": 85
+          },
+          {
+            "name": "Reinforced Plank",
+            "count": 10
+          },
+          {
+            "name": "Rope",
+            "count": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ballista",
     "category": "buildings/construction/weapons/ranged",
     "crafting": [
@@ -3484,16 +3550,16 @@
       {
         "ingredients": [
           {
-            "name": "Stone",
-            "count": 30
+            "name": "Clay",
+            "count": 12
           },
           {
             "name": "Earth Wax",
-            "count": 5
+            "count": 18
           },
           {
             "name": "Sulfur",
-            "count": 5
+            "count": 30
           }
         ],
         "station": "Camp Fire"
