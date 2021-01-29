@@ -8831,14 +8831,14 @@
   category = items/ammo/ammunition/projectiles/slingshot
   crafting[]
     ingredients[]
-      name = Stone
-      count n = 30
+      name = Clay
+      count n = 12
     ingredients[]
       name = Earth Wax
-      count n = 5
+      count n = 18
     ingredients[]
       name = Sulfur
-      count n = 5
+      count n = 30
     station = Camp Fire
 []
   name = Dart
