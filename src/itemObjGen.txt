@@ -9674,26 +9674,26 @@
   category = buildings/construction/barrier
   crafting[]
     ingredients[]
-      name = Wood
-      count n = 50
+      name = Redwood Wood
+      count n = 250
     ingredients[]
       name = Stone
-      count n = 20
+      count n = 100
     ingredients[]
-      name = Rupu Vine
-      count n = 3
+      name = Rope
+      count n = 20
 []
   name = Barrier Gate
   category = buildings/construction/barrier
   crafting[]
     ingredients[]
-      name = Wood
+      name = Redwood Wood
       count n = 250
     ingredients[]
       name = Stone
-      count n = 50
+      count n = 100
     ingredients[]
-      name = Rupu Vine
+      name = Rope
       count n = 20
 []
   name = Giant Wall
@@ -9739,14 +9739,14 @@
   category = buildings/construction/barrier
   crafting[]
     ingredients[]
-      name = Wood
-      count n = 80
+      name = Redwood Wood
+      count n = 250
     ingredients[]
       name = Stone
-      count n = 25
+      count n = 100
     ingredients[]
-      name = Rupu Vine
-      count n = 3
+      name = Rope
+      count n = 20
 []
   name = Light Wood Stairs
   category = buildings/construction/light wood
