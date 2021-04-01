@@ -35,22 +35,23 @@ export default function CraftingRequirements({items}) {
   }, [copyOpen])
 
   return (
-    <Segment basic>
+    <Segment basic id="requirements">
       <List>
+        <Header>
         <Popup
           content='Copied!'
-          size='small'
+          size='tiny'
           inverted
           open={copyOpen}
           trigger={<Icon
             name='copy'
             onClick={(e) => setCopyOpen(true)}
             style={{
-              float: 'left',
+              fontSize: '16px',
               cursor: 'pointer'
             }} />}
-        />
-        <Header>Crafting will require:</Header>
+        />Crafting will require:
+        </Header>
         <div ref={listDiv}>
         {Object.keys(materials).map(key => (
           <List.Item className='recipe' key={key}>
