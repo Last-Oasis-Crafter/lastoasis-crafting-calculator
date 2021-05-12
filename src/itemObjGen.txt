@@ -12362,3 +12362,312 @@
     ingredients[]
       name = Redwood Wood
       count n = 120
+[]
+  name = Raptor Sky Walker Body
+  category = walkers/raptor
+  crafting[]
+    ingredients[]
+      name = Lightwood
+      count n = 260
+    ingredients[]
+      name = Rupu Vine
+      count n = 100
+    ingredients[]
+      name = Rope
+      count n = 142
+    ingredients[]
+      name = Fiber
+      count n = 710
+    ingredients[]
+      name = Earth Wax
+      count n = 80
+    ingredients[]
+      name = Fiber Weave
+      count n = 100
+    ingredients[]
+      name = Wood
+      count n = 200
+    ingredients[]
+      name = Stone
+      count n = 240
+[]
+  name = Raptor Sky Walker Legs (1/2)
+  category = walkers/raptor/parts/legs
+  crafting[]
+    ingredients[]
+      name = Lightwood
+      count n = 35
+    ingredients[]
+      name = Fiber
+      count n = 70
+    ingredients[]
+      name = Rope
+      count n = 10
+[]
+  name = Raptor Sky Walker Wings
+  category = walkers/raptor/parts/wings
+  crafting[]
+    ingredients[]
+      name = Lightwood
+      count n = 30
+    ingredients[]
+      name = Fiber Weave
+      count n = 40
+    ingredients[]
+      name = Earth Wax
+      count n = 25
+[]
+  name = Raptor Sky Walker Upgrade - Water - Tier 2
+  category = walkers/raptor/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Rupu Vine
+      count n = 24
+    ingredients[]
+      name = Lightwood
+      count n = 30
+[]
+  name = Raptor Sky Walker Upgrade - Gear - Tier 2
+  category = walkers/raptor/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Rupu Vine
+      count n = 24
+    ingredients[]
+      name = Lightwood
+      count n = 30
+[]
+  name = Raptor Sky Walker Upgrade - Cargo - Tier 2
+  category = walkers/raptor/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Rupu Vine
+      count n = 24
+    ingredients[]
+      name = Lightwood
+      count n = 30
+[]
+  name = Raptor Sky Walker Upgrade - Durability - Tier 2
+  category = walkers/raptor/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Lightwood
+      count n = 30
+    ingredients[]
+      name = Rupu Pelt
+      count n = 40
+    ingredients[]
+      name = Chitin Plate
+      count n = 5
+[]
+  name = Raptor Sky Walker Upgrade - Torque - Tier 2
+  category = walkers/raptor/upgrades/tier2
+  crafting[]
+    ingredients[]
+      name = Bone Splinter
+      count n = 24
+    ingredients[]
+      name = Fiber
+      count n = 160
+    ingredients[]
+      name = Lightwood
+      count n = 30
+    ingredients[]
+      name = Rope
+      count n = 20
+[]
+  name = Raptor Sky Walker Upgrade - Water - Tier 3
+  category = walkers/raptor/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Lightwood
+      count n = 60
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+[]
+  name = Raptor Sky Walker Upgrade - Gear - Tier 3
+  category = walkers/raptor/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Lightwood
+      count n = 60
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+[]
+  name = Raptor Sky Walker Upgrade - Cargo - Tier 3
+  category = walkers/raptor/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+    ingredients[]
+      name = Wood Shaft
+      count n = 45
+    ingredients[]
+      name = Lightwood
+      count n = 60
+[]
+  name = Raptor Sky Walker Upgrade - Durability - Tier 3
+  category = walkers/raptor/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 64
+    ingredients[]
+      name = Lightwood
+      count n = 60
+    ingredients[]
+      name = Earth Wax
+      count n = 128
+    ingredients[]
+      name = Chitin Plate
+      count n = 35
+[]
+  name = Raptor Sky Walker Upgrade - Torque - Tier 3
+  category = walkers/raptor/upgrades/tier3
+  crafting[]
+    ingredients[]
+      name = Ceramic Shard
+      count n = 40
+    ingredients[]
+      name = Lightwood
+      count n = 60
+    ingredients[]
+      name = Worm Sand
+      count n = 85
+    ingredients[]
+      name = Nomad Cloth
+      count n = 20
+[]
+  name = Raptor Sky Walker Upgrade - Water - Tier 4
+  category = walkers/raptor/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+    ingredients[]
+      name = Lightwood
+      count n = 100
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+[]
+  name = Raptor Sky Walker Upgrade - Gear - Tier 4
+  category = walkers/raptor/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Lightwood
+      count n = 100
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Raptor Sky Walker Upgrade - Cargo - Tier 4
+  category = walkers/raptor/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 16
+    ingredients[]
+      name = Nomad Cloth
+      count n = 45
+    ingredients[]
+      name = Bone Glue
+      count n = 20
+    ingredients[]
+      name = Lightwood
+      count n = 100
+    ingredients[]
+      name = Worm Silk
+      count n = 25
+[]
+  name = Raptor Sky Walker Upgrade - Durability - Tier 4
+  category = walkers/raptor/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 40
+    ingredients[]
+      name = Ceramic Shard
+      count n = 180
+    ingredients[]
+      name = Chitin Plate
+      count n = 50
+    ingredients[]
+      name = Lightwood
+      count n = 100
+    ingredients[]
+      name = Obsidian
+      count n = 10
+[]
+  name = Raptor Sky Walker Upgrade - Torque - Tier 4
+  category = walkers/raptor/upgrades/tier4
+  crafting[]
+    ingredients[]
+      name = Iron Ingot
+      count n = 2
+    ingredients[]
+      name = Chitin Plate
+      count n = 58
+    ingredients[]
+      name = Reinforced Plank
+      count n = 15
+    ingredients[]
+      name = Ceramic Shard
+      count n = 80
+    ingredients[]
+      name = Worm Sand
+      count n = 210
